@@ -11,3 +11,5 @@
 ## How to join
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MMDD}/personal_submission/${problem_code}`.
+
+- Remember to name your submission code `${problem_code}_{your_name}.{py/cpp/...}`
