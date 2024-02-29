@@ -143,6 +143,33 @@ if 1:
             print('\033[0m', end='')
 
 def main():
+    n = II()
+    degs = LII()
+    
+    # 桶排序
+    stats = [[] for _ in range(n)]
+    for i in range(n):
+        stats[degs[i]].append(i)
+    
+    cnt = 0
+    cur = 0
+    idx = -1
+    
+    res = -1
+    a = b = -1
+    for i in range(n):
+        for x in stats[i]:
+            cur += degs[x]
+            cnt += 1
+            if idx == -1:
+                idx = x
+            if cur == cnt * (cnt - 1) // 2:
+                if idx != x and degs[x] - degs[idx] > res:
+                    res = degs[x] - degs[idx]
+                    a, b = idx, x
+                idx = -1
+    
+    print('!', a + 1, b + 1)
     return 
 
 t = 1
