@@ -63,11 +63,6 @@ template <unsigned M_> struct ModInt {
 constexpr unsigned MO = 1000000007;
 using Mint = ModInt<MO>;
 
-#ifdef LOCAL
-#include "algo/debug.h"
-#else
-#define debug(...) "lengli"
-#endif
 
 const int N=100010;
 
@@ -82,6 +77,17 @@ void solve(){
     }
     sort(all(a));
     Mint res=0;
+
+    auto get=[&](int x){
+        int l=0,r=n;
+        while(l<r){
+            int mid=(l+r)/2;
+            if(a[mid]>=x) r=mid;
+            else l=mid+1;
+        }
+        return r;
+    };
+
     for(int x=1;x<=ma;x++){
         vector<int> fac;
         for(int j=1;j<=x/j;j++){
@@ -94,7 +100,7 @@ void solve(){
         Mint ans=1;
         int la=0;
         for(int i=1,j=0;i<fac.size();i++,la=j){
-            while(j<n and a[j]<fac[i]) j++;
+            j=get(fac[i]);
             Mint len=j-la;
             ans*=((Mint)i).pow(len.x);
         }
