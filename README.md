@@ -16,7 +16,7 @@
 
 ## Today's Problem
 
-| Difficulty | Problems | Hints |
-| -------- | -------- | -------- |
-| 1500 | [CF687A](https://codeforces.com/problemset/problem/687/A) | Try thinking of each edge. What necessary condition does the definition imply? Is it sufficient? |
-| 2200 | [CF1498E](https://codeforces.com/problemset/problem/1498/E) | The competition graph has its important property! Think of the out-degree of strongly connected components. |
+| Difficulty | Problems | Hints | Solution |
+| -------- | -------- | -------- | -------- |
+| 1500 | [CF584B](https://codeforces.com/problemset/problem/584/B) | Classic counting problem. Think of the opposite | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0302/solution/cf584b.md) | 
+| *2400 | [CF1936C](https://codeforces.com/problemset/problem/1936/C) | First, think of a DP approach. Why can't it pass the time limit? How to use a "intermediary" to help? | To be finished. |
