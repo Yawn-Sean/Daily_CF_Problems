@@ -75,5 +75,4 @@ func CF687A(_r io.Reader, out io.Writer) {
 	for i := len(ans2) - 1; i > -1; i-- {
 		fmt.Fprintf(out, "%d ", ans2[i])
 	}
-
 }
