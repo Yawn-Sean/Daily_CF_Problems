@@ -1,3 +1,4 @@
-| Difficulty | Problems | Hints | Date |
+| Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1512E](https://codeforces.com/problemset/problem/1512/E) | Constructive method: find the bounds and slowly adjust your answer. | 20240227 |
+| 1500 | [CF687A](https://codeforces.com/problemset/problem/687/A) | Try thinking of each edge. What necessary condition does the definition imply? Is it sufficient? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0301/solution/cf687a.md) |
+| 1600 | [CF1512E](https://codeforces.com/problemset/problem/1512/E) | Constructive method: find the bounds and slowly adjust your answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/02/0227/solution/cf1512e.md) |
