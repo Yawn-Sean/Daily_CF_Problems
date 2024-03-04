@@ -18,5 +18,5 @@
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1500 | [CF584B](https://codeforces.com/problemset/problem/584/B) | Classic counting problem. Think of the opposite. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0302/solution/cf584b.md) | 
-| *2400 | [CF1936C](https://codeforces.com/problemset/problem/1936/C) | First, think of a DP approach. Why can't it pass the time limit? How to use a "intermediary" to help? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0302/solution/cf1936c.md) |
+| 1700 | [CF1185C2](https://codeforces.com/problemset/problem/1185/C2) | Greedy approach. Maintain them in a data structure | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0304/solution/cf1185c2.md) |
+| 1900 | [CF1898D](https://codeforces.com/problemset/problem/1898/D) | Another greedy approach. Find out why the value can be bigger. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0304/solution/cf1898d.md) |
