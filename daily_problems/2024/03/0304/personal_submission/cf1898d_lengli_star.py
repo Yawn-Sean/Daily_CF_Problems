@@ -12,6 +12,7 @@ Hope there are no bugs!!!
 #define endl '\n'
 #define all(x) x.begin(),x.end()
 #define pb push_back
+#define int long long
 
 using namespace std;
 
