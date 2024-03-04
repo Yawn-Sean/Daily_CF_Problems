@@ -18,17 +18,15 @@ int main() {
         }
 
         int64 ans = 0LL;
-        pair<int64, int> mx {0, -1}, mi {INT_MAX, -1};
+        int64 mx_a = 0, mi_b = INT_MAX;
         for (int i = 0; i < n; i++) {
             if (a[i] > b[i]) swap(a[i], b[i]);
             ans += b[i] - a[i];
-            mx = max(mx, pair<int64, int>{static_cast<int64>(a[i]), i});
-            mi = min(mi, pair<int64, int>{static_cast<int64>(b[i]), i});
+            mx_a = max(mx_a, static_cast<int64>(a[i]));
+            mi_b = min(mi_b, static_cast<int64>(b[i]));
         }
 
-        auto& [mx_a, i] = mx;
-        auto& [mi_b, j] = mi;
-        if (i != j && mx_a > mi_b) ans += 2 * (mx_a - mi_b);
+        if (mx_a > mi_b) ans += 2 * (mx_a - mi_b);
 
         cout << ans << endl;
     }
