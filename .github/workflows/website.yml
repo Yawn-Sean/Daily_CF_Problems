@@ -3,7 +3,7 @@ name: "Build website"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *' # deploy every day at 1am
+    - cron: '0 12 * * *' # deploy every day at 12:00
 
 jobs:
   build-website:
