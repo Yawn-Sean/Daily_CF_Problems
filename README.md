@@ -18,5 +18,5 @@
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1083A](https://codeforces.com/problemset/problem/1083/A) | Classic way of thinking a path on the tree: fix the important point. Then consider your DP |[Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0305/solution/cf1083a.md) |
-| 2000 | [CF1190D](https://codeforces.com/problemset/problem/1190/D) | Fix one dimension first. Find the distinct "rectangles" to consider | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0305/solution/cf1190d.md) |
+| 1700 | [CF1194D](https://codeforces.com/problemset/problem/1194/D) | Game theory. If you can't move k cells to the left, what should happen? How is the question different now? | TBD |
+| 2000 | [CF621E](https://codeforces.com/contest/621/problem/E) | How does the status change after using each block? How to process them quickly? | TBD |
