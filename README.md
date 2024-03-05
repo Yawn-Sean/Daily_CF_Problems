@@ -18,5 +18,5 @@
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1083A](https://codeforces.com/problemset/problem/1083/A) | Classic way of thinking a path on the tree: fix the important point. Then consider your DP | TBD |
-| 2000 | [CF1190D](https://codeforces.com/problemset/problem/1190/D) | Fix one dimension first. Find the distinct "rectangles" to consider | TBD |
+| 1800 | [CF1083A](https://codeforces.com/problemset/problem/1083/A) | Classic way of thinking a path on the tree: fix the important point. Then consider your DP |[Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0305/solution/cf1083a.md) |
+| 2000 | [CF1190D](https://codeforces.com/problemset/problem/1190/D) | Fix one dimension first. Find the distinct "rectangles" to consider | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0305/solution/cf1190d.md) |
