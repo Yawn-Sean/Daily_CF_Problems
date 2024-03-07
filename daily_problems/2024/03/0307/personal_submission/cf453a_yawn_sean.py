@@ -142,47 +142,12 @@ if 1:
             print(*args, **kwargs)
             print('\033[0m', end='')
 
-pre_process = [None] * 11
-for b in range(2, 11):
-    length = 1
-    cur = 1
-    while cur <= 10 ** 18:
-        length += 1
-        cur *= b
-    
-    length -= 1
-    pre_process[b] = [[0] * (1 << b) for _ in range(length)]
-    for i in range(b):
-        pre_process[b][0][1 << i] = 1
-    
-    for i in range(length - 1):
-        for msk in range(1 << b):
-            for new_bit in range(b):
-                pre_process[b][i + 1][msk ^ (1 << new_bit)] += pre_process[b][i][msk]
-    
-    for i in range(1, length):
-        for msk in range(1 << b):
-            pre_process[b][i][msk] -= pre_process[b][i - 1][msk ^ 1]
-
 def main():
-    b, l, r = MII()
-    
-    def f(x):
-        vals = []
-        while x:
-            vals.append(x % b)
-            x //= b
-        vals.reverse()
-        k = len(vals)
-        
-        ans = 0
-        for i in range(k - 1):
-            ans += pre_process[b][i][0]
-        return 0
-    
-    print(f(r + 1) - f(l))
+    n, m = MII()
+    print(sum(i * ((i / n) ** m - ((i - 1) / n) ** m) for i in range(1, n + 1)))
+    # print(n - sum((i / n) ** m for i in range(n)))
     return
 
-t = II()
+t = 1
 for _ in range(t):
     main()
