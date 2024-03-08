@@ -1,0 +1,3 @@
+| Difficulty | Problems | Hints | Solution |
+| -------- | -------- | -------- | -------- |
+| 1700 | [CF1185D](https://codeforces.com/problemset/problem/1185/D) | Brain teaser actually. If it is hard to find what's not in the arithmatic progression, is it easier to find what's in it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0308/solution/cf1185d.md) |

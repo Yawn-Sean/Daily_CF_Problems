@@ -18,5 +18,5 @@
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF453A](https://codeforces.com/problemset/problem/453/A) | Expectation problem: either find out the distribution or find the contribution of each component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0307/solution/cf453a.md) |
-| 2200 | [CF855E](https://codeforces.com/problemset/problem/855/E) | Classic digit DP. What information should you store to fasten the solution. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0307/solution/cf855e.md) |
+| 1700 | [CF1185D](https://codeforces.com/problemset/problem/1185/D) | Brain teaser actually. If it is hard to find what's not in the arithmatic progression, is it easier to find what's in it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0308/solution/cf1185d.md) |
+| 2100 | [CF895D](https://codeforces.com/problemset/problem/895/D) | Seems like a digit DP problem but it isn't actually. String comparison (of equal length) is all about the first different charactor. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0308/solution/cf895d.md) |
