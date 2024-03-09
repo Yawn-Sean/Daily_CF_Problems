@@ -142,100 +142,38 @@ if 1:
             print(*args, **kwargs)
             print('\033[0m', end='')
 
-class Factorial:
-    def __init__(self, N, mod) -> None:
-        N += 1
-        self.mod = mod
-        self.f = [1 for _ in range(N)]
-        self.g = [1 for _ in range(N)]
-        for i in range(1, N):
-            self.f[i] = self.f[i - 1] * i % self.mod
-        self.g[-1] = pow(self.f[-1], mod - 2, mod)
-        for i in range(N - 2, -1, -1):
-            self.g[i] = self.g[i + 1] * (i + 1) % self.mod
-
-    def fac(self, n):
-        return self.f[n]
-
-    def fac_inv(self, n):
-        return self.g[n]
-
-    def combi(self, n, m):
-        if n < m or m < 0 or n < 0: return 0
-        return self.f[n] * self.g[m] % self.mod * self.g[n - m] % self.mod
-
-    def permu(self, n, m):
-        if n < m or m < 0 or n < 0: return 0
-        return self.f[n] * self.g[n - m] % self.mod
-
-    def catalan(self, n):
-        return (self.combi(2 * n, n) - self.combi(2 * n, n - 1)) % self.mod
-
-    def inv(self, n):
-        return self.f[n-1] * self.g[n] % self.mod
-
-mod = 10 ** 9 + 7
-fact = Factorial(10 ** 6, mod)
-
-class FenwickTree:
-    def __init__(self, nums):
-        self.bit = nums[:]
-        self.n = len(nums)
-        for i in range(self.n):
-            if i | (i + 1) < self.n:
-                self.bit[i | (i + 1)] += self.bit[i]
-
-    def sum(self, r):
-        res = 0
-        while r >= 0:
-            res += self.bit[r]
-            r = (r & (r + 1)) - 1
-        return res
-
-    def rsum(self, l, r):
-        return self.sum(r) - self.sum(l - 1)
-
-    def add(self, idx, delta):
-        while idx < self.n:
-            self.bit[idx] += delta
-            idx = idx | (idx + 1)
-
 def main():
-    s1 = [ord(c) - ord('a') for c in I()]
-    s2 = [ord(c) - ord('a') for c in I()]
-    n = len(s1)
+    n = II()
+    nums = [[], []]
+    for _ in range(n):
+        a, b = MII()
+        nums[0].append(a)
+        nums[1].append(b)
     
-    cnt = [0] * 26
-    for c in s1:
-        cnt[c] += 1
+    if n == 1:
+        print(nums[0][0])
+        return
     
-    orig = fact.fac(n)
-    for c in cnt:
-        orig *= fact.fac_inv(c)
-        orig %= mod
+    def check(val):
+        if val == 1: return
+        for j in range(2, n):
+            for idx in range(2):
+                if nums[idx][j] % val == 0:
+                    break
+            else: return 
+        exit(print(val))
     
-    def f(s):
-        fen = FenwickTree(cnt)
-        cur = orig
-        
-        ans = 0
-        for i in range(n):
-            cur *= fact.inv(n - i)
-            cur %= mod
-            
-            ans += cur * fen.sum(s[i] - 1)
-            ans %= mod
-            
-            v = fen.rsum(s[i], s[i])
-            if v == 0: break
-            
-            cur *= v
-            cur %= mod
-            fen.add(s[i], -1)
-        
-        return ans
-    
-    print((f(s2) - f(s1) - 1) % mod)
+    for i in range(2):
+        for j in range(2):
+            v = math.gcd(nums[i][0], nums[j][1])
+            for x in count(2):
+                if x * x > v: break
+                if v % x == 0:
+                    while v % x == 0:
+                        v //= x
+                    check(x)
+            if v > 1: check(v)
+    print(-1)
     return
 
 t = 1

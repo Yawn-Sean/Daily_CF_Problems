@@ -18,5 +18,5 @@
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1185D](https://codeforces.com/problemset/problem/1185/D) | Brain teaser actually. If it is hard to find what's not in the arithmatic progression, is it easier to find what's in it? | TBD |
-| 2100 | [CF895D](https://codeforces.com/problemset/problem/895/D) | Seems like a digit DP problem but it isn't actually. String comparison (of equal length) is all about the first different charactor. | TBD |
+| 1600 | [CF1025B](https://codeforces.com/problemset/problem/1025/B) | Hmm... At least one element of the pair. Then, which one? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0309/solution/cf1025b.md) |
+| 2200 | [CF1231E](https://codeforces.com/problemset/problem/1231/E) | Focus on those un-moved characters. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0309/solution/cf1231e.md) |
