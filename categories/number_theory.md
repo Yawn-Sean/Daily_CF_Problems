@@ -1,6 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1025B](https://codeforces.com/problemset/problem/1025/B) | Hmm... At least one element of the pair. Then, which one? | TBD |
+| 1600 | [CF1025B](https://codeforces.com/problemset/problem/1025/B) | Hmm... At least one element of the pair. Then, which one? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0309/solution/cf1025b.md) |
 | 1700 | [CF1260C](https://codeforces.com/problemset/problem/1260/C) | Classic number theory problem. Find where the constraints are the most binding, what does it imply? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/02/0228/solution/cf1260c.md) |
 | 1700 | [CF1512G](https://codeforces.com/problemset/problem/1512/G) | Note that the query numbers are not large. What does it imply? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/02/0229/solution/cf1512g.md) |
 | 2000 | [CF621E](https://codeforces.com/problemset/problem/621/E) | How does the status change after using each block? How to process them quickly? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0306/solution/cf621e.md) |
