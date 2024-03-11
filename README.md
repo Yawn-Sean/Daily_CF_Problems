@@ -12,7 +12,11 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code `${problem_code}_{your_name}.{py/cpp/...}`
+- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+
+## Statistics
+
+Here are the current statistics of submissions: [Link](https://yawn-sean.github.io/Daily_CF_Problems/#).
 
 ## Today's Problem
 
