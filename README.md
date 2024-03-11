@@ -14,6 +14,10 @@
 
 - Remember to name your submission code `${problem_code}_{your_name}.{py/cpp/...}`
 
+## Statistics
+
+Here are the current statistics of submissions: [Link](https://yawn-sean.github.io/Daily_CF_Problems/#).
+
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
