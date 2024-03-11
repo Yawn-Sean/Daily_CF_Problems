@@ -18,5 +18,5 @@
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF780B](https://codeforces.com/problemset/problem/780/B) | Classic problem. How can you check whether they can gather or not? | TBD |
-| 2100 | [CF576B](https://codeforces.com/problemset/problem/576/B) | Construct a graph using the permutation. For the final tree, construct an edge first, what edges should it produce? Summarize and find the necessary conditions. | TBD |
+| 1600 | [CF780B](https://codeforces.com/problemset/problem/780/B) | Classic problem. How can you check whether they can gather or not? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0311/solution/cf780b.md) |
+| 2100 | [CF576B](https://codeforces.com/problemset/problem/576/B) | Construct a graph using the permutation. For the final tree, construct an edge first, what edges should it produce? Summarize and find the necessary conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0311/solution/cf576b.md) |
