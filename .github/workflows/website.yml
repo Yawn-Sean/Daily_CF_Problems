@@ -23,9 +23,9 @@ jobs:
           then
             git fetch origin gh-pages:gh-pages
             git checkout gh-pages
-            if [[ -d records.js ]]
+            if [[ -f records.js ]]
             then
-              cp -r records.js /tmp/records.js.old
+              cp records.js /tmp/records.js.old
             fi
           fi
 
