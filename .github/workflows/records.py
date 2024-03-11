@@ -8,6 +8,7 @@ project_root = sys.argv[3]
 
 dc = {}
 if os.path.exists(input_file):
+    print('Found existing input file ' + input_file)
     with open(input_file, 'r') as f:
         for line in f.readlines():
             line = line.strip()
@@ -15,12 +16,15 @@ if os.path.exists(input_file):
                 continue
             k, v = line.split(':')
             dc[k] = v
+else:
+    print('Cannot find existing input file ' + input_file)
 
 current_date = date(2024, 2, 25)
 if 'current_date' in dc.keys():
     dt = datetime.strptime(dc['current_date'], '%Y-%m-%d')
     current_date = date(dt.year, dt.month, dt.day)
     if current_date < date(2024, 3, 8):
+        print('Full re-calculate by intention')
         current_date = date(2024, 2, 25)
         dc = {}
 latest_date = current_date
