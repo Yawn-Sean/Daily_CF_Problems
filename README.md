@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1098A](https://codeforces.com/problemset/problem/1098/A) | Greedy constructive problem. | TBD |
-| 2100 | [CF226D](https://codeforces.com/problemset/problem/226/D) | If the conditions are met, what will flipping cause? What if the opposite happens? | TBD |
+| 1600 | [CF1098A](https://codeforces.com/problemset/problem/1098/A) | Greedy constructive problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0312/solution/cf1098a.md) |
+| 2100 | [CF226D](https://codeforces.com/problemset/problem/226/D) | If the conditions are met, what will flipping cause? What if the opposite happens? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0312/solution/cf226d.md) |
