@@ -2,5 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | 1500 | [CF687A](https://codeforces.com/problemset/problem/687/A) | Try thinking of each edge. What necessary condition does the definition imply? Is it sufficient? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0301/solution/cf687a.md) |
 | 1600 | [CF1512E](https://codeforces.com/problemset/problem/1512/E) | Constructive method: find the bounds and slowly adjust your answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/02/0227/solution/cf1512e.md) |
+| 1600 | [CF1098A](https://codeforces.com/problemset/problem/1098/A) | Greedy constructive problem. | TBD |
 | 2100 | [CF576B](https://codeforces.com/problemset/problem/576/B) | Construct a graph using the permutation. For the final tree, construct an edge first, what edges should it produce? Summarize and find the necessary conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0311/solution/cf576b.md) |
+| 2100 | [CF226D](https://codeforces.com/problemset/problem/226/D) | If the conditions are met, what will flipping cause? What if the opposite happens? | TBD |
 | 2200 | [CF1231E](https://codeforces.com/problemset/problem/1231/E) | Focus on those un-moved characters. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0309/solution/cf1231e.md) |
