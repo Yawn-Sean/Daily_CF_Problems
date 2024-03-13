@@ -2,3 +2,4 @@
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF780B](https://codeforces.com/problemset/problem/780/B) | Classic problem. How can you check whether they can gather or not? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0311/solution/cf780b.md) |
 | 2100 | [CF1039B](https://codeforces.com/problemset/problem/1039/B) | It seems like a binary search problem. Why it fails? And what can you do to make up with so many queries? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/02/0227/solution/cf1039b.md) |
+| 2100 | [CF166B](https://codeforces.com/problemset/problem/166/B) | How to decide a point is inside a convex hull? What about many points? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0313/solution/cf166b.md) |
