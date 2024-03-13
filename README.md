@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1098A](https://codeforces.com/problemset/problem/1098/A) | Greedy constructive problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0312/solution/cf1098a.md) |
-| 2100 | [CF226D](https://codeforces.com/problemset/problem/226/D) | If the conditions are met, what will flipping cause? What if the opposite happens? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0312/solution/cf226d.md) |
+| 1700 | [CF827A](https://codeforces.com/problemset/problem/827/A) | Fill up the strings. Avoid filling up the same blank twice. | TBD |
+| 2100 | [CF166B](https://codeforces.com/problemset/problem/166/B) | How to decide a point is inside a convex hull? What about many points? | TBD |
