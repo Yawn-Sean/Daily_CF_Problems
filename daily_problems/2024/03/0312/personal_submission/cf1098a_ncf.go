@@ -7,7 +7,10 @@ import (
 	"math"
 	"os"
 )
+<<<<<<< HEAD
 
+=======
+>>>>>>> b5a20e5efb005e42c81fb6b1ac7c48fbcd351daa
 func main() { CF1098A(os.Stdin, os.Stdout) }
 
 func CF1098A(_r io.Reader, out io.Writer) {
@@ -24,7 +27,10 @@ func CF1098A(_r io.Reader, out io.Writer) {
 	for i := 0; i < n; i++ {
 		fmt.Fscan(in, &s[i])
 	}
+<<<<<<< HEAD
 
+=======
+>>>>>>> b5a20e5efb005e42c81fb6b1ac7c48fbcd351daa
 	ans := 0
 	flag := false
 	var dfs func(cur, faVal int)
