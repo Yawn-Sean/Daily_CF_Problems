@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF827A](https://codeforces.com/problemset/problem/827/A) | Fill up the strings. Avoid filling up the same blank twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0313/solution/cf827a.md) |
-| 2100 | [CF166B](https://codeforces.com/problemset/problem/166/B) | How to decide a point is inside a convex hull? What about many points? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0313/solution/cf166b.md) |
+| 1600 | [CF788A](https://codeforces.com/problemset/problem/788/A) | $a[i]-a[i+1]$ doesn't really matter. How can you use DP to solve a segment-sum-maximum problem? This is similar. | TBD |
+| 2100 | [CF1599H](https://codeforces.com/problemset/problem/1599/H) | Use queries to rule out the wrong points. Note that the border should contain a point in the target. | TBD |

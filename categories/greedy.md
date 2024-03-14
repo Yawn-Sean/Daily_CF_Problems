@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| 1600 | [CF788A](https://codeforces.com/problemset/problem/788/A) | $a[i]-a[i+1]$ doesn't really matter. How can you use DP to solve a segment-sum-maximum problem? This is similar. | TBD |
 | 1700 | [CF1185C2](https://codeforces.com/problemset/problem/1185/C2) | Greedy approach. Maintain them in a data structure | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0304/solution/cf1185c2.md) |
 | 1700 | [CF827A](https://codeforces.com/problemset/problem/827/A) | Fill up the strings. Avoid filling up the same blank twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0313/solution/cf827a.md) |
 | 1800 | [CF1083A](https://codeforces.com/problemset/problem/1083/A) | Classic way of thinking a path on the tree: fix the important point. Then consider your DP |[Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0305/solution/cf1083a.md) | 
