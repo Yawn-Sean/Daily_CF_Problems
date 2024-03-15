@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF788A](https://codeforces.com/problemset/problem/788/A) | $a[i]-a[i+1]$ doesn't really matter. How can you use DP to solve a segment-sum-maximum problem? This is similar. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0314/solution/cf788a.md) |
-| 2100 | [CF1599H](https://codeforces.com/problemset/problem/1599/H) | Use queries to rule out the wrong points. Note that the border should contain a point in the target. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0314/solution/cf1599h.md) |
+| 1800 | [CF1076E](https://codeforces.com/problemset/problem/1076/E) | Notice that you only have to answer the question after all updates. How can you maintain the changes during traversal? (Bonus: Answer the queries of points' values while updating.) | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0315/solution/cf1076e.md) |
+| 1900 | [CF660D](https://codeforces.com/problemset/problem/660/D) | How can you check if a quadrilateral is a parallelogram? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0315/solution/cf660d.md) |
