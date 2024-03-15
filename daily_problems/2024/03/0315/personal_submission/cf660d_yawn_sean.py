@@ -142,3 +142,21 @@ if 1:
             print(*args, **kwargs)
             print('\033[0m', end='')
 
+n = II()
+xs = []
+ys = []
+for _ in range(n):
+    x, y = MII()
+    xs.append(x)
+    ys.append(y)
+
+rnd = random.getrandbits(32)
+cnt = Counter()
+ans = 0
+for i in range(n):
+    x1, y1 = xs[i], ys[i]
+    for j in range(i):
+        x2, y2 = xs[j], ys[j]
+        ans += cnt[(x1 + x2) * rnd + y1 + y2]
+        cnt[(x1 + x2) * rnd + y1 + y2] += 1
+print(ans)
