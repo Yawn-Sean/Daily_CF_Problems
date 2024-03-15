@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF827A](https://codeforces.com/problemset/problem/827/A) | Fill up the strings. Avoid filling up the same blank twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0313/solution/cf827a.md) |
-| 2100 | [CF166B](https://codeforces.com/problemset/problem/166/B) | How to decide a point is inside a convex hull? What about many points? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0313/solution/cf166b.md) |
+| 1900 | [CF1076E](https://codeforces.com/problemset/problem/1076/E) | Notice that you only have to answer the question after all updates. How can you maintain the changes during traversal? (Bonus: Answer the queries of points' values while updating.) | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0315/solution/cf1076e.md) |
+| 1900 | [CF660D](https://codeforces.com/problemset/problem/660/D) | How can you check if a quadrilateral is a parallelogram? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0315/solution/cf660d.md) |
