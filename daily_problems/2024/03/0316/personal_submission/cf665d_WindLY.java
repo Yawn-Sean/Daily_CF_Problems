@@ -6,25 +6,24 @@ public class cf665d_WindLY {
     public static void main(String[] args) throws IOException {
         int n = ni();
         int[] a = na();
+
+        // 筛素数
         int MAX = (int) 1e6 * 2;
-//        List<Integer> primes = new ArrayList<>();
         boolean[] isPrime = new boolean[MAX + 1];
+        int idx = 0;
         Arrays.fill(isPrime, 2, MAX + 1, true);
-//        for (int i = 2; i < MAX + 1; i++) { // 欧拉筛
-//            if (isPrime[i]) primes.add(i);
-//            for (int j: primes) {
-//                if (i * j > MAX) break;
-//                isPrime[i * j] = false;
-//                if (i % j == 0) break;
-//            }
-//        }
-        for (int i = 2; i < MAX + 1; i++) { // 埃氏筛 小范围更快？
-            if (!isPrime[i]) continue;
-            if ((long) i * i > MAX) continue;
-            for (int j = i * i; j < MAX + 1; j += i) {
-                isPrime[j] = false;
+
+        int[] primes = new int[MAX + 1]; // 用数组存素数
+        for (int i = 2; i < MAX + 1; i++) { // 欧拉筛 数组版
+            if (isPrime[i]) primes[idx++] = i;
+            for (int k = 0; k < idx; k++) {
+                int j = primes[k];
+                if (i * j > MAX) break;
+                isPrime[i * j] = false;
+                if (i % j == 0) break;
             }
         }
+
         List<Integer> ans = new ArrayList<>();
         int cnt = 0;
         for (int v: a) {
