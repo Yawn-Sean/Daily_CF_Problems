@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF665D](https://codeforces.com/problemset/problem/665/D) | If the subset contains more than 3 numbers, something strange happens. | TBD |
-| 1800 | [CF263D](https://codeforces.com/problemset/problem/263/D) | What are the typical ways of finding cycles in a graph? Which one is appropriate? Prove it! | TBD |
+| 1800 | [CF665D](https://codeforces.com/problemset/problem/665/D) | If the subset contains more than 3 numbers, something strange happens. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0316/solution/cf665d.md) |
+| 1800 | [CF263D](https://codeforces.com/problemset/problem/263/D) | What are the typical ways of finding cycles in a graph? Which one is appropriate? Prove it! | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0316/solution/cf263d.md) |
