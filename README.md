@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF863D](https://codeforces.com/problemset/problem/863/D) | The constraints are strange, especially: $1\leq m\leq 100$ . | TBD |
-| 1800 | [CF263D](https://codeforces.com/problemset/problem/772/B) | To check if the polygon is convex, you just need to check the consecutive 3 points. How to make them non-convex? | TBD |
+| 1800 | [CF863D](https://codeforces.com/problemset/problem/863/D) | The constraints are strange, especially: $1\leq m\leq 100$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0318/solution/cf863d.md) |
+| 1800 | [CF772B](https://codeforces.com/problemset/problem/772/B) | To check if the polygon is convex, you just need to check the consecutive 3 points. How to make them non-convex? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0318/solution/cf772b.md) |
