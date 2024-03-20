@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF773A](https://codeforces.com/problemset/problem/773/A) | Math problem. Consider what happens between now and the end. Don't forget the border case. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0319/solution/cf773a.md) |
-| 1900 | [CF1878F](https://codeforces.com/problemset/problem/1878/F) | How can you calculate $d(n)$ ? How can you check if one integer divides another? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0319/solution/cf1878f.md) |
+| 1600 | [CF375A](https://codeforces.com/problemset/problem/375/A) | Note the strange constraint: its decimal representation quite luckily contains digits 1, 6, 8, 9. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0320/solution/cf375a.md) |
+| 2000 | [CF571B](https://codeforces.com/problemset/problem/571/B) | Group the elements, and minimize the sum inside. Design the final DP and control the complexity. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0320/solution/cf571b.md) |
