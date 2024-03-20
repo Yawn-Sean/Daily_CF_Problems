@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF375A](https://codeforces.com/problemset/problem/375/A) | Note the strange constraint: its decimal representation quite luckily contains digits 1, 6, 8, 9. | TBD |
-| 2000 | [CF571B](https://codeforces.com/problemset/problem/571/B) | Group the elements, and minimize the sum inside. Design the final DP and control the complexity. | TBD |
+| 1600 | [CF375A](https://codeforces.com/problemset/problem/375/A) | Note the strange constraint: its decimal representation quite luckily contains digits 1, 6, 8, 9. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0320/solution/cf375a.md) |
+| 2000 | [CF571B](https://codeforces.com/problemset/problem/571/B) | Group the elements, and minimize the sum inside. Design the final DP and control the complexity. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0320/solution/cf571b.md) |
