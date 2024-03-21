@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| 1500 | [CF566F](https://codeforces.com/problemset/problem/566/F) | Find out what happens inside a clique, and try using DP to capture it. | TBD |
 | 1600 | [CF1025B](https://codeforces.com/problemset/problem/1025/B) | Hmm... At least one element of the pair. Then, which one? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0309/solution/cf1025b.md) |
 | 1600 | [CF375A](https://codeforces.com/problemset/problem/375/A) | Note the strange constraint: its decimal representation quite luckily contains digits 1, 6, 8, 9. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0320/solution/cf375a.md) |
 | 1700 | [CF1260C](https://codeforces.com/problemset/problem/1260/C) | Classic number theory problem. Find where the constraints are the most binding. What does it imply? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/02/0228/solution/cf1260c.md) |
