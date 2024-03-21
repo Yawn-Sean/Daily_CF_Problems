@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF375A](https://codeforces.com/problemset/problem/375/A) | Note the strange constraint: its decimal representation quite luckily contains digits 1, 6, 8, 9. | TBD |
-| 2000 | [CF571B](https://codeforces.com/problemset/problem/571/B) | Group the elements, and minimize the sum inside. Design the final DP and control the complexity. | TBD |
+| 1600 | [CF913C](https://codeforces.com/problemset/problem/913/C) | Backpack problems with $2^i$ volume: greedy approach. Note that you can buy more than what you want. | TBD |
+| 2100 | [CF571B](https://codeforces.com/problemset/problem/491/B) | Find out how to calculate the value of $\max dist$. Decomposite the caculation. | TBD |
