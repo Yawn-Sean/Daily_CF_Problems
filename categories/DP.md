@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| 1500 | [CF566F](https://codeforces.com/problemset/problem/566/F) | Find out what happens inside a clique, and try using DP to capture it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0322/solution/cf566f.md) |
 | 1600 | [CF788A](https://codeforces.com/problemset/problem/788/A) | $a[i]-a[i+1]$ doesn't really matter. How can you use DP to solve a segment-sum-maximum problem? This is similar. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0314/solution/cf788a.md) |
 | 1800 | [CF1083A](https://codeforces.com/problemset/problem/1083/A) | Classic way of thinking a path on the tree: fix the important point. Then consider your DP |[Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0305/solution/cf1083a.md) | 
 | 2000 | [CF621E](https://codeforces.com/problemset/problem/621/E) | How does the status change after using each block? How to process them quickly? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0306/solution/cf621e.md) |
