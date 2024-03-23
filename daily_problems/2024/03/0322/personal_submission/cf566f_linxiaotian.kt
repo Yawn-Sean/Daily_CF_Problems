@@ -794,7 +794,7 @@ private fun cliqueGraph(nums: List<Int>): Int {
     return dp.toList().findMax()
 }
 
-// WA
+// TLE
 // private fun cliqueGraph(nums: List<Int>): Int {
 //     val n = nums.size
 //     val max = nums.findMax()
