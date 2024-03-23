@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1500 | [CF566F](https://codeforces.com/problemset/problem/566/F) | Find out what happens inside a clique, and try using DP to capture it. | TBD |
-| 2200 | [CF1153E](https://codeforces.com/problemset/problem/1153/E) | We only care about the head and the tail, so how can we tell if they are in the rectangle chosen or not? | TBD |
+| 1500 | [CF908C](https://codeforces.com/problemset/problem/908/C) | How can you determine the positional relationship between two circles? | TBD |
+| 2400 | [CF1526E](https://codeforces.com/problemset/problem/1526/E) | The suffix array offers a lot of "inequalities". Check those constraints | TBD |
