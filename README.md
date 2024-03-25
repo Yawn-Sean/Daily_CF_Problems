@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1500 | [CF908C](https://codeforces.com/problemset/problem/908/C) | How can you determine the positional relationship between two circles? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0323/solution/cf908c.md) |
-| 2400 | [CF1526E](https://codeforces.com/problemset/problem/1526/E) | The suffix array offers a lot of "inequalities". Check those constraints | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0323/solution/cf1526e.md) |
+| 1800 | [CF986B](https://codeforces.com/problemset/problem/986/B) | How does a swap change the property of an array? What is the difference between $3n$ and $7n+1$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0325/solution/cf986b.md) |
+| 1800 | [CF963A](https://codeforces.com/problemset/problem/963/A) | Group the elements to calculate the sum. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0325/solution/cf963a.md) |
