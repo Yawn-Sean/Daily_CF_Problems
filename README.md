@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF986B](https://codeforces.com/problemset/problem/986/B) | How does a swap change the property of an array? What is the difference between $3n$ and $7n+1$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0325/solution/cf986b.md) |
-| 1800 | [CF963A](https://codeforces.com/problemset/problem/963/A) | Group the elements to calculate the sum. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0325/solution/cf963a.md) |
+| 1700 | [CF1413D](https://codeforces.com/problemset/problem/1413/D) | Classic data structure problem. Each `- x` offers a constraint. Note that you don't have to process the events online and you can order the items. | TBD |
+| 1900 | [CF1012B](https://codeforces.com/problemset/problem/1012/B) | Try some random matrix. What can you discover? | TBD |
