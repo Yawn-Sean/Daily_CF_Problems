@@ -6,7 +6,8 @@ private fun shurikens(lines: Array<String>): List<Int> {
     for (line in lines) {
         if (line[0] == '+') {
             posStack.add(pos++)
-        } else {
+        }
+        else {
             val price = line.split(" ")[1].toInt()
             if (posStack.isEmpty()) {
                 return emptyList()
