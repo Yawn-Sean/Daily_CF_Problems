@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | 1700 | [CF1185C2](https://codeforces.com/problemset/problem/1185/C2) | Greedy approach. Maintain them in a data structure | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0304/solution/cf1185c2.md) |
 | 1700 | [CF827A](https://codeforces.com/problemset/problem/827/A) | Fill up the strings. Avoid filling up the same blank twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0313/solution/cf827a.md) |
+| 1700 | [CF1413D](https://codeforces.com/problemset/problem/1413/D) | Classic data structure problem. Each `- x` offers a constraint. | TBD |
 | 1800 | [CF863D](https://codeforces.com/problemset/problem/863/D) | The constraints are strange, especially: $1\leq m\leq 100$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0318/solution/cf863d.md) |
 | 1900 | [CF1076E](https://codeforces.com/problemset/problem/1076/E) | Notice that you only have to answer the question after all updates. How can you maintain the changes during traversal? (Bonus: Answer the queries of points' values while updating.) | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0315/solution/cf1076e.md) |
 | 2000 | [CF1190D](https://codeforces.com/problemset/problem/1190/D) | Fix one dimension first. Find the distinct "rectangles" to consider | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0305/solution/cf1190d.md) |
