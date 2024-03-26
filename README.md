@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1500 | [CF908C](https://codeforces.com/problemset/problem/908/C) | How can you determine the positional relationship between two circles? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0323/solution/cf908c.md) |
-| 2400 | [CF1526E](https://codeforces.com/problemset/problem/1526/E) | The suffix array offers a lot of "inequalities". Check those constraints | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0323/solution/cf1526e.md) |
+| 1700 | [CF1413D](https://codeforces.com/problemset/problem/1413/D) | Classic data structure problem. Each `- x` offers a constraint. Note that you don't have to process the events online and you can order the items. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0326/solution/cf1413d.md) |
+| 1900 | [CF1012B](https://codeforces.com/problemset/problem/1012/B) | Try some random matrix. What can you discover? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0326/solution/cf1012b.md) |
