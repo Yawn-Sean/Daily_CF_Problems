@@ -1,6 +1,5 @@
 n, u = map(int, input().split())
 e = list(map(int, input().split()))
-
 ans = -1
 k = 2
 for i in range(n-2):
