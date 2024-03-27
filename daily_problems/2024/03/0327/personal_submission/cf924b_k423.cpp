@@ -1,3 +1,5 @@
+// https://codeforces.com/contest/924/submission/253429109
+
 using ld = long double;
 
 /* 我永远喜欢爱莉希雅♪ */
