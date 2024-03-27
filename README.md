@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF986B](https://codeforces.com/problemset/problem/986/B) | How does a swap change the property of an array? What is the difference between $3n$ and $7n+1$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0325/solution/cf986b.md) |
-| 1800 | [CF963A](https://codeforces.com/problemset/problem/963/A) | Group the elements to calculate the sum. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0325/solution/cf963a.md) |
+| 1600 | [CF924B](https://codeforces.com/problemset/problem/924/B) | Three variables but one can be deleted using greedy. So the problem can be solved with two-pointers | TBD |
+| 2000 | [CF1142B](https://codeforces.com/problemset/problem/1142/B) | Observe the pattern of a shift. You can consider it as two parts. | TBD |
