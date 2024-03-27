@@ -1,3 +1,5 @@
+// https://codeforces.com/contest/1142/submission/253428612
+
 /* 我永远喜欢爱莉希雅♪ */
 void elysia() {
     int n, m, q;
