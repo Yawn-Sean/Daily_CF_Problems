@@ -7,6 +7,7 @@ def main():
 
     l, r = 0, 0
     ans = -1
+    
     while l < n:
         while r < n and nums[r] - nums[l] <= u:
             r += 1
