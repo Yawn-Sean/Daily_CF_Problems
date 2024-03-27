@@ -2,7 +2,6 @@ import heapq
 import sys
 
 input = sys.stdin.readline
-
 n = int(input())
 a = [0] * n
 b = []
