@@ -3,7 +3,6 @@
  * 诸天神佛，佑我上分！
  **/
 #include <bits/stdc++.h>
-
 using namespace std;
 
 #define itr(it) begin(it), end(it)
