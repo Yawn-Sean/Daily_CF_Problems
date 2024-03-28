@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1413D](https://codeforces.com/problemset/problem/1413/D) | Classic data structure problem. Each `- x` offers a constraint. Note that you don't have to process the events online and you can order the items. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0326/solution/cf1413d.md) |
-| 1900 | [CF1012B](https://codeforces.com/problemset/problem/1012/B) | Try some random matrix. What can you discover? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0326/solution/cf1012b.md) |
+| 1500 | [CF891A](https://codeforces.com/problemset/problem/891/A) | You need the first $1$ , and then you can make all the others $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0328/solution/cf891a.md) |
+| 2100 | [CF1163D](https://codeforces.com/problemset/problem/1163/D) | DP-problem. Think about the status. You don't need the time complexity to be that low. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0328/solution/cf1163d.md) |
