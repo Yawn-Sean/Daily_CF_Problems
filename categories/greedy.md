@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| 1500 | [CF891A](https://codeforces.com/problemset/problem/891/A) | You need the first $1$ , and then you can make all the others $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0328/solution/cf891a.md) |
 | 1600 | [CF788A](https://codeforces.com/problemset/problem/788/A) | $a[i]-a[i+1]$ doesn't really matter. How can you use DP to solve a segment-sum-maximum problem? This is similar. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0314/solution/cf788a.md) |
 | 1600 | [CF913C](https://codeforces.com/problemset/problem/913/C) | Backpack problems with $2^i$ volume: greedy approach. Note that you can buy more than what you want. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0321/solution/cf913c.md) |
 | 1700 | [CF1185C2](https://codeforces.com/problemset/problem/1185/C2) | Greedy approach. Maintain them in a data structure | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0304/solution/cf1185c2.md) |
