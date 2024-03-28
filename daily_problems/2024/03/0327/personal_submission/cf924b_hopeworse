@@ -1,0 +1,18 @@
+void solve() {
+    int n;
+    double u;
+    cin >> n >> u;
+    vector<double> arr(n + 1);
+    for (int i = 1; i <= n; i++)cin >> arr[i];
+    double maxs = -1;
+    int l = 1, r = 1;
+    for (; l <= n; l++) {
+        while (r <= n && arr[r] - arr[l] <= u) r++;
+        if (r - l > 2) {
+            double ek = arr[r - 1], ei = arr[l], ej = arr[l + 1];
+            // assert(l+1!=r);
+            maxs = max(maxs, (ek - ej) / (ek - ei));
+        }
+    }
+    printf("%.15lf", maxs);
+}
