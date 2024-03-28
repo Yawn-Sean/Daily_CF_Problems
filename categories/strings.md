@@ -1,3 +1,4 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| 2100 | [CF1163D](https://codeforces.com/problemset/problem/1163/D) | DP-problem. Think about the status. You don't need the time complexity to be that low. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0328/solution/cf1163d.md) |
 | 2400 | [CF1526E](https://codeforces.com/problemset/problem/1526/E) | The suffix array offers a lot of "inequalities". Check those constraints | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0323/solution/cf1526e.md) |
