@@ -5,14 +5,13 @@ def main():
     if 1 in nums:
         print(n - nums.count(1))
         return
-
-    ans = n
+    ans = inf
     for i in range(n):
-        g = nums[i]
+        res = nums[i]
         for j in range(i, n):
-            g = math.gcd(g, nums[j])
-            if g == 1:
+            res = math.gcd(res, nums[j])
+            if res == 1:
                 ans = min(ans, j - i)
-                break
-
-    print(ans + n - 1 if ans < n else -1)
+    ans = ans + n - 1 if ans != inf else -1
+    print(ans)
+    return
