@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1500 | [CF891A](https://codeforces.com/problemset/problem/891/A) | You need the first $1$ , and then you can make all the others $1$ . | TBD |
-| 2100 | [CF1163D](https://codeforces.com/problemset/problem/1163/D) | DP-problem. Think about the status. You don't need the time complexity to be that low. | TBD |
+| 1600 | [CF1045I](https://codeforces.com/problemset/problem/1045/I) | Check the conditions of "constructing" a palindrome. Find a way to store the information. | TBD |
+| 2200 | [CF743E](https://codeforces.com/problemset/problem/743/E) | We have a limited number of different numbers, so use it in your DP. | TBD |
