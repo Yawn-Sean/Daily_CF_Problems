@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1045I](https://codeforces.com/problemset/problem/1027/D) | Turn the array into a graph. | TBD |
-| 2400 | [CF744C](https://codeforces.com/problemset/problem/744/C) | Notice that the token spent can't vary too much. | TBD |
+| 1700 | [CF1045I](https://codeforces.com/problemset/problem/1027/D) | Turn the array into a graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0330/solution/cf1045i.md) |
+| 2400 | [CF744C](https://codeforces.com/problemset/problem/744/C) | Notice that the token spent can't vary too much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0330/solution/cf744c.md) |
