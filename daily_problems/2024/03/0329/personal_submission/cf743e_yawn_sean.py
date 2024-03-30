@@ -42,7 +42,6 @@ def main():
                     
                     if msk == 255:
                         ans = max(ans, cnt * 8 + cur_cnt)
-        
         process()
 
     print(ans)

@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1500 | [CF687A](https://codeforces.com/problemset/problem/687/A) | Try thinking of each edge. What necessary condition does the definition imply? Is it sufficient? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0301/solution/cf687a.md) |
+| 1700 | [CF1045I](https://codeforces.com/problemset/problem/1027/D) | Turn the array into a graph. | TBD |
 | 1800 | [CF263D](https://codeforces.com/problemset/problem/263/D) | What are the typical ways of finding cycles in a graph? Which one is appropriate? Prove it! | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0316/solution/cf263d.md) |
 | 1800 | [CF863D](https://codeforces.com/problemset/problem/863/D) | The constraints are strange, especially: $1\leq m\leq 100$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0318/solution/cf863d.md) |
 | 1900 | [CF1012B](https://codeforces.com/problemset/problem/1012/B) | Try some random matrix. What can you discover? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0326/solution/cf1012b.md) |

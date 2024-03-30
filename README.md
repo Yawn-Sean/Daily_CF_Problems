@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1045I](https://codeforces.com/problemset/problem/1045/I) | Check the conditions of "constructing" a palindrome. Find a way to store the information. | TBD |
-| 2200 | [CF743E](https://codeforces.com/problemset/problem/743/E) | We have a limited number of different numbers, so use it in your DP. | TBD |
+| 1700 | [CF1045I](https://codeforces.com/problemset/problem/1027/D) | Turn the array into a graph. | TBD |
+| 2400 | [CF744C](https://codeforces.com/problemset/problem/744/C) | Notice that the token spent can't vary too much. | TBD |
