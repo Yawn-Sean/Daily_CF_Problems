@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1045I](https://codeforces.com/problemset/problem/1027/D) | Turn the array into a graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0330/solution/cf1045i.md) |
-| 2400 | [CF744C](https://codeforces.com/problemset/problem/744/C) | Notice that the token spent can't vary too much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0330/solution/cf744c.md) |
+| 1800 | [CF1016D](https://codeforces.com/problemset/problem/1016/D) | Brain teaser. Two ways of thinking: What is the necessary condition? / How can you try to satisfy more conditions when you already have a partly-right result? | TBD |
+| 1900 | [CF1220D](https://codeforces.com/problemset/problem/1220/D) | Just consider the case where $n=2$. Can you discover anything? Is it sufficent for larger $n$? | TBD |
