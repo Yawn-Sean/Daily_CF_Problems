@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1016D](https://codeforces.com/problemset/problem/1016/D) | Brain teaser. Two ways of thinking: What is the necessary condition? / How can you try to satisfy more conditions when you already have a partly-right result? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0401/solution/cf1016d.md) |
-| 1900 | [CF1220D](https://codeforces.com/problemset/problem/1220/D) | Just consider the case where $n=2$. Can you discover anything? Is it sufficent for larger $n$? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0401/solution/cf1220d.md) |
+| 1800 | [CF1148D](https://codeforces.com/problemset/problem/1148/D) | If you want to satisfy the first condition, what should you want in a chosen pair? Group the pairs by this and try a greedy approach to construct the final answer | TBD |
+| 1900 | [CF739B](https://codeforces.com/problemset/problem/739/B) | The controlling points clearly form a segment in the tree. You just need to find the endpoint. | TBD |
