@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF457A](https://codeforces.com/problemset/problem/457/A) | You should not use float numbers for this problem. How can you compare the two numbers using only integers? Minusing can help. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0403/solution/cf457a.md) |
-| 2000 | [CF870D](https://codeforces.com/problemset/problem/870/D) | Another brain teaser. Why do you only need $2n$ queries while the answer can't be fully determined? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0403/solution/cf870d.md) |
+| 1700 | [CF1468F](https://codeforces.com/problemset/problem/1468/F) | Think about the time when two persons make eye contact. Roll the time backwards. | TBD |
+| 2000 | [CF852B](https://codeforces.com/problemset/problem/852/B) | The middle layers are pretty similar. Try solve them first. | TBD |
