@@ -2,3 +2,4 @@
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF1025B](https://codeforces.com/problemset/problem/1025/B) | Hmm... At least one element of the pair. Then, which one? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0309/solution/cf1025b.md) |
 | 1700 | [CF1185D](https://codeforces.com/problemset/problem/1185/D) | Brain teaser actually. If it is hard to find what's not in the arithmatic progression, is it easier to find what's in it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0308/solution/cf1185d.md) |
+| 2000 | [CF870D](https://codeforces.com/problemset/problem/870/D) | Another brain teaser. Why do you only need $2n$ queries while the answer can't be fully determined? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0403/solution/cf870d.md) |

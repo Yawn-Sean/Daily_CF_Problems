@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1148D](https://codeforces.com/problemset/problem/1148/D) | If you want to satisfy the first condition, what should you want in a chosen pair? Group the pairs by this and try a greedy approach to construct the final answer | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0402/solution/cf1148d.md) |
-| 1900 | [CF739B](https://codeforces.com/problemset/problem/739/B) | The controlling points clearly form a segment in the tree. You just need to find the endpoint. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0402/solution/cf739b.md) |
+| 1700 | [CF457A](https://codeforces.com/problemset/problem/457/A) | You should not use float numbers for this problem. How can you compare the two numbers using only integers? Minusing can help. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0403/solution/cf457a.md) |
+| 2000 | [CF870D](https://codeforces.com/problemset/problem/870/D) | Another brain teaser. Why do you only need $2n$ queries while the answer can't be fully determined? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0403/solution/cf870d.md) |
