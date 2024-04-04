@@ -8,8 +8,8 @@ int main() {
 
     string s, t;
     cin >> s >> t;
-    s += "00";
-    t += "00";
+    s += "0000";
+    t += "0000";
 
     int n = s.length(), m = t.length();
 
