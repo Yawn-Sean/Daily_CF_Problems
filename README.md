@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1468F](https://codeforces.com/problemset/problem/1468/F) | Think about the time when two persons make eye contact. Roll the time backwards. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0404/solution/cf1468f.md) |
-| 2000 | [CF852B](https://codeforces.com/problemset/problem/852/B) | The middle layers are pretty similar. Try solve them first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0404/solution/cf852b.md) |
+| 1600 | [CF1468F](https://codeforces.com/problemset/problem/444/A) | Maximization: if you adjust your answer slightly, it is no way that the answer gets better. | TBD |
+| 2100 | [CF1158C](https://codeforces.com/problemset/problem/1158/C) | Fill in the blanks in a greedy order. | TBD |
