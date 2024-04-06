@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1468F](https://codeforces.com/problemset/problem/444/A) | Maximization: if you adjust your answer slightly, it is no way that the answer gets better. | TBD |
-| 2100 | [CF1158C](https://codeforces.com/problemset/problem/1158/C) | Fill in the blanks in a greedy order. | TBD |
+| 1600 | [CF822C](https://codeforces.com/problemset/problem/822/C) | Figure out a way to describe two non-intersecting segments. Minimize the value then. | TBD |
+| 2200 | [CF946E](https://codeforces.com/problemset/problem/946/E) | Easy greedy problem. Notice that you can use any digit after the first different character. | TBD |
