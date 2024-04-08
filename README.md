@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF822C](https://codeforces.com/problemset/problem/822/C) | Figure out a way to describe two non-intersecting segments. Minimize the value then. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0406/solution/cf822c.md) |
-| 2200 | [CF946E](https://codeforces.com/problemset/problem/946/E) | Easy greedy problem. Notice that you can use any digit after the first different character. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0406/solution/cf946e.md) |
+| 1800 | [CF492D](https://codeforces.com/problemset/problem/492/D) | Instead of finding the answer directly, you can try finding out when the last hit was made and then check which character made it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0408/solution/cf492d.md) |
+| 1900 | [CF226B](https://codeforces.com/problemset/problem/226/B) | Try solving the problem when each pile has only $1$ stone. What can you discover? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0408/solution/cf226b.md) |
