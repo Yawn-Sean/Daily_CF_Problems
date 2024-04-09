@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF492D](https://codeforces.com/problemset/problem/492/D) | Instead of finding the answer directly, you can try finding out when the last hit was made and then check which character made it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0408/solution/cf492d.md) |
-| 1900 | [CF226B](https://codeforces.com/problemset/problem/226/B) | Try solving the problem when each pile has only $1$ stone. What can you discover? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0408/solution/cf226b.md) |
+| 1800 | [CF301A](https://codeforces.com/problemset/problem/301/A) | What can you do with $2$ operations? | TBD |
+| 1900 | [CF613B](https://codeforces.com/problemset/problem/613/B) | When considering a function with $2$ variables, fix one first. | TBD |
