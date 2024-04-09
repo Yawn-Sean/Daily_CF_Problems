@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF301A](https://codeforces.com/problemset/problem/301/A) | What can you do with $2$ operations? | TBD |
-| 1900 | [CF613B](https://codeforces.com/problemset/problem/613/B) | When considering a function with $2$ variables, fix one first. | TBD |
+| 1800 | [CF301A](https://codeforces.com/problemset/problem/301/A) | What can you do with $2$ operations? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0409/solution/cf301a.md) |
+| 1900 | [CF613B](https://codeforces.com/problemset/problem/613/B) | When considering a function with $2$ variables, fix one first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0409/solution/cf613b.md) |
