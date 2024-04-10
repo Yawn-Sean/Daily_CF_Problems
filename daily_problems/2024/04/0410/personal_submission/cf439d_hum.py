@@ -28,5 +28,4 @@ for i in range(n + m):
   t1 = cnt1 * c[i][0] - (s1[i + 1] - s1[0])
   t2 = (s2[-1] - s2[i + 1]) - (m - cnt2) * c[i][0]
   res = min(res, t1 + t2)
-
 print(res)
