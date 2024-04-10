@@ -36,27 +36,25 @@ int main() {
             }
         }
 
-        int ans = 0;
-        map<int, pair<int, int>> cache;
-        for (int v = 0; v < n; v++) {
-            function<pair<int, int>(int,int)> dfs = [&] (int mask, int u) -> pair<int, int> {
-                if (mask == (1 << n) - 1) {
-                    return {INT_MAX, u};
-                }
-
-                int key = (u << 16) | mask;
-                auto it = cache.find(key);
-                if (it != cache.end()) return it->second;
-
+        int m = 1 << n;
+        vector<vector<pair<int, int>>> dp(m, vector<pair<int, int>>(n));
+        for (int i = 0; i < n; i++) {
+            dp[m - 1][i] = pair<int, int>{INT_MAX, i};
+        }
+        for (int msk = m - 2; msk > 0; msk--) {
+            for (int u = 0; u < n; u++) {
                 pair<int, int> res = {0, 0};
                 for (int i = 0; i < n; i++) {
-                    if (mask & (1 << i)) continue;
-                    auto [mn_i, target] = dfs(mask | (1 << i), i);
-                    res = max(res, {min(mn_i, mn1[i][u]), target});
+                    if (msk & (1 << i)) continue;
+                    auto [mn_i, target] = dp[msk | (1 << i)][i];
+                    res = max(res, {min(mn_i, mn1[u][i]), target});
                 }
-                return cache[key] = res;
-            };
-            auto [mn_v, target] = dfs(1 << v, v);
+                dp[msk][u] = res;
+            }
+        }
+        int ans = 0;
+        for (int v = 0; v < n; v++) {
+            auto [mn_v, target] = dp[1 << v][v];
             ans = max(ans, min(mn_v, mn2[v][target]));
         }
         cout << ans << "\n";
