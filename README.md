@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF301A](https://codeforces.com/problemset/problem/301/A) | What can you do with $2$ operations? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0409/solution/cf301a.md) |
-| 1900 | [CF613B](https://codeforces.com/problemset/problem/613/B) | When considering a function with $2$ variables, fix one first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0409/solution/cf613b.md) |
+| 1700 | [CF439D](https://codeforces.com/problemset/problem/439/D) | Greedy approach. Find the point which separates the two groups | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0410/solution/cf439d.md) |
+| 2000 | [CF1102F](https://codeforces.com/problemset/problem/1102/F) | We only need to consider the order of rows. And we only care about the consecutive rows. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0410/solution/cf1102f.md) |
