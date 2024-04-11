@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF439D](https://codeforces.com/problemset/problem/439/D) | Greedy approach. Find the point which separates the two groups | TBD |
-| 2000 | [CF1102F](https://codeforces.com/problemset/problem/1102/F) | We only need to consider the order of rows. And we only care about the consecutive rows. | TBD |
+| 1700 | [CF1592C](https://codeforces.com/problemset/problem/1592/C) | The xor-sum of every connected component is fixed. Use this fact. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0411/solution/cf1592c.md) |
+| 2000 | [CF1903E](https://codeforces.com/problemset/problem/1903/E) | We only care about the parity of the result. So the sum of the square of the Euclidean distance can be simplified. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0411/solution/cf1903e.md) |
