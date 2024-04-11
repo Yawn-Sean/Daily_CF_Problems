@@ -1,4 +1,5 @@
 int n;
+
 void solve() {
     // 先手争取先消耗和初始点奇偶不同的
     // 后手先消耗和初始点奇偶相同的
@@ -18,7 +19,7 @@ void solve() {
     vector<bool> st(n + 1, false);
     
     if (sz(a[1]) <= n / 2) {
-        cout << "Frist" << endl;
+        cout << "First" << endl;
         cout.flush();
         for (int i = 0; i < n; i ++) {
             if (i & 1) {
