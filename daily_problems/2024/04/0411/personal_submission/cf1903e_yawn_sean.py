@@ -15,7 +15,7 @@ def main():
         if (sum(MII()) & 1) ^ msk: v1.append(i)
         else: v0.append(i)
     
-    used = set()
+    used = [0] * (n + 1)
     
     if len(v0) >= len(v1):
         print('First')
