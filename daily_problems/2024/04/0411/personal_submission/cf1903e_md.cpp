@@ -1,9 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-using i64 = long long;
-using pii = std::pair<int, int>;
-
 void solve() {
     int n; std::cin >> n;
     int sx, sy; cin >> sx >> sy;
@@ -45,7 +42,6 @@ void solve() {
         }
     };
 
-    // cerr << size(same) << " " << size(diff) << endl;
     if (size(same) >= size(diff)) {
         cout << "First" << endl;
         print_list(diff, same, 1);
