@@ -1,3 +1,4 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1700 | [CF1194D](https://codeforces.com/problemset/problem/1194/D) | Game theory. If you can't move k cells to the left, what should happen? How is the question different now? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0306/solution/cf1194d.md) |
+| 2000 | [CF1903E](https://codeforces.com/problemset/problem/1903/E) | We only care about the parity of the result. So the sum of the square of the Euclidean distance can be simplified. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0411/solution/cf1903e.md) |
