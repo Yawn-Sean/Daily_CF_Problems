@@ -4,7 +4,6 @@ void solve() {
     cin >> n >> k;
     vector<int> a(n);
     cin >> a;
-    
     vector<vector<int>> g(n);
     for (int i = 0; i < n - 1; i ++) {
         int x, y;
