@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [C916C](https://codeforces.com/problemset/problem/916/C) | Fix the shape of the spanning tree. | TBD |
-| 2100 | [CF1903E](https://codeforces.com/problemset/problem/540/E) | Not many numbers are changed. So group the elements that are used in calculation. | TBD |
+| 1600 | [CF916C](https://codeforces.com/problemset/problem/916/C) | Fix the shape of the spanning tree. | TBD |
+| 2100 | [CF540E](https://codeforces.com/problemset/problem/540/E) | Not many numbers are changed. So group the elements that are used in calculation. | TBD |

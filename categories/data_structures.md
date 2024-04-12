@@ -9,4 +9,4 @@
 | 2000 | [CF1190D](https://codeforces.com/problemset/problem/1190/D) | Fix one dimension first. Find the distinct "rectangles" to consider | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0305/solution/cf1190d.md) |
 | 2000 | [CF1142B](https://codeforces.com/problemset/problem/1142/B) | You can use greedy approach if you fix the first value and only answer the problem once. What can you do with multiple queries and intervals? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0327/solution/cf1142b.md) |
 | 2100 | [CF1158C](https://codeforces.com/problemset/problem/1158/C) | Fill in the blanks in a greedy order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0405/solution/cf1158c.md) |
-| 2100 | [CF1903E](https://codeforces.com/problemset/problem/540/E) | Not many numbers are changed. So group the elements that are used in calculation. | TBD |
+| 2100 | [CF540E](https://codeforces.com/problemset/problem/540/E) | Not many numbers are changed. So group the elements that are used in calculation. |
