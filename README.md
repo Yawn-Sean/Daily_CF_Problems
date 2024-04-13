@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF916C](https://codeforces.com/problemset/problem/916/C) | Fix the shape of the spanning tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0412/solution/cf916c.md) |
-| 2100 | [CF540E](https://codeforces.com/problemset/problem/540/E) | Not many numbers are changed. So group the elements that are used in calculation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0412/solution/cf540e.md) |
+| 1600 | [CF830B](https://codeforces.com/problemset/problem/830/B)   | You already know the order of the cards being drawn, so you only need to consider how to caculate the "gap" between cards. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0413/solution/cf830b.md) |
+| 2100 | [CF1201D](https://codeforces.com/problemset/problem/1201/D) | Write a basic DP first. How can you optimize it? Is there any unnecessary status? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0413/solution/cf1201d.md) |
