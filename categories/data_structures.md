@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF822C](https://codeforces.com/problemset/problem/822/C) | Figure out a way to describe two non-intersecting segments. Minimize the value then. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0406/solution/cf822c.md) |
+| 1600 | [CF830B](https://codeforces.com/problemset/problem/830/B) | You already know the order of the cards being drawn, so you only need to consider how to caculate the "gap" between cards | TBD |
 | 1700 | [CF1185C2](https://codeforces.com/problemset/problem/1185/C2) | Greedy approach. Maintain them in a data structure | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0304/solution/cf1185c2.md) |
 | 1700 | [CF827A](https://codeforces.com/problemset/problem/827/A) | Fill up the strings. Avoid filling up the same blank twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0313/solution/cf827a.md) |
 | 1700 | [CF1413D](https://codeforces.com/problemset/problem/1413/D) | Classic data structure problem. Each `- x` offers a constraint. Note that you don't have to process the events online and you can order the items. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0326/solution/cf1413d.md) |
@@ -9,3 +10,5 @@
 | 2000 | [CF1190D](https://codeforces.com/problemset/problem/1190/D) | Fix one dimension first. Find the distinct "rectangles" to consider | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0305/solution/cf1190d.md) |
 | 2000 | [CF1142B](https://codeforces.com/problemset/problem/1142/B) | You can use greedy approach if you fix the first value and only answer the problem once. What can you do with multiple queries and intervals? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0327/solution/cf1142b.md) |
 | 2100 | [CF1158C](https://codeforces.com/problemset/problem/1158/C) | Fill in the blanks in a greedy order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0405/solution/cf1158c.md) |
+| 2100 | [CF540E](https://codeforces.com/problemset/problem/540/E) | Not many numbers are changed. So group the elements that are used in calculation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0412/solution/cf540e.md) |
+

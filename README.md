@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1592C](https://codeforces.com/problemset/problem/1592/C) | The xor-sum of every connected component is fixed. Use this fact. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0411/solution/cf1592c.md) |
-| 2000 | [CF1903E](https://codeforces.com/problemset/problem/1903/E) | We only care about the parity of the result. So the sum of the square of the Euclidean distance can be simplified. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0411/solution/cf1903e.md) |
+| 1600 | [CF830B](https://codeforces.com/problemset/problem/830/B) | You already know the order of the cards being drawn, so you only need to consider how to caculate the "gap" between cards | TBD |
+| 2100 | [CF540E](https://codeforces.com/problemset/problem/1201/D) | Write a basic DP first. How can you optimize it? Is there any unnecessary status? | TBD |
