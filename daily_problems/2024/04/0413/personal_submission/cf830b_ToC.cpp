@@ -37,7 +37,6 @@ void sol()
     for (int i = 1; i <= n; i++) {
         ft.add(i, 1);
     }
-
     int last_pos = 0;
     for (int i = 1; i < MAXN; i++) {
         if (!v2i[i].empty()) {
