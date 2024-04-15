@@ -9,6 +9,7 @@ import (
 
 func main() { CF933A(os.Stdin, os.Stdout) }
 
+// 未进行空间优化版本  https://codeforces.com/problemset/submission/933/256735050
 func CF933A(_r io.Reader, out io.Writer) {
 	in := bufio.NewReader(_r)
 	var n int
