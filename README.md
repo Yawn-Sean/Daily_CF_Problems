@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF933A](https://codeforces.com/problemset/problem/933/A) | The array only consists of $2$ numbers. Try to find the original structure of the subsequence before reversion | TBD |
-| 1900 | [CF1912A](https://codeforces.com/problemset/problem/1912/A) | Each used array only has some of the points to consider. | TBD |
+| 1800 | [CF933A](https://codeforces.com/problemset/problem/933/A) | The array only consists of $2$ numbers. Try to find the original structure of the subsequence before reversion | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0415/solution/cf933a.md) |
+| 1900 | [CF1912A](https://codeforces.com/problemset/problem/1912/A) | Each used array only has some of the points to consider. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0415/solution/cf1912a.md) |
