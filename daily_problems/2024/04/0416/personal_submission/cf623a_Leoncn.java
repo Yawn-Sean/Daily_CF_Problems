@@ -1,6 +1,6 @@
 package daily_problems.2024.04.0416.personal_submission;
 
-public class cf623c_Leoncn {
+public class cf623a_Leoncn {
     static RealFastReader sc = new RealFastReader(System.in);
     static PrintWriter out = new PrintWriter(System.out);
 
