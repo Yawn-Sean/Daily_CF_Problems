@@ -29,7 +29,6 @@ bool dfs(int u,int c){
 	}
 	return 0;
 }
-
 void solve(){
 	cin>>n>>m;
 	for(int i=1;i<=m;i++){
