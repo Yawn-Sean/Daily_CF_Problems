@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF1045I](https://codeforces.com/problemset/problem/1045/I) | Check the conditions of "constructing" a palindrome. Find a way to store the information. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0329/solution/cf1045i.md) |
 | 1700 | [CF1592C](https://codeforces.com/problemset/problem/1592/C) | The xor-sum of every connected component is fixed. Use this fact. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0411/solution/cf1592c.md) |
+| 1900 | [CF558C](https://codeforces.com/problemset/problem/558/C) | Consider how the binary representation of number changes. | TBD |
 | 2000 | [CF870D](https://codeforces.com/problemset/problem/870/D) | Another brain teaser. Why do you only need $2n$ queries while the answer can't be fully determined? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0403/solution/cf870d.md) |
 | 2000 | [CF1102F](https://codeforces.com/problemset/problem/1102/F) | We only need to consider the order of rows. And we only care about the consecutive rows. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0410/solution/cf1102f.md) ||
 | 2200 | [CF855E](https://codeforces.com/problemset/problem/855/E) | Classic digit DP. What information should you store to speed up the solution? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0307/solution/cf855e.md) |
