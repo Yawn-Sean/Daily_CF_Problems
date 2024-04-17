@@ -9,7 +9,6 @@ int main() {
     std::cin >> input; 
     auto len = size(input);
 
-cerr << 1 << endl;
     stack<char> operators;
     stack<int> operands;
     for (auto i = 0; i < len; ++i) {
