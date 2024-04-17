@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1578H](https://codeforces.com/problemset/problem/1578/H) | Classic stack problem. Maintain your result while parsing the expression. | TBD |
-| 2000 | [CF863E](https://codeforces.com/problemset/problem/863/E) | Try to figure out the minimum number of TV sets at the end. | TBD |
+| 1700 | [CF1578H](https://codeforces.com/problemset/problem/1578/H) | Classic stack problem. Maintain your result while parsing the expression. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0417/solution/cf1578h.md) |
+| 2000 | [CF863E](https://codeforces.com/problemset/problem/863/E) | Bonus: Try to figure out the minimum number of TV sets at the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0417/solution/cf863e.md) |
