@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF623A](https://codeforces.com/problemset/problem/623/A) | There is only one case where $s_i, s_j$ are not equal or neighboring. It is a more important aspect to consider. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0416/solution/cf558c.md) |
-| 1900 | [CF558C](https://codeforces.com/problemset/problem/558/C) | Consider how the binary representation of number changes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0416/solution/cf623a.md) |
+| 1700 | [CF1578H](https://codeforces.com/problemset/problem/1578/H) | Classic stack problem. Maintain your result while parsing the expression. | TBD |
+| 2000 | [CF863E](https://codeforces.com/problemset/problem/863/E) | Try to figure out the minimum number of TV sets at the end. | TBD |
