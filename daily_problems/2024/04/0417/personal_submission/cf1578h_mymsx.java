@@ -14,6 +14,7 @@ public class cfsubmit {
         out.close();
     }
 }
+
 class CF{
     public int maxOrder(String str) {
         StringBuilder sb = new StringBuilder(str);
