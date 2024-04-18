@@ -25,7 +25,6 @@ int main() {
         }
     }
 
-    std::cout << order.size() << '\n';
     std::cout << order.top() << '\n';
     return 0;
 }
