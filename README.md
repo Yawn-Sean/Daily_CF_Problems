@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF623A](https://codeforces.com/problemset/problem/623/A) | There is only one case where $s_i, s_j$ are not equal or neighboring. It is a more important aspect to consider. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0416/solution/cf558c.md) |
-| 1900 | [CF558C](https://codeforces.com/problemset/problem/558/C) | Consider how the binary representation of number changes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0416/solution/cf623a.md) |
+| 1700 | [CF1310A](https://codeforces.com/problemset/problem/1310/A) | Greedy approach. Left the expensive one behind. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0418/solution/cf1310a.md) |
+| 2000 | [CF1010D](https://codeforces.com/problemset/problem/1010/D) | You can find the value first, and then try to figure out which leaves change the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0418/solution/cf1010d.md) |
