@@ -1,7 +1,6 @@
 void solve() {
     string s;
     cin >> s;
- 
     auto dfs = [&](auto self, int l, int r) {
         if (l + 1 == r)return 0;
         int dep = 0;
