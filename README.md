@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1878D](https://codeforces.com/problemset/problem/1878/D) | Actually, the order of the operations doesn't matter at all. | TBD |
-| 2100 | [CF662B](https://codeforces.com/problemset/problem/662/B) | Think about the times of operations done on the ends of one edge. | TBD |
+| 1600 | [CF1878D](https://codeforces.com/problemset/problem/1878/D) | Actually, the order of the operations doesn't matter at all. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0419/solution/cf1878d.md) |
+| 2100 | [CF662B](https://codeforces.com/problemset/problem/662/B) | Think about the times of operations done on the ends of one edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0419/solution/cf662b.md) |
