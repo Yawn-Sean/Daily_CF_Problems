@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1878D](https://codeforces.com/problemset/problem/1878/D) | Actually, the order of the operations doesn't matter at all. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0419/solution/cf1878d.md) |
-| 2100 | [CF662B](https://codeforces.com/problemset/problem/662/B) | Think about the times of operations done on the ends of one edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0419/solution/cf662b.md) |
+| 1600 | [CF1031C](https://codeforces.com/problemset/problem/1031/C) | Estimate the upper bound first. Can it be reached? Fill up the time in one day first! | TBD |
+| 2200 | [CF1615D](https://codeforces.com/problemset/problem/1615/D) | How can you calculate the xor-sum of a path on the tree? Then, what kind of information does the conditions offer you? | TBD |
