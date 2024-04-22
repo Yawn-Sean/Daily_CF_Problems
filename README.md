@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF924B](https://codeforces.com/problemset/problem/924/B) | Three variables but one can be deleted using greedy. So the problem can be solved with two-pointers | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0327/solution/cf924b.md) |
-| 2000 | [CF1142B](https://codeforces.com/problemset/problem/1142/B) | You can use greedy approach if you fix the first value and only answer the problem once. What can you do with multiple queries and intervals? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0327/solution/cf1142b.md) |
+| 1800 | [CF645D](https://codeforces.com/problemset/problem/645/D) | Once the order is decided, it can not be changed. It means something. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0422/solution/cf645d.md) |
+| 1900 | [CF1200D](https://codeforces.com/problemset/problem/1200/D) | For each line, decide which area can the eraser be in to make this line clear? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0422/solution/cf1200d.md) |
