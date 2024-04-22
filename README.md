@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1031C](https://codeforces.com/problemset/problem/1031/C) | Estimate the upper bound first. Can it be reached? Fill up the time in one day first! | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0420/solution/cf1031c.md) |
-| 2200 | [CF1615D](https://codeforces.com/problemset/problem/1615/D) | How can you calculate the xor-sum of a path on the tree? Then, what kind of information does the conditions offer you? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0420/solution/cf1615d.md) |
+| 1800 | [CF645D](https://codeforces.com/problemset/problem/645/D) | Once the order is decided, it can not be changed. It means something. | TBD |
+| 1900 | [CF1200D](https://codeforces.com/problemset/problem/1200/D) | For each line, decide which area can the eraser be in to make this line clear? | TBD |
