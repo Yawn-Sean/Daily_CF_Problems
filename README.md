@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF645D](https://codeforces.com/problemset/problem/645/D) | Once the order is decided, it can not be changed. It means something. | TBD |
-| 1900 | [CF1200D](https://codeforces.com/problemset/problem/1200/D) | For each line, decide which area can the eraser be in to make this line clear? | TBD |
+| 1800 | [CF922D](https://codeforces.com/problemset/problem/922/D) | Think of the order of $2$ first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0423/solution/cf922d.md) |
+| 1900 | [CF500D](https://codeforces.com/problemset/problem/500/D) | When you think about the sum / expectation of something, you can break it into parts and calculate their contribution. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0423/solution/cf500d.md) |
