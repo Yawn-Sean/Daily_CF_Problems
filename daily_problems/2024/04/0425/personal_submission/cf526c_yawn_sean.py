@@ -1,7 +1,6 @@
 # Submission link: https://codeforces.com/contest/526/submission/258041982
 def main():
     c, hr, hb, wr, wb = MII()
-
     ans = 0
 
     for i in range(10 ** 5):
