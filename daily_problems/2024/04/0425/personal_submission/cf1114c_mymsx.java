@@ -2,6 +2,7 @@ public class cfsubmit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         PrintWriter out = new PrintWriter(new BufferedOutputStream(System.out));
+        
         long a = sc.nextLong();
         long b = sc.nextLong();
         List<long[]> list = new ArrayList<>();
