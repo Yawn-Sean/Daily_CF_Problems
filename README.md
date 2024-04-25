@@ -22,5 +22,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF765D](https://codeforces.com/problemset/problem/765/D) | The problem is about a graph. | TBD |
-| 2000 | [CF749D](https://codeforces.com/problemset/problem/749/D) | What happens before the price is settled. | TBD |
+| 1700 | [CF765D](https://codeforces.com/problemset/problem/1114/C) | The number of trailing zero digits in the $b$-ary representation means the largest $k$ such that $b^k\|x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0425/solution/cf1114c.md) |
+| 2000 | [CF526C](https://codeforces.com/problemset/problem/526/C) | Consider the expensive one. How can you replace it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0425/solution/cf526c.md) |
