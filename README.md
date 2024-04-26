@@ -14,6 +14,8 @@
 
 - Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
 
+- Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
+
 ## Statistics
 
 Here are the current statistics of submissions: [Link](https://yawn-sean.github.io/Daily_CF_Problems/#).
@@ -22,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF765D](https://codeforces.com/problemset/problem/765/D) | The problem is about a graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0424/solution/cf765d.md) |
-| 2000 | [CF749D](https://codeforces.com/problemset/problem/749/D) | What happens before the price is settled? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0424/solution/cf749d.md) |
+| 1600 | [CF1029C](https://codeforces.com/problemset/problem/1029/C) | It's always easier to consider the intersection when you add a segment instead of deleting it. | TBD |
+| 2100 | [CF1525E](https://codeforces.com/problemset/problem/1525/E) | The conditions for a unlit city is much simpler. | TBD |
