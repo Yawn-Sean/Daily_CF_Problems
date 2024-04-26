@@ -11,7 +11,7 @@ void solve() {
             if (i * h1 > c)break;
 //              sum += ((C-i*W[1])/W[2] * H[2]);
             debug(i, (c - h1 * i) / h2);
- 
+
             int sums = i * b1 + (c - h1 * i) / h2 * b2;
             ans = max(ans, sums);
         }
@@ -26,7 +26,7 @@ void solve() {
             debug(i, (c - h1 * i) / h2, sums);
             ans = max(ans, sums);
         }
- 
+
     }
     cout << ans << endl;
 }
