@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1029C](https://codeforces.com/problemset/problem/1029/C) | It's always easier to consider the intersection when you add a segment instead of deleting it. | TBD |
-| 2100 | [CF1525E](https://codeforces.com/problemset/problem/1525/E) | The conditions for a unlit city is much simpler. | TBD |
+| 1600 | [CF1029C](https://codeforces.com/problemset/problem/1029/C) | It's always easier to consider the intersection when you add a segment instead of deleting it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0426/solution/cf1029c.md) |
+| 2100 | [CF1525E](https://codeforces.com/problemset/problem/1525/E) | The conditions for a unlit city is much simpler. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0426/solution/cf1525e.md) |
