@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1114C](https://codeforces.com/problemset/problem/1114/C) | The number of trailing zero digits in the $b$-ary representation means the largest $k$ such that $b^k\|x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0425/solution/cf1114c.md) |
-| 2000 | [CF526C](https://codeforces.com/problemset/problem/526/C) | Consider the expensive one. How can you replace it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0425/solution/cf526c.md) |
+| 1600 | [CF1029C](https://codeforces.com/problemset/problem/1029/C) | It's always easier to consider the intersection when you add a segment instead of deleting it. | TBD |
+| 2100 | [CF1525E](https://codeforces.com/problemset/problem/1525/E) | The conditions for a unlit city is much simpler. | TBD |
