@@ -18,7 +18,7 @@ int main() {
         heights[i] = min(heights[i], heights[i-1] + 1);
     }
 
-    int ret = 0;
+    int ret = 1;
     for (int i = n - 2; i >= 0; --i) {
         heights[i] = min(heights[i], heights[i + 1] + 1);
         ret = max(ret, heights[i]);
