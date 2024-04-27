@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF573B](https://codeforces.com/problemset/problem/573/B) | Consider each vertical line. How can it be fully destroyed? Only a few ways. | TBD |
-| 2200 | [CF567E](https://codeforces.com/problemset/problem/567/E) | To what extent should an edge be reduced to be on the shortest path? How can you judge an edge is "definitely included in the shortest path"? | TBD |
+| 1600 | [CF573B](https://codeforces.com/problemset/problem/573/B) | Consider each vertical line. How can it be fully destroyed? Only a few ways. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0427/solution/cf573b.md) |
+| 2200 | [CF567E](https://codeforces.com/problemset/problem/567/E) | To what extent should an edge be reduced to be on the shortest path? How can you judge an edge is "definitely included in the shortest path"? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0427/solution/cf567e.md) |
