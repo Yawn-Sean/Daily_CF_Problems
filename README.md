@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF573B](https://codeforces.com/problemset/problem/573/B) | Consider each vertical line. How can it be fully destroyed? Only a few ways. | TBD |
-| 2200 | [CF567E](https://codeforces.com/problemset/problem/567/E) | To what extent should an edge be reduced to be on the shortest path? How can you judge an edge is "definitely included in the shortest path"? | TBD |
+| 1800 | [CF1267J](https://codeforces.com/problemset/problem/1267/J) | We only cares about the frequency of each number. And the answer will not exceed the minimum of it. | TBD |
+| 1900 | [CF1260D](https://codeforces.com/problemset/problem/1270/D) | You don't need $n$ elements. | TBD |
