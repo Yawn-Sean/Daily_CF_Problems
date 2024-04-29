@@ -11,7 +11,6 @@ void solve() {
 	for (auto [k, v] : mp) {
 		cnt[v] ++;
 	}
-
 	if (cnt.size() == 1) {
 		std::cout << cnt.begin()->second << '\n';
 		return;
