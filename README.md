@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1267J](https://codeforces.com/problemset/problem/1267/J) | We only cares about the frequency of each number. And the answer will not exceed the minimum of it. | TBD |
-| 1900 | [CF1260D](https://codeforces.com/problemset/problem/1270/D) | You don't need $n$ elements. | TBD |
+| 1800 | [CF1267J](https://codeforces.com/problemset/problem/1267/J) | We only cares about the frequency of each number. And the answer will not exceed the minimum of it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0429/solution/cf1267j.md) |
+| 1900 | [CF1270D](https://codeforces.com/problemset/problem/1270/D) | You don't need $n$ elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0429/solution/cf1270d.md) |
