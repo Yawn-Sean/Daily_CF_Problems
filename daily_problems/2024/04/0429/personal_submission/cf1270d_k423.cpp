@@ -3,22 +3,16 @@
 /* 我永远喜欢爱莉希雅♪ */
 int n, k;
 pair<int, int> ask(vector<int> id) {
-    idle++;
-    assert(ranges::is_sorted(id) && id.size() == k);
     cout << "?";
     for (int i: id) cout << ' ' << i + 1;
     cout << endl;
-    ranges::sort(id, [&](int i, int j) { return p[i] < p[j]; });
-    int x = id[m - 1], y = p[x];
-    cout << "ret: " << x << ' ' << y << endl;
-    return {x, y};
+    int x, y;
+    cin >> x >> y;
+    return {x - 1, y};
 }
  
 void bingo(int ans) {
-    cout << "exp: " << m << ", got: " << ans << endl;
     cout << "! " << ans << endl;
-    assert(ans == m);
-    assert(idle <= n);
 }
  
 void elysia() {
