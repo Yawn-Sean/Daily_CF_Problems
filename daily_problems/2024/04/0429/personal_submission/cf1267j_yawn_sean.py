@@ -10,8 +10,8 @@ def main():
             cnt[x] += 1
         
         tmp = [x for x in cnt if x]
-        
         res = n
+        
         for i in range(1, min(tmp) + 1):
             cnt = 0
             for v in tmp:
