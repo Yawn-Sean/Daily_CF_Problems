@@ -20,18 +20,37 @@ void solve(int _)
 {
     int n;
     cin >> n;
-    vector<int> a(n+1);
-    for (int i = 1; i <= n; i ++ ) cin >> a[i];
-    vector<int> ans(n+1);
-    ans[1] = 1; ans[n] = 1;
-    for (int i = 2; i < n; i ++ ) {
-        ans[i] = min(a[i], ans[i-1] + 1);
+    map<int,int> mp;
+    vector<int> a(n);
+    int mn = n+1;
+    for (int i = 0, x; i < n; i ++ ) {
+        cin >> x;
+        a[i] = x;
+        mp[x] ++;
     }
-    for (int i = n-1; i > 1; i -- ) {
-        ans[i] = min(ans[i], ans[i+1] + 1);
+    for (auto [x, cnt]: mp) {
+        mn = min(mn, cnt);
     }
 
-    cout << *max_element(all(ans)) << endl;
+    int ans = n;
+    for (int k = 1; k <= mn+1; k ++ ) {
+        int res = 0;
+        bool ok = true;
+        for (auto [xx, m]: mp) {
+            int x = (m - 1) / k + 1;
+            if ((k - 1) * x > m) {
+                ok = false;
+                break;
+            }
+            res += x;
+        }
+        if (ok) {
+            ans = min(ans, res);
+        }
+    }
+
+    cout << ans << endl;
+    
 } 
 
 signed main()
@@ -40,7 +59,7 @@ signed main()
     cin.tie(NULL); cout.tie(NULL);
     
     int T = 1;
-    //cin >> T;
+    cin >> T;
     for (int _ = 1; _ <= T; _ ++ ) {
         solve(_);
     }
