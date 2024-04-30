@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF747D](https://codeforces.com/problemset/problem/747/D) | Use winter tires: (i) on cold days; (ii) to reduce the number of changing. | TBD |
-| 1900 | [CF1817B](https://codeforces.com/problemset/problem/1817/B) | Find the special vertice. | TBD |
+| 1800 | [CF747D](https://codeforces.com/problemset/problem/747/D) | Use winter tires: (i) on cold days; (ii) to reduce the number of changing. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0430/solution/cf747d.md) |
+| 1900 | [CF1817B](https://codeforces.com/problemset/problem/1817/B) | Find the special vertice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0430/solution/cf1817b.md) |
