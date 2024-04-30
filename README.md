@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1267J](https://codeforces.com/problemset/problem/1267/J) | We only cares about the frequency of each number. And the answer will not exceed the minimum of it. | TBD |
-| 1900 | [CF1260D](https://codeforces.com/problemset/problem/1270/D) | You don't need $n$ elements. | TBD |
+| 1800 | [CF747D](https://codeforces.com/problemset/problem/747/D) | Use winter tires: (i) on cold days; (ii) to reduce the number of changing. | TBD |
+| 1900 | [CF1817B](https://codeforces.com/problemset/problem/1817/B) | Find the special vertice. | TBD |
