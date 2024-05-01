@@ -6,6 +6,7 @@ def main():
     stack = []
     for _ in range(q):
         t, r = GMI()
+        
         while stack and stack[-1][1] <= r:
             stack.pop()
         stack.append((t, r))
