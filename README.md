@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF631C](https://codeforces.com/problemset/problem/631/C) | Some operations are just useless. If one interval is covered by a larger interval afterwards, what will happen? | TBD |
-| 2000 | [CF386C](https://codeforces.com/problemset/problem/386/C) | Think of the strings which end at position $i$. Different starting positions cause the different diversities. | TBD |
+| 1700 | [CF631C](https://codeforces.com/problemset/problem/631/C) | Some operations are just useless. If one interval is covered by a larger interval afterwards, what will happen? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0501/solution/cf631c.md) |
+| 2000 | [CF386C](https://codeforces.com/problemset/problem/386/C) | Think of the strings which end at position $i$. Different starting positions cause the different diversities. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0501/solution/cf386c.md) |
