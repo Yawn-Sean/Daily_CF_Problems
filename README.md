@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF747D](https://codeforces.com/problemset/problem/747/D) | Use winter tires: (i) on cold days; (ii) to reduce the number of changing. | TBD |
-| 1900 | [CF1817B](https://codeforces.com/problemset/problem/1817/B) | Find the special vertice. | TBD |
+| 1700 | [CF631C](https://codeforces.com/problemset/problem/631/C) | Some operations are just useless. If one interval is covered by a larger interval afterwards, what will happen? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0501/solution/cf631c.md) |
+| 2000 | [CF386C](https://codeforces.com/problemset/problem/386/C) | Think of the strings which end at position $i$. Different starting positions cause the different diversities. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0501/solution/cf386c.md) |
