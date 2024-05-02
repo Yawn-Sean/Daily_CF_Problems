@@ -35,7 +35,7 @@ public class E {
                     sA -= g[i][0];
                 }
             }
-        }else {
+        }else if(sT<0){
             for (int i = 0; i < n; i++) {
                 if(sT - g[i][0] * g[i][1]>=0){
                     sA -= ((double) sT)/g[i][1];
