@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1267J](https://codeforces.com/problemset/problem/1267/J) | We only cares about the frequency of each number. And the answer will not exceed the minimum of it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0429/solution/cf1267j.md) |
-| 1900 | [CF1270D](https://codeforces.com/problemset/problem/1270/D) | You don't need $n$ elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0429/solution/cf1270d.md) |
+| 1700 | [CF1168A](https://codeforces.com/problemset/problem/1168/A) | If we apply $x$ operations, we can change each element $0,1,\dots,x$ times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0502/solution/cf1168a.md) |
+| 2000 | [CF954E](https://codeforces.com/problemset/problem/954/E) | If we have both "hot" water and "cold" water unused, it is always possible to make some more "warm" water. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0502/solution/cf954e.md) |
