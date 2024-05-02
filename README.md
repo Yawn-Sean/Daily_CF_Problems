@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1168A](https://codeforces.com/problemset/problem/1168/A) | If we apply $x$ operations, we can change each element $0,1,\dots,x$ times. | TBD |
-| 2000 | [CF954E](https://codeforces.com/problemset/problem/954/E) | If we have both "hot" water and "cold" water unused, it is always possible to make some more "warm" water. | TBD |
+| 1700 | [CF1168A](https://codeforces.com/problemset/problem/1168/A) | If we apply $x$ operations, we can change each element $0,1,\dots,x$ times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0502/solution/cf1168a.md) |
+| 2000 | [CF954E](https://codeforces.com/problemset/problem/954/E) | If we have both "hot" water and "cold" water unused, it is always possible to make some more "warm" water. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0502/solution/cf954e.md) |
