@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1168A](https://codeforces.com/problemset/problem/1168/A) | If we apply $x$ operations, we can change each element $0,1,\dots,x$ times. | TBD |
-| 2000 | [CF954E](https://codeforces.com/problemset/problem/954/E) | If we have both "hot" water and "cold" water unused, it is always possible to make some more "warm" water. | TBD |
+| 1600 | [CF1163B2](https://codeforces.com/problemset/problem/1163/B2) | Consider the different cases where conditions are met. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0503/solution/cf1163b2.md) |
+| 2100 | [CF1146D](https://codeforces.com/problemset/problem/1146/D) | The problem is the same as finding the minimum $x$ for $y$ such that if the interval contains $x$, $y$ can be reached | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0503/solution/cf1146d.md) |
