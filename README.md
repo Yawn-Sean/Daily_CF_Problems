@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1163B2](https://codeforces.com/problemset/problem/1163/B2) | Consider the different cases where conditions are met. | TBD |
-| 2100 | [CF1146D](https://codeforces.com/problemset/problem/1146/D) | The problem is the same as finding the minimum $x$ for $y$ such that if the interval contains $x$, $y$ can be reached | TBD |
+| 1600 | [CF1163B2](https://codeforces.com/problemset/problem/1163/B2) | Consider the different cases where conditions are met. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0503/solution/cf1163b2.md) |
+| 2100 | [CF1146D](https://codeforces.com/problemset/problem/1146/D) | The problem is the same as finding the minimum $x$ for $y$ such that if the interval contains $x$, $y$ can be reached | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0503/solution/cf1146d.md) |
