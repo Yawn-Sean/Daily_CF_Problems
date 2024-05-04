@@ -1,5 +1,3 @@
-// ans[i]表示第i列完全消除的最短时间，要消除一列只有三种方式：从上往下、从左往右、从右往左。
-// ans[i] = min(a[i], ans[i-1] + 1)，再从右往左做一次就好了。
 #include<bits/stdc++.h>
 #define int long long 
 #define all(a) a.begin(), a.end()
