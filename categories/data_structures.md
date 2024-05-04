@@ -18,4 +18,4 @@
 | 2000 | [CF1142B](https://codeforces.com/problemset/problem/1142/B) | You can use greedy approach if you fix the first value and only answer the problem once. What can you do with multiple queries and intervals? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0327/solution/cf1142b.md) |
 | 2100 | [CF1158C](https://codeforces.com/problemset/problem/1158/C) | Fill in the blanks in a greedy order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0405/solution/cf1158c.md) |
 | 2100 | [CF540E](https://codeforces.com/problemset/problem/540/E) | Not many numbers are changed. So group the elements that are used in calculation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0412/solution/cf540e.md) |
-
+| 2100 | [CF1575L](https://codeforces.com/problemset/problem/1575/L) | If in the end $i,j\ (i\lt j)$ satisfies $f(i)=i,f(j)=j$ , what are the conditions their origin positions should meet? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0504/solution/cf1575l.md) |
