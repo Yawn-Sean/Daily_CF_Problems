@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1175C](https://codeforces.com/problemset/problem/1175/C) | If we have only $k$ points, how can we minimize the function $f_k(x)$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0504/solution/cf1175c.md) |
+| 1600 | [CF1175C](https://codeforces.com/problemset/problem/1175/C) | If we have only $k+1$ points, how can we minimize the function $f_k(x)$ ? What about $n$ points? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0504/solution/cf1175c.md) |
 | 2100 | [CF1575L](https://codeforces.com/problemset/problem/1575/L) | If in the end $i,j\ (i\lt j)$ satisfies $f(i)=i,f(j)=j$ , what are the conditions their origin positions should meet? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0504/solution/cf1575l.md) |
