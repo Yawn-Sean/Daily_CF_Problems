@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF989C](https://codeforces.com/problemset/problem/989/C) | Try increasing the occurence of one color while not changing the others'. What if the areas of the others are "large enough"? | TBD |
-| 1900 | [CF1569D](https://codeforces.com/problemset/problem/1569/D) | What conditions should the points in one pair satisfy? Consider one of the conditions first and then process the other. | TBD |
+| 1800 | [CF989C](https://codeforces.com/problemset/problem/989/C) | Try increasing the occurence of one color while not changing the others'. What if the areas of the others are "large enough"? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0506/solution/cf989c.md) |
+| 1900 | [CF1569D](https://codeforces.com/problemset/problem/1569/D) | What conditions should the points in one pair satisfy? Consider one of the conditions first and then process the other. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0506/solution/cf1569d.md) |
