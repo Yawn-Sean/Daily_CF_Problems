@@ -2,7 +2,7 @@
 using namespace std;
 const int N=2e5+10;
 typedef long long LL;
-int a[N];
+LL a[N];
 
 struct node{
 	int p;
@@ -25,7 +25,7 @@ void solve(){
 		if(a[t]<0){//当前最小的数字小于0
 			if(cnt%2==0){//如果当前有偶数个小于0的，那么积为正数，让其变小
 				a[t]+=x;
-				if(a[t]>0)
+				if(a[t]>=0)
 					cnt--;
 			}
 			else{//如果现在是奇数个，已经是负数了，让其减小即可
@@ -36,7 +36,7 @@ void solve(){
 			if(cnt%2==0){
 				a[t]-=x;
 				if(a[t]<0)
-					cnt--;
+					cnt++;
 			}
 			else{
 				a[t]+=x;
