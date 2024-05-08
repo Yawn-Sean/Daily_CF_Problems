@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1129A2](https://codeforces.com/problemset/problem/1129/A2) | When you get to a point, you can update your minimum time to deliver all the candies. | TBD |
-| 1900 | [CF1644E](https://codeforces.com/problemset/problem/1644/E) | When you've done operations of both `D` and `R`, you can go wherever you want (right or down) as long as you don't exceed the boundaries afterwards. | TBD |
+| 1700 | [CF1102E](https://codeforces.com/problemset/problem/1102/E) | Where shouldn't $\{b_i\}$ change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0508/solution/cf1102e.md) |
+| 2000 | [CF721D](https://codeforces.com/problemset/problem/721/D) | First, check if the result can be negative. Then use your greedy approach. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0508/solution/cf721d.md) |
