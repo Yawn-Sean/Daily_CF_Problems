@@ -2,7 +2,7 @@ import java.io.PrintWriter;
 import java.util.PriorityQueue;
 
 public class cf721d_Leoncn {
-        static RealFastReader sc = new RealFastReader(System.in);
+    static RealFastReader sc = new RealFastReader(System.in);
     static PrintWriter out = new PrintWriter(System.out);
 
     public static void main(String[] args) {
@@ -26,19 +26,7 @@ public class cf721d_Leoncn {
             }
             pq.add(new long[]{g[i],i});
         }
-        if(cnt == 0){
-            long[] p = pq.poll();
-            long c = p[0]/ x + 1;
-            if(c>k){
-                p[0] -= x*k;
-                k =0;
-            }else {
-                p[0] -= x*c;
-                k-=c;
-            }
-            g[(int)p[1]] = p[0];
-            pq.add(p);
-        }else if(cnt>0 && (cnt&1)==0){
+        if((cnt&1)==0){
             long[] p = pq.poll();
             if(p[0]>=0){
                 long c = p[0]/ x + 1;
@@ -77,5 +65,4 @@ public class cf721d_Leoncn {
             out.print(g[i] + " ");
         }
     }
-
 }
