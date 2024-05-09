@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1102E](https://codeforces.com/problemset/problem/1102/E) | Where shouldn't $\{b_i\}$ change? | TBD |
-| 2000 | [CF721D](https://codeforces.com/problemset/problem/721/D) | First, check if the result can be negative. Then use your greedy approach. | TBD |
+| 1700 | [CF1019A](https://codeforces.com/problemset/problem/1019/A) | Your votes should be strictly more than any other party's. You can fix one variable first. | TBD |
+| 2000 | [CF720A](https://codeforces.com/problemset/problem/720/A) | With greater ability comes greater responsibility. | TBD |
