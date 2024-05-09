@@ -9,16 +9,13 @@ int main() {
     cin >> n >> m;
     vector<pair<int, int>> pc(n);
     vector<int> freq(m + 1, 0);
-    int mx_freq = 0;
     for (auto&[p, c] : pc) {
         cin >> p >> c;
         freq[p]++;
-        mx_freq = max(mx_freq, freq[p]);
     }
     ranges::sort(pc, [&] (auto& a, auto& b) {
         return a.second < b.second;
     });
-
     long long ans = LONG_LONG_MAX;
     // x > (n - x) / (m - 1) ==> x >= (n + m - 1) / m
     int mn = max(freq[1], (n + m - 1) / m);
@@ -37,7 +34,7 @@ int main() {
                 curr++;
                 freq_cp[p]--;
                 cost += c;
-            } else if (curr == x) {
+            } else {
                 ok = false;
                 break;
             }
