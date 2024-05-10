@@ -2,4 +2,4 @@
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF453A](https://codeforces.com/problemset/problem/453/A) | Expectation problem: either find out the distribution or find the contribution of each component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0307/solution/cf453a.md) |
 | 2100 | [CF1525E](https://codeforces.com/problemset/problem/1525/E) | The conditions for a unlit city is much simpler. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0426/solution/cf1525e.md) |
-| 2100 | [CF859D](https://codeforces.com/problemset/problem/859/D) | You only care about what are the odds of person $i$ still winning in the $k$-th round instead of the whole process. | TBD |
+| 2100 | [CF859D](https://codeforces.com/problemset/problem/859/D) | You only care about what are the odds of person $i$ still winning in the $k$-th round instead of the whole process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0510/solution/cf859d.md) |
