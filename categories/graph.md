@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | 1500 | [CF687A](https://codeforces.com/problemset/problem/687/A) | Try thinking of each edge. What necessary condition does the definition imply? Is it sufficient? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0301/solution/cf687a.md) |
 | 1600 | [CF916C](https://codeforces.com/problemset/problem/916/C) | Fix the shape of the spanning tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0412/solution/cf916c.md) |
+| 1600 | [CF1609D](https://codeforces.com/problemset/problem/1609/D) | If you have a connected component, you can re-arrange the edges in it. | TBD |
 | 1700 | [CF1045I](https://codeforces.com/problemset/problem/1027/D) | Turn the array into a graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0330/solution/cf1045i.md) |
 | 1700 | [CF765D](https://codeforces.com/problemset/problem/765/D) | The problem is about a graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0424/solution/cf765d.md) |
 | 1800 | [CF263D](https://codeforces.com/problemset/problem/263/D) | What are the typical ways of finding cycles in a graph? Which one is appropriate? Prove it! | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0316/solution/cf263d.md) |
