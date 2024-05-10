@@ -8,6 +8,7 @@ def main():
     cnt[1] = n
 
     union = UnionFind(n)
+    # 选择的连通块数量
     k = 1
 
     for _ in range(d):
