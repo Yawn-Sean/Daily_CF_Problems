@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1019A](https://codeforces.com/problemset/problem/1019/A) | Your votes should be strictly more than any other party's. You can fix one variable first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0509/solution/cf1019a.md) |
-| 2000 | [CF720A](https://codeforces.com/problemset/problem/720/A) | With greater ability comes greater responsibility. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0509/solution/cf720a.md) |
+| 1600 | [CF1609D](https://codeforces.com/problemset/problem/1609/D) | If you have a connected component, you can re-arrange the edges in it. | TBD |
+| 2100 | [CF859D](https://codeforces.com/problemset/problem/859/D) | You only care about what are the odds of person $i$ still winning in the $k$-th round instead of the whole process. | TBD |
