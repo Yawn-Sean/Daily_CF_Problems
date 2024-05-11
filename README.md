@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1019A](https://codeforces.com/problemset/problem/1019/A) | Your votes should be strictly more than any other party's. You can fix one variable first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0509/solution/cf1019a.md) |
-| 2000 | [CF720A](https://codeforces.com/problemset/problem/720/A) | With greater ability comes greater responsibility. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0509/solution/cf720a.md) |
+| 1600 | [CF1028C](https://codeforces.com/problemset/problem/1028/C) | First of all, figure out the conditions of rectangles having a common point. Then you need to calculate whether the conditions are satisfied when deleting one rectangle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0511/solution/cf1028c.md) |
+| 2200 | [CF852F](https://codeforces.com/problemset/problem/852/F) | Use Logarithm. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0511/solution/cf852f.md) |
