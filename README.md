@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1102E](https://codeforces.com/problemset/problem/1102/E) | Where shouldn't $\{b_i\}$ change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0508/solution/cf1102e.md) |
-| 2000 | [CF721D](https://codeforces.com/problemset/problem/721/D) | First, check if the result can be negative. Then use your greedy approach. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0508/solution/cf721d.md) |
+| 1600 | [CF1028C](https://codeforces.com/problemset/problem/1028/C) | First of all, figure out the conditions of rectangles having a common point. Then you need to calculate whether the conditions are satisfied when deleting one rectangle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0511/solution/cf1028c.md) |
+| 2200 | [CF852F](https://codeforces.com/problemset/problem/852/F) | Use Logarithm. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0511/solution/cf852f.md) |
