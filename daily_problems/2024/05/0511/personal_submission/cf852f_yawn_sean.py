@@ -3,7 +3,7 @@ def main():
     n, m, a, q = MII()
 
     powers = [1]
-    for i in range(10 ** 6 + 124):
+    for i in range(10 ** 6 + 123):
         powers.append(powers[-1] * a % q)
         if powers[-1] == 1:
             powers.pop()
