@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1609D](https://codeforces.com/problemset/problem/1609/D) | If you have a connected component, you can re-arrange the edges in it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0510/solution/cf1609d.md) |
-| 2100 | [CF859D](https://codeforces.com/problemset/problem/859/D) | You only care about what are the odds of person $i$ still winning in the $k$-th round instead of the whole process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0510/solution/cf859d.md) |
+| 1600 | [CF1028C](https://codeforces.com/problemset/problem/1028/C) | First of all, figure out the conditions of rectangles having a common point. Then you need to calculate whether the conditions are satisfied when deleting one rectangle. | TBD |
+| 2200 | [CF852F](https://codeforces.com/problemset/problem/852/F) | Use Logarithm. | TBD |
