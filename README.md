@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1019A](https://codeforces.com/problemset/problem/1019/A) | Your votes should be strictly more than any other party's. You can fix one variable first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0509/solution/cf1019a.md) |
-| 2000 | [CF720A](https://codeforces.com/problemset/problem/720/A) | With greater ability comes greater responsibility. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0509/solution/cf720a.md) |
+| 1800 | [CF799C](https://codeforces.com/problemset/problem/799/C) | Just check every possible type combinations of the fountains. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0513/solution/cf799c.md) |
+| 1900 | [CF1029D](https://codeforces.com/problemset/problem/1029/D) | Use math expression to represent the concatenation of $2$ numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0513/solution/cf1029d.md) |
