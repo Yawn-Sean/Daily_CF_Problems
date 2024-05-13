@@ -7,7 +7,6 @@ void solve(){
     int n, c, d;
     cin >> n >> c >> d;
     vector <array<int,2>> coin(1), diamond(1);  //设置哨兵
-
     for (int i = 1; i <= n; ++ i){
         array <int,2> t;
         string ops;
