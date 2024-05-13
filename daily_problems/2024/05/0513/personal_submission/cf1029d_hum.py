@@ -1,4 +1,5 @@
 import sys
+from collections import defaultdict
 
 input = lambda: sys.stdin.readline().rstrip()
 
@@ -7,16 +8,16 @@ a = list(map(int, input().split()))
 
 
 def f():
-  cnt = [dict() for i in range(11)]
-  res = 0
+  cnt = [defaultdict(int) for _ in range(11)]
+  ans = 0
   t = [1]
-  for i in range(11):
+  for i in range(10):
     t.append(t[-1] * 10 % k)
-  for i in range(n):
+  for x in a:
     for j in range(1, 11):
-      res += cnt[j].get((-a[i] * t[j]) % k, 0)
-    cnt[len(str(a[i]))][a[i] % k] += 1
-  return res
+      ans += cnt[j].get((-x * t[j]) % k, 0)
+    cnt[len(str(x))][x % k] += 1
+  return ans
 
 
 res = f()
