@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1028C](https://codeforces.com/problemset/problem/1028/C) | First of all, figure out the conditions of rectangles having a common point. Then you need to calculate whether the conditions are satisfied when deleting one rectangle. | TBD |
-| 2200 | [CF852F](https://codeforces.com/problemset/problem/852/F) | Use Logarithm. | TBD |
+| 1800 | [CF799C](https://codeforces.com/problemset/problem/799/C) | Just check every possible type combinations of the fountains. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0513/solution/cf799c.md) |
+| 1900 | [CF1029D](https://codeforces.com/problemset/problem/1029/D) | Use math expression to represent the concatenation of $2$ numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0513/solution/cf1029d.md) |
