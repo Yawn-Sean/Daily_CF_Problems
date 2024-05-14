@@ -37,6 +37,5 @@ public class cf1644e_Leoncn {
             }
         }
         out.println(ans - a*b);
-    }    static RealFastReader sc = new RealFastReader(System.in);
-    static PrintWriter out = new PrintWriter(System.out);
+    } 
 }
