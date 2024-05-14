@@ -1,8 +1,3 @@
-import sys
-from collections import defaultdict
-
-input = lambda: sys.stdin.readline().rstrip()
-
 n, k = map(int, input().split())
 a = list(map(int, input().split()))
 
