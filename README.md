@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF799C](https://codeforces.com/problemset/problem/799/C) | Just check every possible type combinations of the fountains. | TBD |
-| 1900 | [CF1029D](https://codeforces.com/problemset/problem/1029/D) | Use math expression to represent the concatenation of $2$ numbers. | TBD |
+| 1800 | [CF914C](https://codeforces.com/problemset/problem/914/C) | The number can decline really quickly. And you only cares about the number of $1$s in the original number. | TBD |
+| 1900 | [CF965D](https://codeforces.com/problemset/problem/965/D) | Brain teaser. If a frog can only jump $l$ units at most, it should "rest" on some segments. | TBD |
