@@ -1,8 +1,3 @@
-import sys
-from bisect import bisect_left
-
-input = lambda: sys.stdin.readline().rstrip()
-
 n, c, d = map(int, input().split())
 
 cs, ds = [], []
