@@ -5,7 +5,6 @@ using namespace std;
 string s[100005], s1;
 int n, ans[100005];
 
-
 int to (int len) {
     int ans = 0;
     for (int i = 0; i < len; ++ i) {
