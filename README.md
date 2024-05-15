@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF914C](https://codeforces.com/problemset/problem/914/C) | The number can decline really quickly. And you only cares about the number of $1$s in the original number. | TBD |
-| 1900 | [CF965D](https://codeforces.com/problemset/problem/965/D) | Brain teaser. If a frog can only jump $l$ units at most, it should "rest" on some segments. | TBD |
+| 1700 | [CF954C](https://codeforces.com/problemset/problem/954/C) | What can be the difference between two neighboring positions? | TBD |
+| 2000 | [CF490E](https://codeforces.com/problemset/problem/490/E) | When filling in the blanks from the first number to the last, you should always write the smallest number possible. | TBD |
