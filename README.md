@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF954C](https://codeforces.com/problemset/problem/954/C) | What can be the difference between two neighboring positions? | TBD |
-| 2000 | [CF490E](https://codeforces.com/problemset/problem/490/E) | When filling in the blanks from the first number to the last, you should always write the smallest number possible. | TBD |
+| 1700 | [CF954C](https://codeforces.com/problemset/problem/954/C) | What can be the difference between two neighboring positions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0515/solution/cf954c.md) |
+| 2000 | [CF490E](https://codeforces.com/problemset/problem/490/E) | When filling in the blanks from the first number to the last, you should always write the smallest number possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0515/solution/cf490e.md) |
