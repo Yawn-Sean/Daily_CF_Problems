@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF799C](https://codeforces.com/problemset/problem/799/C) | Just check every possible type combinations of the fountains. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0513/solution/cf799c.md) |
-| 1900 | [CF1029D](https://codeforces.com/problemset/problem/1029/D) | Use math expression to represent the concatenation of $2$ numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0513/solution/cf1029d.md) |
+| 1700 | [CF954C](https://codeforces.com/problemset/problem/954/C) | What can be the difference between two neighboring positions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0515/solution/cf954c.md) |
+| 2000 | [CF490E](https://codeforces.com/problemset/problem/490/E) | When filling in the blanks from the first number to the last, you should always write the smallest number possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0515/solution/cf490e.md) |
