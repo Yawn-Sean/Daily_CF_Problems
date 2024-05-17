@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF954C](https://codeforces.com/problemset/problem/954/C) | What can be the difference between two neighboring positions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0515/solution/cf954c.md) |
-| 2000 | [CF490E](https://codeforces.com/problemset/problem/490/E) | When filling in the blanks from the first number to the last, you should always write the smallest number possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0515/solution/cf490e.md) |
+| 1600 | [CF1025C](https://codeforces.com/problemset/problem/1025/C) | What does the operation actually mean? Find a position to split and connect the strings on the other side. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0517/solution/cf1025c.md) |
+| 2100 | [CF909D](https://codeforces.com/problemset/problem/909/D) | If we can finish each deletion of one character in $\mathcal{O}(1)$ time, we will be able to solve the problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0517/solution/cf909d.md) |
