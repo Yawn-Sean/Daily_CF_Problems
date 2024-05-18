@@ -2,8 +2,8 @@
 def main():
     n = II()
     parent = [-1] + LGMI()
-
     ans = [1] * n
+
     for i in range(1, n):
         ans[parent[i]] = 0
 
