@@ -25,30 +25,30 @@ void sol(vector<vector<long long>>& mp, int n, int m) {
 	int cf = min(n, 4);
 	nth_element(ch.begin(),ch.end() - cf, ch.end());
 
-		long long s = 0;
-		for (int i = ch.size()-1;i >= (int)(ch.size() - cf);--i) {
-			s += ch[i];
-		}
-		r = max(r, s);
+	long long s = 0;
+	for (int i = ch.size() - 1;i >= (int)(ch.size() - cf);--i) {
+		s += ch[i];
+	}
+	r = max(r, s);
 
-		for (int j = 0;j < m;++j) {
-			long long c = 0;
-			for (int i = 0;i < n;++i) {
-				c += mp[i][j];
-			}
-			vector<long long> hh;
-			for (int i = 0;i < n;++i) {
-				hh.push_back(h[i] - mp[i][j]);
-			}
-			int cf = min(n, 3);
-			nth_element(hh.begin(), hh.end() - cf,hh.end());
-			long long s = c;
-			for (int i = hh.size()-1;i >= (int)(hh.size()- cf);--i) {
-				s += hh[i];
-			}
-			r = max(s, r);
+	for (int j = 0;j < m;++j) {
+		long long c = 0;
+		for (int i = 0;i < n;++i) {
+			c += mp[i][j];
 		}
-	
+		vector<long long> hh;
+		for (int i = 0;i < n;++i) {
+			hh.push_back(h[i] - mp[i][j]);
+		}
+		int cf = min(n, 3);
+		nth_element(hh.begin(), hh.end() - cf, hh.end());
+		long long s = c;
+		for (int i = hh.size() - 1;i >= (int)(hh.size() - cf);--i) {
+			s += hh[i];
+		}
+		r = max(s, r);
+	}
+
 }
 
 
