@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF914C](https://codeforces.com/problemset/problem/914/C) | The number can decline really quickly. And you only cares about the number of $1$s in the original number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0514/solution/cf914c.md) |
-| 1900 | [CF965D](https://codeforces.com/problemset/problem/965/D) | Brain teaser. If a frog can only jump $l$ units at most, it should "rest" on some segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0514/solution/cf965d.md) |
+| 1600 | [CF1056D](https://codeforces.com/problemset/problem/1056/D) | Smaller subtrees mean easier constraints | TBD |
+| 2200 | [CF1575H](https://codeforces.com/problemset/problem/1575/H) | When it comes to DP problems, you need to carefully choose your status. | TBD |
