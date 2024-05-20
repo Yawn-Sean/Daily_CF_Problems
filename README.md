@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1056D](https://codeforces.com/problemset/problem/1056/D) | Smaller subtrees mean easier constraints. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0518/solution/cf1056d.md) |
-| 2200 | [CF1575H](https://codeforces.com/problemset/problem/1575/H) | When it comes to DP problems, you need to carefully choose your status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0518/solution/cf1575h.md) |
+| 1800 | [CF917A](https://codeforces.com/problemset/problem/917/A) | When given a string, find the conditions it should satisfy to be "pretty". | TBD |
+| 1900 | [CF335B](https://codeforces.com/problemset/problem/335/B) | If you find the longest palindrome subsequence, you call always get the answer. But if it is longer than $100$, you can output a string of length $100$. | TBD |
