@@ -6,7 +6,6 @@ using ll = long long;
 int n, cnt[26], dp[3000][3000];
 string s;
 
-
 int main() {
 	cin.tie(0)->sync_with_stdio(0);
 	
