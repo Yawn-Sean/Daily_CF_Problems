@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| 1600 | [CF1056D](https://codeforces.com/problemset/problem/1056/D) | Smaller subtrees mean easier constraints. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0518/solution/cf1056d.md) |
 | 1700 | [CF1592C](https://codeforces.com/problemset/problem/1592/C) | The xor-sum of every connected component is fixed. Use this fact. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0411/solution/cf1592c.md) |
 | 1800 | [CF1083A](https://codeforces.com/problemset/problem/1083/A) | Classic way of thinking a path on the tree: fix the important point. Then consider your DP |[Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0305/solution/cf1083a.md) | 
 | 1900 | [CF1076E](https://codeforces.com/problemset/problem/1076/E) | Notice that you only have to answer the question after all updates. How can you maintain the changes during traversal? (Bonus: Answer the queries of points' values while updating.) | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0315/solution/cf1076e.md) |

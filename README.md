@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF954C](https://codeforces.com/problemset/problem/954/C) | What can be the difference between two neighboring positions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0515/solution/cf954c.md) |
-| 2000 | [CF490E](https://codeforces.com/problemset/problem/490/E) | When filling in the blanks from the first number to the last, you should always write the smallest number possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0515/solution/cf490e.md) |
+| 1800 | [CF917A](https://codeforces.com/problemset/problem/917/A) | When given a string, find the conditions it should satisfy to be "pretty". | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0520/solution/cf917a.md) |
+| 1900 | [CF335B](https://codeforces.com/problemset/problem/335/B) | If you find the longest palindrome subsequence, you call always get the answer. But if it is longer than $100$, you can output a string of length $100$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0520/solution/cf335b.md) |
