@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF533E](https://codeforces.com/problemset/problem/533/E) | $S$ and $T$ should be the same string adding one character distinctively. | TBD |
-| 1900 | [CF420C](https://codeforces.com/problemset/problem/420/C) | Find a way to calculate the $p$ for one pair quickly. | TBD |
+| 1800 | [CF533E](https://codeforces.com/problemset/problem/533/E) | $S$ and $T$ should be the same string adding one character distinctively. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0521/solution/cf533e.md) |
+| 1900 | [CF420C](https://codeforces.com/problemset/problem/420/C) | Find a way to calculate the $p$ for one pair quickly. | [EDitorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0521/solution/cf420c.md) |
