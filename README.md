@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF533E](https://codeforces.com/problemset/problem/533/E) | There are a lot of things in common for $S$ and $T$, such as their prefixes and suffixes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0521/solution/cf533e.md) |
-| 1900 | [CF420C](https://codeforces.com/problemset/problem/420/C) | Find a way to calculate the $p'$ (number of conditions satisfied) for one pair quickly. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0521/solution/cf420c.md) |
+| 1700 | [CF1132C](https://codeforces.com/problemset/problem/1132/C) | How does the painted section change when you "delete" $2$ painters? | TBD |
+| 2000 | [CF314C](https://codeforces.com/problemset/problem/314/C) | The question is similar to finding the longest increasing subsequence. How can you change the code to solve this? | TBD |
