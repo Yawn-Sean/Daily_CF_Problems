@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF917A](https://codeforces.com/problemset/problem/917/A) | When given a string, find the conditions it should satisfy to be "pretty". | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0520/solution/cf917a.md) |
-| 1900 | [CF335B](https://codeforces.com/problemset/problem/335/B) | If you find the longest palindrome subsequence, you call always get the answer. But if it is longer than $100$, you can output a string of length $100$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0520/solution/cf335b.md) |
+| 1700 | [CF1132C](https://codeforces.com/problemset/problem/1132/C) | How does the painted section change when you "delete" $2$ painters? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0522/solution/cf1132c.md) |
+| 2000 | [CF314C](https://codeforces.com/problemset/problem/314/C) | The question is similar to finding the longest increasing subsequence. How can you change the code to solve this? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0522/solution/cf314c.md) |
