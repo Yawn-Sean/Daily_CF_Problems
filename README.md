@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF533E](https://codeforces.com/problemset/problem/533/E) | $S$ and $T$ should be the same string adding one character distinctively. | TBD |
-| 1900 | [CF420C](https://codeforces.com/problemset/problem/420/C) | Find a way to calculate the $p$ for one pair quickly. | TBD |
+| 1700 | [CF1132C](https://codeforces.com/problemset/problem/1132/C) | How does the painted section change when you "delete" $2$ painters? | TBD |
+| 2000 | [CF314C](https://codeforces.com/problemset/problem/314/C) | The question is similar to finding the longest increasing subsequence. How can you change the code to solve this? | TBD |
