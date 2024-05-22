@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1132C](https://codeforces.com/problemset/problem/1132/C) | How does the painted section change when you "delete" $2$ painters? | TBD |
-| 2000 | [CF314C](https://codeforces.com/problemset/problem/314/C) | The question is similar to finding the longest increasing subsequence. How can you change the code to solve this? | TBD |
+| 1700 | [CF1132C](https://codeforces.com/problemset/problem/1132/C) | How does the painted section change when you "delete" $2$ painters? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0522/solution/cf1132c.md) |
+| 2000 | [CF314C](https://codeforces.com/problemset/problem/314/C) | The question is similar to finding the longest increasing subsequence. How can you change the code to solve this? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0522/solution/cf314c.md) |
