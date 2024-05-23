@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1056D](https://codeforces.com/problemset/problem/1056/D) | Smaller subtrees mean easier constraints. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0518/solution/cf1056d.md) |
-| 2200 | [CF1575H](https://codeforces.com/problemset/problem/1575/H) | When it comes to DP problems, you need to carefully choose your status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0518/solution/cf1575h.md) |
+| 1700 | [CF900C](https://codeforces.com/problemset/problem/900/C) | What conditions should an element satisfy if it stays in the final result? What's the contribution of deleting one element? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0523/solution/cf900c.md) |
+| 2000 | [CF501D](https://codeforces.com/problemset/problem/501/D) | You need to do $2$ things: find the order of one permutation; find the $k$-th permutation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0523/solution/cf501d.md) |
