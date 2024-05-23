@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1132C](https://codeforces.com/problemset/problem/1132/C) | How does the painted section change when you "delete" $2$ painters? | TBD |
-| 2000 | [CF314C](https://codeforces.com/problemset/problem/314/C) | The question is similar to finding the longest increasing subsequence. How can you change the code to solve this? | TBD |
+| 1700 | [CF900C](https://codeforces.com/problemset/problem/900/C) | What conditions should an element satisfy if it stays in the final result? What's the contribution of deleting one element? | TBD |
+| 2000 | [CF501D](https://codeforces.com/problemset/problem/501/D) | You need to do $2$ things: find the order of one permutation; find the $k$-th permutation. | TBD |
