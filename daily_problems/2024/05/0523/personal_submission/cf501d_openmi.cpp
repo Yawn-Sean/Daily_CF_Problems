@@ -18,7 +18,7 @@ void add(ll* f, int x, int p)
 }
 
 ll findKth(ll* f, int target) {
-    int bitMask = 1 << __builtin_clz(n); 
+    int bitMask = 1 << (31 - __builtin_clz(n)); 
     int idx = 0; 
     while (bitMask) {
         int tmp = idx + bitMask;
