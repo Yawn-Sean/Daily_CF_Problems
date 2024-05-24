@@ -15,7 +15,7 @@ public class cf1132c_Leoncn {
         int n = sc.ni();
         int q = sc.ni();
         int[] cnt = new int[n];
-        int[][] g = new int[n][2];
+        int[][] g = new int[q][2];
         for (int i = 0; i < q; i++) {
             int a = sc.ni()-1;
             int b = sc.ni()-1;
