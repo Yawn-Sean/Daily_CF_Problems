@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1056D](https://codeforces.com/problemset/problem/1056/D) | Smaller subtrees mean easier constraints | TBD |
-| 2200 | [CF1575H](https://codeforces.com/problemset/problem/1575/H) | When it comes to DP problems, you need to carefully choose your status. | TBD |
+| 1600 | [CF1095D](https://codeforces.com/problemset/problem/1095/D) | If you decide one edge, the whole circle should be fully determined. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0524/solution/cf1095d.md) |
+| 2100 | [CF301B](https://codeforces.com/problemset/problem/301/B) | Just find the shortest path. Note that $a_i\leq 10^3\leq d$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0524/solution/cf301b.md) |
