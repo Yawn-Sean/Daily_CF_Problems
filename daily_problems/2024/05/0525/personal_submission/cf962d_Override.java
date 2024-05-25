@@ -1,3 +1,5 @@
+//使用map消消乐，但直接这样有点存疑
+//另一个方法是用优先队列堆去模拟
 import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
