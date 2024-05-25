@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF962D](https://codeforces.com/problemset/problem/962/D) | Just implement it. Find a quick way to decide the deleted element. | TBD |
-| 2100 | [CF894E](https://codeforces.com/problemset/problem/894/E) | In a strongly-connected component, you can go wherever you want. | TBD |
+| 1600 | [CF962D](https://codeforces.com/problemset/problem/962/D) | Just implement it. Find a quick way to decide the deleted element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0525/solution/cf962d.md) |
+| 2100 | [CF894E](https://codeforces.com/problemset/problem/894/E) | In a strongly-connected component, you can go wherever you want. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0525/solution/cf894e.md) |
