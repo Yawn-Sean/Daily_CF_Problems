@@ -14,9 +14,12 @@ int main() {
         s[++len] = c;
     }
     for (int i = 1; i <= len; ++i) {
-        dp[i][i] = 1, a[1]++;
+        dp[i][i] = 1;
+        a[1]++;
         if (i > 1 && s[i] == s[i - 1]) {
-            dp[i - 1][i] += 2, a[1]++, a[2]++;
+            dp[i - 1][i] += 2;
+            a[1]++;
+            a[2]++;
         }
     }
     int l, r;
@@ -26,12 +29,15 @@ int main() {
             if (!dp[l + 1][r - 1] || s[r] != s[l])
                 continue;
             int mid = l + (r - l) / 2;
-            if (i & 1)
+            if (i & 1) {
                 dp[l][r] = dp[l][mid - 1] + 1;
-            else
+            }
+            else {
                 dp[l][r] = dp[l][mid] + 1;
-            for (int k = dp[l][r]; k > 0; --k)
+            }
+            for (int k = dp[l][r]; k > 0; --k) {
                 a[k]++;
+            }
         }
     }
     for (int i = 1; i <= len; ++i)
