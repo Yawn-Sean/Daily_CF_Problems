@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1954D](https://codeforces.com/problemset/problem/1954/D) | Considering one set, if we know the number of balls of each color, what should be the minimum number of groups? How is it determined? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0527/solution/cf1954d.md) |
-| 1900 | [CF835D](https://codeforces.com/problemset/problem/835/D) | Classic DP because one $k$-palindrome consists of two $k-1$-palindromes. You can use the result of the smaller substrings to decide the answer of the larger strings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0527/solution/cf835d.md) |
+| 1800 | [CF869C](https://codeforces.com/problemset/problem/869/C) | Find the necessary conditions first and then prove it is sufficient. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0528/solution/cf869c.md) |
+| 1900 | [CF1168B](https://codeforces.com/problemset/problem/1168/B) | The condition is hard to satisfy as there are $\mathcal{O}(k^2)$ triples. It means something. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0528/solution/cf1168b.md) |
