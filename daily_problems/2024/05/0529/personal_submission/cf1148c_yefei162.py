@@ -7,7 +7,6 @@ MI = lambda: map(int, input().split())
 GMI = lambda: map(lambda x: int(x) - 1, input().split())
 LGMI = lambda: list(GMI())
 
-
 tcn = 1
 for _tcn_ in range(tcn):
     n = I()
