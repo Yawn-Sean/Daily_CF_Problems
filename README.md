@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1148C](https://codeforces.com/problemset/problem/1148/C) | Find a way to swap $2$ elements. | TBD |
-| 2000 | [CF609D](https://codeforces.com/problemset/problem/609/D) | You can wait until "the last moment" to decide when to exchange your burles and how you should buy items. | TBD |
+| 1700 | [CF1148C](https://codeforces.com/problemset/problem/1148/C) | Find a way to swap $2$ elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0529/solution/cf1148c.md) |
+| 2000 | [CF609D](https://codeforces.com/problemset/problem/609/D) | You can wait until "the last moment" to decide when to exchange your burles and how you should buy items. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0529/solution/cf609d.md) |
