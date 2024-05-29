@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF869C](https://codeforces.com/problemset/problem/869/C) | Find the necessary conditions first and then prove it is sufficient. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0528/solution/cf869c.md) |
-| 1900 | [CF1168B](https://codeforces.com/problemset/problem/1168/B) | The condition is hard to satisfy as there are $\mathcal{O}(k^2)$ triples. It means something. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0528/solution/cf1168b.md) |
+| 1700 | [CF1148C](https://codeforces.com/problemset/problem/1148/C) | Find a way to swap $2$ elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0529/solution/cf1148c.md) |
+| 2000 | [CF609D](https://codeforces.com/problemset/problem/609/D) | You can wait until "the last moment" to decide when to exchange your burles and how you should buy items. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0529/solution/cf609d.md) |
