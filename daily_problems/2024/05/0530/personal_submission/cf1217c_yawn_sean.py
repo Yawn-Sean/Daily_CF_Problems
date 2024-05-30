@@ -6,7 +6,6 @@ def main():
     for c in s:
         if c == '0': pref_zero.append(pref_zero[-1] + 1)
         else: pref_zero.append(0)
-    
     ans = 0
     for i in range(n):
         cur = 0
