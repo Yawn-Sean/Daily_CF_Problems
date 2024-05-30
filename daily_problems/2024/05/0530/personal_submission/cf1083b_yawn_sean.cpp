@@ -27,6 +27,11 @@ signed main()
     int n, k;
     cin >> n >> k;
 
+    if (k == 1) {
+        cout << n << '\n';
+        return 0;
+    }
+    
     string s, t;
     cin >> s >> t;
 
