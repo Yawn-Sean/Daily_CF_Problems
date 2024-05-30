@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1148C](https://codeforces.com/problemset/problem/1148/C) | Find a way to swap $2$ elements. | TBD |
-| 2000 | [CF609D](https://codeforces.com/problemset/problem/609/D) | You can wait until "the last moment" to decide when to exchange your burles and how you should buy items. | TBD |
+| 1700 | [CF1217C](https://codeforces.com/problemset/problem/1217/C) | Note that the value of $f(l,r)$ shouldn't be too large. | TBD |
+| 2000 | [CF1083B](https://codeforces.com/problemset/problem/1083/B) | Consider prefixes of each length, how many times can they appear? | TBD |
