@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1217C](https://codeforces.com/problemset/problem/1217/C) | Note that the value of $f(l,r)$ shouldn't be too large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0530/solution/cf1217c.md) |
-| 2000 | [CF1083B](https://codeforces.com/problemset/problem/1083/B) | Consider prefixes of each length, how many times can they appear? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0530/solution/cf1083b.md) |
+| 1600 | [CF1671D](https://codeforces.com/problemset/problem/1671/D) | Use the fact that you can insert any number between two consecutive numbers in the array without changing the score. | TBD |
+| 2100 | [CF960D](https://codeforces.com/problemset/problem/960/D) | Note that the total depth isn't large. And each number in the same layer is always changed together. | TBD |
