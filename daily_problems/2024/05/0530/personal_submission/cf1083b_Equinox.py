@@ -6,11 +6,12 @@ n, k = map(int, input().split())
 s = input()
 t = input()
 
-L = R = res = 0
-
+res = 0
+diff = 0
 for i in range(n):
-    L = L << 1 | (1 if s[i] == 'b' else 0)
-    R = R << 1 | (1 if t[i] == 'b' else 0)
-    res += min(R - L + 1, k)
-
+    diff = diff * 2 + (ord(t[i]) - ord(s[i]))
+    res += min(diff + 1, k)
+    if diff + 1 >= k:
+        res += (n - i - 1) * k
+        break
 print(res)
