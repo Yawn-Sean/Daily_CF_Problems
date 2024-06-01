@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1671D](https://codeforces.com/problemset/problem/1671/D) | Use the fact that you can insert any number between two consecutive numbers in the array without changing the score. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0531/solution/cf1671d.md) |
-| 2100 | [CF960D](https://codeforces.com/problemset/problem/960/D) | Note that the total depth isn't large. And each number in the same layer is always changed together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0531/solution/cf960d.md) |
+| 1600 | [CF1498C](https://codeforces.com/problemset/problem/1498/C) | Which particles can be considered together? Use the conditions as the DP status. | TBD |
+| 2100 | [CF802K](https://codeforces.com/problemset/problem/802/K) | When considering a subtree, there are two possible situations: you return to the root to get to the other subtrees; you never return. | TBD |
