@@ -3,6 +3,7 @@
 using namespace std;
 
 using i64 = long long;
+using pii = pair<int, int>;
 
 int main() {
     std::ios::sync_with_stdio(false);
