@@ -24,9 +24,11 @@ def main():
                 vis[heappop(hpq) % n] = 0
                 cnt -= 1
             vis[ids[i]] = 1
+            
             heappush(hpq, -next_pos[i] * n + ids[i])
             cnt += 1
             ans += 1
+        
         heappush(hpq, -next_pos[i] * n + ids[i])
 
     print(ans)
