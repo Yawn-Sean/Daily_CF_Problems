@@ -18,14 +18,20 @@ void solve() {
     }
     vector<int> res;
     int sum = 0;
-    for (int i = 0; i < n - 3; i ++) {
+    for (int i = 0; i < n - 2; i ++) {
         res.push_back(i);
         sum ^= i;
     }
-    int u = (1 << 17);
-    res.push_back(u);
-    res.push_back(u << 1);
-    res.push_back(sum ^ x ^ u ^ (u << 1));
+    if (sum == x) {
+        sum ^= n - 3;
+        sum ^= n - 2;
+        res.pop_back();
+        res.push_back(n - 2);
+    }
+    
+    res.push_back(1 << 18);
+    res.push_back((1 << 18) ^ sum ^ x);
+    
     cout << "YES" << endl;
     cout << res << endl;
 }
