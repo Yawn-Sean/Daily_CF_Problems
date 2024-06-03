@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1148C](https://codeforces.com/problemset/problem/1148/C) | Find a way to swap $2$ elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0529/solution/cf1148c.md) |
-| 2000 | [CF609D](https://codeforces.com/problemset/problem/609/D) | You can wait until "the last moment" to decide when to exchange your burles and how you should buy items. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0529/solution/cf609d.md) |
+| 1800 | [CF802B](https://codeforces.com/problemset/problem/802/B) | When you have to "delete" one book, which one should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0603/solution/cf802b.md) |
+| 1900 | [CF862C](https://codeforces.com/problemset/problem/862/C) | Note that the freedom of choosing the numbers is quite large. You can fix many integers as the numbers in the result first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0603/solution/cf862c.md) |
