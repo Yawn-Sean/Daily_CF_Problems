@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1949I](https://codeforces.com/problemset/problem/1949/I) | Consider two neighboring circles. If the radii of one circle change, how should the other change? | TBD |
-| 1900 | [CF1133F2](https://codeforces.com/problemset/problem/1133/F2) | Find the minimum and the maximum degree of node $1$. | TBD |
+| 1800 | [CF1949I](https://codeforces.com/problemset/problem/1949/I) | Consider two neighboring circles. If the radii of one circle change, how should the other change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0604/solution/cf1949i.md) |
+| 1900 | [CF1133F2](https://codeforces.com/problemset/problem/1133/F2) | Find the minimum and the maximum degree of node $1$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0604/solution/cf1133f2.md) |
