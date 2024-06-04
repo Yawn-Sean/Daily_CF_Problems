@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1132C](https://codeforces.com/problemset/problem/1132/C) | How does the painted section change when you "delete" $2$ painters? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0522/solution/cf1132c.md) |
-| 2000 | [CF314C](https://codeforces.com/problemset/problem/314/C) | The question is similar to finding the longest increasing subsequence. How can you change the code to solve this? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0522/solution/cf314c.md) |
+| 1800 | [CF1949I](https://codeforces.com/problemset/problem/1949/I) | Consider two neighboring circles. If the radii of one circle change, how should the other change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0604/solution/cf1949i.md) |
+| 1900 | [CF1133F2](https://codeforces.com/problemset/problem/1133/F2) | Find the minimum and the maximum degree of node $1$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0604/solution/cf1133f2.md) |
