@@ -1,32 +1,20 @@
-# Submission link: https://codeforces.com/contest/802/submission/263815241
+# Submission link: https://codeforces.com/contest/862/submission/263831521
 def main():
-    n, k = MII()
-    ids = LGMI()
-
-    next_pos = [n] * n
-    pos = [n] * n
-
-    for i in range(n - 1, -1, -1):
-        next_pos[i] = pos[ids[i]]
-        pos[ids[i]] = i
-
-    hpq = []
-    cnt = 0
-    vis = [0] * n
-    ans = 0
-
-    for i in range(n):
-        while hpq and vis[hpq[0] % n] == 0:
-            heappop(hpq)
-        
-        if vis[ids[i]] == 0:
-            if cnt == k:
-                vis[heappop(hpq) % n] = 0
-                cnt -= 1
-            vis[ids[i]] = 1
-            heappush(hpq, -next_pos[i] * n + ids[i])
-            cnt += 1
-            ans += 1
-        heappush(hpq, -next_pos[i] * n + ids[i])
-
-    print(ans)
+    n, x = MII()
+    if n == 1:
+        print('YES')
+        print(x)
+    elif n == 2:
+        if x:
+            print('YES')
+            print(0, x)
+        else:
+            print('NO')
+    else:
+        while True:
+            rnd = random.sample(range(1 << 17), k=n - 2)
+            v = reduce(xor, rnd) ^ x
+            if v: break
+        rnd.extend([1 << 17, (1 << 17) ^ v])
+        print('YES')
+        print(' '.join(map(str, rnd)))
