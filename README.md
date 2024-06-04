@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF802B](https://codeforces.com/problemset/problem/802/B) | When you have to "delete" one book, which one should you choose? | TBD |
-| 1900 | [CF862C](https://codeforces.com/problemset/problem/862/C) | Note that the freedom of choosing the numbers is quite large. You can fix many integers as the numbers in the result first. | TBD |
+| 1800 | [CF1949I](https://codeforces.com/problemset/problem/1949/I) | Consider two neighboring circles. If the radii of one circle change, how should the other change? | TBD |
+| 1900 | [CF1133F2](https://codeforces.com/problemset/problem/1133/F2) | Find the minimum and the maximum degree of node $1$. | TBD |
