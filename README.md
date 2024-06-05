@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1498C](https://codeforces.com/problemset/problem/1498/C) | Which particles can be considered together? Use the conditions as the DP status. | TBD |
-| 2100 | [CF802K](https://codeforces.com/problemset/problem/802/K) | When considering a subtree, there are two possible situations: you return to the root to get to the other subtrees; you never return. | TBD |
+| 1700 | [CF1579E2](https://codeforces.com/problemset/problem/1579/E2) | Each element can be considered separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0605/solution/cf1579e2.md) |
+| 2000 | [CF1209G1](https://codeforces.com/problemset/problem/1209/G1) | This problem is actually about segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0605/solution/cf1209g1.md) |
