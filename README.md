@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF802B](https://codeforces.com/problemset/problem/802/B) | When you have to "delete" one book, which one should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0603/solution/cf802b.md) |
-| 1900 | [CF862C](https://codeforces.com/problemset/problem/862/C) | Note that the freedom of choosing the numbers is quite large. You can fix many integers as the numbers in the result first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0603/solution/cf862c.md) |
+| 1700 | [CF1579E2](https://codeforces.com/problemset/problem/1579/E2) | Each element can be considered separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0605/solution/cf1579e2.md) |
+| 2000 | [CF1209G1](https://codeforces.com/problemset/problem/1209/G1) | This problem is actually about segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0605/solution/cf1209g1.md) |
