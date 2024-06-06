@@ -3,7 +3,6 @@ using namespace std;
 
 using ll = long long;
 constexpr int N = 4e6 + 5;
-
 int n, m, f[N] = {1};
 
 int main() {
