@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1579E2](https://codeforces.com/problemset/problem/1579/E2) | Each element can be considered separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0605/solution/cf1579e2.md) |
-| 2000 | [CF1209G1](https://codeforces.com/problemset/problem/1209/G1) | This problem is actually about segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0605/solution/cf1209g1.md) |
+| 1700 | [CF1561D1](https://codeforces.com/problemset/problem/1561/D1) | Consider two kinds of shifts separately. The second one has only a few possible destinations in one shift. | TBD |
+| 2000 | [CF1619G](https://codeforces.com/problemset/problem/1619/G) | If one bomb can trigger another, it is also possible vice versa. So it's all about a connected component. | TBD |
