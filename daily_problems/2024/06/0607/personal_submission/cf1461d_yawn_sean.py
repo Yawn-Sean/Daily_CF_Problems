@@ -1,4 +1,4 @@
-# Submission link: https://codeforces.com/contest/1619/submission/264331915
+# Submission link: https://codeforces.com/contest/1461/submission/264527619
 def main():
     def f(x, y):
         return x * n + y
