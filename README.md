@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1461D](https://codeforces.com/problemset/problem/1461/D) | Find the separation point quickly. And it can be proven that there are not many possible subarray-sums. | TBD |
-| 2100 | [CF551D](https://codeforces.com/problemset/problem/551/D) | Consider each digit separately. | TBD |
+| 1600 | [CF1461D](https://codeforces.com/problemset/problem/1461/D) | Find the separation point quickly. And it can be proven that there are not many possible subarray-sums. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0607/solution/cf1461d.md) |
+| 2100 | [CF551D](https://codeforces.com/problemset/problem/551/D) | Consider each digit separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0607/solution/cf551d.md) |
