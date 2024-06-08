@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1461D](https://codeforces.com/problemset/problem/1461/D) | Find the separation point quickly. And it can be proven that there are not many possible subarray-sums. | TBD |
-| 2100 | [CF551D](https://codeforces.com/problemset/problem/551/D) | Consider each digit separately. | TBD |
+| 1600 | [CF1056B](https://codeforces.com/problemset/problem/1056/B) | $m$ isn't large, so the conditons of $(i, j)$ modulo $m$ isn't large. | TBD |
+| 2200 | [CF1575K](https://codeforces.com/problemset/problem/1575/K) | Fill in the blanks without constraint first. What about the others? | TBD |
