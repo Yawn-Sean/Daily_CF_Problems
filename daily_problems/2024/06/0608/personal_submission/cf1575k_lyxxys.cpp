@@ -4,6 +4,7 @@ using ll = long long;
 using Pii = pair<int,int>;
 using ull = unsigned long long;
 const int N = 1011, P = 1e9+7, inf = 1e9;
+
 ll qmi(ll a, ll b){
     ll res = 1;
     // 都要开ll不然强制转换会tle
