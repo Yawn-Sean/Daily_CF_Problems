@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | 1500 | [CF584B](https://codeforces.com/problemset/problem/584/B) | Classic counting problem. Think of the opposite | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0302/solution/cf584b.md) |
 | 1600 | [CF1045I](https://codeforces.com/problemset/problem/1045/I) | Check the conditions of "constructing" a palindrome. Find a way to store the information. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0329/solution/cf1045i.md) |
+| 1600 | [CF1056B](https://codeforces.com/problemset/problem/1056/B) | $m$ isn't large, so the conditons of $(i, j)$ modulo $m$ isn't large. | TBD |
 | 1700 | [CF1468F](https://codeforces.com/problemset/problem/1468/F) | Think about the time when two persons make eye contact. Roll the time backwards. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0404/solution/cf1468f.md) |
 | 1700 | [CF1102E](https://codeforces.com/problemset/problem/1102/E) | Where shouldn't $\{b_i\}$ change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0508/solution/cf1102e.md) |
 | 1700 | [CF1217C](https://codeforces.com/problemset/problem/1217/C) | Note that the value of $f(l,r)$ shouldn't be too large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0530/solution/cf1217c.md) |
@@ -23,4 +24,5 @@
 | 2100 | [CF895D](https://codeforces.com/problemset/problem/895/D) | Seems like a digit DP problem but it isn't actually. String comparison (of equal length) is all about the first different charactor. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0308/solution/cf895d.md) |
 | 2100 | [CF540E](https://codeforces.com/problemset/problem/540/E) | Not many numbers are changed. So group the elements that are used in calculation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0412/solution/cf540e.md) |
 | 2100 | [CF1525E](https://codeforces.com/problemset/problem/1525/E) | The conditions for an unlit city is much simpler. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0426/solution/cf1525e.md) |
+| 2200 | [CF1575K](https://codeforces.com/problemset/problem/1575/K) | Fill in the blanks without constraint first. | TBD |
 | 2400 | [CF1526E](https://codeforces.com/problemset/problem/1526/E) | The suffix array offers a lot of "inequalities". Check those constraints | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0323/solution/cf1526e.md) |
