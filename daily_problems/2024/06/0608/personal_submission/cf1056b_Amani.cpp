@@ -27,3 +27,14 @@ int main() {
     cout << ans << endl;
     return 0;
 }
+/*  Another method:
+    long long ans = 0;
+    for (int i = 1; i <= m; ++i) {
+        for (int j = 1; j <= m; ++j) {
+            if (!((i*i + j*j) % m)) {
+                ans += 1LL * ((n+m-i)/m) * ((n+m-j)/m);
+            }
+        }
+    }
+    return ans;
+ */
