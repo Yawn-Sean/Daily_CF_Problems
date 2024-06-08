@@ -14,12 +14,3 @@ if ax == bx and ay == by:
     print(pow(K, N * M, 10**9 + 7))
 else:
     print(pow(K, N * M - R * C, 10**9 + 7))
-
-
-
-
-
-
-
-
-
