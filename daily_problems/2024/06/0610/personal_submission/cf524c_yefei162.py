@@ -1,7 +1,4 @@
 # -*- coding : utf-8 -*-
-# @Time: 2024/6/10 10:44
-# @Author: yefei.wang
-# @File: cf524c_yefei162.py
 import sys
 from collections import defaultdict
 
@@ -9,13 +6,8 @@ input = lambda: sys.stdin.readline().rstrip()
 sys.stdin = open('../input.txt', 'r')
 I = lambda: int(input())
 MI = lambda: map(int, input().split())
-GMI = lambda: map(lambda x: int(x) - 1, input().split())
 LI = lambda: list(MI())
-TI = lambda: tuple(MI())
-LGMI = lambda: list(GMI())
-YN = lambda x: print('YES' if x else 'NO')
-mod = 1000000007
-mod2 = 998244353
+
 
 n, m = MI()
 A = LI()
