@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1056B](https://codeforces.com/problemset/problem/1056/B) | $m$ isn't large, so the conditons of $(i, j)$ modulo $m$ isn't large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0608/solution/cf1056b.md) |
-| 2200 | [CF1575K](https://codeforces.com/problemset/problem/1575/K) | Fill in the blanks without constraint first. What about the others? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0608/solution/cf1575k.md) |
+| 1800 | [CF1286B](https://codeforces.com/problemset/problem/1286/B) | When you have the result of the subtrees, you can always find a suitable value for the root. | TBD |
+| 1900 | [CF524C](https://codeforces.com/problemset/problem/524/C) | It's a typical two-sum problem. | TBD |
