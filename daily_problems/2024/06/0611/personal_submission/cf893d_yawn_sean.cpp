@@ -1,11 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-struct team {
-    long long balloons;
-    long long weight;
-};
-
 signed main()
 {
     ios_base::sync_with_stdio(false);
