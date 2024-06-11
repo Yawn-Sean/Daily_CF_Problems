@@ -1,4 +1,5 @@
 # Submission link: https://codeforces.com/contest/893/submission/265131858
+def main():
     n, d = MII()
     nums = LII()
 
