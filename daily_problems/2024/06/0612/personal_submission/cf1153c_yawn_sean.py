@@ -3,7 +3,6 @@ def main():
     n = II()
     s = list(I())
     c1 = n // 2 - s.count('(')
-
     cur = 0
     for i in range(n):
         if s[i] == '(': cur += 1
