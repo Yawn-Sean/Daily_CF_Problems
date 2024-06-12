@@ -23,8 +23,6 @@ int main() {
     if (t < 0 || t % 2) {
         cout << ":(\n";
     } else {
-        // a + b = q
-        // b - a = r - l
         int a = t / 2;
         if (a > q) {
             cout << ":(\n";
