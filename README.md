@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1292B](https://codeforces.com/problemset/problem/1292/B) | We only have a few points that are for us to consider. Suppose we arrive at $P_i$ first. | TBD |
-| 2000 | [CF958C2](https://codeforces.com/problemset/problem/958/C2) | Consider a DP, but you don't have to know where the last segment ends. | TBD |
+| 1700 | [CF1292B](https://codeforces.com/problemset/problem/1292/B) | We only have a few points that are for us to consider. Suppose we arrive at $P_i$ first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0613/solution/cf1292b.md) |
+| 2000 | [CF958C2](https://codeforces.com/problemset/problem/958/C2) | Consider a DP, but you don't have to know where the last segment ends. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0613/solution/cf958c2.md) |
