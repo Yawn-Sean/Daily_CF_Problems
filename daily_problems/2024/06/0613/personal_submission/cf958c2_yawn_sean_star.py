@@ -2,6 +2,7 @@
 def main():
     n, k, p = MII()
     nums = [x % p for x in MII()]
+    
     acc = list(accumulate(nums, initial=0))
     
     dp = [0] * k
