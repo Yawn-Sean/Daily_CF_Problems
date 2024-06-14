@@ -2,9 +2,9 @@
 def main():
     n, k, p = MII()
     nums = [x % p for x in MII()]
+    
     acc = list(accumulate(nums, initial=0))
     
-    inf = p * k
     dp = [0] * k
     idx = [0] * k
     
