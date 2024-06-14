@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1153C](https://codeforces.com/problemset/problem/1153/C) | Find the "best" way to construct a correct parenthesis. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0612/solution/cf1153c.md) |
-| 2000 | [CF666B](https://codeforces.com/problemset/problem/666/B) | After pre-processing the distance between vertices, you should find a way to enumerate $a\to b\to c\to d$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0612/solution/cf666b.md) |
+| 1600 | [CF1615C](https://codeforces.com/problemset/problem/1615/C) | Observe what the array can be after $1$ or $2$ operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0614/solution/cf1615c.md) |
+| 2100 | [CF992D](https://codeforces.com/problemset/problem/992/D) | You can't multiply by a number other than $1$ many times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0614/solution/cf992d.md) |
