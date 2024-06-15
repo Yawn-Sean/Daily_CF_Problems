@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1615C](https://codeforces.com/problemset/problem/1615/C) | Observe what the array can be after $1$ or $2$ operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0614/solution/cf1615c.md) |
-| 2100 | [CF992D](https://codeforces.com/problemset/problem/992/D) | You can't multiply by a number other than $1$ many times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0614/solution/cf992d.md) |
+| 1600 | [CF1282B2](https://codeforces.com/problemset/problem/1282/B2) | Suppose you need to buy $m$ goods. First, decide which goods to buy; second, find the minimum cost to buy them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0615/solution/cf1282b2.md) |
+| 2100 | [CF811D](https://codeforces.com/problemset/problem/811/D) | Find the perfect place to test. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0615/solution/cf811d.md) |
