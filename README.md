@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1282B2](https://codeforces.com/problemset/problem/1282/B2) | Suppose you need to buy $m$ goods. First, decide which goods to buy; second, find the minimum cost to buy them. | TBD |
-| 2100 | [CF811D](https://codeforces.com/problemset/problem/811/D) | Find the perfect place to test. | TBD |
+| 1600 | [CF1282B2](https://codeforces.com/problemset/problem/1282/B2) | Suppose you need to buy $m$ goods. First, decide which goods to buy; second, find the minimum cost to buy them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0615/solution/cf1282b2.md) |
+| 2100 | [CF811D](https://codeforces.com/problemset/problem/811/D) | Find the perfect place to test. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0615/solution/cf811d.md) |
