@@ -16,7 +16,6 @@ signed main()
     int len = s.size();
 
     vector<int> pos(m);
-
     for (int i = 0; i < m; i ++)
         cin >> pos[i], pos[i] --;
     
