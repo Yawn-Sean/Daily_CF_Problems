@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1282B2](https://codeforces.com/problemset/problem/1282/B2) | Suppose you need to buy $m$ goods. First, decide which goods to buy; second, find the minimum cost to buy them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0615/solution/cf1282b2.md) |
-| 2100 | [CF811D](https://codeforces.com/problemset/problem/811/D) | Find the perfect place to test. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0615/solution/cf811d.md) |
+| 1800 | [CF1249D2](https://codeforces.com/problemset/problem/1249/D2) | Find the leftmost point which doesn's satisfy the condition. Which segments should you delete? | TBD |
+| 1900 | [CF535D](https://codeforces.com/problemset/problem/535/D) | First, decide if the conditions contradict. Then, fill up the residual blanks. | TBD |
