@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1249D2](https://codeforces.com/problemset/problem/1249/D2) | Find the leftmost point which doesn's satisfy the condition. Which segments should you delete? | TBD |
-| 1900 | [CF535D](https://codeforces.com/problemset/problem/535/D) | First, decide if the conditions contradict. Then, fill up the residual blanks. | TBD |
+| 1800 | [CF33B](https://codeforces.com/problemset/problem/33/B) | Consider each position separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0618/solution/cf33b.md) |
+| 1900 | [CF819B](https://codeforces.com/problemset/problem/819/B) | Consider each element and the contribution it makes to the result separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0618/solution/cf819b.md) |
