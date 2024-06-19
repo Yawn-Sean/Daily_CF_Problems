@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF33B](https://codeforces.com/problemset/problem/33/B) | Consider each position separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0618/solution/cf33b.md) |
-| 1900 | [CF819B](https://codeforces.com/problemset/problem/819/B) | Consider each element and the contribution it makes to the result separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0618/solution/cf819b.md) |
+| 1700 | [CF1051D](https://codeforces.com/problemset/problem/1051/D) | DP is all about designing status and find the transitions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0619/solution/cf1051d.md) |
+| 2000 | [CF317B](https://codeforces.com/problemset/problem/317/B) | The key point is that there are not too many ants. So if they are scattered on the plane, they should not go to far from the $(0, 0)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0619/solution/cf317b.md) |
