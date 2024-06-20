@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF33B](https://codeforces.com/problemset/problem/33/B) | Consider each position separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0618/solution/cf33b.md) |
-| 1900 | [CF819B](https://codeforces.com/problemset/problem/819/B) | Consider each element and the contribution it makes to the result separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0618/solution/cf819b.md) |
+| 1700 | [CF678D](https://codeforces.com/problemset/problem/678/D) | You can derive the math function of the final result, but you can also use the matrix transition to represent the whole process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0620/solution/cf678d.md) |
+| 2000 | [CF131F](https://codeforces.com/problemset/problem/131/F) | First, use a note to record where are the stars. Then, if the upper bound and lower bound of the rectangle is chosen, the problem is a classic two-pointer one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0620/solution/cf131f.md) |
