@@ -6,7 +6,7 @@ sys.stdin = open('../input.txt', 'r')
 I = lambda: int(input())
 MI = lambda: map(int, input().split())
 
-tcn = 3
+tcn = 1
 for _tcn_ in range(tcn):
     n = I()
     C = []
