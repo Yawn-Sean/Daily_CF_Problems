@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF678D](https://codeforces.com/problemset/problem/678/D) | You can derive the math function of the final result, but you can also use the matrix transition to represent the whole process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0620/solution/cf678d.md) |
-| 2000 | [CF131F](https://codeforces.com/problemset/problem/131/F) | First, use a note to record where are the stars. Then, if the upper bound and lower bound of the rectangle is chosen, the problem is a classic two-pointer one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0620/solution/cf131f.md) |
+| 1600 | [CF1151D](https://codeforces.com/problemset/problem/1151/D) | The only variable for each element is actually $j$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0621/solution/cf1151d.md) |
+| 2100 | [CF242D](https://codeforces.com/problemset/problem/242/D) | During the operations, there can only be one period when the condition of one counter is not met. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0621/solution/cf242d.md) |
