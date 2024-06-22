@@ -8,7 +8,7 @@ I = lambda: int(input())
 MI = lambda: map(int, input().split())
 LI = lambda: list(MI())
 
-tcn = 2
+tcn = 1
 for _tcn_ in range(tcn):
     n = I()
     A = [0] + LI()
