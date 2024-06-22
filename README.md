@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1151D](https://codeforces.com/problemset/problem/1151/D) | The only variable for each element is actually $j$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0621/solution/cf1151d.md) |
-| 2100 | [CF242D](https://codeforces.com/problemset/problem/242/D) | During the operations, there can only be one period when the condition of one counter is not met. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0621/solution/cf242d.md) |
+| 1600 | [CF1033C](https://codeforces.com/problemset/problem/1033/C) | Classic DP for games. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0622/solution/cf1033c.md) |
+| 2200 | [CF1468A](https://codeforces.com/problemset/problem/1468/A) | You only need to consider those "important" positions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0622/solution/cf1468a.md) |
