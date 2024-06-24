@@ -46,10 +46,3 @@ signed main()
 	int t = 1;
 	while (t -- ) solve();
 }
-/*
-
-0: 0 0
-1: 10 22 
-2: 2 14 17 
-
-*/
