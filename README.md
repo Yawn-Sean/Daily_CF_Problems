@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1217C](https://codeforces.com/problemset/problem/1217/C) | Note that the value of $f(l,r)$ shouldn't be too large. | TBD |
-| 2000 | [CF1083B](https://codeforces.com/problemset/problem/1083/B) | Consider prefixes of each length, how many times can they appear? | TBD |
+| 1800 | [CF336C](https://codeforces.com/problemset/problem/336/C) | Consider each possible $v$ from large to small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0624/solution/cf336c.md) | 
+| 1900 | [CF535C](https://codeforces.com/problemset/problem/535/C) | If you have multiple conditions to satisfy and the result is "monotone" when checking, you should consider binary search. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0624/solution/cf535c.md) |

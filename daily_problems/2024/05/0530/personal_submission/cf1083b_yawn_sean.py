@@ -4,6 +4,9 @@ def main():
     s = I()
     t = I()
 
+    if k == 1:
+        print(n)
+        return
     cur = 0
     ans = 0
 

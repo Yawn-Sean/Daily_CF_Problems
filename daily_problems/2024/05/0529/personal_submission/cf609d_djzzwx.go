@@ -3,7 +3,7 @@ func run(_r io.Reader, _w io.Writer) {
 	in := bufio.NewReader(_r)
 	out := bufio.NewWriter(_w)
 	defer out.Flush()
-	
+
 	var n, m, k, s int
 	Fscan(in, &n, &m, &k, &s)
 	a := make([]int, n)
