@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1033C](https://codeforces.com/problemset/problem/1033/C) | Classic DP for games. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0622/solution/cf1033c.md) |
-| 2200 | [CF1468A](https://codeforces.com/problemset/problem/1468/A) | You only need to consider those "important" positions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0622/solution/cf1468a.md) |
+| 1800 | [CF336C](https://codeforces.com/problemset/problem/336/C) | Consider each possible $v$ from large to small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0624/solution/cf336c.md) | 
+| 1900 | [CF535C](https://codeforces.com/problemset/problem/535/C) | If you have multiple conditions to satisfy and the result is "monotone" when checking, you should consider binary search. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0624/solution/cf535c.md) |
