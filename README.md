@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF863C](https://codeforces.com/problemset/problem/863/C) | What if the $2$ robots choose the same actions as the did once before? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0625/solution/cf863c.md) |
-| 1900 | [CF1032D](https://codeforces.com/problemset/problem/1032/D) | If you want to get to the line, you should go straight to it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0625/solution/cf1032d.md) |
+| 1700 | [CF833A](https://codeforces.com/problemset/problem/833/A) | Consider each prime factor separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0626/solution/cf833a.md) |
+| 2000 | [CF1009E](https://codeforces.com/problemset/problem/1009/E) | Consider the contribution of each $a_i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0626/solution/cf1009e.md) |
