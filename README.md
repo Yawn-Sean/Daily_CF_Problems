@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1033C](https://codeforces.com/problemset/problem/1033/C) | Classic DP for games. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0622/solution/cf1033c.md) |
-| 2200 | [CF1468A](https://codeforces.com/problemset/problem/1468/A) | You only need to consider those "important" positions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0622/solution/cf1468a.md) |
+| 1700 | [CF833A](https://codeforces.com/problemset/problem/833/A) | Consider each prime factor separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0626/solution/cf833a.md) |
+| 2000 | [CF1009E](https://codeforces.com/problemset/problem/1009/E) | Consider the contribution of each $a_i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0626/solution/cf1009e.md) |
