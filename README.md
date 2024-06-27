@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF833A](https://codeforces.com/problemset/problem/833/A) | Consider each prime factor separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0626/solution/cf833a.md) |
-| 2000 | [CF1009E](https://codeforces.com/problemset/problem/1009/E) | Consider the contribution of each $a_i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0626/solution/cf1009e.md) |
+| 1700 | [CF1085D](https://codeforces.com/problemset/problem/1085/D) | Push the weights to other edges. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0627/solution/cf1085d.md) |
+| 2000 | [CF366D](https://codeforces.com/problemset/problem/366/D) | Note that the data range isn't that wide. You can fix the lower bound to find the upper bound. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0627/solution/cf366d.md) |
