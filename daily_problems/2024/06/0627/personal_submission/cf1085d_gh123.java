@@ -1,6 +1,5 @@
 //https://codeforces.com/problemset/submission/1085/267587575
 import java.util.Scanner;
-
 public class D1085 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
