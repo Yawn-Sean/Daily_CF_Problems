@@ -12,7 +12,6 @@ def main():
     s = I()
 
     ans = 0
-
     while True:
         idx = check(s)
         if idx == -1: break
