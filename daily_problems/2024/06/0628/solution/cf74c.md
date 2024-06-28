@@ -16,7 +16,9 @@
 
 发现平面镜的反射就类似于直线本身移动 $2\times(n-1)$ 或 $2\times(m-1)$ 或做了奇数次镜像。
 
-前者可以保证 $2\mathrm{gcd}\gcd$
+前者可以保证距离为 $2\gcd(n-1, m-1)$ 的倍数的位置的直线均可以被构造，镜像使得 $2\gcd(n-1,m-1)-i$ 的位置也可达。
+
+因此，总共需要 $0,1,\dots,\gcd(n-1, m-1)$ ，共计 $\gcd(n-1, m-1)+1$ ，求解复杂度为 $\mathcal{O}(\log \min(n, m))$ .
 
 ### 具体代码如下——
 
@@ -24,25 +26,8 @@ Python 做法如下——
 
 ```Python []
 def main():
-    def check(s):
-        k = len(s)
-        idx = -1
-        for i in range(k):
-            if ((i and ord(s[i]) - ord(s[i-1]) == 1) or (i < k - 1 and ord(s[i]) - ord(s[i+1]) == 1)) and (idx == -1 or s[i] > s[idx]):
-                idx = i
-        return idx
-
-    n = II()
-    s = I()
-
-    ans = 0
-    while True:
-        idx = check(s)
-        if idx == -1: break
-        s = s[:idx]+ s[idx+1:]
-        ans += 1
-
-    print(ans)
+    x, y = MII()
+    print(math.gcd(x - 1, y - 1) + 1)
 ```
 
 C++ 做法如下——
