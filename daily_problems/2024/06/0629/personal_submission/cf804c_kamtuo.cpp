@@ -5,35 +5,6 @@
 /* Software : Visual Studio Code    */
 /*----------------------------------*/
 
-#include <iostream>
-#include <algorithm>
-#include <cstring>
-#include <sstream>
-#include <cstdio>
-#include <vector>
-#include <queue>
-#include <map>
-#include <stack>
-
-#define endl "\n"
-typedef long long LL;
-
-using std::cin;
-using std::cout;
-using std::getline;
-
-using std::max;
-using std::min;
-using std::sort;
-
-using std::vector;
-using std::string;
-using std::stringstream;
-using std::queue;
-using std::priority_queue;
-using std::map;
-using std::stack;
-
 const int N = 523450;
 
 int ne[N << 1], d[N << 1], idx = 1, h[N << 1];
