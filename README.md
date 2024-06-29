@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1321C](https://codeforces.com/problemset/problem/1321/C) | Some characters should be removed earlier. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0628/solution/cf1321c.md) |
-| 2100 | [CF74C](https://codeforces.com/problemset/problem/74/C) | Remember the time when you learned about the mirror. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0628/solution/cf74c.md) |
+| 1600 | [CF1196D2](https://codeforces.com/problemset/problem/1196/D2) | There are only $3$ different patterns. | TBD |
+| 2100 | [CF804C](https://codeforces.com/problemset/problem/804/C) | Think of one solution first, and then prove it. | TBD |
