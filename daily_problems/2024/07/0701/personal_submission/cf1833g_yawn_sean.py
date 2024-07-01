@@ -1,4 +1,4 @@
-# Submission Link: https://codeforces.com/contest/804/submission/267934967
+# Submission Link: https://codeforces.com/contest/1833/submission/268246044
 def main():
     n = II()
     us = []
