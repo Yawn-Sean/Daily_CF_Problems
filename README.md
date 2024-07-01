@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF863C](https://codeforces.com/problemset/problem/863/C) | What if the $2$ robots choose the same actions as the did once before? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0625/solution/cf863c.md) |
-| 1900 | [CF1032D](https://codeforces.com/problemset/problem/1032/D) | If you want to get to the line, you should go straight to it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0625/solution/cf1032d.md) |
+| 1800 | [CF1833G](https://codeforces.com/problemset/problem/1833/G) | Consider the points from the leaves to the root. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0701/solution/cf1833g.md) |
+| 1900 | [CF476D](https://codeforces.com/problemset/problem/476/D) | You can divide each number by $k$ first. Then, note that you can't have $2$ even numbers in a set, | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0701/solution/cf476d.md) |
