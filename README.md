@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1196D2](https://codeforces.com/problemset/problem/1196/D2) | There are only $3$ different patterns. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0629/solution/cf1196d2.md) |
-| 2200 | [CF804C](https://codeforces.com/problemset/problem/804/C) | Think of one solution first, and then prove it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0629/solution/cf804c.md) |
+| 1800 | [CF1442B](https://codeforces.com/problemset/problem/1442/B) | It is about choosing the numbers to delete. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0702/solution/cf1442b.md) |
+| 1900 | [CF999D](https://codeforces.com/problemset/problem/999/D) | $\bmod m$ first, then the problem is transition from $i$ to $(i+1)\bmod m$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0702/solution/cf999d.md) |
