@@ -32,13 +32,10 @@ def main():
         ans = 1
         for i in range(k):
             cnt = 0
-            x = -1
             if pre[target[i]] >= 0 and not chosen[pre[target[i]]]:
                 cnt += 1
-                x = pre[target[i]]
             if nex[target[i]] < n and not chosen[nex[target[i]]]:
                 cnt += 1
-                x = nex[target[i]]
             if cnt == 0: ans = 0; break
             ans *= cnt
             ans %= mod
