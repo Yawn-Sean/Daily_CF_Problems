@@ -35,6 +35,7 @@ signed main()
             stk.push_back(j);
         }
     }
+    
     cout << ans << '\n';
     for (auto &x: nums) cout << x << ' ';
 
