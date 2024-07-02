@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1833G](https://codeforces.com/problemset/problem/1833/G) | Consider the points from the leaves to the root. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0701/solution/cf1833g.md) |
-| 1900 | [CF476D](https://codeforces.com/problemset/problem/476/D) | You can divide each number by $k$ first. Then, note that you can't have $2$ even numbers in a set, | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0701/solution/cf476d.md) |
+| 1800 | [CF1442B](https://codeforces.com/problemset/problem/1442/B) | It is about choosing the numbers to delete. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0702/solution/cf1442b.md) |
+| 1900 | [CF999D](https://codeforces.com/problemset/problem/999/D) | $\bmod m$ first, then the problem is transition from $i$ to $(i+1)\bmod m$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0702/solution/cf999d.md) |
