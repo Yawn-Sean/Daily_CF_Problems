@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1196D2](https://codeforces.com/problemset/problem/1196/D2) | There are only $3$ different patterns. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0629/solution/cf1196d2.md) |
-| 2200 | [CF804C](https://codeforces.com/problemset/problem/804/C) | Think of one solution first, and then prove it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0629/solution/cf804c.md) |
+| 1700 | [CF739A](https://codeforces.com/problemset/problem/739/A) | Find the answer first, and then construct the corresponding array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0703/solution/cf739a.md) |
+| 2000 | [CF522D](https://codeforces.com/problemset/problem/522/D) | You can process the queries offline. If the left bound is fixed, how can you solve it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0703/solution/cf522d.md) |
