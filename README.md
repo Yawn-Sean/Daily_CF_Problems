@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1442B](https://codeforces.com/problemset/problem/1442/B) | It is about choosing the numbers to delete. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0702/solution/cf1442b.md) |
-| 1900 | [CF999D](https://codeforces.com/problemset/problem/999/D) | $\bmod m$ first, then the problem is transition from $i$ to $(i+1)\bmod m$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0702/solution/cf999d.md) |
+| 1700 | [CF739A](https://codeforces.com/problemset/problem/739/A) | Find the answer first, and then construct the corresponding array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0703/solution/cf739a.md) |
+| 2000 | [CF522D](https://codeforces.com/problemset/problem/522/D) | You can process the queries offline. If the left bound is fixed, how can you solve it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0703/solution/cf522d.md) |
