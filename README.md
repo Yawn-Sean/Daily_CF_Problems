@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1056B](https://codeforces.com/problemset/problem/1056/B) | $m$ isn't large, so the conditons of $(i, j)$ modulo $m$ isn't large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0608/solution/cf1056b.md) |
-| 2200 | [CF1575K](https://codeforces.com/problemset/problem/1575/K) | Fill in the blanks without constraint first. What about the others? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0608/solution/cf1575k.md) |
+| 1700 | [CF739A](https://codeforces.com/problemset/problem/739/A) | Find the answer first, and then construct the corresponding array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0703/solution/cf739a.md) |
+| 2000 | [CF522D](https://codeforces.com/problemset/problem/522/D) | You can process the queries offline. If the left bound is fixed, how can you solve it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0703/solution/cf522d.md) |
