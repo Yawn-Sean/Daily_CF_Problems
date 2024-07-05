@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1672D](https://codeforces.com/problemset/problem/1672/D) | The operation is only about moving one element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0704/solution/cf1672d.md) |
-| 2000 | [CF899E](https://codeforces.com/problemset/problem/899/E) | Find the data structure you need to implement the whole process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0704/solution/cf899e.md) |
+| 1600 | [CF570C](https://codeforces.com/problemset/problem/570/C) | If we only have one segment consisting of `'.'`, what will the answer be? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0705/solution/cf570c.md) |
+| 2100 | [CF103D](https://codeforces.com/problemset/problem/103/D) | We don't have data structures for strange sum like this. But if the $k$ is large, the number of numbers to add are not large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0705/solution/cf103d.md) |
