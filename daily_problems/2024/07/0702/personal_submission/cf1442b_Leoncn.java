@@ -1,4 +1,4 @@
-public class cf1422b_Leoncn {
+public class cf1442b_Leoncn {
     public static void solve() {
         int mod = 998244353;
         int n = sc.ni(), k = sc.ni();
