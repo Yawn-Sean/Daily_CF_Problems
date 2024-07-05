@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF739A](https://codeforces.com/problemset/problem/739/A) | Find the answer first, and then construct the corresponding array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0703/solution/cf739a.md) |
-| 2000 | [CF522D](https://codeforces.com/problemset/problem/522/D) | You can process the queries offline. If the left bound is fixed, how can you solve it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0703/solution/cf522d.md) |
+| 1600 | [CF570C](https://codeforces.com/problemset/problem/570/C) | If we only have one segment consisting of `'.'`, what will the answer be? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0705/solution/cf570c.md) |
+| 2100 | [CF103D](https://codeforces.com/problemset/problem/103/D) | We don't have data structures for strange sum like this. But if the $k$ is large, the number of numbers to add are not large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0705/solution/cf103d.md) |
