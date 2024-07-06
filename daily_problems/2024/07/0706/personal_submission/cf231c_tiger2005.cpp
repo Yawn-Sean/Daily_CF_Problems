@@ -7,10 +7,10 @@ int main() {
   for (int r = 0; r < n; r ++) {
     while (cnt > k)
       cnt -= a[r] - a[l ++];
-    ckmax(ans, {r - l + 1, a[r]});
+    ckmax(ans, {r - l + 1, - a[r]});
     if (r != n - 1)
       cnt += 1ll * (r - l + 1) * (a[r + 1] - a[r]);
   }
-  printf("%d %d\n", ans.first, ans.second);
+  printf("%d %d\n", ans.first, - ans.second);
   return 0;
 }
