@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF231C](https://codeforces.com/problemset/problem/231/C) | If you want to make all elements in a subsequence equal, how many operations at least should you apply? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0706/solution/cf231c.md) |
-| 2100 | [CF1023E](https://codeforces.com/problemset/problem/1023/E) | $(n-1)+(n-1)=2(n-1)$, so the answer should consist of $2$ parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0706/solution/cf1023e.md) |
+| 1800 | [CF1138B](https://codeforces.com/problemset/problem/1138/B) | Transform the equality to fix one side of it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0709/solution/cf1138b.md) |
+| 1900 | [CF111B](https://codeforces.com/problemset/problem/111/B) | Consider each factor of $x_i$, and you only need to know if it occurs in $x_{i-y_i},\dots,x_{i-1}$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0709/solution/cf111b.md) |
