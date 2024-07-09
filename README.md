@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1195D2](https://codeforces.com/problemset/problem/1195/D2) | If the positions of the digits of the number are fixed, the contribution of this number is determined. And the positions are only determined by the number of digits of $x,y$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0708/solution/cf1195d2.md) |
-| 1900 | [CF1585D](https://codeforces.com/problemset/problem/1585/D) | The operation is just swapping twice. It is something. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0708/solution/cf1585d.md) |
+| 1800 | [CF1138B](https://codeforces.com/problemset/problem/1138/B) | Transform the equality to fix one side of it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0709/solution/cf1138b.md) |
+| 1900 | [CF111B](https://codeforces.com/problemset/problem/111/B) | Consider each factor of $x_i$, and you only need to know if it occurs in $x_{i-y_i},\dots,x_{i-1}$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0709/solution/cf111b.md) |
