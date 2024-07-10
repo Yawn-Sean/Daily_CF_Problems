@@ -1,7 +1,6 @@
-# Submission Link: https://codeforces.com/contest/489/submission/269643075
+# Submission Link: https://codeforces.com/contest/489/submission/269643225
 def main():
     n, m = MII()
-    to = [0] * (n * n)
 
     def f(x, y):
         return x * n + y
@@ -10,7 +9,6 @@ def main():
     for _ in range(m):
         u, v = GMI()
         path[u].append(v)
-        to[f(u, v)] = 1
 
     cnt = [0] * n
 
