@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF739A](https://codeforces.com/problemset/problem/739/A) | Find the answer first, and then construct the corresponding array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0703/solution/cf739a.md) |
-| 2000 | [CF522D](https://codeforces.com/problemset/problem/522/D) | You can process the queries offline. If the left bound is fixed, how can you solve it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0703/solution/cf522d.md) |
+| 1700 | [CF489D](https://codeforces.com/problemset/problem/489/D) | Counting a pattern in a graph: find the special part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0710/solution/cf489d.md) |
+| 2000 | [CF1060E](https://codeforces.com/problemset/problem/1060/E) | How will the distance between $u$ and $v$ change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0710/solution/cf1060e.md) |
