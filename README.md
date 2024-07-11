@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1138B](https://codeforces.com/problemset/problem/1138/B) | Transform the equality to fix one side of it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0709/solution/cf1138b.md) |
-| 1900 | [CF111B](https://codeforces.com/problemset/problem/111/B) | Consider each factor of $x_i$, and you only need to know if it occurs in $x_{i-y_i},\dots,x_{i-1}$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0709/solution/cf111b.md) |
+| 1700 | [CF1131F](https://codeforces.com/problemset/problem/1131/F) | It is actually about merging the two consecutive parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0711/solution/cf1131f.md) |
+| 2000 | [CF611D](https://codeforces.com/problemset/problem/611/D) | Classic DP. When you decide which number to choose next, what information should you know? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0711/solution/cf611d.md) |
