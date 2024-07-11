@@ -1,6 +1,4 @@
 import sys
-from functools import lru_cache
-
 RI = lambda: int(sys.stdin.readline().strip())
 RS = lambda: sys.stdin.readline().strip()
 RII = lambda: map(int, sys.stdin.readline().strip().split())
