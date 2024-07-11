@@ -50,11 +50,5 @@ def main():
                 dp_acc[p(i, j)] += dp_acc[p(i, j - 1)]
                 if dp_acc[p(i, j)] >= mod:
                     dp_acc[p(i, j)] -= mod
-        
-    ans = 0
-    for i in range(n):
-        ans += dp[p(n - 1, i)]
-        if ans >= mod:
-            ans -= mod
 
-    print(ans)
+    print(dp_acc[p(n - 1, n - 1)])
