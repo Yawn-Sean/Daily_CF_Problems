@@ -34,6 +34,7 @@ def main():
     for i in range(1, n):
         if s[i] != '0':
             for j in range(n - i):
+                
                 if j:
                     dp[p(i + j, j)] += dp_acc[p(i - 1, min(i, j) - 1)]
                     if dp[p(i + j, j)] >= mod:
