@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF489D](https://codeforces.com/problemset/problem/489/D) | Counting a pattern in a graph: find the special part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0710/solution/cf489d.md) |
-| 2000 | [CF1060E](https://codeforces.com/problemset/problem/1060/E) | How will the distance between $u$ and $v$ change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0710/solution/cf1060e.md) |
+| 1600 | [CF922B](https://codeforces.com/problemset/problem/992/B) | Divide the numbers by the $gcd$ first. Then the numbers are co-prime. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0712/solution/cf992b.md) |
+| 2100 | [CF754D](https://codeforces.com/problemset/problem/754/D) | Consider how can you calculate the length of the intersection, which is determined by two variable. If you fix one of them, how can you maximize / minimize the other? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0712/solution/cf754d.md) |
