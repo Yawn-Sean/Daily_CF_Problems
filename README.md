@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1059C](https://codeforces.com/problemset/problem/1059/C) | Get the first non-$1$ element as soon as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0713/solution/cf1059c.md) |
+| 1600 | [CF1059C](https://codeforces.com/problemset/problem/1059/C) | Get the first non- $1$ element as soon as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0713/solution/cf1059c.md) |
 | 2300 | [CF432E](https://codeforces.com/problemset/problem/432/E) | Find the first element of non-filled position and fill it up. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0713/solution/cf432e.md) |
