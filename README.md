@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF922B](https://codeforces.com/problemset/problem/992/B) | Divide the numbers by the $gcd$ first. Then the numbers are co-prime. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0712/solution/cf992b.md) |
-| 2100 | [CF754D](https://codeforces.com/problemset/problem/754/D) | Consider how can you calculate the length of the intersection, which is determined by two variable. If you fix one of them, how can you maximize / minimize the other? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0712/solution/cf754d.md) |
+| 1600 | [CF1059C](https://codeforces.com/problemset/problem/1059/C) | Get the first non- $1$ element as soon as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0713/solution/cf1059c.md) |
+| 2300 | [CF432E](https://codeforces.com/problemset/problem/432/E) | Find the first element of non-filled position and fill it up. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0713/solution/cf432e.md) |
