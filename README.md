@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1131F](https://codeforces.com/problemset/problem/1131/F) | It is actually about merging the two consecutive parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0711/solution/cf1131f.md) |
-| 2000 | [CF611D](https://codeforces.com/problemset/problem/611/D) | Classic DP. When you decide which number to choose next, what information should you know? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0711/solution/cf611d.md) |
+| 1800 | [CF671A](https://codeforces.com/problemset/problem/671/A) | Once a person get to the bin, his "total cost" to get a bottle is always twice the distance between the bottle and the bin. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0715/solution/cf671a.md) |
+| 1900 | [CF597C](https://codeforces.com/problemset/problem/597/C) | Recall what you would do when calculating the number of increasing subsequences. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0715/solution/cf597c.md) |
