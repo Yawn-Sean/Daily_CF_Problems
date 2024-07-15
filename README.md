@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF922B](https://codeforces.com/problemset/problem/992/B) | Divide the numbers by the $gcd$ first. Then the numbers are co-prime. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0712/solution/cf992b.md) |
-| 2100 | [CF754D](https://codeforces.com/problemset/problem/754/D) | Consider how can you calculate the length of the intersection, which is determined by two variable. If you fix one of them, how can you maximize / minimize the other? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0712/solution/cf754d.md) |
+| 1800 | [CF671A](https://codeforces.com/problemset/problem/671/A) | Once a person get to the bin, his "total cost" to get a bottle is always twice the distance between the bottle and the bin. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0715/solution/cf671a.md) |
+| 1900 | [CF597C](https://codeforces.com/problemset/problem/597/C) | Recall what you would do when calculating the number of increasing subsequences. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0715/solution/cf597c.md) |
