@@ -3,9 +3,9 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.StringTokenizer;
-
+ 
 public class Test2 {
-
+ 
     public static void main(String[] args) throws Exception {
         BufferedReader f = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter pw = new PrintWriter(System.out);
@@ -20,20 +20,20 @@ public class Test2 {
         pw.println(res);
         pw.close();
     }
-
+ 
     private double andreyProblem(int n, Double[] p) {
         Arrays.sort(p);
         double res = 0, nc = 1;
         for (int ez = n - 1; ez >= 0; ez--) {
             double temp = res * (1 - p[ez]) + p[ez] * nc;
-            if (temp >= 1)
-                return 1;
-            else if(temp > res){
+            if (temp >= 0.5)
+                return temp;
+            else if (temp > res) {
                 res = temp;
                 nc = nc * (1 - p[ez]);
             }
         }
         return res;
     }
-
+ 
 }
