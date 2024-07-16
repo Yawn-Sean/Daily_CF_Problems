@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1138B](https://codeforces.com/problemset/problem/1138/B) | Transform the equality to fix one side of it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0709/solution/cf1138b.md) |
-| 1900 | [CF111B](https://codeforces.com/problemset/problem/111/B) | Consider each factor of $x_i$, and you only need to know if it occurs in $x_{i-y_i},\dots,x_{i-1}$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0709/solution/cf111b.md) |
+| 1800 | [CF442B](https://codeforces.com/problemset/problem/442/B) | Calculate the marginal effect of adding one person. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0716/solution/cf442b.md) |
+| 1900 | [CF1157D](https://codeforces.com/problemset/problem/1157/D) | Find the minimum sum of the whole array. Then adjust it to the target. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0716/solution/cf1157d.md) |
