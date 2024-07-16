@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF671A](https://codeforces.com/problemset/problem/671/A) | Once a person get to the bin, his "total cost" to get a bottle is always twice the distance between the bottle and the bin. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0715/solution/cf671a.md) |
-| 1900 | [CF597C](https://codeforces.com/problemset/problem/597/C) | Recall what you would do when calculating the number of increasing subsequences. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0715/solution/cf597c.md) |
+| 1800 | [CF442B](https://codeforces.com/problemset/problem/442/B) | Calculate the marginal effect of adding one person. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0716/solution/cf442b.md) |
+| 1900 | [CF1157D](https://codeforces.com/problemset/problem/1157/D) | Find the minimum sum of the whole array. Then adjust it to the target. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0716/solution/cf1157d.md) |
