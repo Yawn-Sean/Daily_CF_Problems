@@ -1,4 +1,4 @@
-# Submission Link: https://codeforces.com/contest/243/submission/270944233
+# Submission Link: https://codeforces.com/contest/243/submission/270945770
 def main():
     n, m, h, t = MII()
 
@@ -10,8 +10,8 @@ def main():
         u, v = GMI()
         us.append(u)
         vs.append(v)
-        path[u].append(i)
-        path[v].append(i)
+        path[u].append(v)
+        path[v].append(u)
 
     used = [0] * n
 
@@ -22,19 +22,19 @@ def main():
         cnt = 0
         
         for i in path[u]:
-            if not used[us[i] ^ vs[i] ^ u]:
+            if not used[i]:
                 cnt += 1
-            used[us[i] ^ vs[i] ^ u] |= 1
+            used[i] |= 1
         
         for i in path[v]:
-            if not used[us[i] ^ vs[i] ^ v]:
+            if not used[i]:
                 cnt += 1
-            used[us[i] ^ vs[i] ^ v] |= 2
+            used[i] |= 2
         
         if cnt >= h + t:
-            v1 = [us[i] ^ vs[i] ^ u for i in path[u] if used[us[i] ^ vs[i] ^ u] == 1]
-            v2 = [us[i] ^ vs[i] ^ v for i in path[v] if used[us[i] ^ vs[i] ^ v] == 2]
-            v3 = [us[i] ^ vs[i] ^ u for i in path[u] if used[us[i] ^ vs[i] ^ u] == 3]
+            v1 = [i for i in path[u] if used[i] == 1]
+            v2 = [i for i in path[v] if used[i] == 2]
+            v3 = [i for i in path[u] if used[i] == 3]
             chosen_1 = v1[:h]
             chosen_2 = v2[:t]
             for x in v3:
@@ -49,10 +49,10 @@ def main():
             exit()
         
         for i in path[u]:
-            used[us[i] ^ vs[i] ^ u] = 0
+            used[i] = 0
         
         for i in path[v]:
-            used[us[i] ^ vs[i] ^ v] = 0
+            used[i] = 0
 
     for i in range(m):
         u, v = us[i], vs[i]
