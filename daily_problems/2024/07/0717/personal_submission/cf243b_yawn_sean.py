@@ -2,8 +2,6 @@
 def main():
     n, m, h, t = MII()
 
-    us = []
-    vs = []
     path = [[] for _ in range(n)]
 
     for i in range(m):
@@ -19,6 +17,7 @@ def main():
         if len(path[u]) <= h or len(path[v]) <= t:
             return
         
+        used[u] = used[v] = -1
         cnt = 0
         
         for i in path[u]:
@@ -54,15 +53,8 @@ def main():
         for i in path[v]:
             used[i] = 0
 
-    for i in range(m):
-        u, v = us[i], vs[i]
-        
-        used[u] = used[v] = -1
-        check(u, v)
-        used[u] = used[v] = 0
-        
-        used[u] = used[v] = -1
-        check(v, u)
-        used[u] = used[v] = 0
+    for u in range(n):
+        for v in path[u]:
+            check(u, v)
 
     print('NO')
