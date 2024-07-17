@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF442B](https://codeforces.com/problemset/problem/442/B) | Calculate the marginal effect of adding one person. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0716/solution/cf442b.md) |
-| 1900 | [CF1157D](https://codeforces.com/problemset/problem/1157/D) | Find the minimum sum of the whole array. Then adjust it to the target. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0716/solution/cf1157d.md) |
+| 1700 | [CF1594D](https://codeforces.com/problemset/problem/1594/D) | If one call another an "imposter", they are just of different types; otherwise, they are of the same type. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0717/solution/cf1594d.md) |
+| 2000 | [CF243B](https://codeforces.com/problemset/problem/243/B) | Clearly, $u, v$ are the most important part of the pattern to find. How can you check the "heads" and "tails"? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0717/solution/cf243b.md) |
