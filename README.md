@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1059C](https://codeforces.com/problemset/problem/1059/C) | Get the first non- $1$ element as soon as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0713/solution/cf1059c.md) |
-| 2300 | [CF432E](https://codeforces.com/problemset/problem/432/E) | Find the first element of non-filled position and fill it up. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0713/solution/cf432e.md) |
+| 1700 | [CF1594D](https://codeforces.com/problemset/problem/1594/D) | If one call another an "imposter", they are just of different types; otherwise, they are of the same type. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0717/solution/cf1594d.md) |
+| 2000 | [CF243B](https://codeforces.com/problemset/problem/243/B) | Clearly, $u, v$ are the most important part of the pattern to find. How can you check the "heads" and "tails"? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0717/solution/cf243b.md) |
