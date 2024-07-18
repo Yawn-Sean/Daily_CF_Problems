@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF442B](https://codeforces.com/problemset/problem/442/B) | Calculate the marginal effect of adding one person. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0716/solution/cf442b.md) |
-| 1900 | [CF1157D](https://codeforces.com/problemset/problem/1157/D) | Find the minimum sum of the whole array. Then adjust it to the target. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0716/solution/cf1157d.md) |
+| 1700 | [CF622C](https://codeforces.com/problemset/problem/622/C) | As you can find any position $p_i$ that satisfy the conditions, you can choose the leftmost / rightmost one. The only thing you need to do is to "jump over" a consecutive subarray. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0718/solution/cf622c.md) |
+| 2000 | [CF156C](https://codeforces.com/problemset/problem/156/C) | 1. What doesn't change when the operation is applied? Is it a sufficient condition? 2. What are the important variable of the final string? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0718/solution/cf156c.md) |
