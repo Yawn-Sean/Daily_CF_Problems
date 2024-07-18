@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1594D](https://codeforces.com/problemset/problem/1594/D) | If one call another an "imposter", they are just of different types; otherwise, they are of the same type. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0717/solution/cf1594d.md) |
-| 2000 | [CF243B](https://codeforces.com/problemset/problem/243/B) | Clearly, $u, v$ are the most important part of the pattern to find. How can you check the "heads" and "tails"? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0717/solution/cf243b.md) |
+| 1700 | [CF622C](https://codeforces.com/problemset/problem/622/C) | As you can find any position $p_i$ that satisfy the conditions, you can choose the leftmost / rightmost one. The only thing you need to do is to "jump over" a consecutive subarray. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0718/solution/cf622c.md) |
+| 2000 | [CF156C](https://codeforces.com/problemset/problem/156/C) | 1. What doesn't change when the operation is applied? Is it a sufficient condition? 2. What are the important variable of the final string? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0718/solution/cf156c.md) |
