@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF622C](https://codeforces.com/problemset/problem/622/C) | As you can find any position $p_i$ that satisfy the conditions, you can choose the leftmost / rightmost one. The only thing you need to do is to "jump over" a consecutive subarray. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0718/solution/cf622c.md) |
-| 2000 | [CF156C](https://codeforces.com/problemset/problem/156/C) | 1. What doesn't change when the operation is applied? Is it a sufficient condition? 2. What are the important variable of the final string? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0718/solution/cf156c.md) |
+| 1600 | [CF1243B2](https://codeforces.com/problemset/problem/1243/B2) | You only need to use $2$ operations to get one position right. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0719/solution/cf1243b2.md) |
+| 2100 | [CF190E](https://codeforces.com/problemset/problem/190/E) | The BFS and DFS here should be those unvisited minus those places which you can't go in the next step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0719/solution/cf190e.md) |
