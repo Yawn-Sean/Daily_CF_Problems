@@ -10,6 +10,7 @@ void solve() {
         if (a[i] != a[i - 1]) l[i] = i - 1;
         else l[i] = l[i-1];
     }
+    
     while (m--) {
         int ql, qr, x;
         cin >> ql >> qr >> x;
