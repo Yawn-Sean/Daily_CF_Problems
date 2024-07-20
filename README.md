@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1243B2](https://codeforces.com/problemset/problem/1243/B2) | You only need to use $2$ operations to get one position right. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0719/solution/cf1243b2.md) |
-| 2100 | [CF190E](https://codeforces.com/problemset/problem/190/E) | The BFS and DFS here should be those unvisited minus those places which you can't go in the next step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0719/solution/cf190e.md) |
+| 1600 | [CF954D](https://codeforces.com/problemset/problem/954/D) | How does the length of shortest path change when you add an edge? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf954d.md) |
+| 2100 | [CF425B](https://codeforces.com/problemset/problem/425/B) | First of all, figure out the configuration of the whole grid. Then consider why $k$ is so small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf425b.md) |
