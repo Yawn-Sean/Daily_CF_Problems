@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1131F](https://codeforces.com/problemset/problem/1131/F) | It is actually about merging the two consecutive parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0711/solution/cf1131f.md) |
-| 2000 | [CF611D](https://codeforces.com/problemset/problem/611/D) | Classic DP. When you decide which number to choose next, what information should you know? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0711/solution/cf611d.md) |
+| 1600 | [CF954D](https://codeforces.com/problemset/problem/954/D) | How does the length of shortest path change when you add an edge? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf954d.md) |
+| 2100 | [CF425B](https://codeforces.com/problemset/problem/425/B) | First of all, figure out the configuration of the whole grid. Then consider why $k$ is so small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf425b.md) |
