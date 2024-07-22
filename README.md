@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF954D](https://codeforces.com/problemset/problem/954/D) | How does the length of shortest path change when you add an edge? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf954d.md) |
-| 2100 | [CF425B](https://codeforces.com/problemset/problem/425/B) | First of all, figure out the configuration of the whole grid. Then consider why $k$ is so small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf425b.md) |
+| 1800 | [CF1119D](https://codeforces.com/problemset/problem/1119/D) | Consider each gap separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0722/solution/cf1119d.md) |
+| 1900 | [CF1172B](https://codeforces.com/problemset/problem/1172/B) | Fix one point first, and then you only need to consider the answer of the subtrees and the order of them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0722/solution/cf1172b.md) |
