@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1594D](https://codeforces.com/problemset/problem/1594/D) | If one call another an "imposter", they are just of different types; otherwise, they are of the same type. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0717/solution/cf1594d.md) |
-| 2000 | [CF243B](https://codeforces.com/problemset/problem/243/B) | Clearly, $u, v$ are the most important part of the pattern to find. How can you check the "heads" and "tails"? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0717/solution/cf243b.md) |
+| 1800 | [CF1119D](https://codeforces.com/problemset/problem/1119/D) | Consider each gap separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0722/solution/cf1119d.md) |
+| 1900 | [CF1172B](https://codeforces.com/problemset/problem/1172/B) | Fix one point first, and then you only need to consider the answer of the subtrees and the order of them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0722/solution/cf1172b.md) |
