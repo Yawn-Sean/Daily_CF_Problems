@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF351A](https://codeforces.com/problemset/problem/351/A) | You only need to consider the numbers after the `'.'`. How many $1000$ -s will they become. |
-| 1900 | [CF792D](https://codeforces.com/problemset/problem/792/D) | Find the relation between the numbers of a node, its parent and its children. |
+| 1800 | [CF351A](https://codeforces.com/problemset/problem/351/A) | You only need to consider the numbers after the `'.'`. How many $1000$ -s will they become? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0723/solution/cf351a.md) |
+| 1900 | [CF792D](https://codeforces.com/problemset/problem/792/D) | Find the relation between the numbers of a node, its parent and its children. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0723/solution/cf792d.md) |
