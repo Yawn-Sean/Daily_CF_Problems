@@ -9,7 +9,6 @@
 void solve() {
     int n;
     cin >> n;
-    priority_queue<pii, vc<pii>, greater<>> vp;
     int tot = 0, cnt0 = 0, ans = inf<int>;
     rep (i, 0, 2 * n) {
         string s;
