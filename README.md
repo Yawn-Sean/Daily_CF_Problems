@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1119D](https://codeforces.com/problemset/problem/1119/D) | Consider each gap separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0722/solution/cf1119d.md) |
-| 1900 | [CF1172B](https://codeforces.com/problemset/problem/1172/B) | Fix one point first, and then you only need to consider the answer of the subtrees and the order of them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0722/solution/cf1172b.md) |
+| 1800 | [CF351A](https://codeforces.com/problemset/problem/351/A) | You only need to consider the numbers after the `'.'`. How many $1000$ -s will they become? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0723/solution/cf351a.md) |
+| 1900 | [CF792D](https://codeforces.com/problemset/problem/792/D) | Find the relation between the numbers of a node, its parent and its children. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0723/solution/cf792d.md) |
