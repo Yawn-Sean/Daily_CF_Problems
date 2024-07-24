@@ -1,3 +1,4 @@
+from functools import reduce
 def solve():
     n=int(input())
     a=list(map(int,input().split()))
