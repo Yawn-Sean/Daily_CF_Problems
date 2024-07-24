@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF954D](https://codeforces.com/problemset/problem/954/D) | How does the length of shortest path change when you add an edge? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf954d.md) |
-| 2100 | [CF425B](https://codeforces.com/problemset/problem/425/B) | First of all, figure out the configuration of the whole grid. Then consider why $k$ is so small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf425b.md) |
+| 1700 | [CF798C](https://codeforces.com/problemset/problem/798/C) | Actually, the $gcd$ can't change much. Why? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0724/solution/cf798c.md) |
+| 2000 | [CF367C](https://codeforces.com/problemset/problem/367/C) | If we choose $k$ numbers, what is the minimum length of the array? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0724/solution/cf367c.md) |
