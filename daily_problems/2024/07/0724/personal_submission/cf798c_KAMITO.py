@@ -1,4 +1,5 @@
 from functools import reduce
+from math import gcd
 def solve():
     n=int(input())
     a=list(map(int,input().split()))
