@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF798C](https://codeforces.com/problemset/problem/798/C) | Actually, the $gcd$ can't change much. Why? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0724/solution/cf798c.md) |
-| 2000 | [CF367C](https://codeforces.com/problemset/problem/367/C) | If we choose $k$ numbers, what is the minimum length of the array? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0724/solution/cf367c.md) |
+| 1700 | [CF1023D](https://codeforces.com/problemset/problem/1023/D) | What conditions should the final array satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0725/solution/cf1023d.md) |
+| 2000 | [CF886D](https://codeforces.com/problemset/problem/886/D) | The numbers of appearances of all the substrings of the given strings should be the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0725/solution/cf886d.md) |
