@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1023D](https://codeforces.com/problemset/problem/1023/D) | What conditions should the final array satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0725/solution/cf1023d.md) |
-| 2000 | [CF886D](https://codeforces.com/problemset/problem/886/D) | The numbers of appearances of all the substrings of the given strings should be the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0725/solution/cf886d.md) |
+| 1600 | [CF1660E](https://codeforces.com/problemset/problem/1660/E) | We want to make the maximum number of $1$ on the diagonal. The operations is actually "moving" the grid up or down, left or right. "Moving" is relative. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0726/solution/cf1660e.md) |
+| 2100 | [CF231E](https://codeforces.com/problemset/problem/231/E) | Where can you find a different way between the nodes? Count that in a tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0726/solution/cf231e.md) |
