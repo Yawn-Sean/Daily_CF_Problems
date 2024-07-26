@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF798C](https://codeforces.com/problemset/problem/798/C) | Actually, the $gcd$ can't change much. Why? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0724/solution/cf798c.md) |
-| 2000 | [CF367C](https://codeforces.com/problemset/problem/367/C) | If we choose $k$ numbers, what is the minimum length of the array? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0724/solution/cf367c.md) |
+| 1600 | [CF1660E](https://codeforces.com/problemset/problem/1660/E) | We want to make the maximum number of $1$ on the diagonal. The operations is actually "moving" the grid up or down, left or right. "Moving" is relative. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0726/solution/cf1660e.md) |
+| 2100 | [CF231E](https://codeforces.com/problemset/problem/231/E) | Where can you find a different way between the nodes? Count that in a tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0726/solution/cf231e.md) |
