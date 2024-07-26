@@ -3,7 +3,6 @@ using namespace std;
 #define rep(i, a, b) for(int i = a; i < (b); ++i)
 #define all(x) begin(x), end(x)
 #define sz(x) (int)(x).size()
- 
 using ull = unsigned long long;
 using ll = long long;
 using pii = pair<int, int>;
