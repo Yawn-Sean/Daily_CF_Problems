@@ -20,13 +20,11 @@ void solve(){
     string s;
     cin>>s;
     s=' '+s;
-    int maxs=0;
   
     for(int i=1;i<=n;i++){
         for(int k=0;k<26;k++){
             if(s[i]-'a'==k){
                 dp[i][0][k]=dp[i-1][0][k]+1;
-                maxs=max(maxs,dp[i][0][k]);
                 ans[0][k]=max(ans[0][k],dp[i][0][k]);
             }
         }
