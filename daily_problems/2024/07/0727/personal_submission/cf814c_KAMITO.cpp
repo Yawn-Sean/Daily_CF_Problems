@@ -7,7 +7,6 @@ using i64=long long;
 constexpr i64 INF=numeric_limits<i64>::max()/2;
 constexpr int inf=numeric_limits<int>::max()/2;
 constexpr int N=1510;
-
 int dp[N][N][26];
 // 前i个元素不超过j次操作且以字符k结尾的最长长度
 int ans[N][26];
