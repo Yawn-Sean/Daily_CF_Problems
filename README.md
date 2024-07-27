@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF954D](https://codeforces.com/problemset/problem/954/D) | How does the length of shortest path change when you add an edge? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf954d.md) |
-| 2100 | [CF425B](https://codeforces.com/problemset/problem/425/B) | First of all, figure out the configuration of the whole grid. Then consider why $k$ is so small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf425b.md) |
+| 1600 | [CF814C](https://codeforces.com/problemset/problem/814/C) | You should notice that there can't be too many different queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0727/solution/cf814c.md) |
+| 2200 | [CF713B](https://codeforces.com/problemset/problem/713/B) | It is always easier to solve the problem for $1$ rectangle. Find one large rectangle that only contains one without overlapping with the other. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0727/solution/cf713b.md) |
