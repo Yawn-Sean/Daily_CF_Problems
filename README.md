@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1660E](https://codeforces.com/problemset/problem/1660/E) | We want to make the maximum number of $1$ on the diagonal. The operations is actually "moving" the grid up or down, left or right. "Moving" is relative. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0726/solution/cf1660e.md) |
-| 2100 | [CF231E](https://codeforces.com/problemset/problem/231/E) | Where can you find a different way between the nodes? Count that in a tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0726/solution/cf231e.md) |
+| 1800 | [CF513B2](https://codeforces.com/problemset/problem/513/B2) | Think of the smallest element. How many times is it counted? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0729/solution/cf513b2.md) |
+| 1900 | [CF1105D](https://codeforces.com/problemset/problem/1105/D) | Whick points can generate new points in the next round? How can you consider $speed[i]$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0729/solution/cf1105d.md) |
