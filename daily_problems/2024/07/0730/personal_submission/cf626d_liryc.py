@@ -1,6 +1,6 @@
 '''
 https://codeforces.com/contest/626/submission/273447284
-(CF又抽了，一直显示"In Queue"，看了题解跟我的代码一样的，所以先提交了，后面有问题再改)
+(Accepted)
 CF626D
 20240730 Y1
 probabilities
