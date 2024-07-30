@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF814C](https://codeforces.com/problemset/problem/814/C) | You should notice that there can't be too many different queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0727/solution/cf814c.md) |
-| 2200 | [CF713B](https://codeforces.com/problemset/problem/713/B) | It is always easier to solve the problem for $1$ rectangle. Find one large rectangle that only contains one without overlapping with the other. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0727/solution/cf713b.md) |
+| 1800 | [CF626D](https://codeforces.com/problemset/problem/626/D) | Consider the first $2$ balls as a whole. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0730/solution/cf626d.md) |
+| 1900 | [CF1163C2](https://codeforces.com/problemset/problem/1163/C2) | There are only $3$ different position conditions between $2$ lines. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0730/solution/cf1163c2.md) |
