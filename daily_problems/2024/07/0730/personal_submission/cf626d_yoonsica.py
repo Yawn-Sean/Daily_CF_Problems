@@ -20,10 +20,10 @@ for i, x in enumerate(a):
         cnt[x - y] += 1
 
 cnt2 = [0]*N # 前两轮的分差和，由于第三次最高5000，所以这里大于等于5000的不用管
-for x in cnt:
-    for y in cnt:
-        if x + y < 5000:
-            cnt2[x + y] = cnt[x] * cnt[y]
+for i, x in enumerate(cnt):
+    for j, y in enumerate(cnt):
+        if i + j < 5000:
+            cnt2[i + j] += x*y
 
 s = [0]*N
 for i in range(1, 5000):
