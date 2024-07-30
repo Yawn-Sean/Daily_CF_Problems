@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF513B2](https://codeforces.com/problemset/problem/513/B2) | Think of the smallest element. How many times is it counted? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0729/solution/cf513b2.md) |
-| 1900 | [CF1105D](https://codeforces.com/problemset/problem/1105/D) | Whick points can generate new points in the next round? How can you consider $speed[i]$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0729/solution/cf1105d.md) |
+| 1800 | [CF626D](https://codeforces.com/problemset/problem/626/D) | Consider the first $2$ balls as a whole. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0730/solution/cf626d.md) |
+| 1900 | [CF1163C2](https://codeforces.com/problemset/problem/1163/C2) | There are only $3$ different position conditions between $2$ lines. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0730/solution/cf1163c2.md) |
