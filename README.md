@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF626D](https://codeforces.com/problemset/problem/626/D) | Consider the first $2$ balls as a whole. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0730/solution/cf626d.md) |
-| 1900 | [CF1163C2](https://codeforces.com/problemset/problem/1163/C2) | There are only $3$ different position conditions between $2$ lines. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0730/solution/cf1163c2.md) |
+| 1700 | [CF1041D](https://codeforces.com/problemset/problem/1041/D) | The "area" is "good" for you, so at least make full use of the leftmost chosen one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0731/solution/cf1041d.md) |
+| 2000 | [CF916B](https://codeforces.com/problemset/problem/916/B) | First of all, find the shortest sequence. Prove it is the lexicographically largest one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0731/solution/cf916b.md) |
