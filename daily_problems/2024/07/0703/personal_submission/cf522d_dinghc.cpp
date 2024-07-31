@@ -26,8 +26,6 @@ struct seg_tree {
             int m = (l + r) >> 1;
             update(v * 2 + 1, l, m, L, min(m, R), val);
             update(v * 2 + 2, m, r, max(m, L), R, val);
-            t[v] = min(t[v], t[v * 2 + 1]);
-            t[v] = min(t[v], t[v * 2 + 2]);
         }
     }
     int query(int v, int l, int r, int pos) {
