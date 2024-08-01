@@ -1,0 +1,4 @@
+| Difficulty | Problems | Hints |
+| -------- | -------- | -------- |
+| 1700 | [CF1329B](https://codeforces.com/problemset/problem/1329/B) | If you have $a_1(b_1)$ , what conditions should $b_2$ satisfy? |
+| 2000 | [CF196B](https://codeforces.com/problemset/problem/196/B) | If one can go infinitely far in one grid, $(x\bmod m,y\bmod m)$ should at least visit one point infinite times. |
