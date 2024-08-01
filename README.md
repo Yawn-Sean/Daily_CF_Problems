@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF626D](https://codeforces.com/problemset/problem/626/D) | Consider the first $2$ balls as a whole. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0730/solution/cf626d.md) |
-| 1900 | [CF1163C2](https://codeforces.com/problemset/problem/1163/C2) | There are only $3$ different position conditions between $2$ lines. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0730/solution/cf1163c2.md) |
+| 1700 | [CF1329B](https://codeforces.com/problemset/problem/1329/B) | If you have $a_1(b_1)$ , what conditions should $b_2$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0801/solution/cf1329b.md) |
+| 2000 | [CF196B](https://codeforces.com/problemset/problem/196/B) | If one can go infinitely far in one grid, at least one of $(x\bmod n,y\bmod m)$ should be visited infinite times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0801/solution/cf196b.md) |
