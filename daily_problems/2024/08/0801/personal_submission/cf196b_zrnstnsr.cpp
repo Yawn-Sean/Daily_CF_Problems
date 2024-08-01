@@ -15,20 +15,6 @@ void solve() {
         if (pos != string::npos) c = pos, r = i;
     }
     vector<pair<int, int>> vis(n * m, {0x3f3f3f3f, 0x3f3f3f3f});
-    /* auto dfs = [&](auto &&self, int r, int c, int st) -> bool {
-        if (vis[st^1][r*m+c]) return true;
-        vis[st][r*m+c] = true;
-        for (int i = 0; i < 4; ++i) {
-            int rr = (r + n + d[i][0]) % n, cc = (c + m + d[i][1]) % m, ss = st;
-            if (grid[rr][cc] != '#') {
-                if (rr != r + d[i][0] || cc != c + d[i][1]) ss ^= 1;
-                if (!vis[ss][rr*m+cc] && self(self, rr, cc, ss)) return true;
-            }
-        }
-        return false;
-    };
-    
-    cout << (dfs(dfs, r, c, 0) ? "Yes\n" : "No\n"); */
     queue<tuple<int, int, int, int>> q;
     q.push({r, c, 0, 0});
     vis[r*m+c] = {0, 0};
