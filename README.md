@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1329B](https://codeforces.com/problemset/problem/1329/B) | If you have $a_1(b_1)$ , what conditions should $b_2$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0801/solution/cf1329b.md) |
-| 2000 | [CF196B](https://codeforces.com/problemset/problem/196/B) | If one can go infinitely far in one grid, at least one of $(x\bmod n,y\bmod m)$ should be visited infinite times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0801/solution/cf196b.md) |
+| 1600 | [CF888D](https://codeforces.com/problemset/problem/888/D) | Consider different $k$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0802/solution/cf888d.md) |
+| 2100 | [CF269C](https://codeforces.com/problemset/problem/269/C) | If the in-flows of one point are already determined, the out-flows are also determined. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0802/solution/cf269c.md) |
