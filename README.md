@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1041D](https://codeforces.com/problemset/problem/1041/D) | The "area" is "good" for you, so at least make full use of the leftmost chosen one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0731/solution/cf1041d.md) |
-| 2000 | [CF916B](https://codeforces.com/problemset/problem/916/B) | First of all, find the shortest sequence. Prove it is the lexicographically largest one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0731/solution/cf916b.md) |
+| 1600 | [CF888D](https://codeforces.com/problemset/problem/888/D) | Consider different $k$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0802/solution/cf888d.md) |
+| 2100 | [CF269C](https://codeforces.com/problemset/problem/269/C) | If the in-flows of one point are already determined, the out-flows are also determined. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0802/solution/cf269c.md) |
