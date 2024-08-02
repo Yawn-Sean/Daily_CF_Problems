@@ -39,3 +39,39 @@ void solve() {
     }
     printv(dir, nl, false);
 }
+
+// 存图方式巩固
+void solve() {
+    int n, m;
+    cin >> n >> m;
+    vi us(m), vs(m), flow(m), totflow(n), dir(m, -1);
+    vvi path(n);
+    rep (i, 0, m) {
+        int u, v, c;
+        cin >> u >> v >> c;
+        --u, --v;
+        us[i] = u;
+        vs[i] = v;
+        flow[i] = c;
+        totflow[u] += c;
+        totflow[v] += c;
+        path[u].push_back(i);
+        path[v].push_back(i);
+    }
+    // 先计算出条件，访问到满足条件的点直接入栈
+    rep (i, 0, n) totflow[i] /= 2;
+ 
+    vector<int> st(1);
+    while (!st.empty()) {
+        int u = st.back(); st.pop_back();
+        for (int i: path[u]) {
+            if (dir[i] == -1) {
+                int v = us[i] + vs[i] - u;
+                dir[i] = vs[i] == u;
+                totflow[v] -= flow[i];
+                if (totflow[v] == 0 && v != n - 1) st.push_back(v);
+            }
+        }
+    }
+    printv(dir, nl, false);
+}
