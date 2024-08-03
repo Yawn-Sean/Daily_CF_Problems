@@ -1,0 +1,65 @@
+// Problem: A. Recommendations
+// Contest: Codeforces - VK Cup 2019-2020 - Elimination Round (Engine)
+// URL: https://codeforces.com/problemset/problem/1310/A
+// Memory Limit: 512 MB
+// Time Limit: 2000 ms
+// 
+// Powered by CP Editor (https://cpeditor.org)
+
+#include<bits/stdc++.h>
+using namespace std;
+typedef pair<int,int>PII;
+typedef long long ll;
+
+struct node{
+	int x,y;
+	bool operator<(const node&v)const{
+		if(x==v.x)
+			return y>v.y;
+		return x<v.x;
+	}
+};
+
+void solve(){
+	int n;cin>>n;
+	vector<node>a(n+1);	
+	for(int i=0;i<n;i++)cin>>a[i].x;
+	for(int i=0;i<n;i++)cin>>a[i].y;
+	sort(a.begin(),a.end());
+	int u=0,now=0;
+	ll ans=0,tmp=0;
+	priority_queue<ll>q;
+	while(!q.empty()||u<n){
+		now++;
+		if(q.empty()){
+			now=a[u].x;
+			while(now==a[u].x){
+				tmp+=a[u].y;
+				q.push(a[u].y);
+				u++;
+			}
+		}
+		else{
+			while(now==a[u].x){
+				tmp+=a[u].y;
+				q.push(a[u].y);
+				u++;
+			}
+		}
+		//cout<<tmp<<"\n";
+		int t=q.top();q.pop();
+		tmp-=t;
+		ans+=tmp;
+		
+	}
+	cout<<ans<<"\n";
+}
+
+signed main()
+{
+	ios::sync_with_stdio(0),cin.tie(0);
+	int tt=1;
+	while(tt--)solve();
+}
+
+

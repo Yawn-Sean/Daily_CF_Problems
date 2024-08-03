@@ -14,6 +14,8 @@
 
 - Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
 
+- Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
+
 ## Statistics
 
 Here are the current statistics of submissions: [Link](https://yawn-sean.github.io/Daily_CF_Problems/#).
@@ -22,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1016D](https://codeforces.com/problemset/problem/1016/D) | Brain teaser. Two ways of thinking: What is the necessary condition? / How can you try to satisfy more conditions when you already have a partly-right result? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0401/solution/cf1016d.md) |
-| 1900 | [CF1220D](https://codeforces.com/problemset/problem/1220/D) | Just consider the case where $n=2$. Can you discover anything? Is it sufficent for larger $n$? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0401/solution/cf1220d.md) |
+| 1600 | [CF835C](https://codeforces.com/problemset/problem/835/C) | The stars shine cyclically. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf835c.md) |
+| 2200 | [CF538F](https://codeforces.com/problemset/problem/538/F) | For each $k$, how many conditions should you check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf538f.md) |
