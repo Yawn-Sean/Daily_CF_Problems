@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1329B](https://codeforces.com/problemset/problem/1329/B) | If you have $a_1(b_1)$ , what conditions should $b_2$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0801/solution/cf1329b.md) |
-| 2000 | [CF196B](https://codeforces.com/problemset/problem/196/B) | If one can go infinitely far in one grid, at least one of $(x\bmod n,y\bmod m)$ should be visited infinite times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0801/solution/cf196b.md) |
+| 1600 | [CF835C](https://codeforces.com/problemset/problem/835/C) | The stars shine cyclically. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf835c.md) |
+| 2200 | [CF538F](https://codeforces.com/problemset/problem/538/F) | For each $k$, how many conditions should you check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf538f.md) |
