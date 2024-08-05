@@ -1,3 +1,4 @@
+// version1
 void solve() {
     int n, m, k, mn = inf<int>, ans = 0;
     cin >> n >> m >> k;
