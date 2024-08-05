@@ -1,4 +1,4 @@
-# Submission link: hhttps://codeforces.com/contest/835/submission/274089961
+# Submission link: https://codeforces.com/contest/835/submission/274089961
 def main():
     n, q, c = MII()
 

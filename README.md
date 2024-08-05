@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF888D](https://codeforces.com/problemset/problem/888/D) | Consider different $k$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0802/solution/cf888d.md) |
-| 2100 | [CF269C](https://codeforces.com/problemset/problem/269/C) | If the in-flows of one point are already determined, the out-flows are also determined. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0802/solution/cf269c.md) |
+| 1800 | [CF1468J](https://codeforces.com/problemset/problem/1468/J) | If you want an edge outside the current spanning tree, you can always replace one of the edge in the spanning tree with it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0805/solution/cf1468j.md) |
+| 1900 | [CF961E](https://codeforces.com/problemset/problem/961/E) | Always be aware of what we should calculate in the question. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0805/solution/cf961e.md) |
