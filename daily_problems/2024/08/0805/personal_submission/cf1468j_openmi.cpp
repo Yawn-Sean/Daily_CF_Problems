@@ -1,6 +1,7 @@
 // version1
 void solve() {
-    int n, m, k, mn = inf<int>, ans = 0;
+    int n, m, k, mn = inf<int>;
+    ll ans = 0;
     cin >> n >> m >> k;
     vi us(m), vs(m), lims(m);
     rep (i, 0, m) {
@@ -49,7 +50,7 @@ void solve() {
     }
     
     int mng = pqg.empty() ? inf<int> : pqg.top().first;
-    int ans = 0;
+    ll ans = 0;
 
     while (!pqg.empty()) {
         auto [v, i] = pqg.top(); pqg.pop();
