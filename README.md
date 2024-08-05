@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF835C](https://codeforces.com/problemset/problem/835/C) | The stars shine cyclically. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf835c.md) |
-| 2200 | [CF538F](https://codeforces.com/problemset/problem/538/F) | For each $k$, how many conditions should you check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf538f.md) |
+| 1800 | [CF1468J](https://codeforces.com/problemset/problem/1468/J) | If you want an edge outside the current spanning tree, you can always replace one of the edge in the spanning tree with it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0805/solution/cf1468j.md) |
+| 1900 | [CF961E](https://codeforces.com/problemset/problem/961/E) | Always be aware of what we should calculate in the question. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0805/solution/cf961e.md) |
