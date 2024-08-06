@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF835C](https://codeforces.com/problemset/problem/835/C) | The stars shine cyclically. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf835c.md) |
-| 2200 | [CF538F](https://codeforces.com/problemset/problem/538/F) | For each $k$, how many conditions should you check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf538f.md) |
+| 1800 | [CF1177B](https://codeforces.com/problemset/problem/1177/B) | Consider numbers which have the same number of digits separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0806/solution/cf1177b.md) |
+| 1900 | [CF832D](https://codeforces.com/problemset/problem/832/D) | Consider the patterns of the paths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0806/solution/cf832d.md) |
