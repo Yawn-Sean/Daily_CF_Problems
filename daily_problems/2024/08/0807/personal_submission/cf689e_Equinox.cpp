@@ -34,7 +34,7 @@ void solve() {
         invfac[i] = (i + 1LL) * invfac[i + 1] % P;
 
     auto Comb = [&](int n, int m) -> int {
-        return 1LL * fac[n] * invfac[m] * invfac[n - m] % P;
+        return 1LL * fac[n] * invfac[m] % P * invfac[n - m] % P;
     };
 
     std::map<int, int> dif;
