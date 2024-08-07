@@ -24,5 +24,3 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1177B](https://codeforces.com/problemset/problem/1177/B) | Consider numbers which have the same number of digits separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0806/solution/cf1177b.md) |
-| 1900 | [CF832D](https://codeforces.com/problemset/problem/832/D) | Consider the patterns of the paths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0806/solution/cf832d.md) |
