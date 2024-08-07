@@ -24,3 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| 1700 | [CF578B](https://codeforces.com/problemset/problem/578/B) | The largest number determines the length of the binary expression of the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0807/solution/cf578b.md) |
+| 2000 | [CF689E](https://codeforces.com/problemset/problem/689/E) | Consider the contribution of each point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0807/solution/cf689e.md) |
