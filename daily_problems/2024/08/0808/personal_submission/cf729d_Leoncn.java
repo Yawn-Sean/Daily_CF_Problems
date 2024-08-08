@@ -1,4 +1,3 @@
-package daily_problems.2024.08.0808.personal_submission;
 
 public class cf729d_Leoncn {
     public static void solve() {
