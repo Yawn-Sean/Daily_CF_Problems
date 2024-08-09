@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF729D](https://codeforces.com/problemset/problem/729/D) | For each segment of $0$ , find out the minimum cells to detect. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0808/solution/cf729d.md) |
-| 2000 | [CF557D](https://codeforces.com/problemset/problem/557/D) | What is the maximum answer? From $0$ to the maximum answer, what conditions should the graph satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0808/solution/cf557d.md) |
+| 1600 | [CF476C](https://codeforces.com/problemset/problem/476/C) | Write the division equation with a remainder in the form of $x=d\times y+r$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0809/solution/cf476c.md) |
+| 2100 | [CF575F](https://codeforces.com/problemset/problem/575/F) | Only a few points matter. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0809/solution/cf575f.md) |
