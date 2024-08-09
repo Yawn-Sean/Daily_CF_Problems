@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1547E](https://codeforces.com/problemset/problem/476/C) | Write the division equation with a remainder in the form of $x=d\times y+r$ . | [Editorial](https://codeforces.com/problemset/problem/476/C) |
-| 2100 | [CF575F](https://codeforces.com/problemset/problem/575/F) | Only a few points matters. | [Editorial](https://codeforces.com/problemset/problem/575/F) |
+| 1600 | [CF1547E](https://codeforces.com/problemset/problem/476/C) | Write the division equation with a remainder in the form of $x=d\times y+r$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0809/solution/cf476c.md) |
+| 2100 | [CF575F](https://codeforces.com/problemset/problem/575/F) | Only a few points matter. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0809/solution/cf575f.md) |
