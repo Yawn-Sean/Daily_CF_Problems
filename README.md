@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1833G](https://codeforces.com/problemset/problem/1833/G) | Consider the points from the leaves to the root. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0701/solution/cf1833g.md) |
-| 1900 | [CF476D](https://codeforces.com/problemset/problem/476/D) | You can divide each number by $k$ first. Then, note that you can't have $2$ even numbers in a set, | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0701/solution/cf476d.md) |
+| 1800 | [CF1090D](https://codeforces.com/problemset/problem/1090/D) | Find $2$ elements that can be swapped. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0812/solution/cf1090d.md) |
+| 1900 | [CF724D](https://codeforces.com/problemset/problem/724/D) | You should always use the lexicographically smaller characters. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0812/solution/cf724d.md) |
