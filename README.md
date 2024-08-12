@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF949A](https://codeforces.com/problemset/problem/949/A) | Try to make the number of arrays as small as possible. Then we should not create an array unless it is necessary. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0810/solution/cf949a.md) |
-| 2200 | [CF731E](https://codeforces.com/problemset/problem/731/E) | It's about choosing the prefix sum in turn while the array keeps changing. Or, the array is not actually changing? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0810/solution/cf731e.md) |
+| 1800 | [CF1090D](https://codeforces.com/problemset/problem/1090/D) | Find $2$ elements that can be swapped. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0812/solution/cf1090d.md) |
+| 1900 | [CF724D](https://codeforces.com/problemset/problem/724/D) | You should always use the lexicographically smaller characters. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0812/solution/cf724d.md) |
