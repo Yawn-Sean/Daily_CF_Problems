@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1090D](https://codeforces.com/problemset/problem/1090/D) | Find $2$ elements that can be swapped. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0812/solution/cf1090d.md) |
-| 1900 | [CF724D](https://codeforces.com/problemset/problem/724/D) | You should always use the lexicographically smaller characters. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0812/solution/cf724d.md) |
+| 1800 | [CF822D](https://codeforces.com/problemset/problem/822/D) | $l, r$ isn't too large. And the sum of the numbers of factors of integers from $l$ to $r$ is not that large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0813/solution/cf822d.md) |
+| 1900 | [CF722D](https://codeforces.com/problemset/problem/722/D) | How can you make the largest number smaller? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0813/solution/cf722d.md) |
