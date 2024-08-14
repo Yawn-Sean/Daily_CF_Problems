@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF949A](https://codeforces.com/problemset/problem/949/A) | Try to make the number of arrays as small as possible. Then we should not create an array unless it is necessary. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0810/solution/cf949a.md) |
-| 2200 | [CF731E](https://codeforces.com/problemset/problem/731/E) | It's about choosing the prefix sum in turn while the array keeps changing. Or, the array is not actually changing? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0810/solution/cf731e.md) |
+| 1700 | [CF578A](https://codeforces.com/problemset/problem/578/A) | There are only $2$ types of segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0814/solution/cf578a.md) |
+| 2000 | [CF1092E](https://codeforces.com/problemset/problem/1092/E) | Hope you're familiar with the problem when there are $2$ trees in a forest. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0814/solution/cf1092e.md) |
