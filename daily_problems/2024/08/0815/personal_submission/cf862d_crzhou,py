@@ -1,0 +1,49 @@
+def read():
+    return int(input().strip())
+
+def main():
+    n = read()
+    print("? " + "0" * n)
+    p = read()
+    
+    print("? 1" + "0" * (n - 1))
+    q = read()
+    
+    id0 = -1
+    id1 = -1
+    
+    if p > q:
+        id1 = 1  # 找 0
+        l, r = 2, n
+        while l <= r:
+            if l == r:
+                id0 = l
+                break
+            mid = (l + r) // 2
+            query = "? " + "".join("1" if l <= i <= mid else "0" for i in range(1, n + 1))
+            print(query)
+            res = read()
+            if p - res == mid - l + 1:
+                l = mid + 1
+            else:
+                r = mid
+    else:
+        id0 = 1  # 找 1
+        l, r = 2, n
+        while l <= r:
+            if l == r:
+                id1 = l
+                break
+            mid = (l + r) // 2
+            query = "? " + "".join("1" if l <= i <= mid else "0" for i in range(1, n + 1))
+            print(query)
+            res = read()
+            if res - p == mid - l + 1:
+                l = mid + 1
+            else:
+                r = mid
+    
+    print(f"! {id0} {id1}")
+
+if __name__ == "__main__":
+    main()
