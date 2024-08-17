@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF464A](https://codeforces.com/problemset/problem/464/A) | Find the first position to change, which should be as closer to the right end as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0815/solution/cf464a.md) |
-| 2000 | [CF862D](https://codeforces.com/problemset/problem/862/D) | If you use binary search to find one $0/1$, how many queries do you need? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0815/solution/cf862d.md) |
+| 1600 | [CF993A](https://codeforces.com/problemset/problem/993/A) | Find the representative points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0817/solution/cf993a.md) |
+| 2200 | [CF1039C](https://codeforces.com/problemset/problem/1039/C) | For each $x$, find the number of corresponding methods. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0817/solution/cf1039c.md) |
