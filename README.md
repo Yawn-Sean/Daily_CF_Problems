@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1252C](https://codeforces.com/problemset/problem/1252/C) | What makes a move from $(x,y)$ to $(x',y')$ a legal one? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0816/solution/cf1252c.md) |
-| 2100 | [CF441D](https://codeforces.com/problemset/problem/441/D) | How does the answer change when you swap $2$ elements? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0816/solution/cf441d.md) |
+| 1600 | [CF993A](https://codeforces.com/problemset/problem/993/A) | Find the representative points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0817/solution/cf993a.md) |
+| 2200 | [CF1039C](https://codeforces.com/problemset/problem/1039/C) | For each $x$, find the number of corresponding methods. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0817/solution/cf1039c.md) |
