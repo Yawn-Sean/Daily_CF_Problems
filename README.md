@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF993A](https://codeforces.com/problemset/problem/993/A) | Find the representative points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0817/solution/cf993a.md) |
-| 2200 | [CF1039C](https://codeforces.com/problemset/problem/1039/C) | For each $x$, find the number of corresponding methods. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0817/solution/cf1039c.md) |
+| 1800 | [CF827B](https://codeforces.com/problemset/problem/827/B) | Root the tree at the middle of the diameter. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0819/solution/cf827b.md) |
+| 1900 | [CF622D](https://codeforces.com/problemset/problem/622/D) | Find the minimum first. Note that $d_n$ is not actually used in the formula. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0819/solution/cf622d.md) |
