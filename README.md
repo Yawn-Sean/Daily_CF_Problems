@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF827B](https://codeforces.com/problemset/problem/827/B) | Root the tree at the middle of the diameter. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0819/solution/cf827b.md) |
-| 1900 | [CF622D](https://codeforces.com/problemset/problem/622/D) | Find the minimum first. Note that $d_n$ is not actually used in the formula. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0819/solution/cf622d.md) |
+| 1800 | [CF1076D](https://codeforces.com/problemset/problem/1076/D) | Some edges are more important when considering the shortest path. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0820/solution/cf1076d.md) |
+| 1900 | [CF1600E](https://codeforces.com/problemset/problem/1600/E) | The second player's strategy: Find a corresponding move for each move of the first player. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0820/solution/cf1600e.md) |
