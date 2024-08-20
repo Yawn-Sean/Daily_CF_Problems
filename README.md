@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF993A](https://codeforces.com/problemset/problem/993/A) | Find the representative points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0817/solution/cf993a.md) |
-| 2200 | [CF1039C](https://codeforces.com/problemset/problem/1039/C) | For each $x$, find the number of corresponding methods. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0817/solution/cf1039c.md) |
+| 1800 | [CF1076D](https://codeforces.com/problemset/problem/1076/D) | Some edges are more important when considering the shortest path. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0820/solution/cf1076d.md) |
+| 1900 | [CF1600E](https://codeforces.com/problemset/problem/1600/E) | The second player's strategy: Find a corresponding move for each move of the first player. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0820/solution/cf1600e.md) |
