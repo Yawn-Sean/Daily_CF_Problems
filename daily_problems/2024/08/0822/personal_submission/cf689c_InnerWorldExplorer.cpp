@@ -9,19 +9,9 @@ int main()
 	ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
 	i64 m;
 	cin >> m;
-
 	auto check = [&](i64 x){
-		i64 i = 0, j = cbrtl(x);
-		while (i < j){
-			i64 md = (i + j + 1) / 2;
-			if (md * md > x || md * md * md > x){
-				j = md - 1;
-			}else{
-				i = md;
-			}
-		}
 		i64 cnt = 0;
-		for (i64 t = i; t > 1; t --){
+		for (i64 t = cbrtl(x); t > 1; t --){
 			cnt += x / (t * t * t);
 		}
 		return cnt;
