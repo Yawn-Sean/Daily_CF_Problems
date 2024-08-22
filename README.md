@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1644D](https://codeforces.com/problemset/problem/1644/D) | Consider which round of coloring lasts till the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0821/solution/cf1644d.md) |
-| 2000 | [CF681D](https://codeforces.com/problemset/problem/681/D) | First of all, decide which men should appear in your answer. Then, decide their order. At last, check the order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0821/solution/cf681d.md) |
+| 1700 | [CF689C](https://codeforces.com/problemset/problem/689/C) | Use a formula to describe the pattern of the array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0822/solution/cf689c.md) |
+| 2000 | [CF360B](https://codeforces.com/problemset/problem/360/B) | Consider DP. If the value is included in the DP, then the number of status can be too large. How can you avoid it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0822/solution/cf360b.md) |
