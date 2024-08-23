@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF1045I](https://codeforces.com/problemset/problem/1045/I) | Check the conditions of "constructing" a palindrome. Find a way to store the information. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0329/solution/cf1045i.md) |
+| 1600 | [CF878A](https://codeforces.com/problemset/problem/878/A) | Consider each bit separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0823/solution/cf878a.md) |
 | 1700 | [CF1592C](https://codeforces.com/problemset/problem/1592/C) | The xor-sum of every connected component is fixed. Use this fact. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0411/solution/cf1592c.md) |
 | 1700 | [CF1329B](https://codeforces.com/problemset/problem/1329/B) | If you have $a_1(b_1)$ , what conditions should $b_2$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0801/solution/cf1329b.md) |
 | 1700 | [CF578B](https://codeforces.com/problemset/problem/578/B) | The largest number determines the length of the binary expression of the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0807/solution/cf578b.md) |
