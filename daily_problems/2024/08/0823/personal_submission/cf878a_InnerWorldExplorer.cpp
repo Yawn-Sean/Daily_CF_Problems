@@ -9,7 +9,6 @@ int main()
 	ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
 	int n;
 	cin >> n;
-	vector<int> b(N);
 	int zero = 0, one = (1 << 10) - 1;
 	char op;
 	int x;
