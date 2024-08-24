@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF878A](https://codeforces.com/problemset/problem/878/A) | Consider each bit separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0823/solution/cf878a.md) |
-| 2100 | [CF1184A2](https://codeforces.com/problemset/problem/1184/A2) | For each $k$, what can you infer from the conditions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0823/solution/cf1184a2.md) |
+| 1600 | [CF849B](https://codeforces.com/problemset/problem/849/B) | If $3$ points is divided in $2$ groups, ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0824/solution/cf849b.md) |
+| 2200 | [CF431E](https://codeforces.com/problemset/problem/431/E) | You should fill up the containers with the minimum number of mercury first. How much volume can you put in them without exceeding the other containers? How can you calculate it efficiently? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0824/solution/cf431e.md) |
