@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF689C](https://codeforces.com/problemset/problem/689/C) | Use a formula to describe the pattern of the array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0822/solution/cf689c.md) |
-| 2000 | [CF360B](https://codeforces.com/problemset/problem/360/B) | Consider DP. If the value is included in the DP, then the number of status can be too large. How can you avoid it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0822/solution/cf360b.md) |
+| 1600 | [CF849B](https://codeforces.com/problemset/problem/849/B) | If $3$ points is divided in $2$ groups, ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0824/solution/cf849b.md) |
+| 2200 | [CF431E](https://codeforces.com/problemset/problem/431/E) | You should fill up the containers with the minimum number of mercury first. How much volume can you put in them without exceeding the other containers? How can you calculate it efficiently? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0824/solution/cf431e.md) |
