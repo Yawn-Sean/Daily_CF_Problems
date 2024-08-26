@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF849B](https://codeforces.com/problemset/problem/849/B) | If $3$ points is divided in $2$ groups, ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0824/solution/cf849b.md) |
-| 2200 | [CF431E](https://codeforces.com/problemset/problem/431/E) | You should fill up the containers with the minimum number of mercury first. How much volume can you put in them without exceeding the other containers? How can you calculate it efficiently? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0824/solution/cf431e.md) |
+| 1800 | [CF432C](https://codeforces.com/problemset/problem/432/C) | You just need to process $swap(i,j)$ efficiently. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0826/solution/cf432c.md) |
+| 1900 | [CF1147B](https://codeforces.com/problemset/problem/1147/B) | If you rotate $x$ units and the image is the same, can your $x$ be smaller? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0826/solution/cf1147b.md) |
