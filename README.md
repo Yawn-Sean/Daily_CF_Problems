@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF432C](https://codeforces.com/problemset/problem/432/C) | You just need to process $swap(i,j)$ efficiently. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0826/solution/cf432c.md) |
-| 1900 | [CF1147B](https://codeforces.com/problemset/problem/1147/B) | If you rotate $x$ units and the image is the same, can your $x$ be smaller? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0826/solution/cf1147b.md) |
+| 1800 | [CF1290B](https://codeforces.com/problemset/problem/1290/B) | What is the actual conditions to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0827/solution/cf1290b.md) |
+| 1900 | [CF1237C2](https://codeforces.com/problemset/problem/1237/C2) | Consider the problem in a lower dimension. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0827/solution/cf1237c2.md) |
