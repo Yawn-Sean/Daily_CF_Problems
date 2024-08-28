@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1290B](https://codeforces.com/problemset/problem/1290/B) | What is the actual conditions to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0827/solution/cf1290b.md) |
-| 1900 | [CF1237C2](https://codeforces.com/problemset/problem/1237/C2) | Consider the problem in a lower dimension. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0827/solution/cf1237c2.md) |
+| 1700 | [CF1278C](https://codeforces.com/problemset/problem/1278/C) | Consider the remaining jars. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0828/solution/cf1278c.md) |
+| 2000 | [CF1019B](https://codeforces.com/problemset/problem/1019/B) | $(a_{i}-a_{i+n/2})+(a_{i+n/2}-a_i)=0$ | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0828/solution/cf1019b.md) |
