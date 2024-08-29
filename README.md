@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF993A](https://codeforces.com/problemset/problem/993/A) | Find the representative points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0817/solution/cf993a.md) |
-| 2200 | [CF1039C](https://codeforces.com/problemset/problem/1039/C) | For each $x$, find the number of corresponding methods. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0817/solution/cf1039c.md) |
+| 1700 | [CF850A](https://codeforces.com/problemset/problem/850/A) | Consider the problem in a lower dimension. If we fix one point $a$ , we can't have too many points other than $a$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0829/solution/cf850a.md) |
+| 2000 | [CF248C](https://codeforces.com/problemset/problem/248/C) | The wall is like a mirror, so kick the ball towards the target "in the mirror". To get the ball in, it's always good to kick it towards farther side of the gate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0829/solution/cf248c.md) |
