@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1278C](https://codeforces.com/problemset/problem/1278/C) | Consider the remaining jars. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0828/solution/cf1278c.md) |
-| 2000 | [CF1019B](https://codeforces.com/problemset/problem/1019/B) | $(a_{i}-a_{i+n/2})+(a_{i+n/2}-a_i)=0$ | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0828/solution/cf1019b.md) |
+| 1700 | [CF850A](https://codeforces.com/problemset/problem/850/A) | Consider the problem in a lower dimension. If we fix one point $a$ , we can't have too many points other than $a$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0829/solution/cf850a.md) |
+| 2000 | [CF248C](https://codeforces.com/problemset/problem/248/C) | The wall is like a mirror, so kick the ball towards the target "in the mirror". To get the ball in, it's always good to kick it towards farther side of the gate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0829/solution/cf248c.md) |
