@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF850A](https://codeforces.com/problemset/problem/850/A) | Consider the problem in a lower dimension. If we fix one point $a$ , we can't have too many points other than $a$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0829/solution/cf850a.md) |
-| 2000 | [CF248C](https://codeforces.com/problemset/problem/248/C) | The wall is like a mirror, so kick the ball towards the target "in the mirror". To get the ball in, it's always good to kick it towards farther side of the gate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0829/solution/cf248c.md) |
+| 1600 | [CF768B](https://codeforces.com/problemset/problem/768/B) | As $r-l$ is not large, we can find out the answer of each position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0830/solution/cf768b.md) |
+| 2100 | [CF1176F](https://codeforces.com/problemset/problem/1176/F) | Consider the basic DP. Do we really need to consider all the possible status in the previous round? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0830/solution/cf1176f.md) |
