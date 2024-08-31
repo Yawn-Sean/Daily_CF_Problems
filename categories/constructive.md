@@ -48,3 +48,4 @@
 | 2200 | [CF1231E](https://codeforces.com/problemset/problem/1231/E) | Focus on those un-moved characters. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0309/solution/cf1231e.md) |
 | 2200 | [CF804C](https://codeforces.com/problemset/problem/804/C) | Think of one solution first, and then prove it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0629/solution/cf804c.md) |
 | 2300 | [CF432E](https://codeforces.com/problemset/problem/432/E) | Find the first element of non-filled position and fill it up. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0713/solution/cf432e.md) |
+| 2400 | [CF1673F](https://codeforces.com/problemset/problem/1673/F) | A cycle means $0$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0831/solution/cf1673f.md) |
