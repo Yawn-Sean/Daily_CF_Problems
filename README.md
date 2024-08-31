@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF768B](https://codeforces.com/problemset/problem/768/B) | As $r-l$ is not large, we can find out the answer of each position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0830/solution/cf768b.md) |
-| 2100 | [CF1176F](https://codeforces.com/problemset/problem/1176/F) | Consider the basic DP. Do we really need to consider all the possible status in the previous round? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0830/solution/cf1176f.md) |
+| 1600 | [CF847B](https://codeforces.com/problemset/problem/847/B) | Instead of constructing each array separately, you can consider the position of each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0831/solution/cf847b.md) |
+| 2400 | [CF1673F](https://codeforces.com/problemset/problem/1673/F) | A cycle means $0$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0831/solution/cf1673f.md) |
