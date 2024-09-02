@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF847B](https://codeforces.com/problemset/problem/847/B) | Instead of constructing each array separately, you can consider the position of each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0831/solution/cf847b.md) |
-| 2400 | [CF1673F](https://codeforces.com/problemset/problem/1673/F) | A cycle means $0$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0831/solution/cf1673f.md) |
+| 1800 | [CF117B](https://codeforces.com/problemset/problem/117/B) | $s_1$ has no reason to be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0901/solution/cf117b.md) |
+| 1900 | [CF1055C](https://codeforces.com/problemset/problem/1055/C) | As the length of the intervals are fixed, we just need to let their ends to be as close as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0901/solution/cf1055c.md) |
