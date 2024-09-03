@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF117B](https://codeforces.com/problemset/problem/117/B) | $s_1$ has no reason to be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0902/solution/cf117b.md) |
-| 1900 | [CF1055C](https://codeforces.com/problemset/problem/1055/C) | As the length of the intervals are fixed, we just need to let their ends to be as close as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0902/solution/cf1055c.md) |
+| 1800 | [CF873D](https://codeforces.com/problemset/problem/873/D) | Add one occurence of "merge-sort" each time. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0903/solution/cf873d.md) |
+| 1900 | [CF1031D](https://codeforces.com/problemset/problem/1031/D) | We should at least maximize the prefix $a$ -s at first. Then we actually has nothing to change. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0903/solution/cf1031d.md) |
