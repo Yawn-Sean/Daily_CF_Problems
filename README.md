@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF873D](https://codeforces.com/problemset/problem/873/D) | Add one occurence of "merge-sort" each time. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0903/solution/cf873d.md) |
-| 1900 | [CF1031D](https://codeforces.com/problemset/problem/1031/D) | We should at least maximize the prefix $a$ -s at first. Then we actually has nothing to change. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0903/solution/cf1031d.md) |
+| 1700 | [CF449A](https://codeforces.com/problemset/problem/449/A) | Consider one edge first. What can be the possible separations? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0904/solution/cf449a.md) |
+| 2000 | [CF494B](https://codeforces.com/problemset/problem/494/B) | DP. If the last interval ends at $r$ , what should its right end satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0904/solution/cf494b.md) |
