@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF117B](https://codeforces.com/problemset/problem/117/B) | $s_1$ has no reason to be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0902/solution/cf117b.md) |
-| 1900 | [CF1055C](https://codeforces.com/problemset/problem/1055/C) | As the length of the intervals are fixed, we just need to let their ends to be as close as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0902/solution/cf1055c.md) |
+| 1700 | [CF449A](https://codeforces.com/problemset/problem/449/A) | Consider one edge first. What can be the possible separations? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0904/solution/cf449a.md) |
+| 2000 | [CF494B](https://codeforces.com/problemset/problem/494/B) | DP. If the last interval ends at $r$ , what should its right end satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0904/solution/cf494b.md) |
