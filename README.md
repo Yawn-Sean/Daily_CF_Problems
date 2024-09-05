@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF117B](https://codeforces.com/problemset/problem/117/B) | $s_1$ has no reason to be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0902/solution/cf117b.md) |
-| 1900 | [CF1055C](https://codeforces.com/problemset/problem/1055/C) | As the length of the intervals are fixed, we just need to let their ends to be as close as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0902/solution/cf1055c.md) |
+| 1700 | [CF769D](https://codeforces.com/problemset/problem/769/D) | There aren't many numbers that can be expressed by $nums[i] \mathrm{xor} nums[j]$ and have exactly $k$ bits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0905/solution/cf769d.md) |
+| 2000 | [CF353D](https://codeforces.com/problemset/problem/353/D) | Only consider boys or girls, not them both. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0905/solution/cf353d.md) |
