@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF449A](https://codeforces.com/problemset/problem/449/A) | Consider one edge first. What can be the possible separations? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0904/solution/cf449a.md) |
-| 2000 | [CF494B](https://codeforces.com/problemset/problem/494/B) | DP. If the last interval ends at $r$ , what should its right end satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0904/solution/cf494b.md) |
+| 1700 | [CF769D](https://codeforces.com/problemset/problem/769/D) | There aren't many numbers that can be expressed by $nums[i] \mathrm{xor} nums[j]$ and have exactly $k$ bits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0905/solution/cf769d.md) |
+| 2000 | [CF353D](https://codeforces.com/problemset/problem/353/D) | Only consider boys or girls, not them both. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0905/solution/cf353d.md) |
