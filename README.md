@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF449A](https://codeforces.com/problemset/problem/449/A) | Consider one edge first. What can be the possible separations? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0904/solution/cf449a.md) |
-| 2000 | [CF494B](https://codeforces.com/problemset/problem/494/B) | DP. If the last interval ends at $r$ , what should its right end satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0904/solution/cf494b.md) |
+| 1600 | [CF593B](https://codeforces.com/problemset/problem/593/B) | Use a single formula to check if the intersection lays between $x_1$ and $x_2$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0906/solution/cf593b.md) |
+| 2100 | [CF838B](https://codeforces.com/problemset/problem/838/B) | How can you go from $u$ to $v$ ? What is the distance dependent on? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0906/solution/cf838b.md) |
