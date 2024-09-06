@@ -1,34 +1,66 @@
-#include <bits/stdc++.h>
-// #pragma GCC optimize("O3,Ofast,unroll-loops")
-// #include <bits/extc++.h>
-// using namespace __gnu_cxx;
-// using namespace __gnu_pbds;
-using namespace std;
+# Submission link: https://codeforces.com/contest/838/submission/280002743
+def main():
+    n, q = MII()
 
-signed main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
+    us = []
+    vs = []
+    ws = []
 
-    int n, x1, x2;
-    cin >> n >> x1 >> x2;
+    tree = [[] for _ in range(n)]
+    to_root = [0] * n
 
-    vector<pair<long long, long long>> tmp;
+    for i in range(2 * (n - 1)):
+        u, v, w = MII()
+        u -= 1
+        v -= 1
+        us.append(u)
+        vs.append(v)
+        ws.append(w)
+        if i < n - 1:
+            tree[u].append(i)
+        else:
+            to_root[u] = w
 
-    for (int i = 0; i < n; i ++) {
-        int k, b;
-        cin >> k >> b;
-        tmp.emplace_back(1ll * k * x1 + b, 1ll * k * x2 + b);
-    }
+    depth = [0] * n
 
-    sort(tmp.begin(), tmp.end());
+    ls = [0] * n
+    rs = [-1] * n
+    order = []
 
-    for (int i = 1; i < n; i ++) {
-        if (tmp[i].second < tmp[i-1].second)
-            return cout << "YES", 0;
-    }
-    cout << "NO";
+    stk = [0]
+    while stk:
+        u = stk.pop()
+        if u >= 0:
+            ls[u] = len(order)
+            order.append(u)
+            stk.append(~u)
+            for i in tree[u]:
+                depth[vs[i]] = depth[us[i]] + ws[i]
+                stk.append(vs[i])
+        else:
+            rs[~u] = len(order)
 
-    return 0;
-}
+    inf = 10 ** 12
+
+    seg_depth = LazySegTree(lambda x, y: 0, 0, add, add, 0, [depth[x] for x in order])
+    seg_to_root = LazySegTree(fmin, inf, add, add, 0, [depth[x] + to_root[x] for x in order])
+
+    outs = []
+    for _ in range(q):
+        t, x, y = GMI()
+        if t:
+            if ls[x] <= ls[y] and rs[y] <= rs[x]:
+                outs.append(seg_depth.get(ls[y]) - seg_depth.get(ls[x]))
+            else:
+                outs.append(seg_to_root.prod(ls[x], rs[x]) - seg_depth.get(ls[x]) + seg_depth.get(ls[y]))
+        else:
+            y += 1
+            delta = y - ws[x]
+            ws[x] = y
+            if x < n - 1:
+                seg_depth.apply(ls[vs[x]], rs[vs[x]], delta)
+                seg_to_root.apply(ls[vs[x]], rs[vs[x]], delta)
+            else:
+                seg_to_root.apply(ls[us[x]], ls[us[x]] + 1, delta)
+
+    print('\n'.join(map(str, outs)))
