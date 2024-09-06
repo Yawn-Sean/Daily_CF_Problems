@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF769D](https://codeforces.com/problemset/problem/769/D) | There aren't many numbers that can be expressed by $nums[i] \mathrm{xor} nums[j]$ and have exactly $k$ bits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0905/solution/cf769d.md) |
-| 2000 | [CF353D](https://codeforces.com/problemset/problem/353/D) | Only consider boys or girls, not them both. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0905/solution/cf353d.md) |
+| 1600 | [CF593B](https://codeforces.com/problemset/problem/593/B) | Use a single formula to check if the intersection lays between $x_1$ and $x_2$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0906/solution/cf593b.md) |
+| 2100 | [CF838B](https://codeforces.com/problemset/problem/838/B) | How can you go from $u$ to $v$ ? What is the distance dependant on? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0906/solution/cf838b.md) |
