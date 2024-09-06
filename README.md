@@ -25,4 +25,4 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF593B](https://codeforces.com/problemset/problem/593/B) | Use a single formula to check if the intersection lays between $x_1$ and $x_2$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0906/solution/cf593b.md) |
-| 2100 | [CF838B](https://codeforces.com/problemset/problem/838/B) | How can you go from $u$ to $v$ ? What is the distance dependant on? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0906/solution/cf838b.md) |
+| 2100 | [CF838B](https://codeforces.com/problemset/problem/838/B) | How can you go from $u$ to $v$ ? What is the distance dependent on? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0906/solution/cf838b.md) |
