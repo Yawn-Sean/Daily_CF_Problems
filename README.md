@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF593B](https://codeforces.com/problemset/problem/593/B) | Use a single formula to check if the intersection lays between $x_1$ and $x_2$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0906/solution/cf593b.md) |
-| 2100 | [CF838B](https://codeforces.com/problemset/problem/838/B) | How can you go from $u$ to $v$ ? What is the distance dependent on? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0906/solution/cf838b.md) |
+| 1600 | [CF858D](https://codeforces.com/problemset/problem/858/D) | You only need to decide whether all occurences of one substring come from the same string. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0907/solution/cf858d.md) |
+| 2300 | [CF870E](https://codeforces.com/problemset/problem/870/E) | Each point means a connection between a vertical line and a horizontal line. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0907/solution/cf870e.md) |
