@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF858D](https://codeforces.com/problemset/problem/858/D) | You only need to decide whether all occurences of one substring come from the same string. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0907/solution/cf858d.md) |
-| 2300 | [CF870E](https://codeforces.com/problemset/problem/870/E) | Each point means a connection between a vertical line and a horizontal line. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0907/solution/cf870e.md) |
+| 1800 | [CF551B](https://codeforces.com/problemset/problem/551/B) | Enumerate the number of $b$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0909/solution/cf551b.md) |
+| 1900 | [CF1017D](https://codeforces.com/problemset/problem/1017/D) | Pre-process to calculate the final answer. We only have $2^n$ kinds of "differences" and $101$ types of values to consider. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0909/solution/cf1017d.md) |
