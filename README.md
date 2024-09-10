@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF551B](https://codeforces.com/problemset/problem/551/B) | Enumerate the number of $b$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0909/solution/cf551b.md) |
-| 1900 | [CF1017D](https://codeforces.com/problemset/problem/1017/D) | Pre-process to calculate the final answer. We only have $2^n$ kinds of "differences" and $101$ types of values to consider. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0909/solution/cf1017d.md) |
+| 1800 | [CF913D](https://codeforces.com/problemset/problem/913/D) | For a set of problems, we should at least delete those useless ones. For the others, we can always use greedy approach. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0910/solution/cf913d.md) | 
+| 1900 | [CF744B](https://codeforces.com/problemset/problem/744/B) | The problem is all about finding minimum value without a point. It's actually finding the union of a few sets. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0910/solution/cf744b.md) |
