@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF913D](https://codeforces.com/problemset/problem/913/D) | For a set of problems, we should at least delete those useless ones. For the others, we can always use greedy approach. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0910/solution/cf913d.md) | 
-| 1900 | [CF744B](https://codeforces.com/problemset/problem/744/B) | The problem is all about finding minimum value without a point. It's actually finding the union of a few sets. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0910/solution/cf744b.md) |
+| 1700 | [CF644B](https://codeforces.com/problemset/problem/644/B) | Consider each query by time order. Construct a queue to check if the query is implemented. |
+| 2000 | [CF314B](https://codeforces.com/problemset/problem/314/B) | First of all, all characters should be found greedily. As the lengths of strings are not too long, there are not many status. |
