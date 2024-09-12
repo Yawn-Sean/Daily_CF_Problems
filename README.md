@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF644B](https://codeforces.com/problemset/problem/644/B) | Consider each query by time order. Construct a queue to check if the query is implemented. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0911/solution/cf644b.md) |
-| 2000 | [CF314B](https://codeforces.com/problemset/problem/314/B) | First of all, all characters should be found greedily. As the lengths of strings are not too long, there are not many status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0911/solution/cf314b.md) |
+| 1700 | [CF1267E](https://codeforces.com/problemset/problem/1267/E) | We only need to have one candidate to get the votes that are more than the $n$ -th one, so consider each candidate separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0912/solution/cf1267e.md) |
+| 2000 | [CF1061D](https://codeforces.com/problemset/problem/1061/D) | After using a TV, keeping it is like having a coupon. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0912/solution/cf1061d.md) |
