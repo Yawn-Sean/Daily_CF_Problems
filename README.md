@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF913D](https://codeforces.com/problemset/problem/913/D) | For a set of problems, we should at least delete those useless ones. For the others, we can always use greedy approach. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0910/solution/cf913d.md) | 
-| 1900 | [CF744B](https://codeforces.com/problemset/problem/744/B) | The problem is all about finding minimum value without a point. It's actually finding the union of a few sets. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0910/solution/cf744b.md) |
+| 1700 | [CF1267E](https://codeforces.com/problemset/problem/1267/E) | We only need to have one candidate to get the votes that are more than the $n$ -th one, so consider each candidate separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0912/solution/cf1267e.md) |
+| 2000 | [CF1061D](https://codeforces.com/problemset/problem/1061/D) | After using a TV, keeping it is like having a coupon. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0912/solution/cf1061d.md) |
