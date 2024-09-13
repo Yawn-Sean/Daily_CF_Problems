@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF551B](https://codeforces.com/problemset/problem/551/B) | Enumerate the number of $b$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0909/solution/cf551b.md) |
-| 1900 | [CF1017D](https://codeforces.com/problemset/problem/1017/D) | Pre-process to calculate the final answer. We only have $2^n$ kinds of "differences" and $101$ types of values to consider. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0909/solution/cf1017d.md) |
+| 1600 | [CF735C](https://codeforces.com/problemset/problem/735/C) | Think of the problem reversely. That is, find the largest number of nodes in a balanced tree with a height of $h$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0913/solution/cf735c.md) |
+| 2100 | [CF336D](https://codeforces.com/problemset/problem/336/D) | If we consider a AND operator, $0$ means a reset. Here, a similar thing happens. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0913/solution/cf336d.md) |
