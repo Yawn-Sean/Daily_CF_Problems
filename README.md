@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1267E](https://codeforces.com/problemset/problem/1267/E) | We only need to have one candidate to get the votes that are more than the $n$ -th one, so consider each candidate separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0912/solution/cf1267e.md) |
-| 2000 | [CF1061D](https://codeforces.com/problemset/problem/1061/D) | After using a TV, keeping it is like having a coupon. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0912/solution/cf1061d.md) |
+| 1600 | [CF735C](https://codeforces.com/problemset/problem/735/C) | Think of the problem reversely. That is, find the largest number of nodes in a balanced tree with a height of $h$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0913/solution/cf735c.md) |
+| 2100 | [CF1149B](https://codeforces.com/problemset/problem/336/D) | If we consider a AND operator, $0$ means a reset. Here, a similar thing happens. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0913/solution/cf336d.md) |
