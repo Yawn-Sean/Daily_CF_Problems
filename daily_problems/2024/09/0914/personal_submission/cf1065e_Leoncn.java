@@ -10,7 +10,7 @@ public class cf1065e_Leoncn {
         int pre = 0;
         for(int num: g){
             long p = quickPowerMod(a, num - pre, mod);
-            ans = ans * p %mod * (p + 1)%mod / 2;
+            ans = ans * (p * (p + 1) /2 %mod)%mod ;
             pre = num;
         }
         ans = ans * quickPowerMod(a, n- g[m-1]*2,mod) %mod;
