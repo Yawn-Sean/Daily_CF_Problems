@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF682C](https://codeforces.com/problemset/problem/682/C) | If a $u$ doesn't satisfy the condition, its subtree should all be removed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0914/solution/cf682c.md) |
-| 2300 | [CF1065E](https://codeforces.com/problemset/problem/1065/E) | Check the string and the reversed string. What happens in a operation? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0914/solution/cf1065e.md) |
+| 1800 | [CF641C](https://codeforces.com/problemset/problem/641/C) | Odd-s and even-s move together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0916/solution/cf641c.md) |
+| 1900 | [CF1063C](https://codeforces.com/problemset/problem/1063/C) | It is hard to think about this problem in a 2D plane. Try considering it on a line. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0916/solution/cf1063c.md) |
