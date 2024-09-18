@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF453A](https://codeforces.com/problemset/problem/453/A) | Expectation problem: either find out the distribution or find the contribution of each component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0307/solution/cf453a.md) |
+| 1700 | [CF1279D](https://codeforces.com/problemset/problem/1279/D) | Process each step carefully. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0918/solution/cf1279d.md) |
 | 1800 | [CF442B](https://codeforces.com/problemset/problem/442/B) | Calculate the marginal effect of adding one person. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0716/solution/cf442b.md) |
 | 1800 | [CF626D](https://codeforces.com/problemset/problem/626/D) | Consider the first $2$ balls as a whole. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0730/solution/cf626d.md) |
 | 2000 | [CF1009E](https://codeforces.com/problemset/problem/1009/E) | Consider the contribution of each $a_i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0626/solution/cf1009e.md) |

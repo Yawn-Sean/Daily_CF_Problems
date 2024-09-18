@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF433C](https://codeforces.com/problemset/problem/433/C) | How can you calculate the difference between the status with / without changing $x$ to $y$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0917/solution/cf433c.md) |
-| 1900 | [CF729E](https://codeforces.com/problemset/problem/729/E) | Find the sufficient and necessary condition first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0917/solution/cf729e.md) |
+| 1700 | [CF1279D](https://codeforces.com/problemset/problem/1279/D) | Process each step carefully. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0918/solution/cf1279d.md) |
+| 2000 | [CF340E](https://codeforces.com/problemset/problem/340/E) | Inclusion-exclusion method. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0918/solution/cf340e.md) |
