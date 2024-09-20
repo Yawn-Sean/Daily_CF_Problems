@@ -19,7 +19,6 @@ int main()
 		deg[u] ++;
 		deg[v] ++;
 	}
-	//longest decreasing sequence ending in x
 	long long ans = 0;
 	vector<int> d(n, 1);
 	for (int i = 0; i < n; i ++){
