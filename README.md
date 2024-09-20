@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF281B](https://codeforces.com/problemset/problem/281/B) | The demoninator isn't large, so we can enumerate it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0919/solution/cf281b.md) |
-| 2000 | [CF309A](https://codeforces.com/problemset/problem/309/A) | Additivity of expectation. How can a bumping occur? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0919/solution/cf309a.md) |
+| 1600 | [CF615B](https://codeforces.com/problemset/problem/615/B) | Calculate the longest tail for each node. | 
+| 2100 | [CF852C](https://codeforces.com/problemset/problem/852/C) | How can you calculate the total area? If the angle formed by two sides are fixed, How is the area determined. |
