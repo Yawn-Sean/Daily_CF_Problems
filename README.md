@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1082B](https://codeforces.com/problemset/problem/1082/B) | Almost the same as changing one $S$ into $G$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0921/solution/cf1082b.md) |
-| 2200 | [CF413E](https://codeforces.com/problemset/problem/413/E) | Classic segment tree problem. It's just what variable should you choose. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0921/solution/cf413e.md) |
+| 1800 | [CF1073C](https://codeforces.com/problemset/problem/1073/C) | When $maxID-minID+1$ is fixed, what segment can you change? Where can you get? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0923/solution/cf1073c.md) |
+| 1900 | [CF1648C](https://codeforces.com/problemset/problem/1648/C) | Find the first position where the strings differ. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0923/solution/cf1648c.md) |
