@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF436E](https://codeforces.com/contest/436/problem/C) | It's actually constructing a tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0924/solution/cf436c.md) |
+| 1800 | [CF436E](https://codeforces.com/problemset/problem/436/C) | It's actually constructing a tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0924/solution/cf436c.md) |
 | 1900 | [CF731F](https://codeforces.com/problemset/problem/731/F) | Derive the final formula to calculate first. The $a_i$ can't be large. How can that help? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0924/solution/cf731f.md) |
