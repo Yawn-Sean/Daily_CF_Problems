@@ -1,175 +1,144 @@
-# Visit my repo: https://github.com/Yawn-Sean/Daily_CF_Problems
-standard_input, packages, output_together = 1, 1, 0
-dfs, hashing, read_from_file = 0, 0, 0
-de = 1
+#include <bits/stdc++.h>
+// #pragma GCC optimize("O3,Ofast,unroll-loops")
+// #include <bits/extc++.h>
+// using namespace __gnu_cxx;
+// using namespace __gnu_pbds;
+using namespace std;
 
-if 1:
+struct unionfind {
+  public:
+    unionfind() : _n(0) {}
+    explicit unionfind(int n) : _n(n), parent_or_size(n, -1) {}
 
-    if standard_input:
-        import io, os, sys
-        input = lambda: sys.stdin.readline().strip()
+    bool merge(int a, int b) {
+        assert(0 <= a && a < _n);
+        assert(0 <= b && b < _n);
+        int x = leader(a), y = leader(b);
+        if (x == y) return false;
+        if (-parent_or_size[x] < -parent_or_size[y]) std::swap(x, y);
+        parent_or_size[x] += parent_or_size[y];
+        parent_or_size[y] = x;
+        return true;
+    }
 
-        import math
-        inf = math.inf
+    bool same(int a, int b) {
+        assert(0 <= a && a < _n);
+        assert(0 <= b && b < _n);
+        return leader(a) == leader(b);
+    }
 
-        def I():
-            return input()
-        
-        def II():
-            return int(input())
+    int leader(int a) {
+        assert(0 <= a && a < _n);
+        if (parent_or_size[a] < 0) return a;
+        return parent_or_size[a] = leader(parent_or_size[a]);
+    }
 
-        def MII():
-            return map(int, input().split())
+    int size(int a) {
+        assert(0 <= a && a < _n);
+        return -parent_or_size[leader(a)];
+    }
 
-        def LI():
-            return list(input().split())
+    std::vector<std::vector<int>> groups() {
+        std::vector<int> leader_buf(_n), group_size(_n);
+        for (int i = 0; i < _n; i++) {
+            leader_buf[i] = leader(i);
+            group_size[leader_buf[i]]++;
+        }
+        std::vector<std::vector<int>> result(_n);
+        for (int i = 0; i < _n; i++) {
+            result[i].reserve(group_size[i]);
+        }
+        for (int i = 0; i < _n; i++) {
+            result[leader_buf[i]].push_back(i);
+        }
+        result.erase(
+            std::remove_if(result.begin(), result.end(),
+                           [&](const std::vector<int>& v) { return v.empty(); }),
+            result.end());
+        return result;
+    }
 
-        def LII():
-            return list(map(int, input().split()))
+  private:
+    int _n;
+    // root node: -1 * component size
+    // otherwise: parent
+    std::vector<int> parent_or_size;
+};
 
-        def LFI():
-            return list(map(float, input().split()))
+signed main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(0);
+    cout.tie(0);
 
-        def GMI():
-            return map(lambda x: int(x) - 1, input().split())
+    int n, m, k, w;
+    cin >> n >> m >> k >> w;
 
-        def LGMI():
-            return list(map(lambda x: int(x) - 1, input().split()))
+    vector<vector<string>> grids(k, vector<string>(n));
 
-    if packages:
-        from io import BytesIO, IOBase
+    for (int i = 0; i < k; i ++) {
+        for (int j = 0; j < n; j ++) {
+            cin >> grids[i][j];
+        }
+    }
 
-        import random
-        import os
+    vector<int> us, vs, ws;
 
-        import bisect
-        import typing
-        from collections import Counter, defaultdict, deque
-        from copy import deepcopy
-        from functools import cmp_to_key, lru_cache, reduce
-        from heapq import merge, heapify, heappop, heappush, heappushpop, nlargest, nsmallest
-        from itertools import accumulate, combinations, permutations, count, product
-        from operator import add, iand, ior, itemgetter, mul, xor
-        from string import ascii_lowercase, ascii_uppercase, ascii_letters
-        from typing import *
-        BUFSIZE = 4096
+    for (int i = 0; i < k; i ++) {
+        us.emplace_back(i);
+        vs.emplace_back(k);
+        ws.emplace_back(n * m);
 
-    if output_together:
-        class FastIO(IOBase):
-            newlines = 0
+        for (int j = 0; j < i; j ++) {
+            int cost = 0;
 
-            def __init__(self, file):
-                self._fd = file.fileno()
-                self.buffer = BytesIO()
-                self.writable = "x" in file.mode or "r" not in file.mode
-                self.write = self.buffer.write if self.writable else None
+            for (int x = 0; x < n; x ++) {
+                for (int y = 0; y < m; y ++) {
+                    if (grids[i][x][y] != grids[j][x][y])
+                        cost += w;
+                }
+            }
 
-            def read(self):
-                while True:
-                    b = os.read(self._fd, max(os.fstat(self._fd).st_size, BUFSIZE))
-                    if not b:
-                        break
-                    ptr = self.buffer.tell()
-                    self.buffer.seek(0, 2), self.buffer.write(b), self.buffer.seek(ptr)
-                self.newlines = 0
-                return self.buffer.read()
+            us.emplace_back(i);
+            vs.emplace_back(j);
+            ws.emplace_back(cost);
+        }
+    }
 
-            def readline(self):
-                while self.newlines == 0:
-                    b = os.read(self._fd, max(os.fstat(self._fd).st_size, BUFSIZE))
-                    self.newlines = b.count(b"\n") + (not b)
-                    ptr = self.buffer.tell()
-                    self.buffer.seek(0, 2), self.buffer.write(b), self.buffer.seek(ptr)
-                self.newlines -= 1
-                return self.buffer.readline()
+    int e = ws.size();
+    vector<int> es(e);
 
-            def flush(self):
-                if self.writable:
-                    os.write(self._fd, self.buffer.getvalue())
-                    self.buffer.truncate(0), self.buffer.seek(0)
+    iota(es.begin(), es.end(), 0);
+    sort(es.begin(), es.end(), [&](int i, int j) {return ws[i] < ws[j];});
 
-        class IOWrapper(IOBase):
-            def __init__(self, file):
-                self.buffer = FastIO(file)
-                self.flush = self.buffer.flush
-                self.writable = self.buffer.writable
-                self.write = lambda s: self.buffer.write(s.encode("ascii"))
-                self.read = lambda: self.buffer.read().decode("ascii")
-                self.readline = lambda: self.buffer.readline().decode("ascii")
+    unionfind dsu(k + 1);
+    int ans = 0;
+    vector<vector<int>> path(k + 1);
 
-        sys.stdout = IOWrapper(sys.stdout)
+    for (auto &i: es) {
+        if (dsu.merge(us[i], vs[i])) {
+            ans += ws[i];
+            path[us[i]].emplace_back(vs[i]);
+            path[vs[i]].emplace_back(us[i]);
+        }
+    }
 
-    if dfs:
-        from types import GeneratorType
+    cout << ans << '\n';
 
-        def bootstrap(f, stk=[]):
-            def wrappedfunc(*args, **kwargs):
-                if stk:
-                    return f(*args, **kwargs)
-                else:
-                    to = f(*args, **kwargs)
-                    while True:
-                        if type(to) is GeneratorType:
-                            stk.append(to)
-                            to = next(to)
-                        else:
-                            stk.pop()
-                            if not stk:
-                                break
-                            to = stk[-1].send(to)
-                    return to
-            return wrappedfunc
+    vector<pair<int, int>> stk;
+    stk.emplace_back(k, -1);
 
-    if hashing:
-        RANDOM = random.getrandbits(20)
-        class Wrapper(int):
-            def __init__(self, x):
-                int.__init__(x)
+    while (!stk.empty()) {
+        auto [u, p] = stk.back();
+        stk.pop_back();
 
-            def __hash__(self):
-                return super(Wrapper, self).__hash__() ^ RANDOM
+        for (auto v: path[u]) {
+            if (v != p) {
+                cout << v + 1 << ' ' << (u < k ? u + 1 : 0) << '\n';
+                stk.emplace_back(v, u);
+            }
+        }
+    }
 
-    if read_from_file:
-        file = open("input.txt", "r", encoding='utf-16').readline().strip()[1:-1]
-        fin = open(file, 'r')
-        input = lambda: fin.readline().strip()
-        output_file = open("output.txt", "w")
-        def fprint(*args, **kwargs):
-            print(*args, **kwargs, file=output_file)
-
-    if de:
-        def debug(*args, **kwargs):
-            print('\033[92m', end='')
-            print(*args, **kwargs)
-            print('\033[0m', end='')
-
-    fmax = lambda x, y: x if x > y else y
-    fmin = lambda x, y: x if x < y else y
-
-    class lst_lst:
-        def __init__(self, n) -> None:
-            self.n = n
-            self.pre = []
-            self.cur = []
-            self.lst = [-1] * n
-        
-        def append(self, i, j):
-            self.pre.append(self.lst[i])
-            self.lst[i] = len(self.cur)
-            self.cur.append(j)
-        
-        def iterate(self, i):
-            tmp = self.lst[i]
-            while tmp != -1:
-                yield self.cur[tmp]
-                tmp = self.pre[tmp]
-
-n, m = MII()
-grid = [LII() for _ in range(n)]
-
-ans = 0
-
-for k in range(m):
-    for i in range(n):
-        for j in range(i, n):
-            1
+    return 0;
+}
