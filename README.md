@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF436E](https://codeforces.com/problemset/problem/436/C) | It's actually constructing a tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0924/solution/cf436c.md) |
-| 1900 | [CF731F](https://codeforces.com/problemset/problem/731/F) | Derive the final formula to calculate first. The $a_i$ can't be large. How can that help? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0924/solution/cf731f.md) |
+| 1700 | [CF1210B](https://codeforces.com/problemset/problem/1210/B) | If a student can find someone who he is not better than, what condition should that "someone" satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0925/solution/cf1210b.md) |
+| 2000 | [CF761E](https://codeforces.com/problemset/problem/761/E) | To avoid intersection, design the length of each edge carefully. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0925/solution/cf761e.md) |
