@@ -29,4 +29,6 @@ void solve() {
             }
         }
     }
-    c
+    cout << ans << "\n";
+}
+ 
