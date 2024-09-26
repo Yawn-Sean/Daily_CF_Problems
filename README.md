@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1210B](https://codeforces.com/problemset/problem/1210/B) | If a student can find someone who he is not better than, what condition should that "someone" satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0925/solution/cf1210b.md) |
-| 2000 | [CF761E](https://codeforces.com/problemset/problem/761/E) | To avoid intersection, design the length of each edge carefully. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0925/solution/cf761e.md) |
+| 1700 | [CF895B](https://codeforces.com/problemset/problem/895/B) | How can you calculate the number of $y$ in the interval $[l,r]$ that is divisible by $x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0926/solution/cf895b.md) |
+| 2000 | [CF975D](https://codeforces.com/problemset/problem/975/D) | List out the equatiion that two points should satisfy such that they meet at some point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0926/solution/cf975d.md) |
