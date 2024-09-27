@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF895B](https://codeforces.com/problemset/problem/895/B) | How can you calculate the number of $y$ in the interval $[l,r]$ that is divisible by $x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0926/solution/cf895b.md) |
-| 2000 | [CF975D](https://codeforces.com/problemset/problem/975/D) | List out the equatiion that two points should satisfy such that they meet at some point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0926/solution/cf975d.md) |
+| 1600 | [CF416C](https://codeforces.com/problemset/problem/416/C) | Consider each table from small to large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0927/solution/cf416c.md) |
+| 2100 | [CF900E](https://codeforces.com/problemset/problem/900/E) | How can you check if there is a "match"? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0927/solution/cf900e.md) |
