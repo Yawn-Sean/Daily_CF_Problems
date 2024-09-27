@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class cf416c_yuxue_r {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
