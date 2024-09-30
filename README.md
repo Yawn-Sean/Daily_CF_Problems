@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF429B](https://codeforces.com/problemset/problem/429/B) | Consider the path around the intersection position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0928/solution/cf429b.md) |
-| 2400 | [CF1679E](https://codeforces.com/problemset/problem/1679/E) | For each substring, there is a multiple choice of character set that can make it palindrome. How can the set be calculated? For each set, how many different palindromes can be produced? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0928/solution/cf1679e.md) |
+| 1800 | [CF946D](https://codeforces.com/problemset/problem/946/D) | For each day, if you skip $k$ lessons, there is a maximum amount of time you can save. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0930/solution/cf946d.md) |
+| 1900 | [CF935D](https://codeforces.com/problemset/problem/935/D) | Again, if a string is smaller than the other, we should let their prefix be the same and the next letter be smaller. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0930/solution/cf935d.md) |
