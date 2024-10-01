@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF946D](https://codeforces.com/problemset/problem/946/D) | For each day, if you skip $k$ lessons, there is a maximum amount of time you can save. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0930/solution/cf946d.md) |
-| 1900 | [CF935D](https://codeforces.com/problemset/problem/935/D) | Again, if a string is smaller than the other, we should let their prefix be the same and the next letter be smaller. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0930/solution/cf935d.md) |
+| 1800 | [CF363D](https://codeforces.com/problemset/problem/363/D) | If we fix the number of recented bikes, it is easy to choose which bikes to rent. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1001/solution/cf363d.md) |
+| 1900 | [CF1677C](https://codeforces.com/problemset/problem/1677/C) | Transform $|num_{a_i}-num_{b_i}|$ into $|num_i-num_{p_i}$. What is that supposed to mean? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1001/solution/cf1677c.md) |
