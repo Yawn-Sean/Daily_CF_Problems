@@ -19,6 +19,7 @@ void solve(){
 		}
 		return true;
 	};
+	
 	int l = -1, r = min(n - 1, m - 1);
 	while(l < r){
 		int mid = l + r + 1 >> 1;
