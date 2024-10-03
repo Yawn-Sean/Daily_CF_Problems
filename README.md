@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF990D](https://codeforces.com/problemset/problem/990/D) | If a graph is not connected, its complement is connected. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1002/solution/cf990d.md) |
-| 2000 | [CF803E](https://codeforces.com/problemset/problem/803/E) | For each round, there are multiple status you can get to. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1002/solution/cf803e.md) |
+| 1700 | [CF1472E](https://codeforces.com/problemset/problem/1472/E) | Reduce the conditions to one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1003/solution/cf1472e.md) |
+| 2000 | [CF1131D](https://codeforces.com/problemset/problem/1131/D) | Inequalities are easy to be dealt with, so process the equalities first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1003/solution/cf1131d.md) |
