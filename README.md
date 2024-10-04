@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF363D](https://codeforces.com/problemset/problem/363/D) | If we fix the number of rented bikes, it is easy to choose which bikes to rent. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1001/solution/cf363d.md) |
-| 1900 | [CF1677C](https://codeforces.com/problemset/problem/1677/C) | Transform $\|num_{a_i}-num_{b_i}\|$ into $\|num_i-num_{p_i}\|$. What is that supposed to mean? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1001/solution/cf1677c.md) |
+| 1600 | [CF922C](https://codeforces.com/problemset/problem/922/C) | Actually, you can find out each $n\bmod i$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1004/solution/cf922c.md) |
+| 2100 | [CF748E](https://codeforces.com/problemset/problem/748/E) | $10^7$ should be used. Find out the maximum number of students who can get at least $k$ slices for each $k$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1004/solution/cf748e.md) |
