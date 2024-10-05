@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF922C](https://codeforces.com/problemset/problem/922/C) | Actually, you can find out each $n\bmod i$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1004/solution/cf922c.md) |
-| 2100 | [CF748E](https://codeforces.com/problemset/problem/748/E) | $10^7$ should be used. Find out the maximum number of students who can get at least $k$ slices for each $k$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1004/solution/cf748e.md) |
+| 1600 | [CF731C](https://codeforces.com/problemset/problem/731/C) | Each day provide a condition that the colors of the chosen pairs are the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1005/solution/cf731c.md) |
+| 2300 | [CF558D](https://codeforces.com/problemset/problem/558/D) | Each condition represents $1/2$ segments in the leaves. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1005/solution/cf558d.md) |
