@@ -1,5 +1,4 @@
 import sys
-
 input = lambda: sys.stdin.readline().rstrip()
 t = int(input())
 for idx in range(t):
