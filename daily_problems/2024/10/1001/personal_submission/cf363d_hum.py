@@ -4,7 +4,6 @@ p = list(map(int, input().split()))
 b.sort(reverse=True)
 p.sort()
 
-
 def check(x):
   last = a
   for i in range(x):
