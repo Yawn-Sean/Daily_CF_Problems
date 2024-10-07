@@ -1,5 +1,4 @@
 n = int(input())
-
 res = []
 for i in range(64):
   cur = (1 << i) - 1
