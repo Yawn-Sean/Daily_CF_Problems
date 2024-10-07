@@ -9,7 +9,6 @@ if a > 1:
       for j in range(n - a + 1):
         if i != j:
           grid[i][j] = 1
-
 else:
   if b > 1:
     for i in range(n):
