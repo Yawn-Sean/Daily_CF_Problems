@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF731C](https://codeforces.com/problemset/problem/731/C) | Each day provide a condition that the colors of the chosen pairs are the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1005/solution/cf731c.md) |
-| 2300 | [CF558D](https://codeforces.com/problemset/problem/558/D) | Each condition represents $1/2$ segments in the leaves. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1005/solution/cf558d.md) |
+| 1800 | [CF325B](https://codeforces.com/problemset/problem/325/B) | Calculate the number of games when there is $n$ players. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1007/solution/cf325b.md) |
+| 1900 | [CF865B](https://codeforces.com/problemset/problem/865/B) | Use greedy approach. If you order too many pizzas, adjust your solution. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1007/solution/cf865b.md) |
