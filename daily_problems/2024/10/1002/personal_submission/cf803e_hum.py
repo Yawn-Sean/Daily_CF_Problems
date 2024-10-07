@@ -1,6 +1,5 @@
 n, k = map(int, input().split())
 s = input()
-
 base = k
 
 dp = [[-2] * (2 * k + 1) for _ in range(n + 1)]
