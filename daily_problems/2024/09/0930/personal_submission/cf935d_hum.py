@@ -1,7 +1,6 @@
 n, m = map(int, input().split())
 nums1 = list(map(int, input().split()))
 nums2 = list(map(int, input().split()))
-
 res = 0
 prob = 1
 mod = 10 ** 9 + 7
