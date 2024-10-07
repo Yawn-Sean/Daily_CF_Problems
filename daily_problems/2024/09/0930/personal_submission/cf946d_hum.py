@@ -1,5 +1,4 @@
 import sys
-
 input = lambda: sys.stdin.readline().rstrip()
 n, m, k = map(int, input().split())
 a = [[0] * (m + 1) for _ in range(n)]
