@@ -1,12 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- * @Description:
- * @Author: Leon
- * @Date: 2024/10/2
- */
-public class D {
+public class cf363d_Leoncn {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
