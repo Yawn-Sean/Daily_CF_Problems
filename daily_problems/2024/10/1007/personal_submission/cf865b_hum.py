@@ -1,5 +1,4 @@
 import sys
-
 input = lambda: sys.stdin.readline().rstrip()
 n, s = map(int, input().split())
 res = 0
