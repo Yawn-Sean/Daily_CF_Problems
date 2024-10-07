@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF922C](https://codeforces.com/problemset/problem/922/C) | Actually, you can find out each $n\bmod i$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1004/solution/cf922c.md) |
-| 2100 | [CF748E](https://codeforces.com/problemset/problem/748/E) | $10^7$ should be used. Find out the maximum number of students who can get at least $k$ slices for each $k$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1004/solution/cf748e.md) |
+| 1800 | [CF325B](https://codeforces.com/problemset/problem/325/B) | Calculate the number of games when there is $n$ players. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1007/solution/cf325b.md) |
+| 1900 | [CF865B](https://codeforces.com/problemset/problem/865/B) | Use greedy approach. If you order too many pizzas, adjust your solution. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1007/solution/cf865b.md) |
