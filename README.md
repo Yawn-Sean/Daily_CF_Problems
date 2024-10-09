@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF1227D2](https://codeforces.com/problemset/problem/1227/D2) | For each $k$ , which elements should you choose? For different $k$ -s, the change is not big. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1008/solution/cf1227d2.md) |
-| 1900 | [CF1482D](https://codeforces.com/problemset/problem/1482/D) | You can delete the array step by step, as there are at most $n$ elements to delete. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1008/solution/cf1482d.md) |
+| 1700 | [CF1280A](https://codeforces.com/problemset/problem/1280/A) | We only need to consider the first $x$ letters and the current length of the whole string. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1009/solution/cf1280a.md) |
+| 2000 | [CF1320C](https://codeforces.com/problemset/problem/1320/C) | For each weapon, there are only a few monsters you should consider. The choice of armor determines your profit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1009/solution/cf1320c.md) |
