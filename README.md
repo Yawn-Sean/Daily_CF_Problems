@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1280A](https://codeforces.com/problemset/problem/1280/A) | We only need to consider the first $x$ letters and the current length of the whole string. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1009/solution/cf1280a.md) |
-| 2000 | [CF1320C](https://codeforces.com/problemset/problem/1320/C) | For each weapon, there are only a few monsters you should consider. The choice of armor determines your profit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1009/solution/cf1320c.md) |
+| 1700 | [CF756A](https://codeforces.com/problemset/problem/756/A) | Consider the permutation as a graph, and eventually it should consist of $1$ cycle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1010/solution/cf756a.md) |
+| 2000 | [CF999F](https://codeforces.com/problemset/problem/999/F) | Each person only need to consider one type of cards. So group the players. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1010/solution/cf999f.md) |
