@@ -30,13 +30,12 @@ signed main()
             cnt ++;
         }
     }
-
+    
     int v = 1, x;
     while (n --) {
         cin >> x;
         v ^= x;
     }
-
     cout << (cnt > 1 ? cnt : 0) + v;
 
     return 0;
