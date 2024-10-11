@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF231C](https://codeforces.com/problemset/problem/231/C) | If you want to make all elements in a subsequence equal, how many operations at least should you apply? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0706/solution/cf231c.md) |
-| 2100 | [CF1023E](https://codeforces.com/problemset/problem/1023/E) | $(n-1)+(n-1)=2(n-1)$, so the answer should consist of $2$ parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0706/solution/cf1023e.md) |
+| 1600 | [CF847H](https://codeforces.com/problemset/problem/847/H) | You only need to decide where the "middle point" is. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1011/solution/cf799d.md) |
+| 2100 | [CF799D](https://codeforces.com/problemset/problem/799/D) | You don't need many kinds of operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1011/solution/cf847h.md) |
