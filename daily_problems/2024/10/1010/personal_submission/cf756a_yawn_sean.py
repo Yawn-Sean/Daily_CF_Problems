@@ -6,7 +6,6 @@ def main():
 
     vis = [0] * n
     cnt = 0
-
     for i in range(n):
         if not vis[i]:
             while not vis[i]:

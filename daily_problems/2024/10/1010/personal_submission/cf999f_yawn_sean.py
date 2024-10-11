@@ -22,5 +22,4 @@ def main():
     ans = 0
     for i in range(10 ** 5 + 1):
         ans += dp[player_cnt[i]][cnt[i]]
-
     print(ans)
