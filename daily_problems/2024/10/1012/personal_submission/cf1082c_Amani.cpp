@@ -25,7 +25,7 @@ int solve() {
                 res[j+1] += sum;
             } else {
                 break;
-            }//除非为负数，负责选完
+            }
         }
     }
     int ans = 0;
