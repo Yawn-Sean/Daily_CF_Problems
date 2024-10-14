@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1082C](https://codeforces.com/problemset/problem/1082/C) | Iterate over the number of students participating in each group. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1012/solution/cf1082c.md) |
-| 2200 | [CF809B](https://codeforces.com/problemset/problem/809/B) | Find one of the answers first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1012/solution/cf809b.md) |
+| 1800 | [CF257C](https://codeforces.com/problemset/problem/257/C) | We just need to calculate the angle for each point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1014/solution/cf257c.md) |
+| 1900 | [CF417D](https://codeforces.com/problemset/problem/417/D) | The final cost is composed of $2$ parts: monitors and friends. You can fix the first one to find the minimum f the second part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1014/solution/cf417d.md) |
