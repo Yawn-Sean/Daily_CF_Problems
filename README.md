@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF626D](https://codeforces.com/problemset/problem/626/D) | Consider the first $2$ balls as a whole. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0730/solution/cf626d.md) |
-| 1900 | [CF1163C2](https://codeforces.com/problemset/problem/1163/C2) | There are only $3$ different position conditions between $2$ lines. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0730/solution/cf1163c2.md) |
+| 1800 | [CF743D](https://codeforces.com/problemset/problem/743/D) | All about choosing $2$ non-intersecting subtrees. So derive it from the leaves. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1015/solution/cf743d.md) |
+| 1900 | [CF757C](https://codeforces.com/problemset/problem/757/C) | Consider each $f(i)=j$ . What's the condition you should consider? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1015/solution/cf757c.md) |
