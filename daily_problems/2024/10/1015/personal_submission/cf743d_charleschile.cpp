@@ -1,6 +1,7 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+// https://codeforces.com/problemset/problem/743/D
 
 int main () {
     int n;
