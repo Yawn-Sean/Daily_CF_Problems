@@ -1,26 +1,4 @@
-from functools import lru_cache
-
-import math
-import sys
-from collections import defaultdict, deque
-from itertools import accumulate
-from heapq import *
-from bisect import *
-from types import GeneratorType
-from heapq import *
-from typing import List
-from math import inf
-
-RI = lambda: int(sys.stdin.readline().strip())
-RF = lambda: float(sys.stdin.readline().strip())
-RS = lambda: sys.stdin.readline().strip()
-RFF = lambda: map(float, sys.stdin.readline().strip().split())
-RII = lambda: map(int, sys.stdin.readline().strip().split())
-RILIST = lambda: list(RII())
-RFLIST = lambda: list(RFF())
-mx = lambda x, y: x if x > y else y
-mn = lambda x, y: y if x > y else x
-
+# https://codeforces.com/contest/1118/submission/286196580
 n, k = RII()
 if (k - 1) * k < n:
     print('NO')
