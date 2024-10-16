@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF1082C](https://codeforces.com/problemset/problem/1082/C) | Iterate over the number of students participating in each group. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1012/solution/cf1082c.md) |
-| 2200 | [CF809B](https://codeforces.com/problemset/problem/809/B) | Find one of the answers first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1012/solution/cf809b.md) |
+| 1700 | [CF1118E](https://codeforces.com/problemset/problem/1118/E) | Find a simple rule to satisfy all of the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1016/solution/cf1118e.md) |
+| 2000 | [CF641E](https://codeforces.com/problemset/problem/641/E) | You can consider each element and process its queries separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1016/solution/cf641e.md) |
