@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF743D](https://codeforces.com/problemset/problem/743/D) | All about choosing $2$ non-intersecting subtrees. So derive it from the leaves. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1015/solution/cf743d.md) |
-| 1900 | [CF757C](https://codeforces.com/problemset/problem/757/C) | Consider each $f(i)=j$ . What's the condition you should consider? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1015/solution/cf757c.md) |
+| 1700 | [CF1118E](https://codeforces.com/problemset/problem/1118/E) | Find a simple rule to satisfy all of the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1016/solution/cf1118e.md) |
+| 2000 | [CF641E](https://codeforces.com/problemset/problem/641/E) | You can consider each element and process its queries separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1016/solution/cf641e.md) |
