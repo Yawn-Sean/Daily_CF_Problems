@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF833A](https://codeforces.com/problemset/problem/833/A) | Consider each prime factor separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0626/solution/cf833a.md) |
-| 2000 | [CF1009E](https://codeforces.com/problemset/problem/1009/E) | Consider the contribution of each $a_i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0626/solution/cf1009e.md) |
+| 1600 | [CF424C](https://codeforces.com/problemset/problem/424/C) | You can swap the elements, combine the elements as you want and calculate the xor-value of the whole array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1018/solution/cf424c.md) |
+| 2100 | [CF268E](https://codeforces.com/problemset/problem/268/E) | Consider the order of $2$ consecutive songs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1018/solution/cf268e.md) |
