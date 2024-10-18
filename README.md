@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1009C](https://codeforces.com/problemset/problem/1009/C) | Each operation can be considered separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1017/solution/cf1009c.md) |
-| 2000 | [CF178C3](https://codeforces.com/problemset/problem/178/C3) | It is all about finding the first empty place from some place $x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1017/solution/cf178c3.md) |
+| 1600 | [CF424C](https://codeforces.com/problemset/problem/424/C) | You can swap the elements, combine the elements as you want and calculate the xor-value of the whole array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1018/solution/cf424c.md) |
+| 2100 | [CF268E](https://codeforces.com/problemset/problem/268/E) | Consider the order of $2$ consecutive songs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1018/solution/cf268e.md) |
