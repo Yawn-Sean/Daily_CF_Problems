@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1118E](https://codeforces.com/problemset/problem/1118/E) | Find a simple rule to satisfy all of the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1016/solution/cf1118e.md) |
-| 2000 | [CF641E](https://codeforces.com/problemset/problem/641/E) | You can consider each element and process its queries separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1016/solution/cf641e.md) |
+| 1600 | [CF405C](https://codeforces.com/problemset/problem/405/C) | List all of the elements that are calculated. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1019/solution/cf405c.md) |
+| 2200 | [CF255E](https://codeforces.com/problemset/problem/255/E) | Once a move is made, the number became small enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1019/solution/cf255e.md) |
