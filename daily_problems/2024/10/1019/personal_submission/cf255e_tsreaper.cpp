@@ -10,6 +10,7 @@ int f[MAGIC + 10], cnt[MAGIC + 10];
 
 int main() {
     cnt[0] = 1;
+    int mx = 0;
     for (int i = 4, l = 2, r = 2; i <= MAGIC; i++) {
         while (1LL * (r + 1) * (r + 1) <= i) {
             cnt[f[r + 1]]++;
@@ -20,13 +21,14 @@ int main() {
             l++;
         }
         for (int j = 0; ; j++) if (cnt[j] == 0) { f[i] = j; break; }
+        mx = max(mx, f[i]);
     }
 
     scanf("%d", &n);
     for (int i = 1; i <= n; i++) scanf("%lld", &A[i]);
     sort(A + 1, A + n + 1);
 
-    for (int i = 0; i <= f[MAGIC]; i++) cnt[i] = 0;
+    for (int i = 0; i <= mx; i++) cnt[i] = 0;
     cnt[0] = 1;
     for (int i = 1, l = 2, r = 2; i <= n; i++) if (A[i] >= 4) {
         while (1LL * (r + 1) * (r + 1) <= A[i]) {
