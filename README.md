@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF424C](https://codeforces.com/problemset/problem/424/C) | You can swap the elements, combine the elements as you want and calculate the xor-value of the whole array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1018/solution/cf424c.md) |
-| 2100 | [CF268E](https://codeforces.com/problemset/problem/268/E) | Consider the order of $2$ consecutive songs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1018/solution/cf268e.md) |
+| 1600 | [CF405C](https://codeforces.com/problemset/problem/405/C) | List all of the elements that are calculated. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1019/solution/cf405c.md) |
+| 2200 | [CF255E](https://codeforces.com/problemset/problem/255/E) | Once a move is made, the number became small enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1019/solution/cf255e.md) |
