@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF424C](https://codeforces.com/problemset/problem/424/C) | You can swap the elements, combine the elements as you want and calculate the xor-value of the whole array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1018/solution/cf424c.md) |
-| 2100 | [CF268E](https://codeforces.com/problemset/problem/268/E) | Consider the order of $2$ consecutive songs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1018/solution/cf268e.md) |
+| 1800 | [CF487A](https://codeforces.com/problemset/problem/487/A) | Attack and defence ability doesn't need to change too much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1021/solution/cf487a.md) |
+| 1900 | [CF811C](https://codeforces.com/problemset/problem/811/C) | How can you check an interval is valid? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1021/solution/cf811c.md) |
