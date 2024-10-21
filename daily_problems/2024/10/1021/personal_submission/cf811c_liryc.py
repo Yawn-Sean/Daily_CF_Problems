@@ -1,7 +1,7 @@
 '''
 https://codeforces.com/problemset/submission/811/287285541
 CF 811C
-20241022 Y2
+20241021 Y2
 1900
 DP
 '''
