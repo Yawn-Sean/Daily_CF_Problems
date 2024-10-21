@@ -1,16 +1,47 @@
-# Submission link: https://codeforces.com/contest/405/submission/286624127
+# Submission link: https://codeforces.com/contest/255/submission/286624682
 def main():
+    M = 10 ** 6
+    sg = [0] * (M + 1)
+
+    l = r = 0
+
+    cnt = Counter()
+
+    for i in range(1, M + 1):
+        while l ** 4 < i:
+            cnt[sg[l]] -= 1
+            l += 1
+        
+        while r * r <= i and r < i:
+            cnt[sg[r]] += 1
+            r += 1
+        
+        while cnt[sg[i]]:
+            sg[i] += 1
+
     n = II()
-    ans = 0
+    nums = LII()
+    nums.sort()
 
-    for i in range(n):
-        ans ^= LII()[i]
+    cnt = Counter()
+    l = r = 0
 
-    outs = []
+    res = 0
 
-    q = II()
-    for _ in range(q):
-        if I()[0] == '3': outs.append(ans)
-        else: ans ^= 1
+    for num in nums:
+        
+        while l ** 4 < num:
+            cnt[sg[l]] -= 1
+            l += 1
+        
+        while r * r <= num and r < num:
+            cnt[sg[r]] += 1
+            r += 1
+        
+        v = 0
+        while cnt[v]:
+            v += 1
+        
+        res ^= v
 
-    print(''.join(map(str, outs)))
+    print('Furlo' if res else 'Rublo')
