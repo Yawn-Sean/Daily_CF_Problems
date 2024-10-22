@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1009C](https://codeforces.com/problemset/problem/1009/C) | Each operation can be considered separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1017/solution/cf1009c.md) |
-| 2000 | [CF178C3](https://codeforces.com/problemset/problem/178/C3) | It is all about finding the first empty place from some place $x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1017/solution/cf178c3.md) |
+| 1800 | [CF238B](https://codeforces.com/problemset/problem/238/B) | Find a basic answer. Can you make it better? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1022/solution/cf238b.md) |
+| 1900 | [CF550D](https://codeforces.com/problemset/problem/550/D) | If we delete the bridge, what should we construct? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1022/solution/cf238b.md) |
