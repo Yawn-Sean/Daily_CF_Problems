@@ -3,8 +3,6 @@ def main():
     n, h = MII()
     nums = LII()
 
-    cols = [1] * n
-
     inf = 10 ** 8
     mi1, mi2, mi3 = inf, inf, inf
     ma1, ma2 = 0, 0
