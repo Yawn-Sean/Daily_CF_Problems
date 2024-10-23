@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF238B](https://codeforces.com/problemset/problem/238/B) | Find a basic answer. Can you make it better? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1022/solution/cf238b.md) |
-| 1900 | [CF550D](https://codeforces.com/problemset/problem/550/D) | If we delete the bridge, what should we construct? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1022/solution/cf550d.md) |
+| 1700 | [CF818D](https://codeforces.com/problemset/problem/818/D) | How can you check if $x$ satisfy the condition? What's the time complexity? How can you reduce the sum of time complexity? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1023/solution/cf818d.md) |
+| 2000 | [CF412D](https://codeforces.com/problemset/problem/412/D) | Each pair should either have a special order or be separated. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1023/solution/cf412d.md) |
