@@ -1,7 +1,6 @@
 # Submission link: https://codeforces.com/contest/305/submission/287591312
 
 mod = 10 ** 9 + 7
-
 class UnionFind:
     def __init__(self, n):
         self.parent_or_size = [-1] * n
@@ -34,8 +33,6 @@ class UnionFind:
         self.parent_or_size[pa] += self.parent_or_size[pb]
         self.parent_or_size[pb] = pa
         self.depth[pb] = w
-        
-        return True
  
     def getDepth(self, a):
         self.find(a)

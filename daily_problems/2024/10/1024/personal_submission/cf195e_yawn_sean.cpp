@@ -6,7 +6,6 @@
 using namespace std; 
 
 int mod = 1e9 + 7;
-
 struct unionfind {
   public:
     unionfind() : _n(0) {}
