@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF818D](https://codeforces.com/problemset/problem/818/D) | How can you check if $x$ satisfy the condition? What's the time complexity? How can you reduce the sum of time complexity? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1023/solution/cf818d.md) |
-| 2000 | [CF412D](https://codeforces.com/problemset/problem/412/D) | Each pair should either have a special order or be separated. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1023/solution/cf412d.md) |
+| 1700 | [CF305B](https://codeforces.com/problemset/problem/305/B) | Each fraction has a unique corresponding continued fraction. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1024/solution/cf305b.md) |
+| 2000 | [CF195E](https://codeforces.com/problemset/problem/195/E) | When you connect two points, you are merging them and updating the "depth" data. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1024/solution/cf195e.md) |
