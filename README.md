@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF487A](https://codeforces.com/problemset/problem/487/A) | Attack and defence ability doesn't need to change too much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1021/solution/cf487a.md) |
-| 1900 | [CF811C](https://codeforces.com/problemset/problem/811/C) | How can you check an interval is valid? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1021/solution/cf811c.md) |
+| 1700 | [CF305B](https://codeforces.com/problemset/problem/305/B) | Each fraction has a unique corresponding continued fraction. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1024/solution/cf305b.md) |
+| 2000 | [CF195E](https://codeforces.com/problemset/problem/195/E) | When you connect two points, you are merging them and updating the "depth" data. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1024/solution/cf195e.md) |
