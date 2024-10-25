@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF305B](https://codeforces.com/problemset/problem/305/B) | Each fraction has a unique corresponding continued fraction. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1024/solution/cf305b.md) |
-| 2000 | [CF195E](https://codeforces.com/problemset/problem/195/E) | When you connect two points, you are merging them and updating the "depth" data. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1024/solution/cf195e.md) |
+| 1600 | [CF407B](https://codeforces.com/problemset/problem/407/B) | When you have to go to $p_i$ , how many steps does it take to get to $i$ again. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1025/solution/cf407b.md) |
+| 2100 | [CF1005F](https://codeforces.com/problemset/problem/1005/F) | Calculate the shortest path first. For each vertice, you just need to find its previous vertice to determine the edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1025/solution/cf1005f.md) |
