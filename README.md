@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1600 | [CF407B](https://codeforces.com/problemset/problem/407/B) | When you have to go to $p_i$ , how many steps does it take to get to $i$ again. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1025/solution/cf407b.md) |
-| 2100 | [CF1005F](https://codeforces.com/problemset/problem/1005/F) | Calculate the shortest path first. For each vertice, you just need to find its previous vertice to determine the edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1025/solution/cf1005f.md) |
+| ---------- | -------- | ----- | -------- |
+| 1600 | [CF712C](https://codeforces.com/problemset/problem/712/C) | When making the triangle smaller, it's easy to generate an illegal triangle. So you should do it reversely. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1026/solution/cf712c.md) |
+| 2200 | [CF645E](https://codeforces.com/problemset/problem/645/E) | Find out the DP function first. How can you maximize it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1026/solution/cf645e.md) |
