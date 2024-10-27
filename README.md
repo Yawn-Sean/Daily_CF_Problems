@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1700 | [CF1009C](https://codeforces.com/problemset/problem/1009/C) | Each operation can be considered separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1017/solution/cf1009c.md) |
-| 2000 | [CF178C3](https://codeforces.com/problemset/problem/178/C3) | It is all about finding the first empty place from some place $x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1017/solution/cf178c3.md) |
+| ---------- | -------- | ----- | -------- |
+| 1600 | [CF712C](https://codeforces.com/problemset/problem/712/C) | When making the triangle smaller, it's easy to generate an illegal triangle. So you should do it reversely. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1026/solution/cf712c.md) |
+| 2200 | [CF645E](https://codeforces.com/problemset/problem/645/E) | Find out the DP function first. How can you maximize it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1026/solution/cf645e.md) |
