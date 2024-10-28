@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF712C](https://codeforces.com/problemset/problem/712/C) | When making the triangle smaller, it's easy to generate an illegal triangle. So you should do it reversely. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1026/solution/cf712c.md) |
-| 2200 | [CF645E](https://codeforces.com/problemset/problem/645/E) | Find out the DP function first. How can you maximize it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1026/solution/cf645e.md) |
+| 1800 | [CF1252H](https://codeforces.com/problemset/problem/1252/H) | When considering two dimensions, it's always easier to fix one first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1028/solution/cf1252h.md) |
+| 1900 | [CF1043E](https://codeforces.com/problemset/problem/1043/E) | Do the calculation without restriction first. When should we choose the $x_i+y_j$ instead of $x_j+y_i$ ? Is there an simpler rule? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1028/solution/cf1043e.md) |
