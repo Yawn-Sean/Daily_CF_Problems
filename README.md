@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1252H](https://codeforces.com/problemset/problem/1252/H) | When considering two dimensions, it's always easier to fix one first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1028/solution/cf1252h.md) |
-| 1900 | [CF1043E](https://codeforces.com/problemset/problem/1043/E) | Do the calculation without restriction first. When should we choose the $x_i+y_j$ instead of $x_j+y_i$ ? Is there an simpler rule? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1028/solution/cf1043e.md) |
+| 1800 | [CF358D](https://codeforces.com/problemset/problem/358/D) | For each position, we only care about two things: Does the one on the left of it comes earlier? Does the one on the right of it comes earlier? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1029/solution/cf358d.md) |
+| 1900 | [CF613A](https://codeforces.com/problemset/problem/613/A) | You just need to find the minimum and the maximum distance. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1029/solution/cf613a.md) |
