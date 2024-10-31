@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF621C](https://codeforces.com/problemset/problem/621/C) | The additivity of expectation. Then you can just calculate the probability. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1030/solution/cf621c.md) |
-| 2000 | [CF515D](https://codeforces.com/problemset/problem/515/D) | Find out those positions where the direction of the tile is already determined | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1030/solution/cf515d.md) |
+| 1700 | [CF590A](https://codeforces.com/problemset/problem/590/A) | When should an element change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1031/solution/cf590a.md) |
+| 2000 | [CF659F](https://codeforces.com/problemset/problem/659/F) | Iterate over the final non-zero number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1031/solution/cf659f.md) |
