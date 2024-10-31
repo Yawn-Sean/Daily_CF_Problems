@@ -7,14 +7,10 @@ def main():
     def op(l, r):
         global ans
         ans = fmax(ans, (r - l - 1) // 2)
-        if (r - l) % 2:
-            for j in range(l, i):
-                nums[j] = nums[l]
-        else:
-            for j in range(l, (l + r) // 2):
-                nums[j] = nums[l]
-            for j in range((l + r) // 2, r):
-                nums[j] = nums[r - 1]
+        for j in range(l, (l + r) // 2):
+            nums[j] = nums[l]
+        for j in range((l + r) // 2, r):
+            nums[j] = nums[r - 1]
 
     l = 0
     for i in range(1, n):

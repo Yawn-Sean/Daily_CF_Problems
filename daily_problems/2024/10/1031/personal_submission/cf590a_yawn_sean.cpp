@@ -22,16 +22,10 @@ signed main()
 
     auto op = [&] (int l, int r) {
         ans = max(ans, (r - l - 1) / 2);
-        if ((r - l) & 1) {
-            for (int i = l; i < r; i ++)
-                nums[i] = nums[l];
-        }
-        else {
-            for (int i = l; i < (l + r) / 2; i ++)
-                nums[i] = nums[l];
-            for (int i = (l + r) / 2; i < r; i ++)
-                nums[i] = nums[r - 1];
-        }
+        for (int i = l; i < (l + r) / 2; i ++)
+            nums[i] = nums[l];
+        for (int i = (l + r) / 2; i < r; i ++)
+            nums[i] = nums[r - 1];
     };
 
     int l = 0;
