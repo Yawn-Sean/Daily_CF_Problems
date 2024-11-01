@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF590A](https://codeforces.com/problemset/problem/590/A) | When should an element change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1031/solution/cf590a.md) |
-| 2000 | [CF659F](https://codeforces.com/problemset/problem/659/F) | Iterate over the final non-zero number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1031/solution/cf659f.md) |
+| 1600 | [CF992C](https://codeforces.com/problemset/problem/992/C) | List out the first few steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1101/solution/cf992c.md) |
+| 2100 | [CF295C](https://codeforces.com/problemset/problem/295/C) | For each "round", what status should you care about? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1101/solution/cf295c.md) |
