@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1700 | [CF305B](https://codeforces.com/problemset/problem/305/B) | Each fraction has a unique corresponding continued fraction. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1024/solution/cf305b.md) |
-| 2000 | [CF195E](https://codeforces.com/problemset/problem/195/E) | When you connect two points, you are merging them and updating the "depth" data. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1024/solution/cf195e.md) |
+| ---------- | -------- | ----- | -------- |
+| 1600 | [CF1062C](https://codeforces.com/problemset/problem/1062/C) | For each segment, find a optimal way to operate. Which variables determine the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1102/solution/cf1062c.md) |
+| 2200 | [CF868D](https://codeforces.com/problemset/problem/868/D) | When considering substrings of length $k$, the concatenation of strings does not generate a lot of different ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1102/solution/cf868d.md) |
