@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF992C](https://codeforces.com/problemset/problem/992/C) | List out the first few steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1101/solution/cf992c.md) |
-| 2100 | [CF295C](https://codeforces.com/problemset/problem/295/C) | For each "round", what status should you care about? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1101/solution/cf295c.md) |
+| 1800 | [CF1016C](https://codeforces.com/problemset/problem/1016/C) | What is the route pattern? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1104/solution/cf1016c.md) |
+| 1900 | [CF599D](https://codeforces.com/problemset/problem/599/D) | Figure out the answer for an $n\times m$ rectangle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1104/solution/cf599d.md) |
