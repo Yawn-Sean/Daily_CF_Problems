@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1800 | [CF432C](https://codeforces.com/problemset/problem/432/C) | You just need to process $swap(i,j)$ efficiently. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0826/solution/cf432c.md) |
-| 1900 | [CF1147B](https://codeforces.com/problemset/problem/1147/B) | If you rotate $x$ units and the image is the same, can your $x$ be smaller? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0826/solution/cf1147b.md) |
+| ---------- | -------- | ----- | -------- |
+| 1800 | [CF1016C](https://codeforces.com/problemset/problem/1016/C) | What is the route pattern? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1104/solution/cf1016c.md) |
+| 1900 | [CF599D](https://codeforces.com/problemset/problem/599/D) | Figure out the answer for an $n\times m$ rectangle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1104/solution/cf599d.md) |

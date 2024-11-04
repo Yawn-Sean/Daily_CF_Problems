@@ -47,4 +47,4 @@ void solve1() {
         colored_y[i] = 0;
     }
     cout << res << "\n";
-}                                                                                                                  
+}
