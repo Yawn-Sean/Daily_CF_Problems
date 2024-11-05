@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1016C](https://codeforces.com/problemset/problem/1016/C) | What is the route pattern? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1104/solution/cf1016c.md) |
-| 1900 | [CF599D](https://codeforces.com/problemset/problem/599/D) | Figure out the answer for an $n\times m$ rectangle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1104/solution/cf599d.md) |
+| 1800 | [CF1067B](https://codeforces.com/problemset/problem/1067/B) | What is the most important point in this graph? Start from it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1105/solution/cf1067b.md) |
+| 1900 | [CF982D](https://codeforces.com/problemset/problem/982/D) | Actually, you need to calculate the number of connected components. In what order should you merge them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1105/solution/cf982d.md) |
