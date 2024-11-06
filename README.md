@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1016C](https://codeforces.com/problemset/problem/1016/C) | What is the route pattern? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1104/solution/cf1016c.md) |
-| 1900 | [CF599D](https://codeforces.com/problemset/problem/599/D) | Figure out the answer for an $n\times m$ rectangle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1104/solution/cf599d.md) |
+| 1700 | [CF575D](https://codeforces.com/problemset/problem/575/D) | Try to block the thief. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1106/solution/cf575d.md) |
+| 2000 | [CF1280C](https://codeforces.com/problemset/problem/1280/C) | Consider each edge. What's its maximum / minimum times to be calculated? Is it achievable? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1106/solution/cf1280c.md) |
