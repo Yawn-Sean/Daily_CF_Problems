@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1067B](https://codeforces.com/problemset/problem/1067/B) | What is the most important point in this graph? Start from it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1105/solution/cf1067b.md) |
-| 1900 | [CF982D](https://codeforces.com/problemset/problem/982/D) | Actually, you need to calculate the number of connected components. In what order should you merge them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1105/solution/cf982d.md) |
+| 1700 | [CF575D](https://codeforces.com/problemset/problem/575/D) | Try to block the thief. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1106/solution/cf575d.md) |
+| 2000 | [CF1280C](https://codeforces.com/problemset/problem/1280/C) | Consider each edge. What's its maximum / minimum times to be calculated? Is it achievable? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1106/solution/cf1280c.md) |
