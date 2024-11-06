@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1062C](https://codeforces.com/problemset/problem/1062/C) | For each segment, find a optimal way to operate. Which variables determine the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1102/solution/cf1062c.md) |
-| 2200 | [CF868D](https://codeforces.com/problemset/problem/868/D) | When considering substrings of length $k$, the concatenation of strings does not generate a lot of different ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1102/solution/cf868d.md) |
+| 1700 | [CF575D](https://codeforces.com/problemset/problem/575/D) | Try to block the thief. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1106/solution/cf575d.md) |
+| 2000 | [CF1280C](https://codeforces.com/problemset/problem/1280/C) | Consider each edge. What's its maximum / minimum times to be calculated? Is it achievable? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1106/solution/cf1280c.md) |
