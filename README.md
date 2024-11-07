@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF575D](https://codeforces.com/problemset/problem/575/D) | Try to block the thief. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1106/solution/cf575d.md) |
-| 2000 | [CF1280C](https://codeforces.com/problemset/problem/1280/C) | Consider each edge. What's its maximum / minimum times to be calculated? Is it achievable? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1106/solution/cf1280c.md) |
+| 1700 | [CF1254A](https://codeforces.com/problemset/problem/1254/A) | Find the number of `'R'`-s in each connected component first. How can you construct a connected component that has exactly $x$ `'R'`-s? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1107/solution/cf1254a.md) |
+| 2000 | [CF814D](https://codeforces.com/problemset/problem/814/D) | How can you check the relation between circles? Then, make the most use of the second group. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1107/solution/cf814d.md) |
