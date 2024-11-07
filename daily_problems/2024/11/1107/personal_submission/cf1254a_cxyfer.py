@@ -1,5 +1,4 @@
 t = int(input())
-
 for _ in range(t):
     r, c, k = map(int, input().split())
     grid = [list(input()) for _ in range(r)]
