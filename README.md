@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1254A](https://codeforces.com/problemset/problem/1254/A) | Find the number of `'R'`-s in each connected component first. How can you construct a connected component that has exactly $x$ `'R'`-s? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1107/solution/cf1254a.md) |
-| 2000 | [CF814D](https://codeforces.com/problemset/problem/814/D) | How can you check the relation between circles? Then, make the most use of the second group. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1107/solution/cf814d.md) |
+| 1600 | [CF1027C](https://codeforces.com/problemset/problem/1027/C) | When is $P^2/S$ smaller? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1108/solution/cf1027c.md) |
+| 2100 | [CF587B](https://codeforces.com/problemset/problem/587/B) | It is about choosing subsequence from consecutive segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1108/solution/cf587b.md) |
