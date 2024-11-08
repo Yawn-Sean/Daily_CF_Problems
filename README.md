@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF575D](https://codeforces.com/problemset/problem/575/D) | Try to block the thief. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1106/solution/cf575d.md) |
-| 2000 | [CF1280C](https://codeforces.com/problemset/problem/1280/C) | Consider each edge. What's its maximum / minimum times to be calculated? Is it achievable? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1106/solution/cf1280c.md) |
+| 1600 | [CF1027C](https://codeforces.com/problemset/problem/1027/C) | When is $P^2/S$ smaller? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1108/solution/cf1027c.md) |
+| 2100 | [CF587B](https://codeforces.com/problemset/problem/587/B) | It is about choosing subsequence from consecutive segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1108/solution/cf587b.md) |
