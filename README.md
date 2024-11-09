@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1027C](https://codeforces.com/problemset/problem/1027/C) | When is $P^2/S$ smaller? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1108/solution/cf1027c.md) |
-| 2100 | [CF587B](https://codeforces.com/problemset/problem/587/B) | It is about choosing subsequence from consecutive segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1108/solution/cf587b.md) |
+| 1600 | [CF979C](https://codeforces.com/problemset/problem/979/C) | You just need to rule out the "bad" routes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1109/solution/cf979c.md) |
+| 2200 | [CF1650F](https://codeforces.com/problemset/problem/1650/F) | Which task should you finish first? And what options should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1109/solution/cf1650f.md) |
