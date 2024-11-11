@@ -4,7 +4,6 @@ input = lambda: sys.stdin.readline().rstrip()
 
 t = int(input())
 
-
 def f():
   n, m = map(int, input().split())
 
