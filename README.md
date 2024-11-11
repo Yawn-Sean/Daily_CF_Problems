@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF979C](https://codeforces.com/problemset/problem/979/C) | You just need to rule out the "bad" routes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1109/solution/cf979c.md) |
-| 2200 | [CF1650F](https://codeforces.com/problemset/problem/1650/F) | Which task should you finish first? And what options should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1109/solution/cf1650f.md) |
+| 1800 | [CF1280B](https://codeforces.com/problemset/problem/1280/B) | A classic problem to consider different cases. Find the maximum possible answer first. Which kinds of cases are easy to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1111/solution/cf1280b.md) |
+| 1900 | [CF846D](https://codeforces.com/problemset/problem/846/D) | How can you confirm if a sub-matrix is already dead? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1111/solution/cf846d.md) |
