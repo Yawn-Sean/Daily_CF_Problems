@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1027C](https://codeforces.com/problemset/problem/1027/C) | When is $P^2/S$ smaller? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1108/solution/cf1027c.md) |
-| 2100 | [CF587B](https://codeforces.com/problemset/problem/587/B) | It is about choosing subsequence from consecutive segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1108/solution/cf587b.md) |
+| 1800 | [CF847E](https://codeforces.com/problemset/problem/847/E) | Another minimization problem. If the time is fixed, how can you check if all of the asterisks can be eaten? Note that you should let the left Packmen eat the left asterisks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1112/solution/cf847e.md) |
+| 1900 | [CF682D](https://codeforces.com/problemset/problem/682/D) | For each string, the chosen substrings separate it into a few parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1112/solution/cf682d.md) |

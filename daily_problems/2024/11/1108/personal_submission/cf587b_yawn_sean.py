@@ -12,7 +12,6 @@ def main():
     dp = [0] * (n * k)
 
     ans = 0
-
     for i in range(k):
         pt = 0
         cur = 0
