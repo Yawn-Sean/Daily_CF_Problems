@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF847E](https://codeforces.com/problemset/problem/847/E) | Another minimization problem. If the time is fixed, how can you check if all of the asterisks can be eaten? Note that you should let the left Packmen eat the left asterisks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1112/solution/cf847e.md) |
-| 1900 | [CF682D](https://codeforces.com/problemset/problem/682/D) | For each string, the chosen substrings separate it into a few parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1112/solution/cf682d.md) |
+| 1700 | [CF1204C](https://codeforces.com/problemset/problem/1204/C) | How can you check if a vertex $x$ is on the path from $u$ to $v$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1113/solution/cf1204c.md) |
+| 2000 | [CF963B](https://codeforces.com/problemset/problem/963/B) | Think from the leaves. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1113/solution/cf963b.md) |
