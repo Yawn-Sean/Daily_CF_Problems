@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1067B](https://codeforces.com/problemset/problem/1067/B) | What is the most important point in this graph? Start from it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1105/solution/cf1067b.md) |
-| 1900 | [CF982D](https://codeforces.com/problemset/problem/982/D) | Actually, you need to calculate the number of connected components. In what order should you merge them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1105/solution/cf982d.md) |
+| 1700 | [CF1204C](https://codeforces.com/problemset/problem/1204/C) | How can you check if a vertex $x$ is on the path from $u$ to $v$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1113/solution/cf1204c.md) |
+| 2000 | [CF963B](https://codeforces.com/problemset/problem/963/B) | Think from the leaves. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1113/solution/cf963b.md) |
