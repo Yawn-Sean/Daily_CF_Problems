@@ -19,37 +19,40 @@ void solve() {
     }
 
     int ret = n * m;
-    std::vector<int> mid(m, 0);
-    std::vector<int> right(m, 0);
+    std::vector<int> center(m, 0);
+    std::vector<int> rightmost(m, 0);
+
     for (int up = 0; up <= n - 5; ++up) {
-        std::fill(begin(mid), end(mid), 0);
+        std::fill(begin(rightmost), end(rightmost), 0);
+
         for (int k = 0; k < m; ++k) {
             for (int down = up + 1; down < up + 4; ++down) {
-                mid[k] += grid[down][k];
+                rightmost[k] += grid[down][k];
             }
         }
 
         for (int down = up + 4; down < n; ++down) {
             for (int k = 0; k < m; ++k) {
-                right[k] = mid[k];
+                center[k] = rightmost[k];
+            }
+
+            // 0's on the boundary
+            for (int k = 1; k < m; ++k) {
+                center[k] += (1 ^ grid[up][k]) + (1 ^ grid[down][k]);
             }
 
             for (int k = 1; k < m; ++k) {
-                right[k] = 2 - grid[up][k] - grid[down][k];
-            }
-
-            for (int k = 1; k < m; ++k) {
-                right[k] += right[k - 1];
+                center[k] += center[k - 1];
             }
 
             int cur = m * n;
             for (int col = m - 1; col >= 3; --col) {
-                cur = std::min(cur, right[col - 1] - mid[col] + down - up - 1);
-                ret = std::min(ret, cur - right[col - 3] - mid[col - 3] + down - up - 1);   
+                cur = std::min(cur, center[col - 1] + down - up - 1 - rightmost[col]);
+                ret = std::min(ret, cur - center[col - 3] + down - up - 1 - rightmost[col - 3]);   
             }
 
             for (int col = 0; col < m; ++col) {
-                mid[col] += grid[down][col];
+                rightmost[col] += grid[down][col];
             }
         }
     }
