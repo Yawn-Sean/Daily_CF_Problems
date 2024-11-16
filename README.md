@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF353C](https://codeforces.com/problemset/problem/353/C) | If the chosen value is already smaller, all of the lower digits should be collected. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1115/solution/cf353c.md) |
-| 2100 | [CF163C](https://codeforces.com/problemset/problem/163/C) | Each round of run is about choosing an interval in the conveyor. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1115/solution/cf163c.md) |
+| 1600 | [CF353C](https://codeforces.com/problemset/problem/353/C) | If the chosen value is already smaller, all of the lower digits should be collected. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1116/solution/cf430a.md) |
+| 2100 | [CF163C](https://codeforces.com/problemset/problem/163/C) | Each round of run is about choosing an interval in the conveyor. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1116/solution/cf932d.md) |
