@@ -18,30 +18,6 @@ using namespace std;
 auto rng = mt19937(random_device()());
 auto rngl = mt19937_64(random_device()());
 
-int ma(int x, int y) {
-    return max(x, y);
-}
-
-int ema() {
-    return -1;
-}
-
-int mi(int x, int y) {
-    return min(x, y);
-}
-
-int emi() {
-    return 1e8;
-}
-
-int add(int x, int y) {
-    return x + y;
-}
-
-int id() {
-    return 0;
-}
-
 int main()
 {
     ios_base::sync_with_stdio(false);
