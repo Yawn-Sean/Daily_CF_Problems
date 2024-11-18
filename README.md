@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF430A](https://codeforces.com/problemset/problem/430/A) | "Differ by at most one". Note that the points chosen by an interval are consecutive. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1116/solution/cf430a.md) |
-| 2200 | [CF932D](https://codeforces.com/problemset/problem/932/D) | How can you find the first larger predecessor quickly? Jump through the useless predecessors. Then connect the vertice with its predecessor, and you just need to calculate most steps that could be taken. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1116/solution/cf932d.md) |
+| 1800 | [CF610C](hhttps://codeforces.com/problemset/problem/610/C) | Try smaller $K$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1118/solution/cf610c.md) |
+| 1900 | [CF717D](https://codeforces.com/problemset/problem/717/D) | How can you decide the outcome of a Nim game? How does this status change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1118/solution/cf717d.md) |
