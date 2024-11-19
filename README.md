@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF610C](https://codeforces.com/problemset/problem/610/C) | Try smaller $K$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1118/solution/cf610c.md) |
-| 1900 | [CF717D](https://codeforces.com/problemset/problem/717/D) | How can you decide the outcome of a Nim game? How does this status change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1118/solution/cf717d.md) |
+| 1800 | [CF201B](https://codeforces.com/problemset/problem/201/B) | Add the cost up first. The final function consists of $2$ parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1119/solution/cf201b.md) |
+| 1900 | [CF372B](https://codeforces.com/problemset/problem/372/B) | First of all, find all sub-rectangles that are "good". Then, find a way to pre-process for all $(a,b,c,d)$ combinations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1119/solution/cf372b.md) |
