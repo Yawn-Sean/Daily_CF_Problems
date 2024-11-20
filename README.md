@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF201B](https://codeforces.com/problemset/problem/201/B) | Add the cost up first. The final function consists of $2$ parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1119/solution/cf201b.md) |
-| 1900 | [CF372B](https://codeforces.com/problemset/problem/372/B) | First of all, find all sub-rectangles that are "good". Then, find a way to pre-process for all $(a,b,c,d)$ combinations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1119/solution/cf372b.md) |
+| 1700 | [CF507C](https://codeforces.com/problemset/problem/507/C) | It's similar to a DFS. So it covers a subtree first and then the other. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1120/solution/cf507c.md) |
+| 2000 | [CF137E](https://codeforces.com/problemset/problem/137/E) | Transform the string into an array. Its prefix sum is almost consecutive. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1120/solution/cf137e.md) |
