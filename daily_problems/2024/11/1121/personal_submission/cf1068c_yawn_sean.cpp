@@ -35,10 +35,8 @@ int main()
     for (int i = 0; i < m; i ++) {
         int u, v;
         cin >> u >> v;
-        pts[u].push_back({n + 2 * i + 1, u});
-        pts[u].push_back({n + 2 * i + 1, n + 1 + i});
-        pts[v].push_back({n + 2 * i + 2, v});
-        pts[v].push_back({n + 2 * i + 2, n + 1 + i});
+        pts[u].push_back({n + i + 1, u});
+        pts[v].push_back({n + i + 1, v});
     }
 
     for (int i = 1; i <= n; i ++) {
