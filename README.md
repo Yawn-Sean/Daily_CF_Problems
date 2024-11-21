@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF507C](https://codeforces.com/problemset/problem/507/C) | It's similar to a DFS. So it covers a subtree first and then the other. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1120/solution/cf507c.md) |
-| 2000 | [CF137E](https://codeforces.com/problemset/problem/137/E) | Transform the string into an array. Its prefix sum is almost consecutive. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1120/solution/cf137e.md) |
+| 1700 | [CF1068C](https://codeforces.com/problemset/problem/1068/C) | Construct a base graph first. When adding an edge, what should you do to adjust it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1121/solution/cf1068c.md) |
+| 2000 | [CF533B](https://codeforces.com/problemset/problem/533/B) | Classic tree DP. Don't forget the conditions you should satisfy to add one employee. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1121/solution/cf533c.md) |
