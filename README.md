@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF201B](https://codeforces.com/problemset/problem/201/B) | Add the cost up first. The final function consists of $2$ parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1119/solution/cf201b.md) |
-| 1900 | [CF372B](https://codeforces.com/problemset/problem/372/B) | First of all, find all sub-rectangles that are "good". Then, find a way to pre-process for all $(a,b,c,d)$ combinations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1119/solution/cf372b.md) |
+| 1700 | [CF1068C](https://codeforces.com/problemset/problem/1068/C) | Construct a base graph first. When adding an edge, what should you do to adjust it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1121/solution/cf1068c.md) |
+| 2000 | [CF533B](https://codeforces.com/problemset/problem/533/B) | Classic tree DP. Don't forget the conditions you should satisfy to add one employee. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1121/solution/cf533c.md) |
