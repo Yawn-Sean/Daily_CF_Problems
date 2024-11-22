@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1800 | [CF1227D2](https://codeforces.com/problemset/problem/1227/D2) | For each $k$ , which elements should you choose? For different $k$ -s, the change is not big. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1008/solution/cf1227d2.md) |
-| 1900 | [CF1482D](https://codeforces.com/problemset/problem/1482/D) | You can delete the array step by step, as there are at most $n$ elements to delete. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1008/solution/cf1482d.md) |
+| ---------- | -------- | ----- | -------- |
+| 1600 | [CF873C](https://codeforces.com/problemset/problem/873/C) | Consider each column separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1122/solution/cf873c.md) |
+| 2100 | [CF215E](https://codeforces.com/problemset/problem/215/E) | Iterate over the number of digits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1122/solution/cf215e.md) |
