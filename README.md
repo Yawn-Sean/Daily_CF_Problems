@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1068C](https://codeforces.com/problemset/problem/1068/C) | Construct a base graph first. When adding an edge, what should you do to adjust it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1121/solution/cf1068c.md) |
-| 2000 | [CF533B](https://codeforces.com/problemset/problem/533/B) | Classic tree DP. Don't forget the conditions you should satisfy to add one employee. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1121/solution/cf533c.md) |
+| 1600 | [CF873C](https://codeforces.com/problemset/problem/873/C) | Consider each column separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1122/solution/cf873c.md) |
+| 2100 | [CF215E](https://codeforces.com/problemset/problem/215/E) | Iterate over the number of digits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1122/solution/cf215e.md) |
