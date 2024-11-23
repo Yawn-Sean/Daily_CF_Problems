@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF873C](https://codeforces.com/problemset/problem/873/C) | Consider each column separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1122/solution/cf873c.md) |
-| 2100 | [CF215E](https://codeforces.com/problemset/problem/215/E) | Iterate over the number of digits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1122/solution/cf215e.md) |
+| 1600 | [CF337C](https://codeforces.com/problemset/problem/337/C) | Greedily arrange the correct problems. You should make the number of doubles as small as possible and as early as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1123/solution/cf337c.md) |
+| 2400 | [CF441E](https://codeforces.com/problemset/problem/441/E) | The suffix of the original number is not changed much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1123/solution/cf441e.md) |
