@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF337C](https://codeforces.com/problemset/problem/337/C) | Greedily arrange the correct problems. You should make the number of doubles as small as possible and as early as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1123/solution/cf337c.md) |
-| 2400 | [CF441E](https://codeforces.com/problemset/problem/441/E) | The suffix of the original number is not changed much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1123/solution/cf441e.md) |
+| 1800 | [CF700B](https://codeforces.com/problemset/problem/700/B) | Consider how many times an edge should be calculated. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1125/solution/cf700b.md) |
+| 1900 | [CF566D](https://codeforces.com/problemset/problem/566/D) | The key is that you should not "merge" teams twice in operation $2$ and that you should find the next position to operate effectively. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1125/solution/cf566d.md) |
