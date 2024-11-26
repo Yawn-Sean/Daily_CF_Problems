@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF700B](https://codeforces.com/problemset/problem/700/B) | Consider how many times an edge should be calculated. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1125/solution/cf700b.md) |
-| 1900 | [CF566D](https://codeforces.com/problemset/problem/566/D) | The key is that you should not "merge" teams twice in operation $2$ and that you should find the next position to operate effectively. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1125/solution/cf566d.md) |
+| 1800 | [CF174C](https://codeforces.com/problemset/problem/174/C) | Adding a value to a segment is all about changing two elements in a first-order differential sequence. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1126/solution/cf174c.md) |
+| 1900 | [CF223C](https://codeforces.com/problemset/problem/223/C) | Consider the weight of each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1126/solution/cf223c.md) |
