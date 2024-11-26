@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF337C](https://codeforces.com/problemset/problem/337/C) | Greedily arrange the correct problems. You should make the number of doubles as small as possible and as early as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1123/solution/cf337c.md) |
-| 2400 | [CF441E](https://codeforces.com/problemset/problem/441/E) | The suffix of the original number is not changed much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1123/solution/cf441e.md) |
+| 1800 | [CF174C](https://codeforces.com/problemset/problem/174/C) | Adding a value to a segment is all about changing two elements in a first-order differential sequence. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1126/solution/cf174c.md) |
+| 1900 | [CF223C](https://codeforces.com/problemset/problem/223/C) | Consider the weight of each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1126/solution/cf223c.md) |
