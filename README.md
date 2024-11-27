@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF174C](https://codeforces.com/problemset/problem/174/C) | Adding a value to a segment is all about changing two elements in a first-order differential sequence. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1126/solution/cf174c.md) |
-| 1900 | [CF223C](https://codeforces.com/problemset/problem/223/C) | Consider the weight of each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1126/solution/cf223c.md) |
+| 1700 | [CF288C](https://codeforces.com/problemset/problem/288/C) | Consider each bit separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1127/solution/cf288c.md) |
+| 2000 | [CF1612E](https://codeforces.com/problemset/problem/1612/E) | When $t$ is large, adding new elements is not profitable. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1127/solution/cf1612e.md) |
