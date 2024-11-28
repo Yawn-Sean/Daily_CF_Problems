@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF288C](https://codeforces.com/problemset/problem/288/C) | Consider each bit separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1127/solution/cf288c.md) |
-| 2000 | [CF1612E](https://codeforces.com/problemset/problem/1612/E) | When $t$ is large, adding new elements is not profitable. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1127/solution/cf1612e.md) |
+| *1700 | [CF398B](https://codeforces.com/problemset/problem/398/B) | You just care about how many rows and columns remain after operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1128/solution/cf398b.md) |
+| 2000 | [CF119C](https://codeforces.com/problemset/problem/119/C) | Even $a_i,b_i$ is large, their difference is small, so you can always use DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1128/solution/cf119c.md) |
