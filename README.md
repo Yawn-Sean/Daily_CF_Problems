@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1800 | [CF257C](https://codeforces.com/problemset/problem/257/C) | We just need to calculate the angle for each point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1014/solution/cf257c.md) |
-| 1900 | [CF417D](https://codeforces.com/problemset/problem/417/D) | The final cost is composed of $2$ parts: monitors and friends. You can fix the first one to find the minimum of the second part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1014/solution/cf417d.md) |
+| ---------- | -------- | ----- | -------- |
+| 1600 | [CF364A](https://codeforces.com/problemset/problem/364/A) | Find a way to calculate the sum of the submatrix quickly. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1129/solution/cf364a.md) |
+| 2100 | [CF1387A](https://codeforces.com/problemset/problem/1387/A) | Solve the problem for each connected component separately. If $x_i$ is changeable, what value should it choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1129/solution/cf1387a.md) |
