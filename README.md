@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [CF398B](https://codeforces.com/problemset/problem/398/B) | You just care about how many rows and columns remain after operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1128/solution/cf398b.md) |
-| 2000 | [CF119C](https://codeforces.com/problemset/problem/119/C) | Even $a_i,b_i$ is large, their difference is small, so you can always use DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1128/solution/cf119c.md) |
+| 1600 | [CF364A](https://codeforces.com/problemset/problem/364/A) | Find a way to quickly calculate the sum of the submatrix. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1129/solution/cf364a.md) |
+| 2100 | [CF1387A](https://codeforces.com/problemset/problem/1387/A) | Solve each connected component separately. If $x_i$ is changeable, what value should it choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1129/solution/cf1387a.md) |
