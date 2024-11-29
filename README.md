@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF288C](https://codeforces.com/problemset/problem/288/C) | Consider each bit separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1127/solution/cf288c.md) |
-| 2000 | [CF1612E](https://codeforces.com/problemset/problem/1612/E) | When $t$ is large, adding new elements is not profitable. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1127/solution/cf1612e.md) |
+| 1600 | [CF364A](https://codeforces.com/problemset/problem/364/A) | Find a way to calculate the sum of the submatrix quickly. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1129/solution/cf364a.md) |
+| 2100 | [CF1387A](https://codeforces.com/problemset/problem/1387/A) | Solve the problem for each connected component separately. If $x_i$ is changeable, what value should it choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1129/solution/cf1387a.md) |
