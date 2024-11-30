@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF364A](https://codeforces.com/problemset/problem/364/A) | Find a way to calculate the sum of the submatrix quickly. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1129/solution/cf364a.md) |
-| 2100 | [CF1387A](https://codeforces.com/problemset/problem/1387/A) | Solve the problem for each connected component separately. If $x_i$ is changeable, what value should it choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1129/solution/cf1387a.md) |
+| 1600 | [CF319A](https://codeforces.com/problemset/problem/319/A) | After considering the largest bit, we can divide the array into two parts which are basically the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1130/solution/cf319a.md) |
+| 2200 | [CF369D](https://codeforces.com/problemset/problem/369/D) | There is a pattern that the remaining fools should follow. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1130/solution/cf369d.md) |
