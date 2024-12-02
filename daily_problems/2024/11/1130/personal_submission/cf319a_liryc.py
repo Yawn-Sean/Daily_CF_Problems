@@ -1,5 +1,5 @@
 '''
-https://codeforces.com/problemset/submission/369/294015659
+https://codeforces.com/problemset/submission/319/294383156
 CF319A
 2024/11/30 Y1
 1600
