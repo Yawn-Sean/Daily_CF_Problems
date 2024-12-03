@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [CF396B](https://codeforces.com/problemset/problem/396/B) | A lot of $v(i)u(i)$ are the same. Consider them together! | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1202/solution/cf396b.md) |
-| 1900 | [CF362C](https://codeforces.com/problemset/problem/362/C) | How does the swap of two elements change the total number of inversions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1202/solution/cf362c.md) |
+| 1800 | [CF883H](https://codeforces.com/problemset/problem/883/H) | The number of possible splits can't be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1203/solution/cf883h.md) |
+| 1900 | [CF229C](https://codeforces.com/problemset/problem/229/C) | Consider the basic characteristics of a triangle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1203/solution/cf229c.md) |
