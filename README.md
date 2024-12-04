@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF883H](https://codeforces.com/problemset/problem/883/H) | The number of possible splits can't be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1203/solution/cf883h.md) |
-| 1900 | [CF229C](https://codeforces.com/problemset/problem/229/C) | Consider the basic characteristics of a triangle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1203/solution/cf229c.md) |
+| 1700 | [CF297A](https://codeforces.com/problemset/problem/297/A) | $0$ can be added as many as you want, but $1$ can't. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1204/solution/cf297a.md) |
+| 2000 | [CF126C](https://codeforces.com/problemset/problem/126/C) | The further one pixel is from the diagonal, the smaller number of operations it can be flipped by. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1204/solution/cf126c.md) |
