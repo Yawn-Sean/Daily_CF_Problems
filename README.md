@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF297A](https://codeforces.com/problemset/problem/297/A) | $0$ can be added as many as you want, but $1$ can't. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1204/solution/cf297a.md) |
-| 2000 | [CF126C](https://codeforces.com/problemset/problem/126/C) | The further one pixel is from the diagonal, the smaller number of operations it can be flipped by. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1204/solution/cf126c.md) |
+| 1700 | [CF698B](https://codeforces.com/problemset/problem/698/B) | Process each connected component first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1205/solution/cf698b.md) |
+| 2000 | [CF228C](https://codeforces.com/problemset/problem/228/C) | When detecting a $k$ -order fractal, you can use the result of the $k-1$ -order fractal. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1205/solution/cf228c.md) |
