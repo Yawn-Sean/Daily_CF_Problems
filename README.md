@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF698B](https://codeforces.com/problemset/problem/698/B) | Process each connected component first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1205/solution/cf698b.md) |
-| 2000 | [CF228C](https://codeforces.com/problemset/problem/228/C) | When detecting a $k$ -order fractal, you can use the result of the $k-1$ -order fractal. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1205/solution/cf228c.md) |
+| 1600 | [CF250C](https://codeforces.com/problemset/problem/250/C) | Consider the difference removing a "segment" can make. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1206/solution/cf250c.md) |
+| 2100 | [CF209B](https://codeforces.com/problemset/problem/209/B) | Iterate over which pixel remains. How can the numbers of the other two change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1206/solution/cf209b.md) |
