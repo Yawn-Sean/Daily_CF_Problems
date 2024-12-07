@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF250C](https://codeforces.com/problemset/problem/250/C) | Consider the difference removing a "segment" can make. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1206/solution/cf250c.md) |
-| 2100 | [CF209B](https://codeforces.com/problemset/problem/209/B) | Iterate over which pixel remains. How can the numbers of the other two change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1206/solution/cf209b.md) |
+| 1600 | [CF1523C](https://codeforces.com/problemset/problem/1523/C) | Find a way that can save enough room for future editions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1207/solution/cf1523c.md) |
+| 2200 | [CF639C](https://codeforces.com/problemset/problem/639/C) | Consider the difference you should make. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1207/solution/cf639c.md) |
