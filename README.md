@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1523C](https://codeforces.com/problemset/problem/1523/C) | Find a way that can save enough room for future editions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1207/solution/cf1523c.md) |
-| 2200 | [CF639C](https://codeforces.com/problemset/problem/639/C) | Consider the difference you should make. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1207/solution/cf639c.md) |
+| 1800 | [CF185B](https://codeforces.com/problemset/problem/185/B) | Transform the target function into a convex one. |[Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1209/solution/cf185b.md) |
+| 1900 | [CF356B](https://codeforces.com/problemset/problem/356/B) | Which pairs of positions can meet? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1209/solution/cf356b.md) |
