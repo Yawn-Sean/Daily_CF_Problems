@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1062C](https://codeforces.com/problemset/problem/1062/C) | For each segment, find a optimal way to operate. Which variables determine the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1102/solution/cf1062c.md) |
-| 2200 | [CF868D](https://codeforces.com/problemset/problem/868/D) | When considering substrings of length $k$, the concatenation of strings does not generate a lot of different ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1102/solution/cf868d.md) |
+| 1800 | [CF185B](https://codeforces.com/problemset/problem/185/B) | Transform the target function into a convex one. |[Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1209/solution/cf185b.md) |
+| 1900 | [CF356B](https://codeforces.com/problemset/problem/356/B) | Which pairs of positions can meet? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1209/solution/cf356b.md) |
