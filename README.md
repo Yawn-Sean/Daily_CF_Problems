@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF185B](https://codeforces.com/problemset/problem/185/B) | Transform the target function into a convex one. |[Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1209/solution/cf185b.md) |
-| 1900 | [CF356B](https://codeforces.com/problemset/problem/356/B) | Which pairs of positions can meet? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1209/solution/cf356b.md) |
+| 1800 | [CF234F](https://codeforces.com/problemset/problem/234/F) | It's easy to find the DP traits in the problem. Just decide what status you should include. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1210/solution/cf234f.md) |
+| 1900 | [CF257D](https://codeforces.com/problemset/problem/257/D) | Start from the right. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1210/solution/cf257d.md) |
