@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF234F](https://codeforces.com/problemset/problem/234/F) | It's easy to find the DP traits in the problem. Just decide what status you should include. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1210/solution/cf234f.md) |
-| 1900 | [CF257D](https://codeforces.com/problemset/problem/257/D) | Start from the right. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1210/solution/cf257d.md) |
+| 1700 | [CF1219C](https://codeforces.com/problemset/problem/1219/C) | It's all about case work. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1211/solution/cf1219c.md) |
+| 2000 | [CF671B](https://codeforces.com/problemset/problem/671/B) | We only care about the richest and poorest people. The numbers of their coins only increase / decrease with time. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1211/solution/cf671b.md) |
