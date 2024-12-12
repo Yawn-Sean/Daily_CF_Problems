@@ -6,7 +6,6 @@ using namespace std;
 const int N = 1e7+10,modb = 4294967296,INF = 0x3f3f3f3f3f3f3f3f;
 
 int a[N],b[N];
-
 void solve()
 {
     int n,l,r,x,y,z;
