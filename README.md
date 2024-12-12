@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1219C](https://codeforces.com/problemset/problem/1219/C) | It's all about case work. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1211/solution/cf1219c.md) |
-| 2000 | [CF671B](https://codeforces.com/problemset/problem/671/B) | We only care about the richest and poorest people. The numbers of their coins only increase / decrease with time. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1211/solution/cf671b.md) |
+| 1700 | [CF1142A](https://codeforces.com/problemset/problem/1142/A) | Consider the different distance between the $2$ spots. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1212/solution/cf1142a.md) |
+| 2000 | [CF1090I](https://codeforces.com/problemset/problem/1090/I) | Consider whether each element if positive or negative. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1212/solution/cf1090i.md) |
