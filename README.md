@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF86A](https://codeforces.com/problemset/problem/86/A) | The function is not that complex as it seems. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1213/solution/cf86a.md) |
-| 2100 | [CF542F](https://codeforces.com/problemset/problem/542/F) | A knapsack problem. What is the actual size of a task? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1213/solution/cf542f.md) |
+| 1600 | [CF848A](https://codeforces.com/problemset/problem/848/A) | Find a way to calculate the cost. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1214/solution/cf848a.md) |
+| 2200 | [CF404E](https://codeforces.com/problemset/problem/404/E) | There can't be many obstacles. And once you discover the number of obstacles and the positions of them, you can greedily move them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1214/solution/cf404e.md) |
