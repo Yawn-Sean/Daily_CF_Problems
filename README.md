@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF848A](https://codeforces.com/problemset/problem/848/A) | Find a way to calculate the cost. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1214/solution/cf848a.md) |
-| 2200 | [CF404E](https://codeforces.com/problemset/problem/404/E) | There can't be many obstacles. And once you discover the number of obstacles and the positions of them, you can greedily move them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1214/solution/cf404e.md) |
+| 1800 | [CF95B](https://codeforces.com/problemset/problem/95/B) | Enlarge a digit and the digits following can be whatever you want. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1216/solution/cf95b.md) |
+| 1900 | [CF331B2](https://codeforces.com/problemset/problem/331/B2) | Switch the array into another one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1216/solution/cf331b2.md) |
