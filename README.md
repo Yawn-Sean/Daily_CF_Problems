@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1142A](https://codeforces.com/problemset/problem/1142/A) | Consider the different distance between the $2$ spots. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1212/solution/cf1142a.md) |
-| 2000 | [CF1090I](https://codeforces.com/problemset/problem/1090/I) | Consider whether each element if positive or negative. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1212/solution/cf1090i.md) |
+| 1800 | [CF95B](https://codeforces.com/problemset/problem/95/B) | Enlarge a digit and the digits following can be whatever you want. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1216/solution/cf95b.md) |
+| 1900 | [CF331B2](https://codeforces.com/problemset/problem/331/B2) | Switch the array into another one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1216/solution/cf331b2.md) |
