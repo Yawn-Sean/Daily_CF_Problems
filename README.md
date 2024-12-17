@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF95B](https://codeforces.com/problemset/problem/95/B) | Enlarge a digit and the digits following can be whatever you want. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1216/solution/cf95b.md) |
-| 1900 | [CF331B2](https://codeforces.com/problemset/problem/331/B2) | Switch the array into another one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1216/solution/cf331b2.md) |
+| 1800 | [CF538D](https://codeforces.com/problemset/problem/538/D) | Find out all the possible moves and check whether each `'x'` can be reached. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1217/solution/cf538d.md) |
+| 1900 | [CF818E](https://codeforces.com/problemset/problem/818/E) | You just need to check the prime factors. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1217/solution/cf818e.md) |
