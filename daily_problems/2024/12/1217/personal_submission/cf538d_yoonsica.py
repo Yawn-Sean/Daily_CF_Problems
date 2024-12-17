@@ -43,41 +43,43 @@ g = []
 for _ in range(n):
     g.append(RS())
 
-d = [[1]*(2*n) for _ in range(2*n)] # 默认每个方向都可以
+d = [[0]*(2*n) for _ in range(2*n)] # 默认每个方向都可以
+for i in range(1, 2*n):
+    for j in range(1, 2*n):
+        d[i][j] = 1
+
 for i, row in enumerate(g, 1):
     for j, c in enumerate(row, 1):
         if c == 'o': # 棋子
-            for x in range(n):
-                for y in range(n):
-                    if g[x][y] == '.': # 这个方向不行
+            for x in range(1, n + 1):
+                for y in range(1, n + 1):
+                    if g[x - 1][y - 1] == '.': # 这个方向不行
                         d[x - i + n][y - j + n] = 0
 
-t = [[0]*(2*n) for _ in range(2*n)] # 记录所有棋子的攻击范围
+t = [[0]*(n + 1) for _ in range(1 + n)] # 记录所有棋子的攻击范围
 for i, row in enumerate(g, 1):
     for j, c in enumerate(row, 1):
         if c == 'o':
             # 判断每个能走的方向
             for x in range(1, 2*n):
                 for y in range(1, 2*n):
-                    nx, ny = i + x -
-                    if d[x - i, y - j]:
-                        t[x, y] = 1
+                    if d[x][y]:
+                        nx, ny = i + x - n, j + y - n
+                        if 1 <= nx <= n and 1 <= ny <= n:
+                            t[nx][ny] = 1
 flag = True
-for i, row in enumerate(g):
-    for j, c in enumerate(row):
+for i, row in enumerate(g, 1):
+    for j, c in enumerate(row, 1):
         if c != 'o':
-            flag &= (int(c == 'x') == t[i, j])
+            flag &= ((c == 'x') == (t[i][j] == 1))
 
 if not flag:
     print('NO')
 else:
     print('YES')
-    m = 2*n - 1
-    ans = [['.']*m for _ in range(m)]
-    # o在(n - 1, n - 1)
-    for i in range(2*n - 1):
-        for j in range(2*n - 1):
-            if d[i - (n - 1), j - (n - 1)] == 1:
-                ans[i][j] = 'x'
-    ans[n - 1][n - 1] = 'o'
-    print('\n'.join(''.join(row) for row in ans))
+    d[n][n] = 2
+    for i in range(1, 2*n):
+        ans = []
+        for j in range(1, 2 * n):
+            ans.append('.xo'[d[i][j]])
+        print(''.join(ans))
