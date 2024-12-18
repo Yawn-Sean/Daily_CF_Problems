@@ -4,7 +4,7 @@ int n, m, c, p, a[1005];
 int main(){
 	cin>>n>>m>>c;
 	int l=0, r=n+1, mid=c/2;
-    a[0] = -1, a[n+1] = c + 1;//
+     a[0] = -1, a[n+1] = c + 1;//
 	while(m--){
 		cin>>p;
 		if(p<=mid){//是<=而不是< [1,c/2] [c/2+1,c]
