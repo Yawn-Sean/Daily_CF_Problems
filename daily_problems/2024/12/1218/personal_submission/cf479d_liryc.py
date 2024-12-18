@@ -1,5 +1,5 @@
 '''
-https://codeforces.com/problemset/submission/479/297110415
+https://codeforces.com/problemset/submission/479/297111384
 479D
 2024/12/18 Y1
 1700
