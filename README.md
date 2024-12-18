@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF538D](https://codeforces.com/problemset/problem/538/D) | Find out all the possible moves and check whether each `'x'` can be reached. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1217/solution/cf538d.md) |
-| 1900 | [CF818E](https://codeforces.com/problemset/problem/818/E) | You just need to check the prime factors. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1217/solution/cf818e.md) |
+| 1700 | [CF479D](https://codeforces.com/problemset/problem/479/D) | You don't need to make a lot of marks. What are the different cases? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1218/solution/cf479d.md) |
+| 2000 | [CF896B](https://codeforces.com/problemset/problem/896/B) | Greedily thinking, you should put the small numbers from the left and large numbers from the right. Is it really correct? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1218/solution/cf896b.md) |
