@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF479D](https://codeforces.com/problemset/problem/479/D) | You don't need to make a lot of marks. What are the different cases? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1218/solution/cf479d.md) |
-| 2000 | [CF896B](https://codeforces.com/problemset/problem/896/B) | Greedily thinking, you should put the small numbers from the left and large numbers from the right. Is it really correct? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1218/solution/cf896b.md) |
+| 1700 | [CF1056C](https://codeforces.com/problemset/problem/1056/C) | Make use of your advantage. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1219/solution/cf1056c.md) |
+| 2000 | [CF82D](https://codeforces.com/problemset/problem/82/D) | The pattern of the queue of customers is special. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1219/solution/cf82d.md) |
