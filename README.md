@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1056C](https://codeforces.com/problemset/problem/1056/C) | Make use of your advantage. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1219/solution/cf1056c.md) |
-| 2000 | [CF82D](https://codeforces.com/problemset/problem/82/D) | The pattern of the queue of customers is special. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1219/solution/cf82d.md) |
+| 1600 | [CF297B](https://codeforces.com/problemset/problem/297/B) | Find the component of each fish. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1220/solution/cf297b.md) |
+| 2100 | [CF165D](https://codeforces.com/problemset/problem/165/D) | All about checking if there is a white edge on the path and finding out the distance. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1220/solution/cf165d.md) |
