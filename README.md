@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF848A](https://codeforces.com/problemset/problem/848/A) | Find a way to calculate the cost. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1214/solution/cf848a.md) |
-| 2200 | [CF404E](https://codeforces.com/problemset/problem/404/E) | There can't be many obstacles. And once you discover the number of obstacles and the positions of them, you can greedily move them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1214/solution/cf404e.md) |
+| 1600 | [CF297B](https://codeforces.com/problemset/problem/297/B) | Find the component of each fish. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1220/solution/cf297b.md) |
+| 2100 | [CF165D](https://codeforces.com/problemset/problem/165/D) | All about checking if there is a white edge on the path and finding out the distance. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1220/solution/cf165d.md) |
