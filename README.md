@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF297B](https://codeforces.com/problemset/problem/297/B) | Find the component of each fish. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1220/solution/cf297b.md) |
-| 2100 | [CF165D](https://codeforces.com/problemset/problem/165/D) | All about checking if there is a white edge on the path and finding out the distance. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1220/solution/cf165d.md) |
+| 1600 | [CF980B](https://codeforces.com/problemset/problem/980/B) | You don't need to actually calculate the number of shortest paths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1221/solution/cf980b.md) |
+| 2200 | [CF507D](https://codeforces.com/problemset/problem/507/D) | The modulo condition starts from the suffix, so DP from the right. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1221/solution/cf507d.md) |
