@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF980B](https://codeforces.com/problemset/problem/980/B) | You don't need to actually calculate the number of shortest paths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1221/solution/cf980b.md) |
-| 2200 | [CF507D](https://codeforces.com/problemset/problem/507/D) | The modulo condition starts from the suffix, so DP from the right. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1221/solution/cf507d.md) |
+| 1800 | [CF77B](https://codeforces.com/problemset/problem/77/B) | Try drawing the area that satisfies the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1223/solution/cf77b.md) |
+| 1900 | [CF134B](https://codeforces.com/problemset/problem/134/B) | If the final pair is fixed, the number of steps is fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1223/solution/cf134b.md) |
