@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF77B](https://codeforces.com/problemset/problem/77/B) | Try drawing the area that satisfies the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1223/solution/cf77b.md) |
-| 1900 | [CF134B](https://codeforces.com/problemset/problem/134/B) | If the final pair is fixed, the number of steps is fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1223/solution/cf134b.md) |
+| 1800 | [CF142B](https://codeforces.com/problemset/problem/142/B) | If you can make pairs between positions, it's easy to decide / prove the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1224/solution/cf142b.md) |
+| 1900 | [CF228E](https://codeforces.com/problemset/problem/228/E) | It is useless to apply operation on a single city more than twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1224/solution/cf228e.md) |
