@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF142B](https://codeforces.com/problemset/problem/142/B) | If you can make pairs between positions, it's easy to decide / prove the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1224/solution/cf142b.md) |
-| 1900 | [CF228E](https://codeforces.com/problemset/problem/228/E) | It is useless to apply operation on a single city more than twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1224/solution/cf228e.md) |
+| 1700 | [CF938C](https://codeforces.com/problemset/problem/938/C) | Find a way to calculate the answer first. How can you reverse it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1225/solution/cf938c.md) |
+| 2000 | [CF755D](https://codeforces.com/problemset/problem/755/D) | It's about the number of intersections. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1225/solution/cf755d.md) |
