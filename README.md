@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF938C](https://codeforces.com/problemset/problem/938/C) | Find a way to calculate the answer first. How can you reverse it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1225/solution/cf938c.md) |
-| 2000 | [CF755D](https://codeforces.com/problemset/problem/755/D) | It's about the number of intersections. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1225/solution/cf755d.md) |
+| 1700 | [CF1042C](https://codeforces.com/problemset/problem/1042/C) | There are only three types of numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1226/solution/cf1042c.md) |
+| 2000 | [CF1610D](https://codeforces.com/problemset/problem/1610/D) | Bezout Theorem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1226/solution/cf1610d.md) |
