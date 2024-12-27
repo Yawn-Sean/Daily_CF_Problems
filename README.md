@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1042C](https://codeforces.com/problemset/problem/1042/C) | There are only three types of numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1226/solution/cf1042c.md) |
-| 2000 | [CF1610D](https://codeforces.com/problemset/problem/1610/D) | Bezout Theorem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1226/solution/cf1610d.md) |
+| 1600 | [CF1223C](https://codeforces.com/problemset/problem/1223/C) | The more the better. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1227/solution/cf1223c.md) |
+| 2100 | [CF276E](https://codeforces.com/problemset/problem/276/E) | It's a tree with a special configuration. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1227/solution/cf276e.md) |
