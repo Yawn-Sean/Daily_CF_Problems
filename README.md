@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1056C](https://codeforces.com/problemset/problem/1056/C) | Make use of your advantage. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1219/solution/cf1056c.md) |
-| 2000 | [CF82D](https://codeforces.com/problemset/problem/82/D) | The pattern of the queue of customers is special. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1219/solution/cf82d.md) |
+| 1800 | [CF51C](https://codeforces.com/problemset/problem/51/C) | It's just about separating the points into three segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1230/solution/cf51c.md) |
+| 1900 | [CF327D](https://codeforces.com/problemset/problem/327/D) | Consider each connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1230/solution/cf327d.md) |
