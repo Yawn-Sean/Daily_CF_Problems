@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1600 | [CF573B](https://codeforces.com/problemset/problem/573/B) | Consider each vertical line. How can it be fully destroyed? Only a few ways. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0427/solution/cf573b.md) |
-| 2200 | [CF567E](https://codeforces.com/problemset/problem/567/E) | To what extent should an edge be reduced to be on the shortest path? How can you judge an edge is "definitely included in the shortest path"? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0427/solution/cf567e.md) |
+| ---------- | -------- | ----- | -------- |
+| 1800 | [CF51C](https://codeforces.com/problemset/problem/51/C) | It's just about separating the points into three segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1230/solution/cf51c.md) |
+| 1900 | [CF327D](https://codeforces.com/problemset/problem/327/D) | Consider each connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1230/solution/cf327d.md) |
