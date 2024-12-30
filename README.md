@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF323A](https://codeforces.com/problemset/problem/323/A) | Learn from the example. For how to prove: connect each block with its neighboring block with the same color. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1228/solution/cf323a.md) |
-| 2300 | [CF306D](https://codeforces.com/problemset/problem/306/D) | When you decide the first few edges, the last ones are already settled. How can you make it different? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1228/solution/cf306d.md) |
+| 1800 | [CF51C](https://codeforces.com/problemset/problem/51/C) | It's just about separating the points into three segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1230/solution/cf51c.md) |
+| 1900 | [CF327D](https://codeforces.com/problemset/problem/327/D) | Consider each connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1230/solution/cf327d.md) |
