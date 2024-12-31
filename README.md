@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1223C](https://codeforces.com/problemset/problem/1223/C) | The more the better. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1227/solution/cf1223c.md) |
-| 2100 | [CF276E](https://codeforces.com/problemset/problem/276/E) | It's a tree with a special configuration. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1227/solution/cf276e.md) |
+| 1800 | [CF1575D](https://codeforces.com/problemset/problem/1575/D) | Iterate over $X$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1231/solution/cf1575d.md) |
+| 1900 | [CF1260D](https://codeforces.com/problemset/problem/1260/D) | It's more possible to move to the end with less squads. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1231/solution/cf1260d.md) |
