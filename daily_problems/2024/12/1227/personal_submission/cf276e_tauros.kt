@@ -7,6 +7,7 @@ private fun solve() {
         val (u, v) = rd.na(2).map { it - 1 }
         graph.addEdge(u, v); graph.addEdge(v, u)
     }
+    
 
     fun IntArray.update(pos: int, add: int) = this.bitUpdateWithIndex(pos) { this[it] += add }
     fun IntArray.query(pos: int) = this.bitQuery(pos, 0, int::plus)

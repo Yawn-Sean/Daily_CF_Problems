@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1575D](https://codeforces.com/problemset/problem/1575/D) | Iterate over $X$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1231/solution/cf1575d.md) |
-| 1900 | [CF1260D](https://codeforces.com/problemset/problem/1260/D) | It's more possible to move to the end with less squads. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1231/solution/cf1260d.md) |
+| 1700 | [CF581D](https://codeforces.com/problemset/problem/581/D) | There are only a few configurations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0102/solution/cf581d.md) |
+| 2000 | [CF33D](https://codeforces.com/problemset/problem/33/D) | Circles without intersections can be represented as a tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0102/solution/cf33d.md) |
