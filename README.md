@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF769C](https://codeforces.com/problemset/problem/769/C) | For the first few steps, you can use greedy approach, but you should guarantee that you can come back. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0101/solution/cf769c.md) |
-| 2000 | [CF2045B](https://codeforces.com/problemset/problem/2045/B) | $D$ can step in only once. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0101/solution/cf2045b.md) |
+| 1700 | [CF581D](https://codeforces.com/problemset/problem/581/D) | There are only a few configurations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0102/solution/cf581d.md) |
+| 2000 | [CF33D](https://codeforces.com/problemset/problem/33/D) | Circles without intersections can be represented as a tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0102/solution/cf33d.md) |
