@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF581D](https://codeforces.com/problemset/problem/581/D) | There are only a few configurations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0102/solution/cf581d.md) |
-| 2000 | [CF33D](https://codeforces.com/problemset/problem/33/D) | Circles without intersections can be represented as a tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0102/solution/cf33d.md) |
+| 1600 | [CF725C](https://codeforces.com/problemset/problem/725/C) | Only one character appears twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0103/solution/cf725c.md) |
+| 2100 | [CF65C](https://codeforces.com/problemset/problem/65/C) | $v_s\leq v_p$ means something. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0103/solution/cf725c.md) |
