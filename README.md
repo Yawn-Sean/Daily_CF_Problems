@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF297B](https://codeforces.com/problemset/problem/297/B) | Find the component of each fish. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1220/solution/cf297b.md) |
-| 2100 | [CF165D](https://codeforces.com/problemset/problem/165/D) | All about checking if there is a white edge on the path and finding out the distance. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1220/solution/cf165d.md) |
+| 1600 | [CF725C](https://codeforces.com/problemset/problem/725/C) | Only one character appears twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0103/solution/cf725c.md) |
+| 2100 | [CF65C](https://codeforces.com/problemset/problem/65/C) | $v_s\leq v_p$ means something. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0103/solution/cf65c.md) |
