@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF704A](https://codeforces.com/problemset/problem/704/A) | You can process each message one by one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0104/solution/cf704a.md) |
-| 2300 | [CF629E](https://codeforces.com/problemset/problem/629/E) | The cycle can be divided into two parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0104/solution/cf629e.md) |
+| 1800 | [CF663A](https://codeforces.com/problemset/problem/663/A) | If the numbers on the left side of the equations keep changing, what can the result be? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0106/solution/cf663a.md) |
+| 1900 | [CF250D](https://codeforces.com/problemset/problem/250/D) | Fix $j$ , what should be the best $i$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0106/solution/cf250d.md) |
