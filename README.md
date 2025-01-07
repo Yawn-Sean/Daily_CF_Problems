@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF704A](https://codeforces.com/problemset/problem/704/A) | You can process each message one by one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0104/solution/cf704a.md) |
-| 2300 | [CF629E](https://codeforces.com/problemset/problem/629/E) | The cycle can be divided into two parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0104/solution/cf629e.md) |
+| 1800 | [CF846B](https://codeforces.com/problemset/problem/846/B) | Notice that the data range. Make use of the smaller ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0107/solution/cf846b.md) |
+| 1900 | [CF959D](https://codeforces.com/problemset/problem/959/D) | Find the first different value of $a_i$ and $b_i$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0107/solution/cf959d.md) |
