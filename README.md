@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF663A](https://codeforces.com/problemset/problem/663/A) | If the numbers on the left side of the equations keep changing, what can the result be? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0106/solution/cf663a.md) |
-| 1900 | [CF250D](https://codeforces.com/problemset/problem/250/D) | Fix $j$ , what should be the best $i$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0106/solution/cf250d.md) |
+| 1800 | [CF846B](https://codeforces.com/problemset/problem/846/B) | Notice that the data range. Make use of the smaller ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0107/solution/cf846b.md) |
+| 1900 | [CF959D](https://codeforces.com/problemset/problem/959/D) | Find the first different value of $a_i$ and $b_i$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0107/solution/cf959d.md) |
