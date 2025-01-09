@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF789B](https://codeforces.com/problemset/problem/789/B) | Special cases need to be taken care of. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0108/solution/cf789b.md) |
-| 2000 | [CF43D](https://codeforces.com/problemset/problem/43/D) | Use chessboard coloring to prove the result. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0108/solution/cf43d.md) |
+| 1700 | [CF360A](https://codeforces.com/problemset/problem/360/A) | Find the array that is most likely to satisfy all the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0109/solution/cf360a.md) |
+| 2000 | [CF629C](https://codeforces.com/problemset/problem/629/C) | What really matters in the prefix and suffix? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0109/solution/cf629c.md) |
