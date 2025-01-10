@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF360A](https://codeforces.com/problemset/problem/360/A) | Find the array that is most likely to satisfy all the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0109/solution/cf360a.md) |
-| 2000 | [CF629C](https://codeforces.com/problemset/problem/629/C) | What really matters in the prefix and suffix? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0109/solution/cf629c.md) |
+| 1600 | [CF340C](https://codeforces.com/problemset/problem/340/C) | Consider the occurence of each $|a_i-0|$ and $|a_i-a_j|$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0110/solution/cf340c.md) |
+| 2100 | [CF286C](https://codeforces.com/problemset/problem/286/C) | It's about a bracket sequence. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0110/solution/cf286c.md) |
