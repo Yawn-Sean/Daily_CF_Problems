@@ -1,4 +1,4 @@
-import sys
+pimport sys
 
 r=sys.stdin.readline
 
