@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF340C](https://codeforces.com/problemset/problem/340/C) | Consider the occurence of each $\|a_i-0\|$ and $\|a_i-a_j\|$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0110/solution/cf340c.md) |
-| 2100 | [CF286C](https://codeforces.com/problemset/problem/286/C) | It's about a bracket sequence. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0110/solution/cf286c.md) |
+| 1600 | [CF231D](https://codeforces.com/problemset/problem/231/D) | Consider each face separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0111/solution/cf231d.md) |
+| 2200 | [CF115C](https://codeforces.com/problemset/problem/115/C) | Consider horizontal lines and vertical lines separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0111/solution/cf115c.md) |
