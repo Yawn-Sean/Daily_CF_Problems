@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF231D](https://codeforces.com/problemset/problem/231/D) | Consider each face separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0111/solution/cf231d.md) |
-| 2200 | [CF115C](https://codeforces.com/problemset/problem/115/C) | Consider horizontal lines and vertical lines separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0111/solution/cf115c.md) |
+| 1800 | [CF1136D](https://codeforces.com/problemset/problem/1136/D) | Consider each suffix. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0113/solution/cf1136d.md) |
+| 1900 | [CF1463D](https://codeforces.com/problemset/problem/1463/D) | The answer is an interval. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0113/solution/cf1463d.md) |
