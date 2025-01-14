@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1136D](https://codeforces.com/problemset/problem/1136/D) | Consider each suffix. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0113/solution/cf1136d.md) |
-| 1900 | [CF1463D](https://codeforces.com/problemset/problem/1463/D) | The answer is an interval. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0113/solution/cf1463d.md) |
+| 1800 | [CF733C](https://codeforces.com/problemset/problem/733/C) | The final array consists of a few segment sums. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0114/solution/cf733c.md) |
+| 1900 | [CF1044B](https://codeforces.com/problemset/problem/1044/B) | Use the result of the query to decide the next query. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0114/solution/cf1044b.md) |
