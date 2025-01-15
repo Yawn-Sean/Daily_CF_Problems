@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF231D](https://codeforces.com/problemset/problem/231/D) | Consider each face separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0111/solution/cf231d.md) |
-| 2200 | [CF115C](https://codeforces.com/problemset/problem/115/C) | Consider horizontal lines and vertical lines separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0111/solution/cf115c.md) |
+| 1700 | [CF1043D](https://codeforces.com/problemset/problem/1043/D) | Consider the answer in one array and check it in the others. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0115/solution/cf1043d.md) |
+| 2000 | [CF1090L](https://codeforces.com/problemset/problem/1090/L) | Consider whether the total classes and the classes in one auditorium is enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0115/solution/cf1090l.md) |
