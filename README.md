@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1043D](https://codeforces.com/problemset/problem/1043/D) | Consider the answer in one array and check it in the others. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0115/solution/cf1043d.md) |
-| 2000 | [CF1090L](https://codeforces.com/problemset/problem/1090/L) | Consider whether the total classes and the classes in one auditorium is enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0115/solution/cf1090l.md) |
+| 1700 | [CF831C](https://codeforces.com/problemset/problem/831/C) | $b_1$ infers possible scores. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0116/solution/cf831c.md) |
+| 2000 | [CF1057C](https://codeforces.com/problemset/problem/1057/C) | The order of eating candies is actually determined by the number of candies in each box. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0116/solution/cf1057c.md) |
