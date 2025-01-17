@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF831C](https://codeforces.com/problemset/problem/831/C) | $b_1$ infers possible scores. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0116/solution/cf831c.md) |
-| 2000 | [CF1057C](https://codeforces.com/problemset/problem/1057/C) | The order of eating candies is actually determined by the number of candies in each box. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0116/solution/cf1057c.md) |
+| 1600 | [CF1482C](https://codeforces.com/problemset/problem/1482/C) | The constraint is not that tight. There's only one element you should consider. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0117/solution/cf1482c.md) |
+| 2100 | [CF1725F](https://codeforces.com/problemset/problem/1725/F) | Note that you can move both left and right using the bits of $k$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0117/solution/cf1725f.md) |
