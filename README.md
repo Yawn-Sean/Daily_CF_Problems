@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1482C](https://codeforces.com/problemset/problem/1482/C) | The constraint is not that tight. There's only one element you should consider. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0117/solution/cf1482c.md) |
-| 2100 | [CF1725F](https://codeforces.com/problemset/problem/1725/F) | Note that you can move both left and right using the bits of $k$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0117/solution/cf1725f.md) |
+| 1600 | [CF1722E](https://codeforces.com/problemset/problem/1722/E) | $w_i,h_i$ are not large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0118/solution/cf1722e.md) |
+| 2400 | [CF534F](https://codeforces.com/problemset/problem/534/F) | It can be done by joining the left part and the right part together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0118/solution/cf534f.md) | 
