@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF182E](https://codeforces.com/problemset/problem/182/E) | Classic knapsack DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0120/solution/cf182e.md) |
-| 1900 | [CF1912D](https://codeforces.com/problemset/problem/1912/D) | Translate the conditions into something about number theory. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0120/solution/cf1912d.md) |
+| 1800 | [CF180E](https://codeforces.com/problemset/problem/180/E) | Start from a cube, and find out which cubes to delete. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0121/solution/cf180e.md) |
+| 1900 | [CF553B](https://codeforces.com/problemset/problem/553/B) | Find out the necessary pattern of the permutation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0121/solution/cf553b.md) |
