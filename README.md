@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1722E](https://codeforces.com/problemset/problem/1722/E) | $w_i,h_i$ are not large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0118/solution/cf1722e.md) |
-| 2400 | [CF534F](https://codeforces.com/problemset/problem/534/F) | It can be done by joining the left part and the right part together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0118/solution/cf534f.md) | 
+| 1700 | [CF1044A](https://codeforces.com/problemset/problem/1044/A) | Some horizontal lines are just not important. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0122/solution/cf1044a.md) |
+| 2000 | [CF615C](https://codeforces.com/problemset/problem/615/C) | How can you find the longest substring that can match with the target substring (starting at $i$ )? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0122/solution/cf615c.md) |
