@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF180E](https://codeforces.com/problemset/problem/180/E) | Start from a cube, and find out which cubes to delete. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0121/solution/cf180e.md) |
-| 1900 | [CF553B](https://codeforces.com/problemset/problem/553/B) | Find out the necessary pattern of the permutation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0121/solution/cf553b.md) |
+| 1700 | [CF1044A](https://codeforces.com/problemset/problem/1044/A) | Some horizontal lines are just not important. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0122/solution/cf1044a.md) |
+| 2000 | [CF615C](https://codeforces.com/problemset/problem/615/C) | How can you find the longest substring that can match with the target substring (starting at $i$ )? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0122/solution/cf615c.md) |
