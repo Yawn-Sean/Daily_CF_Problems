@@ -17,7 +17,7 @@ int main() {
     }
     ranges::sort(hs);
     int k = hs.size();
-    int ans = m;
+    int ans = k;
     for (int i = 0, j = 0; i <= n; i++) {
         while (j < k && hs[j] < vs[i]) j++;
         ans = min(ans, i + k - j);
