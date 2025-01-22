@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1700 | [CF305B](https://codeforces.com/problemset/problem/305/B) | Each fraction has a unique corresponding continued fraction. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1024/solution/cf305b.md) |
-| 2000 | [CF195E](https://codeforces.com/problemset/problem/195/E) | When you connect two points, you are merging them and updating the "depth" data. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1024/solution/cf195e.md) |
+| ---------- | -------- | ----- | -------- |
+| 1700 | [CF1044A](https://codeforces.com/problemset/problem/1044/A) | Some horizontal lines are just not important. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0122/solution/cf1044a.md) |
+| 2000 | [CF615C](https://codeforces.com/problemset/problem/615/C) | How can you find the longest substring that can match with the target substring (starting at $i$ )? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0122/solution/cf615c.md) |
