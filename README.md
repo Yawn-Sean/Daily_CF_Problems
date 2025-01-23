@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF180E](https://codeforces.com/problemset/problem/180/E) | Start from a cube, and find out which cubes to delete. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0121/solution/cf180e.md) |
-| 1900 | [CF553B](https://codeforces.com/problemset/problem/553/B) | Find out the necessary pattern of the permutation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0121/solution/cf553b.md) |
+| 1700 | [CF1032C](https://codeforces.com/problemset/problem/1032/C) | Only the neighboring elements are constrained. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0123/solution/cf1032c.md) |
+| 2000 | [CF1157F](https://codeforces.com/problemset/problem/1157/F) | Find out the conditions the frequencies of each element should satisfy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0123/solution/cf1157f.md) |
