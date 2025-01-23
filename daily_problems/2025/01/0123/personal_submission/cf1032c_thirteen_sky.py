@@ -32,6 +32,7 @@ else:
         if not 1 <= b[-1] <= 5 or b[-1] == b[-2]:
             res = False
             break
+    
     if a[-2] > a[-1]:
         b.append(b[-1] - 1)
     elif a[-2] < a[-1]:
