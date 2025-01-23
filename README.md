@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1044A](https://codeforces.com/problemset/problem/1044/A) | Some horizontal lines are just not important. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0122/solution/cf1044a.md) |
-| 2000 | [CF615C](https://codeforces.com/problemset/problem/615/C) | How can you find the longest substring that can match with the target substring (starting at $i$ )? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0122/solution/cf615c.md) |
+| 1700 | [CF1032C](https://codeforces.com/problemset/problem/1032/C) | Only the neighboring elements are constrained. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0123/solution/cf1032c.md) |
+| 2000 | [CF1157F](https://codeforces.com/problemset/problem/1157/F) | Find out the conditions the frequencies of each element should satisfy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0123/solution/cf1157f.md) |
