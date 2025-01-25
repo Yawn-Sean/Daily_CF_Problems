@@ -32,3 +32,4 @@
 | 2000 | [CF1612E](https://codeforces.com/problemset/problem/1612/E) | When $t$ is large, adding new elements is not profitable. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1127/solution/cf1612e.md) |
 | 2100 | [CF799D](https://codeforces.com/problemset/problem/799/D) | You don't need many kinds of operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1011/solution/cf799d.md) |
 | 2200 | [CF538F](https://codeforces.com/problemset/problem/538/F) | For each $k$, how many conditions should you check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf538f.md) |
+| 2400 | [CF416D](https://codeforces.com/problemset/problem/416/D) | The array can be determined by $2$ elements in it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0125/solution/cf416d.md) |
