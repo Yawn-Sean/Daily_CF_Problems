@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1044A](https://codeforces.com/problemset/problem/1044/A) | Some horizontal lines are just not important. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0122/solution/cf1044a.md) |
-| 2000 | [CF615C](https://codeforces.com/problemset/problem/615/C) | How can you find the longest substring that can match with the target substring (starting at $i$ )? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0122/solution/cf615c.md) |
+| 1600 | [CF518A](https://codeforces.com/problemset/problem/518/A) | Consider the strings as numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0125/solution/cf518a.md) |
+| 2400 | [CF416D](https://codeforces.com/problemset/problem/416/D) | The array can be determined by $2$ elements in it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0125/solution/cf416d.md) |
