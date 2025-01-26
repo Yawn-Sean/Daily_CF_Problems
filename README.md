@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF753B](https://codeforces.com/problemset/problem/753/B) | If you find some information about the target, you can brute-force over the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0124/solution/cf753b.md) |
-| 2100 | [CF466E](https://codeforces.com/problemset/problem/466/E) | The tree can be pre-determined. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0124/solution/cf466e.md) |
+| 1600 | [CF518A](https://codeforces.com/problemset/problem/518/A) | Consider the strings as numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0125/solution/cf518a.md) |
+| 2400 | [CF416D](https://codeforces.com/problemset/problem/416/D) | The array can be determined by $2$ elements in it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0125/solution/cf416d.md) |
