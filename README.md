@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF518A](https://codeforces.com/problemset/problem/518/A) | Consider the strings as numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0125/solution/cf518a.md) |
-| 2400 | [CF416D](https://codeforces.com/problemset/problem/416/D) | The array can be determined by $2$ elements in it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0125/solution/cf416d.md) |
+| 1800 | [CF167B](https://codeforces.com/problemset/problem/167/B) | The volume of the bags doesn't need to be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0127/solution/cf167b.md) |
+| 1900 | [CF374C](https://codeforces.com/problemset/problem/374/C) | The whole grid is a graph. Check if it contains a cycle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0127/solution/cf374c.md) |
