@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF853B](https://codeforces.com/problemset/problem/853/B) | Each person can be considered separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0128/solution/cf853b.md) |
-| 1900 | [CF717E](https://codeforces.com/problemset/problem/717/E) | Solve the problem from the subtrees. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0128/solution/cf717e.md) |
+| 1700 | [CF931C](https://codeforces.com/problemset/problem/931/C) | There isn't much to change. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0129/solution/cf931c.md) |
+| 2000 | [CF1214E](https://codeforces.com/problemset/problem/1214/E) | The distance is no larger than $n$ , so you can use a chain as a baseline. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0129/solution/cf1214e.md) |
