@@ -39,17 +39,20 @@ int main() {
     for (auto &x: nums)
         cnt[x - mi] ++;
     
-    int ans = n + 1, chosen = -1;
-    for (int i = - (cnt[1] / 2); i <= min(cnt[0], cnt[2]); i ++) {
-        ncnt[0] = cnt[0] - i;
-        ncnt[1] = cnt[1] + 2 * i;
-        ncnt[2] = cnt[2] - i;
+    int ans = n, chosen = 0;
 
-        int v = 0;
-        for (int j = 0; j < 3; j ++)
-            v += min(cnt[j], ncnt[j]);
-        
-        if (v < ans) ans = v, chosen = i;
+    if (cnt[2]) {
+        for (int i = - (cnt[1] / 2); i <= min(cnt[0], cnt[2]); i ++) {
+            ncnt[0] = cnt[0] - i;
+            ncnt[1] = cnt[1] + 2 * i;
+            ncnt[2] = cnt[2] - i;
+
+            int v = 0;
+            for (int j = 0; j < 3; j ++)
+                v += min(cnt[j], ncnt[j]);
+            
+            if (v < ans) ans = v, chosen = i;
+        }
     }
 
     cnt[0] -= chosen;
