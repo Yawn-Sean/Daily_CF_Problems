@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF931C](https://codeforces.com/problemset/problem/931/C) | There isn't much to change. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0129/solution/cf931c.md) |
-| 2000 | [CF1214E](https://codeforces.com/problemset/problem/1214/E) | The distance is no larger than $n$ , so you can use a chain as a baseline. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0129/solution/cf1214e.md) |
+| 1700 | [CF1257D](https://codeforces.com/problemset/problem/1257/D) | For each index $i$ , you can find out the perfect hero to conquer as many monsters as you want. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0130/solution/cf1257d.md) |
+| 2000 | [CF427E](https://codeforces.com/problemset/problem/427/E) | The choice is on one of the given points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0130/solution/cf427e.md) |
