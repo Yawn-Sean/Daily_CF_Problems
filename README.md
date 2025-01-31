@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1257D](https://codeforces.com/problemset/problem/1257/D) | For each index $i$ , you can find out the perfect hero to conquer as many monsters as you want. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0130/solution/cf1257d.md) |
-| 2000 | [CF427E](https://codeforces.com/problemset/problem/427/E) | The choice is on one of the given points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0130/solution/cf427e.md) |
+| 1600 | [CF1281B](https://codeforces.com/problemset/problem/1281/B) | Find the first character that can be replaced by something small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0131/solution/cf1281b.md) |
+| 2100 | [CF748D](https://codeforces.com/problemset/problem/748/D) | Strings come in pairs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0131/solution/cf748d.md) |
