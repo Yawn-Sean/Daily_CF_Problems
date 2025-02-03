@@ -1,25 +1,20 @@
-# Submission link: https://codeforces.com/contest/457/submission/304196813
+# Submission link: https://codeforces.com/contest/457/submission/304198830
 def main():
     n, m = MII()
     nums1 = LII()
     nums2 = LII()
 
-    nums1.sort()
-    nums2.sort()
-
     v1 = sum(nums1)
     v2 = sum(nums2)
 
-    ans = inf
+    ans1 = 0
+    for x in nums1:
+        ans1 += fmin(v2, x)
+    ans1 += v2 - fmin(max(nums1), v2)
 
-    cur = 0
-    for i in range(n):
-        ans = fmin(ans, v2 * (n - i) + cur)
-        cur += nums1[i]
+    ans2 = 0
+    for x in nums2:
+        ans2 += fmin(v1, x)
+    ans2 += v1 - fmin(max(nums2), v1)
 
-    cur = 0
-    for i in range(m):
-        ans = fmin(ans, v1 * (m - i) + cur)
-        cur += nums2[i]
-
-    print(ans)
+    print(min(ans1, ans2))

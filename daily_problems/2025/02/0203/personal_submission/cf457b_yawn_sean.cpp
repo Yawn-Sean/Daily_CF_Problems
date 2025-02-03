@@ -29,7 +29,7 @@ int main() {
     int n, m;
     cin >> n >> m;
 
-    vector<int> nums1(n), nums2(m);
+    vector<long long> nums1(n), nums2(m);
     long long v1 = 0, v2 = 0;
 
     for (auto &x: nums1)
@@ -38,25 +38,17 @@ int main() {
     for (auto &x: nums2) 
         cin >> x, v2 += x;
     
-    sort(nums1.begin(), nums1.end());
-    sort(nums2.begin(), nums2.end());
+    long long ans1 = 0, ans2 = 0;
+    
+    for (auto &x: nums1)
+        ans1 += min(v2, x);
+    ans1 += v2 - min(*max_element(nums1.begin(), nums1.end()), v2);
 
-    __int128_t ans = 1e20;
-    long long cur;
+    for (auto &x: nums2)
+        ans2 += min(v1, x);
+    ans2 += v1 - min(*max_element(nums2.begin(), nums2.end()), v1);
 
-    cur = 0;
-    for (int i = 0; i < n; i ++) {
-        ans = min(ans, (__int128_t)1 * v2 * (n - i) + cur);
-        cur += nums1[i];
-    }
-
-    cur = 0;
-    for (int i = 0; i < m; i ++) {
-        ans = min(ans, (__int128_t)1 * v1 * (m - i) + cur);
-        cur += nums2[i];
-    }
-
-    cout << (long long) ans;
+    cout << min(ans1, ans2);
 
     return 0;
 }
