@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1800 | [CF533E](https://codeforces.com/problemset/problem/533/E) | There are a lot of things in common for $S$ and $T$, such as their prefixes and suffixes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0521/solution/cf533e.md) |
+| 1800 | [CF1109B](https://codeforces.com/problemset/problem/1109/B) | First of all, ignore that you need to minimize the number of steps and find a way to make another palindrome. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0203/solution/cf1109b.md) |
 | 1900 | [CF535D](https://codeforces.com/problemset/problem/535/D) | First, decide if the conditions contradict. Then, fill up the residual blanks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0617/solution/cf535d.md) |
 | 2000 | [CF611D](https://codeforces.com/problemset/problem/611/D) | Classic DP. When you decide which number to choose next, what information should you know? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0711/solution/cf611d.md) |
 | 2000 | [CF494B](https://codeforces.com/problemset/problem/494/B) | DP. If the last interval ends at $r$ , what should its right end satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0904/solution/cf494b.md) |

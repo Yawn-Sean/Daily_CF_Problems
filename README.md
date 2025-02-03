@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1137A](https://codeforces.com/problemset/problem/1137/A) | What determines the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0201/solution/cf1137a.md) |
-| 2400 | [CF1070I](https://codeforces.com/problemset/problem/1070/I) | Find out the purpose of painting two edges into the same color. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0201/solution/cf1070i.md) |
+| 1800 | [CF1109B](https://codeforces.com/problemset/problem/1109/B) | First of all, ignore that you need to minimize the number of steps and find a way to make another palindrome. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0203/solution/cf1109b.md) |
+| 1900 | [CF457B](https://codeforces.com/problemset/problem/457/B) | There are only a few ways that are possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0203/solution/cf457b.md) |
