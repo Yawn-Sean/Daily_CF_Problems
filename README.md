@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1109B](https://codeforces.com/problemset/problem/1109/B) | First of all, ignore that you need to minimize the number of steps and find a way to make another palindrome. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0203/solution/cf1109b.md) |
-| 1900 | [CF457B](https://codeforces.com/problemset/problem/457/B) | There are only a few ways that are possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0203/solution/cf457b.md) |
+| 1800 | [CF730A](https://codeforces.com/problemset/problem/730/A) | There are not that many kinds of operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0204/solution/cf730a.md) |
+| 1900 | [CF1012C](https://codeforces.com/problemset/problem/1012/C) | What is the cost when two houses are chosen with the houses between them unchosen? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0204/solution/cf1012c.md) |
