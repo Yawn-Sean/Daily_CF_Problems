@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF51C](https://codeforces.com/problemset/problem/51/C) | It's just about separating the points into three segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1230/solution/cf51c.md) |
-| 1900 | [CF327D](https://codeforces.com/problemset/problem/327/D) | Consider each connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1230/solution/cf327d.md) |
+| 1800 | [CF730A](https://codeforces.com/problemset/problem/730/A) | There are not that many kinds of operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0204/solution/cf730a.md) |
+| 1900 | [CF1012C](https://codeforces.com/problemset/problem/1012/C) | What is the cost when two houses are chosen with the houses between them unchosen? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0204/solution/cf1012c.md) |

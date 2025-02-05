@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF453A](https://codeforces.com/problemset/problem/453/A) | Expectation problem: either find out the distribution or find the contribution of each component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0307/solution/cf453a.md) |
+| 1600 | [CF340C](https://codeforces.com/problemset/problem/340/C) | Consider the occurence of each $\|a_i-0\|$ and $\|a_i-a_j\|$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0110/solution/cf340c.md) |
 | 1700 | [CF1279D](https://codeforces.com/problemset/problem/1279/D) | Process each step carefully. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0918/solution/cf1279d.md) |
 | 1700 | [CF621C](https://codeforces.com/problemset/problem/621/C) | The additivity of expectation. Then you can just calculate the probability. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1030/solution/cf621c.md) |
 | *1700 | [CF398B](https://codeforces.com/problemset/problem/398/B) | You just care about how many rows and columns remain after operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1128/solution/cf398b.md) |
@@ -13,3 +14,4 @@
 | 2100 | [CF1525E](https://codeforces.com/problemset/problem/1525/E) | The conditions for a unlit city is much simpler. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0426/solution/cf1525e.md) |
 | 2100 | [CF859D](https://codeforces.com/problemset/problem/859/D) | You only care about what are the odds of person $i$ still winning in the $k$-th round instead of the whole process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0510/solution/cf859d.md) |
 | 2100 | [CF268E](https://codeforces.com/problemset/problem/268/E) | Consider the order of $2$ consecutive songs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1018/solution/cf268e.md) |
+| 2300 | [CF629E](https://codeforces.com/problemset/problem/629/E) | The cycle can be divided into two parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0104/solution/cf629e.md) |
