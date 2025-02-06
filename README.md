@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF924C](https://codeforces.com/problemset/problem/924/C) | The marks should overlap. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0205/solution/cf924c.md) |
-| 2000 | [CF382B](https://codeforces.com/problemset/problem/382/B) | How does $a-c$ change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0205/solution/cf382b.md) |
+| 1700 | [CF627B](https://codeforces.com/problemset/problem/627/B) | Find out the formula of the result. It's easy to update and query. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0206/solution/cf627b.md) |
+| 2000 | [CF1183G](https://codeforces.com/problemset/problem/1183/G) | Use greedy approach to find the largest number of candies. Then decide the types of the candies. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0206/solution/cf1183g.md) |
