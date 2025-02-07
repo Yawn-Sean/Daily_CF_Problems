@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF627B](https://codeforces.com/problemset/problem/627/B) | Find out the formula of the result. It's easy to update and query. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0206/solution/cf627b.md) |
-| 2000 | [CF1183G](https://codeforces.com/problemset/problem/1183/G) | Use greedy approach to find the largest number of candies. Then decide the types of the candies. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0206/solution/cf1183g.md) |
+| 1600 | [CF1017C](http://codeforces.com/problemset/problem/1017/C) | Dilworth's theorem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0207/solution/cf1017c.md) |
+| 2100 | [CF1028D](https://codeforces.com/problemset/problem/1028/D) | Think about which prices should be in the buying list and which prices should be in the selling list. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0207/solution/cf1028d.md) |
