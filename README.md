@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF924C](https://codeforces.com/problemset/problem/924/C) | The marks should overlap. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0205/solution/cf924c.md) |
-| 2000 | [CF382B](https://codeforces.com/problemset/problem/382/B) | How does $a-c$ change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0205/solution/cf382b.md) |
+| 1600 | [CF1017C](http://codeforces.com/problemset/problem/1017/C) | Dilworth's theorem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0207/solution/cf1017c.md) |
+| 2100 | [CF1028D](https://codeforces.com/problemset/problem/1028/D) | Think about which prices should be in the buying list and which prices should be in the selling list. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0207/solution/cf1028d.md) |
