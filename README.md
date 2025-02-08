@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1017C](http://codeforces.com/problemset/problem/1017/C) | Dilworth's theorem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0207/solution/cf1017c.md) |
-| 2100 | [CF1028D](https://codeforces.com/problemset/problem/1028/D) | Think about which prices should be in the buying list and which prices should be in the selling list. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0207/solution/cf1028d.md) |
+| 1600 | [CF1452D](https://codeforces.com/problemset/problem/1452/D) | Find out the conditions to satisfy and the DP function accordingly. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0208/solution/cf1452d.md) |
+| 2200 | [CF627C](https://codeforces.com/problemset/problem/627/C) | The decision whether or not add gas at one station is based on the future. Wait, we know the future. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0208/solution/cf627c.md) |
