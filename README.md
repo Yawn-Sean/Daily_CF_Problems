@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1082D](https://codeforces.com/problemset/problem/1082/D) | Construct a chain first and then add nodes on it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0210/solution/cf1082d.md) |
-| 1900 | [CF630E](https://codeforces.com/problemset/problem/630/E) | Count each vertical line. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0210/solution/cf630e.md) |
+| 1800 | [CF979B](https://codeforces.com/problemset/problem/979/B) | The length of the subribbon should be $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0211/solution/cf979b.md) |
+| 1900 | [CF1184E1](https://codeforces.com/problemset/problem/1184/E1) | Consider the vertices in the edge $1$ as one first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0211/solution/cf1184e1.md) |
