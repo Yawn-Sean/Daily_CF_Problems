@@ -32,18 +32,14 @@ int main() {
             return x[3] > y[3];
         });
 
-        std::vector<int> e;
         for (int i = 0; i < m; i++) {
             if (dsu.merge(tmp[i][0], tmp[i][1])) {
-                e.push_back(tmp[i][3]);
+                if (tmp[i][3] == 1) {
+                    return false;
+                }
             }
         }
 
-        for (auto &x : e) {
-            if (x == 1) {
-                return false;
-            }
-        }
         return true;
     };
 
