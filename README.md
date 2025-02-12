@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF979B](https://codeforces.com/problemset/problem/979/B) | The length of the subribbon should be $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0211/solution/cf979b.md) |
-| 1900 | [CF1184E1](https://codeforces.com/problemset/problem/1184/E1) | Consider the vertices in the edge $1$ as one first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0211/solution/cf1184e1.md) |
+| 1700 | [CF518D](https://codeforces.com/problemset/problem/518/D) | How does the people in the queue change in one second? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0212/solution/cf518d.md) |
+| 2000 | [CF758D](https://codeforces.com/problemset/problem/758/D) | The digits from the back should be as large as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0212/solution/cf758d.md) |
