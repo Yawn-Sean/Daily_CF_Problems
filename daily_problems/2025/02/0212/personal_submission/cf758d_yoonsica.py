@@ -11,7 +11,7 @@ mn = lambda x, y: y if x > y else x
 '''
 https://codeforces.com/problemset/problem/758/D
 
-m进制下的字符串s，转换成10进制的最小值，ABCD可能用10，11，12表示
+m进制下的字符串s中ABCD....可能用10，11，12...表示，求该字符串转换成10进制的最小值，
 
 分析：
 n = len(s)
