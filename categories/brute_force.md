@@ -18,7 +18,7 @@
 | 1700 | [CF789B](https://codeforces.com/problemset/problem/789/B) | Special cases need to be taken care of. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0108/solution/cf789b.md) |
 | 1700 | [CF1043D](https://codeforces.com/problemset/problem/1043/D) | Consider the answer in one array and check it in the others. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0115/solution/cf1043d.md) |
 | 1700 | [CF831C](https://codeforces.com/problemset/problem/831/C) | $b_1$ infers possible scores. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0116/solution/cf831c.md) |
-
+| 1700 | [CF931C](https://codeforces.com/problemset/problem/931/C) | There isn't much to change. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0129/solution/cf931c.md) |
 | 1800 | [CF1267J](https://codeforces.com/problemset/problem/1267/J) | We only cares about the frequency of each number. And the answer will not exceed the minimum of it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0429/solution/cf1267j.md) |
 | 1800 | [CF551B](https://codeforces.com/problemset/problem/551/B) | Enumerate the number of $b$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0909/solution/cf551b.md) |
 | 1800 | [CF641C](https://codeforces.com/problemset/problem/641/C) | Odd-s and even-s move together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0916/solution/cf641c.md) |

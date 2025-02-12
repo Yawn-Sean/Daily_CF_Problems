@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF518A](https://codeforces.com/problemset/problem/518/A) | Consider the strings as numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0125/solution/cf518a.md) |
-| 2400 | [CF416D](https://codeforces.com/problemset/problem/416/D) | The array can be determined by $2$ elements in it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0125/solution/cf416d.md) |
+| 1700 | [CF518D](https://codeforces.com/problemset/problem/518/D) | How does the people in the queue change in one second? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0212/solution/cf518d.md) |
+| 2000 | [CF758D](https://codeforces.com/problemset/problem/758/D) | The digits from the back should be as large as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0212/solution/cf758d.md) |
