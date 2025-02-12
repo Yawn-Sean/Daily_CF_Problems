@@ -1,32 +1,39 @@
-# Submission link: https://codeforces.com/contest/758/submission/305741685
-def main():
-    n = II()
-    k = I()
+import sys
+from math import inf
 
-    r = len(k) - 1
-    tmp = 1
+RI = lambda: int(sys.stdin.readline().strip())
+RS = lambda: sys.stdin.readline().strip()
+RII = lambda: map(int, sys.stdin.readline().strip().split())
+RILIST = lambda: list(RII())
+mx = lambda x, y: x if x > y else y
+mn = lambda x, y: y if x > y else x
 
-    ans = 0
+'''
+https://codeforces.com/problemset/problem/758/D
 
-    while r >= 0:
-        cur = int(k[r])
-        v = 1
-        
-        l = r
-        for i in range(r - 1, -1, -1):
-            v = 10 * v
-            if v * int(k[i]) + cur < n:
-                l = i
-                cur += v * int(k[i])
-            else:
-                break
-        
-        while l < r and k[l] == '0':
-            l += 1
-        
-        ans += cur * tmp
-        tmp *= n
-        
-        r = l - 1
+m进制下的字符串s，转换成10进制的最小值，ABCD可能用10，11，12表示
 
-    print(ans)
+分析：
+n = len(s)
+考虑dp
+f = [inf] * (n + 1)
+f[0] = 0
+# 考虑m最多用多少位表示，m.bit_length() 最多36左右
+f[i] = f[j] * m + int(s[j + 1:i])
+注意s[j:i]不能有前导0
+'''
+m, s = RI(), RS()
+n = len(s)
+f = [inf] * (n + 1)
+f[0] = 0
+b = m.bit_length()
+for i in range(1, n + 1):
+    # i - j + 1 == b
+    for j in range(i, 0, -1):
+        if i - j + 1 > b or int(s[j - 1: i]) >= m:
+            break
+        if j < i and s[j - 1] == '0':
+            continue
+        t = int(s[j - 1: i])
+        f[i] = mn(f[i], f[j - 1] * m + int(s[j - 1: i]))
+print(f[-1])
