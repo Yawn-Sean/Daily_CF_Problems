@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1082D](https://codeforces.com/problemset/problem/1082/D) | Construct a chain first and then add nodes on it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0210/solution/cf1082d.md) |
-| 1900 | [CF630E](https://codeforces.com/problemset/problem/630/E) | Count each vertical line. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0210/solution/cf630e.md) |
+| 1700 | [CF729C](https://codeforces.com/problemset/problem/729/C) | Consider the cost between two gas stations. How does it change with the tank capacity? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0213/solution/cf729c.md) |
+| 2000 | [CF237E](https://codeforces.com/problemset/problem/237/E) | Paying to satisfy the conditions and distribution the characters to choose: flow problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0213/solution/cf237e.md) |
