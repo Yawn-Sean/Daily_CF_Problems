@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF729C](https://codeforces.com/problemset/problem/729/C) | Consider the cost between two gas stations. How does it change with the tank capacity? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0213/solution/cf729c.md) |
-| 2000 | [CF237E](https://codeforces.com/problemset/problem/237/E) | Paying to satisfy the conditions and distribution the characters to choose: flow problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0213/solution/cf237e.md) |
+| 1600 | [CF939D](https://codeforces.com/problemset/problem/939/D) | It's all about connecting characters. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0214/solution/cf939d.md) |
+| 2100 | [CF520D](https://codeforces.com/problemset/problem/520/D) | Each step should be optimized. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0214/solution/cf520d.md) |
