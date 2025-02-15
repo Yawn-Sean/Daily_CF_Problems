@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF729C](https://codeforces.com/problemset/problem/729/C) | Consider the cost between two gas stations. How does it change with the tank capacity? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0213/solution/cf729c.md) |
-| 2000 | [CF237E](https://codeforces.com/problemset/problem/237/E) | Paying to satisfy the conditions and distribution the characters to choose: flow problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0213/solution/cf237e.md) |
+| 1600 | [CF660C](https://codeforces.com/problemset/problem/660/C) | Typical sliding window. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0215/solution/cf660c.md) |
+| 2400 | [CF1282E](https://codeforces.com/problemset/problem/1282/E) | First of all, you can decide the edges of the polygon: they apear only once. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0215/solution/cf1282e.md) |
