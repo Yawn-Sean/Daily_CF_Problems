@@ -30,7 +30,7 @@ int main() {
     cin >> n >> l >> v1 >> v2 >> k;
 
     int group = (n + k - 1) / k;
-    cout << fixed << setprecision(10) << (long double)1.0 * l / v2 * (1ll * group * (v1 + v2) + 1ll * (group - 1) * (v2 - v1)) / (1ll * group * (v1 + v2) - 1ll * (group - 1) * (v2 - v1));
+    cout << fixed << setprecision(10) << (long double)1.0 * l / v2 * (2ll * v2 * (group - 1) + v1 + v2) / (2ll * v1 * (group - 1) + v1 + v2);
 
     return 0;
 }
