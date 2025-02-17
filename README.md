@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF660C](https://codeforces.com/problemset/problem/660/C) | Typical sliding window. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0215/solution/cf660c.md) |
-| 2400 | [CF1282E](https://codeforces.com/problemset/problem/1282/E) | First of all, you can decide the edges of the polygon: they apear only once. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0215/solution/cf1282e.md) |
+| 1800 | [CF772A](https://codeforces.com/problemset/problem/772/A) | If the time is fixed, which devices should you charge? The chosen set can't vary much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0217/solution/cf772a.md) |
+| 1900 | [CF700A](https://codeforces.com/problemset/problem/700/A) | Divide the pupils into groups. Each group should use the same amount of time on the bus. Then consider how they walk. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0217/solution/cf700a.md) |
