@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF772A](https://codeforces.com/problemset/problem/772/A) | If the time is fixed, which devices should you charge? The chosen set can't vary much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0217/solution/cf772a.md) |
-| 1900 | [CF700A](https://codeforces.com/problemset/problem/700/A) | Divide the pupils into groups. Each group should use the same amount of time on the bus. Then consider how they walk. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0217/solution/cf700a.md) |
+| 1800 | [CF190B](https://codeforces.com/problemset/problem/190/B) | Consider the possible positional relationship of two circles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0218/solution/cf190b.md) |
+| 1900 | [CF1141G](https://codeforces.com/problemset/problem/1141/G) | Decide the answer first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0218/solution/cf1141g.md) |
