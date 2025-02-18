@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1600 | [CF1660E](https://codeforces.com/problemset/problem/1660/E) | We want to make the maximum number of $1$ on the diagonal. The operations is actually "moving" the grid up or down, left or right. "Moving" is relative. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0726/solution/cf1660e.md) |
-| 2100 | [CF231E](https://codeforces.com/problemset/problem/231/E) | Where can you find a different way between the nodes? Count that in a tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0726/solution/cf231e.md) |
+| ---------- | -------- | ----- | -------- |
+| 1800 | [CF190B](https://codeforces.com/problemset/problem/190/B) | Consider the possible positional relationship of two circles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0218/solution/cf190b.md) |
+| 1900 | [CF1141G](https://codeforces.com/problemset/problem/1141/G) | Decide the answer first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0218/solution/cf1141g.md) |
