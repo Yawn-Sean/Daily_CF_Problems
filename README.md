@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF660C](https://codeforces.com/problemset/problem/660/C) | Typical sliding window. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0215/solution/cf660c.md) |
-| 2400 | [CF1282E](https://codeforces.com/problemset/problem/1282/E) | First of all, you can decide the edges of the polygon: they apear only once. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0215/solution/cf1282e.md) |
+| 1800 | [CF190B](https://codeforces.com/problemset/problem/190/B) | Consider the possible positional relationship of two circles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0218/solution/cf190b.md) |
+| 1900 | [CF1141G](https://codeforces.com/problemset/problem/1141/G) | Decide the answer first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0218/solution/cf1141g.md) |
