@@ -29,7 +29,7 @@ int main() {
     int x1, y1, r1, x2, y2, r2;
     cin >> x1 >> y1 >> r1 >> x2 >> y2 >> r2;
 
-    cout << fixed <<  setprecision(15);
+    cout << fixed << setprecision(15);
     if ((r2 - r1) * (r2 - r1) > (x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1)) 
         cout << (fabsl(r2 - r1) - hypotl(x2 - x1, y2 - y1)) / 2;
     else if ((r2 + r1) * (r2 + r1) < (x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1)) 
