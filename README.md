@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF190B](https://codeforces.com/problemset/problem/190/B) | Consider the possible positional relationship of two circles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0218/solution/cf190b.md) |
-| 1900 | [CF1141G](https://codeforces.com/problemset/problem/1141/G) | Decide the answer first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0218/solution/cf1141g.md) |
+| 1700 | [CF540B](https://codeforces.com/problemset/problem/540/B) | You just need to find out the minimum sum of marks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0219/solution/cf540b.md) |
+| 2000 | [CF855C](https://codeforces.com/problemset/problem/855/C) | Each vertice has three kinds of status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0219/solution/cf855c.md) |
