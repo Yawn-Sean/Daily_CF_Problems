@@ -1,7 +1,6 @@
 //! core logic only
 //! submission: https://codeforces.com/problemset/submission/1141/306668806
 const MULTIPLE_TEST: bool = false;
-
 fn solver(n: usize, k: usize, scanner: &mut Scanner) -> impl Printable {
     let mut adj = vec![vec![]; n];
     for (i, (mut x, mut y)) in scanner.iter::<(usize, usize)>(n - 1).enumerate() {
