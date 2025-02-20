@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF540B](https://codeforces.com/problemset/problem/540/B) | You just need to find out the minimum sum of marks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0219/solution/cf540b.md) |
-| 2000 | [CF855C](https://codeforces.com/problemset/problem/855/C) | Each vertice has three kinds of status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0219/solution/cf855c.md) |
+| 1700 | [CF1227C](https://codeforces.com/problemset/problem/1227/C) | Use two operations to swap two elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0220/solution/cf1227c.md) |
+| 2000 | [CF263C](https://codeforces.com/problemset/problem/263/C) | What is the property of the two neighboring vertices? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0220/solution/cf263c.md) |
