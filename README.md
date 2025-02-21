@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1227C](https://codeforces.com/problemset/problem/1227/C) | Use two operations to swap two elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0220/solution/cf1227c.md) |
-| 2000 | [CF263C](https://codeforces.com/problemset/problem/263/C) | What is the property of the two neighboring vertices? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0220/solution/cf263c.md) |
+| 1600 | [CF643B](https://codeforces.com/problemset/problem/643/B) | Find the minimum number of edges you needed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0221/solution/cf643b.md) |
+| 2100 | [CF1510D](https://codeforces.com/problemset/problem/1510/D) | The numbers not chosen are limited. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0221/solution/cf1510d.md) |
