@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF643B](https://codeforces.com/problemset/problem/643/B) | Find the minimum number of edges you needed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0221/solution/cf643b.md) |
-| 2100 | [CF1510D](https://codeforces.com/problemset/problem/1510/D) | The numbers not chosen are limited. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0221/solution/cf1510d.md) |
+| 1600 | [CF1036B](https://codeforces.com/problemset/problem/1036/B) | Find the minimum number of steps first. How many of them can be diagonal? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0222/solution/cf1036b.md) |
+| 2200 | [CF1227E](https://codeforces.com/problemset/problem/1227/E) | Each burned tree turned into a square. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0222/solution/cf1227e.md) |
