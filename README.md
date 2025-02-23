@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF364A](https://codeforces.com/problemset/problem/364/A) | Find a way to calculate the sum of the submatrix quickly. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1129/solution/cf364a.md) |
-| 2100 | [CF1387A](https://codeforces.com/problemset/problem/1387/A) | Solve the problem for each connected component separately. If $x_i$ is changeable, what value should it choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1129/solution/cf1387a.md) |
+| 1600 | [CF1036B](https://codeforces.com/problemset/problem/1036/B) | Find the minimum number of steps first. How many of them can be diagonal? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0222/solution/cf1036b.md) |
+| 2200 | [CF1227E](https://codeforces.com/problemset/problem/1227/E) | Each burned tree turned into a square. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0222/solution/cf1227e.md) |
