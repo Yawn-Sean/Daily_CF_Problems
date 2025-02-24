@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF540B](https://codeforces.com/problemset/problem/540/B) | You just need to find out the minimum sum of marks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0219/solution/cf540b.md) |
-| 2000 | [CF855C](https://codeforces.com/problemset/problem/855/C) | Each vertice has three kinds of status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0219/solution/cf855c.md) |
+| 1800 | [CF222C](https://codeforces.com/problemset/problem/222/C) | Find the prime factors to delete and then delete them | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0224/solution/cf222c.md) |
+| 1900 | [CF1689D](https://codeforces.com/problemset/problem/1689/D) | The result of a absolute function can be transformed into a maximum result of linear functions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0224/solution/cf1689d.md) |
