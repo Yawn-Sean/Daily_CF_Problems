@@ -1,8 +1,4 @@
-import random
 import sys
-from bisect import bisect_right
-from collections import defaultdict
-
 RI = lambda: int(sys.stdin.readline().strip())
 RS = lambda: sys.stdin.readline().strip()
 RII = lambda: map(int, sys.stdin.readline().strip().split())
