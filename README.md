@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF222C](https://codeforces.com/problemset/problem/222/C) | Find the prime factors to delete and then delete them | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0224/solution/cf222c.md) |
-| 1900 | [CF1689D](https://codeforces.com/problemset/problem/1689/D) | The result of a absolute function can be transformed into a maximum result of linear functions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0224/solution/cf1689d.md) |
+| 1800 | [CF592C](https://codeforces.com/problemset/problem/592/C) | What should the final length be? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0225/solution/cf592c.md) |
+| 1900 | [CF930C](https://codeforces.com/problemset/problem/930/C) | How can you check if the current result can be formed with all intervals containing one integer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0225/solution/cf930c.md) |
