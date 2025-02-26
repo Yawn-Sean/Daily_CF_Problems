@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF592C](https://codeforces.com/problemset/problem/592/C) | What should the final length be? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0225/solution/cf592c.md) |
-| 1900 | [CF930C](https://codeforces.com/problemset/problem/930/C) | How can you check if the current result can be formed with all intervals containing one integer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0225/solution/cf930c.md) |
+| 1700 | [CF1320B](https://codeforces.com/problemset/problem/1320/B) | You should calculate the distance to the destination. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0226/solution/cf1320b.md) |
+| 2000 | [CF374A](https://codeforces.com/problemset/problem/374/A) | Where can you go from $(i, j)$ ? How can you calculate the number of moves? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0226/solution/cf374a.md) |
