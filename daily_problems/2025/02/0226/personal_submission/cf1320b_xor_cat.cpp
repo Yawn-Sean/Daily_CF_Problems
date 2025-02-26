@@ -6,15 +6,6 @@ using u128 = unsigned __int128;
 
 constexpr int inf = 1E9;
 
-template <typename T>
-bool chmin(T &a, const T &b) {
-    return b < a ? a = b, true : false;
-}
-template <typename T>
-bool chmax(T &a, const T &b) {
-    return b > a ? a = b, true : false;
-}
-
 int main() {
     std::ios::sync_with_stdio(false);
     std::cin.tie(nullptr);
