@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF222C](https://codeforces.com/problemset/problem/222/C) | Find the prime factors to delete and then delete them | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0224/solution/cf222c.md) |
-| 1900 | [CF1689D](https://codeforces.com/problemset/problem/1689/D) | The result of a absolute function can be transformed into a maximum result of linear functions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0224/solution/cf1689d.md) |
+| 1700 | [CF1320B](https://codeforces.com/problemset/problem/1320/B) | You should calculate the distance to the destination. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0226/solution/cf1320b.md) |
+| 2000 | [CF374A](https://codeforces.com/problemset/problem/374/A) | Where can you go from $(i, j)$ ? How can you calculate the number of moves? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0226/solution/cf374a.md) |
