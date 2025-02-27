@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1320B](https://codeforces.com/problemset/problem/1320/B) | You should calculate the distance to the destination. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0226/solution/cf1320b.md) |
-| 2000 | [CF374A](https://codeforces.com/problemset/problem/374/A) | Where can you go from $(i, j)$ ? How can you calculate the number of moves? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0226/solution/cf374a.md) |
+| 1700 | [CF923A](https://codeforces.com/problemset/problem/923/A) | If $X_i$ is fixed, find out about $X_{i-1}$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0227/solution/cf923a.md) |
+| 2000 | [CF1599C](https://codeforces.com/problemset/problem/1599/C) | If you study $k$ maps, what is the probability to play one of them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0227/solution/cf1599c.md) |
