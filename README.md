@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1320B](https://codeforces.com/problemset/problem/1320/B) | You should calculate the distance to the destination. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0226/solution/cf1320b.md) |
-| 2000 | [CF374A](https://codeforces.com/problemset/problem/374/A) | Where can you go from $(i, j)$ ? How can you calculate the number of moves? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0226/solution/cf374a.md) |
+| 1600 | [CF1468K](https://codeforces.com/problemset/problem/1468/K) | The obstacle need to block the way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0228/solution/cf1468k.md) |
+| 2100 | [CF1267K](https://codeforces.com/problemset/problem/1267/K) | It's just about how many permutations of the given array is valid. What's the condition of being valid? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0228/solution/cf1267k.md) |
