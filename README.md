@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF923A](https://codeforces.com/problemset/problem/923/A) | If $X_i$ is fixed, find out about $X_{i-1}$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0227/solution/cf923a.md) |
-| 2000 | [CF1599C](https://codeforces.com/problemset/problem/1599/C) | If you study $k$ maps, what is the probability to play one of them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0227/solution/cf1599c.md) |
+| 1600 | [CF1468K](https://codeforces.com/problemset/problem/1468/K) | The obstacle need to block the way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0228/solution/cf1468k.md) |
+| 2100 | [CF1267K](https://codeforces.com/problemset/problem/1267/K) | It's just about how many permutations of the given array is valid. What's the condition of being valid? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0228/solution/cf1267k.md) |
