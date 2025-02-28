@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF712C](https://codeforces.com/problemset/problem/712/C) | When making the triangle smaller, it's easy to generate an illegal triangle. So you should do it reversely. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1026/solution/cf712c.md) |
-| 2200 | [CF645E](https://codeforces.com/problemset/problem/645/E) | Find out the DP function first. How can you maximize it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1026/solution/cf645e.md) |
+| 1600 | [CF1468K](https://codeforces.com/problemset/problem/1468/K) | The obstacle need to block the way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0228/solution/cf1468k.md) |
+| 2100 | [CF1267K](https://codeforces.com/problemset/problem/1267/K) | It's just about how many permutations of the given array is valid. What's the condition of being valid? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0228/solution/cf1267k.md) |
