@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1468K](https://codeforces.com/problemset/problem/1468/K) | The obstacle need to block the way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0228/solution/cf1468k.md) |
-| 2100 | [CF1267K](https://codeforces.com/problemset/problem/1267/K) | It's just about how many permutations of the given array is valid. What's the condition of being valid? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0228/solution/cf1267k.md) |
+| 1600 | [CF1238C](https://codeforces.com/problemset/problem/1238/C) | What is the bad thing that causes you to use the magic crystal? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0301/solution/cf1238c.md) |
+| 2200 | [CF1225E](https://codeforces.com/problemset/problem/1225/E) | Once you leave a column / row, it means nothing to you. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0301/solution/cf1225e.md) |
