@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF518D](https://codeforces.com/problemset/problem/518/D) | How does the people in the queue change in one second? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0212/solution/cf518d.md) |
-| 2000 | [CF758D](https://codeforces.com/problemset/problem/758/D) | The digits from the back should be as large as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0212/solution/cf758d.md) |
+| 1800 | [CF958F2](https://codeforces.com/problemset/problem/958/F2) | Classic two pointers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0303/solution/cf958f2.md) |
+| 1900 | [CF803D](https://codeforces.com/problemset/problem/803/D) | If $x$ is enough, $x + 1$ is always enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0303/solution/cf958f2.md) |
