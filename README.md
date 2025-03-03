@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1320B](https://codeforces.com/problemset/problem/1320/B) | You should calculate the distance to the destination. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0226/solution/cf1320b.md) |
-| 2000 | [CF374A](https://codeforces.com/problemset/problem/374/A) | Where can you go from $(i, j)$ ? How can you calculate the number of moves? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0226/solution/cf374a.md) |
+| 1800 | [CF958F2](https://codeforces.com/problemset/problem/958/F2) | Classic two pointers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0303/solution/cf958f2.md) |
+| 1900 | [CF803D](https://codeforces.com/problemset/problem/803/D) | If $x$ is enough, $x + 1$ is always enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0303/solution/cf958f2.md) |
