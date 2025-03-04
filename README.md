@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF958F2](https://codeforces.com/problemset/problem/958/F2) | Classic two pointers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0303/solution/cf958f2.md) |
-| 1900 | [CF803D](https://codeforces.com/problemset/problem/803/D) | If $x$ is enough, $x + 1$ is always enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0303/solution/cf958f2.md) |
+| 1800 | [CF923C](https://codeforces.com/problemset/problem/923/C) | You need to find a data structure that can do something like: deleting an element, find the maximum XOR value with $x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0304/solution/cf923c.md) |
+| 1900 | [CF1611E2](https://codeforces.com/problemset/problem/1611/E2) | Which nodes does your friend forbid you to go? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0304/solution/cf1611e2.md) |
