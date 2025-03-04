@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1468K](https://codeforces.com/problemset/problem/1468/K) | The obstacle need to block the way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0228/solution/cf1468k.md) |
-| 2100 | [CF1267K](https://codeforces.com/problemset/problem/1267/K) | It's just about how many permutations of the given array is valid. What's the condition of being valid? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0228/solution/cf1267k.md) |
+| 1800 | [CF923C](https://codeforces.com/problemset/problem/923/C) | You need to find a data structure that can do something like: deleting an element, find the minimum XOR value with $x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0304/solution/cf923c.md) |
+| 1900 | [CF1611E2](https://codeforces.com/problemset/problem/1611/E2) | Which nodes does your friend forbid you to go? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0304/solution/cf1611e2.md) |
