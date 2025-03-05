@@ -49,7 +49,7 @@ int main() {
     cin >> s >> t;
     ispos[t] = 1;
 
-    vector<int> que(n + 5, 0), froms(n + 1, -1), dis(n + 1, -1);
+    vector<int> que(n + 5, 0), froms(n + 1, -1), dis(n + 1, n);
     int pl = 0, pr = 0;
 
     for (int i = 0; i <= n; i ++) {
@@ -63,7 +63,7 @@ int main() {
     while (pl < pr) {
         int u = que[pl ++];
         for (auto &v: path[u]) {
-            if (dis[v] == -1) {
+            if (dis[v] == n) {
                 dis[v] = dis[u] + 1;
                 froms[v] = froms[u];
                 que[pr ++] = v;
