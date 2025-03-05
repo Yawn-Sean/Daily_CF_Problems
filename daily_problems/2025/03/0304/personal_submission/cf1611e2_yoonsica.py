@@ -81,7 +81,7 @@ def main():
                 nonlocal ans
                 for v in g[u]:
                     if v != fa:
-                        if dist2[v] <= dist1[i]: # 朋友先到，后面都走不了
+                        if dist2[v] <= dist1[v]: # 朋友先到，后面都走不了
                             ans += 1
                         else:
                             yield dfs(v, u)
