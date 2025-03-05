@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF958F2](https://codeforces.com/problemset/problem/958/F2) | Classic two pointers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0303/solution/cf958f2.md) |
-| 1900 | [CF803D](https://codeforces.com/problemset/problem/803/D) | If $x$ is enough, $x + 1$ is always enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0303/solution/cf958f2.md) |
+| 1700 | [CF439C](https://codeforces.com/problemset/problem/439/C) | Enough odd numbers and enough partitions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0305/solution/cf439c.md) |
+| 2000 | [CF187C](https://codeforces.com/problemset/problem/187/C) | If you got a value $q$ , how can you get the connected component where any two vertices can reach each other? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0305/solution/cf187c.md) |
