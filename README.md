@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF923C](https://codeforces.com/problemset/problem/923/C) | You need to find a data structure that can do something like: deleting an element, find the minimum XOR value with $x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0304/solution/cf923c.md) |
-| 1900 | [CF1611E2](https://codeforces.com/problemset/problem/1611/E2) | Which nodes does your friend forbid you to go? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0304/solution/cf1611e2.md) |
+| 1700 | [CF439C](https://codeforces.com/problemset/problem/439/C) | Enough odd numbers and enough partitions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0305/solution/cf439c.md) |
+| 2000 | [CF187C](https://codeforces.com/problemset/problem/187/C) | If you got a value $q$ , how can you get the connected component where any two vertices can reach each other? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0305/solution/cf187c.md) |
