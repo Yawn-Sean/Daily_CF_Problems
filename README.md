@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF439C](https://codeforces.com/problemset/problem/439/C) | Enough odd numbers and enough partitions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0305/solution/cf439c.md) |
-| 2000 | [CF187C](https://codeforces.com/problemset/problem/187/C) | If you got a value $q$ , how can you get the connected component where any two vertices can reach each other? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0305/solution/cf187c.md) |
+| 1700 | [CF1340B](https://codeforces.com/problemset/problem/1340/B) | Make the first digit large enough and make it possible for the latter digits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0306/solution/cf1340b.md) |
+| 2000 | [CF2052J](https://codeforces.com/problemset/problem/2052/J) | For a given $t$ , how should you arrange the activities? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0306/solution/cf2052j.md) |
