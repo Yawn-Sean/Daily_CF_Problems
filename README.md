@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1340B](https://codeforces.com/problemset/problem/1340/B) | Make the first digit large enough and make it possible for the latter digits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0306/solution/cf1340b.md) |
-| 2000 | [CF2052J](https://codeforces.com/problemset/problem/2052/J) | For a given $t$ , how should you arrange the activities? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0306/solution/cf2052j.md) |
+| 1600 | [CF1875D](https://codeforces.com/problemset/problem/1875/D) | The MEX of the array changes only a few times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0307/solution/cf1875d.md) |
+| 2100 | [CF1866H](https://codeforces.com/problemset/problem/1866/H) | For each array of sets, there can be only one order that satisfies the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0307/solution/cf1866h.md) |
