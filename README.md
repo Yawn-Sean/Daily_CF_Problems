@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1875D](https://codeforces.com/problemset/problem/1875/D) | The MEX of the array changes only a few times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0307/solution/cf1875d.md) |
-| 2100 | [CF1866H](https://codeforces.com/problemset/problem/1866/H) | For each array of sets, there can be only one order that satisfies the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0307/solution/cf1866h.md) |
+| 1600 | [CF756B](https://codeforces.com/problemset/problem/756/B) | Iterate over the last ticket. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0308/solution/cf756b.md) |
+| 2400 | [CF1080E](https://codeforces.com/problemset/problem/1080/E) | Fix $(j_1,j_2)$ to find the possible $(i_1,i_2)$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0308/solution/cf1080e.md) |
