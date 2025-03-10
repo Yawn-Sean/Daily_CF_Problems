@@ -25,4 +25,4 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
 | 1800 | [CF675D](https://codeforces.com/problemset/problem/675/D) | Find a rule of the parent node. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0310/solution/cf675d.md) |
-| 2400 | [CF909E](https://codeforces.com/problemset/problem/909/E) | It's just rounds of task completion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0310/solution/cf909e.md) |
+| 1900 | [CF909E](https://codeforces.com/problemset/problem/909/E) | It's just rounds of task completion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0310/solution/cf909e.md) |
