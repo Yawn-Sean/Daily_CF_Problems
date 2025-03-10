@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF958F2](https://codeforces.com/problemset/problem/958/F2) | Classic two pointers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0303/solution/cf958f2.md) |
-| 1900 | [CF803D](https://codeforces.com/problemset/problem/803/D) | If $x$ is enough, $x + 1$ is always enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0303/solution/cf958f2.md) |
+| 1800 | [CF675D](https://codeforces.com/problemset/problem/675/D) | Find a rule of the parent node. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0310/solution/cf675d.md) |
+| 1900 | [CF909E](https://codeforces.com/problemset/problem/909/E) | It's just rounds of task completion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0310/solution/cf909e.md) |
