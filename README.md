@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF756B](https://codeforces.com/problemset/problem/756/B) | Iterate over the last ticket. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0308/solution/cf756b.md) |
-| 2400 | [CF1080E](https://codeforces.com/problemset/problem/1080/E) | Fix $(j_1,j_2)$ to find the possible $(i_1,i_2)$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0308/solution/cf1080e.md) |
+| 1800 | [CF675D](https://codeforces.com/problemset/problem/675/D) | Find a rule of the parent node. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0310/solution/cf675d.md) |
+| 2400 | [CF909E](https://codeforces.com/problemset/problem/909/E) | It's just rounds of task completion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0310/solution/cf909e.md) |
