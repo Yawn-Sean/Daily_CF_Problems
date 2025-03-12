@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF756B](https://codeforces.com/problemset/problem/756/B) | Iterate over the last ticket. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0308/solution/cf756b.md) |
-| 2400 | [CF1080E](https://codeforces.com/problemset/problem/1080/E) | Fix $(j_1,j_2)$ to find the possible $(i_1,i_2)$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0308/solution/cf1080e.md) |
+| 1700 | [CF1906M](https://codeforces.com/problemset/problem/1906/M) | Find different upper bounds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0312/solution/cf1906m.md) |
+| 2000 | [CF542C](https://codeforces.com/problemset/problem/542/C) | Consider the array as a graph. What does the final answer satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0312/solution/cf542c.md) |
