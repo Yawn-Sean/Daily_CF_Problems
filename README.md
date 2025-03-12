@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF123B](https://codeforces.com/problemset/problem/123/B) | It's about crossing lines. You can cross $2$ at a time. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0311/solution/cf123b.md) |
-| 1900 | [CF342C](https://codeforces.com/problemset/problem/342/C) | There are only a few ways to put the balloons. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0311/solution/cf342c.md) |
+| 1700 | [CF1906M](https://codeforces.com/problemset/problem/1906/M) | Find different upper bounds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0312/solution/cf1906m.md) |
+| 2000 | [CF542C](https://codeforces.com/problemset/problem/542/C) | Consider the array as a graph. What does the final answer satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0312/solution/cf542c.md) |
