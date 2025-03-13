@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1906M](https://codeforces.com/problemset/problem/1906/M) | Find different upper bounds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0312/solution/cf1906m.md) |
-| 2000 | [CF542C](https://codeforces.com/problemset/problem/542/C) | Consider the array as a graph. What does the final answer satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0312/solution/cf542c.md) |
+| 1700 | [CF980C](https://codeforces.com/problemset/problem/980/C) | Still. Lexicographically smallest. From the front, greedily choose. Notice the constraint of $k$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0313/solution/cf980c.md) |
+| 2000 | [CF193B](https://codeforces.com/problemset/problem/193/B) | The operations can't be fully comprehended when they are mixed, so there is only one way ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0313/solution/cf193b.md) |
