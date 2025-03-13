@@ -14,12 +14,12 @@ def main():
             if cur == 0: break
             
             ncur = col[cur - 1]
-            if sz[ncur] + sz[cur] <= k:
-                for j in range(cur, nums[i] + 1):
-                    col[j] = ncur
-                sz[ncur] += sz[cur]
-            else:
+            if sz[ncur] + sz[cur] > k:
                 break
+
+            for j in range(cur, nums[i] + 1):
+                col[j] = ncur
+            sz[ncur] += sz[cur]
         
         ans[i] = col[nums[i]]
 
