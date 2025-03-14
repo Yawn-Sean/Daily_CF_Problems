@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF980C](https://codeforces.com/problemset/problem/980/C) | Still. Lexicographically smallest. From the front, greedily choose. Notice the constraint of $k$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0313/solution/cf980c.md) |
-| 2000 | [CF193B](https://codeforces.com/problemset/problem/193/B) | The operations can't be fully comprehended when they are mixed, so there is only one way ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0313/solution/cf193b.md) |
+| 1600 | [CF733D](https://codeforces.com/problemset/problem/733/D) | For each stone, find its perfect match. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0314/solution/cf733d.md) |
+| 2100 | [CF342D](https://codeforces.com/problemset/problem/342/D) | How can you move a domino? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0314/solution/cf342d.md) |
