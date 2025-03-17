@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF595B](https://codeforces.com/problemset/problem/595/B) | Just calculate the answer for each part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0315/solution/cf595b.md) |
-| 2200 | [CF305D](https://codeforces.com/problemset/problem/305/D) | There are some basic rules for this graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0315/solution/cf305d.md) |
+| 1800 | [CF883K](https://codeforces.com/problemset/problem/883/K) | Let's maximize the $s_i'$ of each part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0317/solution/cf883k.md) |
+| 1900 | [CF1977C](https://codeforces.com/problemset/problem/1977/C) | Two kinds: whether LCM is $\max(a_i)$ or not. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0317/solution/cf1977c.md) |
