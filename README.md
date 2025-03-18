@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF883K](https://codeforces.com/problemset/problem/883/K) | Let's maximize the $s_i'$ of each part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0317/solution/cf883k.md) |
-| 1900 | [CF1977C](https://codeforces.com/problemset/problem/1977/C) | Two kinds: whether LCM is $\max(a_i)$ or not. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0317/solution/cf1977c.md) |
+| 1800 | [CF1955F](https://codeforces.com/problemset/problem/1955/F) | It's just about maximizing the number of $0$ in suffix-XOR-sum. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0318/solution/cf1955f.md) |
+| 1900 | [CF848B](https://codeforces.com/problemset/problem/848/B) | On what condition does the dancers collide? After collision, if you don't care which is which, they look like they are on the original route. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0318/solution/cf848b.md) |
