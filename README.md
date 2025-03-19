@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1955F](https://codeforces.com/problemset/problem/1955/F) | It's just about maximizing the number of $0$ in suffix-XOR-sum. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0318/solution/cf1955f.md) |
-| 1900 | [CF848B](https://codeforces.com/problemset/problem/848/B) | On what condition does the dancers collide? After collision, if you don't care which is which, they look like they are on the original route. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0318/solution/cf848b.md) |
+| 1700 | [CF1850H](https://codeforces.com/problemset/problem/1850/H) | It's about contradiction in a graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0319/solution/cf1850h.md) |
+| 2000 | [CF2041M](https://codeforces.com/problemset/problem/2041/M) | If you sort $[1,i]$, what is your next move? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0319/solution/cf2041m.md) |
