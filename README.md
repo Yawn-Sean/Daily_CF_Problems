@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1850H](https://codeforces.com/problemset/problem/1850/H) | It's about contradiction in a graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0319/solution/cf1850h.md) |
-| 2000 | [CF2041M](https://codeforces.com/problemset/problem/2041/M) | If you sort $[1,i]$, what is your next move? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0319/solution/cf2041m.md) |
+| 1700 | [CF910C](https://codeforces.com/problemset/problem/910/C) | Let's see the weight of each character. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0320/solution/cf910c.md) |
+| 2000 | [CF1956D](https://codeforces.com/problemset/problem/1956/D) | If there is a segment that is operated, what is its maximum sum? | [Editorial](http://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0320/solution/cf1956d.md) |
