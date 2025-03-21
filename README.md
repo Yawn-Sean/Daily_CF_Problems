@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF910C](https://codeforces.com/problemset/problem/910/C) | Let's see the weight of each character. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0320/solution/cf910c.md) |
-| 2000 | [CF1956D](https://codeforces.com/problemset/problem/1956/D) | If there is a segment that is operated, what is its maximum sum? | [Editorial](http://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0320/solution/cf1956d.md) |
+| 1600 | [CF214B](https://codeforces.com/problemset/problem/214/B) | You don't need to delete many characters. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0321/solution/cf214b.md) |
+| 2100 | [CF590B](https://codeforces.com/problemset/problem/590/B) | If you can get to the destination in $t$ seconds, it's always possible to get there in $t'(t'\gt t)$ seconds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0321/solution/cf590b.md) |
