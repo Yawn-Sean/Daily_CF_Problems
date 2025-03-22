@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Greedy {
+public class Heap {
 
     FastReader is;
     PrintWriter out;
@@ -26,7 +26,7 @@ public class Greedy {
     private static final boolean oj = System.getProperty("ONLINE_JUDGE") != null;
 
     public static void main(String[] args) throws Exception {
-        new Greedy().run();
+        new Heap().run();
     }
 
     void run() throws Exception {
@@ -48,7 +48,7 @@ public class Greedy {
         for (int i = 0; i < n; i++) {
             orders[i][0] = is.ni();
             orders[i][1] = is.ni();
-            orders[i][2] = i;
+            orders[i][2] = i + 1;
         }
 
         Arrays.sort(orders, (x, y) -> {
@@ -59,43 +59,26 @@ public class Greedy {
             }
         });
 
-        Integer[] inds1 = new Integer[n - (p - k)];
-        for (int i = 0; i < inds1.length; i++) {
-            inds1[i] = i;
-        }
-        Arrays.sort(inds1, (x, y) -> {
-            if (orders[x][0] != orders[y][0]) {
-                return Integer.compare(orders[y][0], orders[x][0]);
+        Queue<Integer> pq = new PriorityQueue<>(Comparator.comparingInt(i -> orders[i][0]));
+        int last = 0;
+        for (int i = 0; i < n - (p - k); i++) {
+            if (pq.size() < k) {
+                pq.add(i);
+                last = i;
             } else {
-                return Integer.compare(x, y);
-            }
-        });
-
-        int maxPicked = inds1[0];
-        for (int i = 1; i < k; i++) {
-            if (inds1[i] > maxPicked) {
-                maxPicked = inds1[i];
-            }
-        }
-
-        List<Integer> inds2 = new ArrayList<>();
-        for (int i = k; i < n; i++) {
-            if (i < inds1.length) {
-                if (inds1[i] <= maxPicked) {
-                    continue;
+                if (orders[pq.peek()][0] < orders[i][0]) {
+                    pq.poll();
+                    pq.add(i);
+                    last = i;
                 }
-                inds2.add(inds1[i]);
-            } else {
-                inds2.add(i);
             }
         }
-        Collections.sort(inds2, Comparator.comparingInt(i -> -orders[i][1]));
 
-        for (int i = 0; i < k; i++) {
-            out.print((orders[inds1[i]][2] + 1) + " ");
+        for (int ind : pq) {
+            out.print(orders[ind][2] + " ");
         }
-        for (int i = 0; i < p - k; i++) {
-            out.print((orders[inds2.get(i)][2] + 1) + " ");
+        for (int i = last + 1; i < last + 1 + p - k; i++) {
+            out.print(orders[i][2] + " ");
         }
     }
 
