@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="expires" content="1800">
+  <title>每日羊蹄🐏</title>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/tablesorter@2.31.3/dist/js/jquery.tablesorter.combined.min.js"></script>
+  <link href="simple.css" rel="stylesheet">
+</head>
+<body>
+  <div>
+    <h2>每日羊蹄🐏</h2>
+    <div id="user-detail" style="display: none;">
+      <h3 id="user-name">用户：tsreaper</h3>
+      <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet" viewBox="0 0 721 110" width="100%">
+        <g id="wall" transform="translate(25, 20)">
+          <text text-anchor="middle" class="wday" dx="-13" dy="22" style="font-size: 11px">Mon</text>
+          <text text-anchor="middle" class="wday" dx="-13" dy="48" style="font-size: 11px">Wed</text>
+          <text text-anchor="middle" class="wday" dx="-13" dy="74" style="font-size: 11px">Fri</text>
+        </g>
+      </svg>
+    </div>
+    <div>
+      <h3>统计数据</h3>
+      <p id="p-date">日期：2024-02-26</p>
+      <table id="tbl" class="tablesorter" width="100%">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>当前连击天数</th>
+            <th>最长连击天数</th>
+            <th>总提交天数</th>
+            <th>总提交次数</th>
+          </tr>
+        </thead>
+        <tbody id="tb">
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <style>
+    #tbl > thead > tr > th {
+      text-align: center;
+    }
+    #tbl > tbody > tr > td {
+      text-align: center;
+    }
+  </style>
+
+  <script src="records.js"></script>
+  <script>
+    function padZero(s, len) {
+      let pad = "";
+      for (let i = 0; i < len - s.length; i++) {
+        pad += "0";
+      }
+      return pad + s;
+    }
+
+    let users = new Object();
+
+    let lines = records.split(/[\r\n]+/);
+    let currentDate = '';
+    let skipped = new Set();
+    for (let line of lines) {
+      line = line.trim();
+      if (line.length == 0) {
+        continue;
+      }
+      if (line.startsWith('current_date:')) {
+        currentDate = line.substr('current_date:'.length);
+        document.getElementById('p-date').innerHTML = `日期：${currentDate}`;
+      } else if (line.startsWith('skipped_dates:')) {
+        let y = 0, m = 0;
+        for (let s of line.substr('skipped_dates:'.length).split(',')) {
+          if (s[0] == 'y') {
+            y = parseInt(s.substr(1));
+          } else if (s[0] == 'm') {
+            m = parseInt(s.substr(1));
+          } else {
+            for (let i = 0; i < s.length; i += 2) {
+              let d = parseInt(s.substr(i, 2));
+              skipped.add(Math.ceil(
+                (new Date(`${y}-${padZero(m.toString(), 2)}-${padZero(d.toString(), 2)}`) - new Date(currentDate)) /
+                (1000 * 60 * 60 * 24)
+              ));
+            }
+          }
+        }
+      } else {
+        let userAndRecord = line.split(':');
+        let user = userAndRecord[0];
+        let record = userAndRecord[1];
+        let runs = record.split('/');
+        let currentStreak = 0;
+        let maxStreak = 0;
+        let totalDays = 0;
+        let totalSubmits = 0;
+
+        users[user] = [];
+        for (let run of runs) {
+          let xy = run.split(',');
+          let submitCount = parseInt(xy[0]);
+          let dayCount = parseInt(xy[1]);
+          users[user].push([submitCount, dayCount]);
+          if (submitCount == 0) {
+            currentStreak = 0;
+          } else {
+            currentStreak += dayCount;
+            totalDays += dayCount;
+            totalSubmits += submitCount * dayCount;
+          }
+          maxStreak = Math.max(maxStreak, currentStreak);
+        }
+        let tr = document.createElement('tr');
+        tr.innerHTML = `<td><a href="#" onclick="showUser('${user}')">${user}</a></td><td>${currentStreak}</td><td>${maxStreak}</td><td>${totalDays}</td><td>${totalSubmits}</td>`;
+        document.getElementById('tb').appendChild(tr);
+      }
+    }
+
+    $(function() {
+      $("#tbl").tablesorter({ sortList: [[1, 1], [2, 1], [3, 1], [4, 1], [0, 0]] });
+    });
+
+    let months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    function drawWeek(col, days, start) {
+      let xmlns = 'http://www.w3.org/2000/svg';
+      let g = document.createElementNS(xmlns, 'g');
+      g.setAttributeNS(null, 'transform', `translate(${col * 13}, 0)`);
+      for (let i = 0; i < days; i++) {
+        let rect = document.createElementNS(xmlns, 'rect');
+        rect.id = `day${start + i}`;
+        rect.classList.add('day');
+        rect.setAttributeNS(null, 'width', '11');
+        rect.setAttributeNS(null, 'height', '11');
+        rect.setAttributeNS(null, 'y', `${i * 13}`);
+        rect.setAttributeNS(null, 'fill', skipped.has(start + i) ? '#CBCDF0' : '#EBEDF0');
+        g.appendChild(rect);
+      }
+      document.getElementById('wall').appendChild(g);
+
+      let firstDate = new Date(currentDate);
+      firstDate = firstDate.setDate(firstDate.getDate() + start);
+      firstDate = new Date(firstDate);
+      let lastWeek = new Date(currentDate);
+      lastWeek = lastWeek.setDate(lastWeek.getDate() + start - 7);
+      lastWeek = new Date(lastWeek);
+      if (firstDate.getMonth() != lastWeek.getMonth()) {
+        let text = document.createElementNS(xmlns, 'text');
+        text.setAttributeNS(null, 'x', `${col * 13}`);
+        text.setAttributeNS(null, 'y', '-5');
+        text.setAttributeNS(null, 'style', 'font-size: 11px;');
+        text.innerHTML = months[firstDate.getMonth()];
+        document.getElementById('wall').appendChild(text);
+      }
+    }
+
+    let lastColBricks = new Date(currentDate).getDay() % 7 + 1;
+    let earliestBrick = 1 - lastColBricks;
+    drawWeek(52, lastColBricks, earliestBrick);
+    for (let i = 51; i >= 0; i--) {
+      earliestBrick -= 7;
+      drawWeek(i, 7, earliestBrick);
+    }
+
+    function showUser(user) {
+      document.getElementById('user-detail').style.display = '';
+      document.getElementById('user-name').innerHTML = '用户：' + user;
+
+      let now = 0;
+      for (let i = users[user].length - 1; i >= 0; i--) {
+        for (let j = 1; j <= users[user][i][1]; j++) {
+          let t = users[user][i][0];
+          let fill = '#EBEDF0';
+          if (t == 1) {
+            fill = '#40C463';
+          } else if (t == 2) {
+            fill = '#216E39';
+          }
+          document.getElementById(`day${now}`).setAttributeNS(null, 'fill', fill);
+          while (true) {
+            now--;
+            if (now < earliestBrick) {
+              return;
+            }
+            if (!skipped.has(now)) {
+              break;
+            }
+          }
+        }
+      }
+      while (now >= earliestBrick) {
+        if (!skipped.has(now)) {
+          document.getElementById(`day${now}`).setAttributeNS(null, 'fill', '#EBEDF0');
+        }
+        now--;
+      }
+    }
+  </script>
+</body>
+</html>
