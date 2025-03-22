@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF214B](https://codeforces.com/problemset/problem/214/B) | You don't need to delete many characters. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0321/solution/cf214b.md) |
-| 2100 | [CF590B](https://codeforces.com/problemset/problem/590/B) | If you can get to the destination in $t$ seconds, it's always possible to get there in $t'(t'\gt t)$ seconds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0321/solution/cf590b.md) |
+| 1600 | [CF617C](https://codeforces.com/problemset/problem/617/C) | Iterate over what flower is in the range of the first fountain. Special case: no flowers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0322/solution/cf617c.md) |
+| 2200 | [CF332C](https://codeforces.com/problemset/problem/332/C) | If the orders are chosen, how should the chairperson choose? Sort the array so that this part comes easy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0322/solution/cf332c.md) |
