@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF617C](https://codeforces.com/problemset/problem/617/C) | Iterate over what flower is in the range of the first fountain. Special case: no flowers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0322/solution/cf617c.md) |
-| 2200 | [CF332C](https://codeforces.com/problemset/problem/332/C) | If the orders are chosen, how should the chairperson choose? Sort the array so that this part comes easy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0322/solution/cf332c.md) |
+| 1800 | [CF404C](https://codeforces.com/problemset/problem/404/C) | When a vertex connects with its previous vertex in the shortest path, a tree is formed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0324/solution/cf404c.md) |
+| 1900 | [CF1089F](https://codeforces.com/problemset/problem/1089/F) | Turn $b$ all into $n$ , then each $a$ is not coprime to $n$ and sums up to $n-1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0324/solution/cf1089f.md) |
