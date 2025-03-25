@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF404C](https://codeforces.com/problemset/problem/404/C) | When a vertex connects with its previous vertex in the shortest path, a tree is formed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0324/solution/cf404c.md) |
-| 1900 | [CF1089F](https://codeforces.com/problemset/problem/1089/F) | Turn $b$ all into $n$ , then each $a$ is not coprime to $n$ and sums up to $n-1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0324/solution/cf1089f.md) |
+| 1800 | [CF638C](https://codeforces.com/problemset/problem/638/C) | Color the edge in the day it is repaired. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0325/solution/cf638c.md) |
+| 1900 | [CF488B](https://codeforces.com/problemset/problem/488/B) | Solve the equation first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0325/solution/cf638c.md) |
