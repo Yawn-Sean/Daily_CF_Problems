@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF718A](https://codeforces.com/problemset/problem/718/A) | We should find the first position after the decimal point which is no smaller than $5$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0326/solution/cf718a.md) |
-| 2000 | [CF291E](https://codeforces.com/problemset/problem/291/E) | Consider the problem in DFS. It's about checking the number of occurences of string $t$ in $s$ when adding or removing a last character. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0326/solution/cf291e.md) |
+| 1700 | [CF1202B](https://codeforces.com/problemset/problem/1202/B) | There are some repetitive pairs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0327/solution/cf1202b.md) |
+| 2000 | [CF1951D](https://codeforces.com/problemset/problem/1951/D) | If $k$ is small enough, it's always easy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0327/solution/cf1951d.md) |
