@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1202B](https://codeforces.com/problemset/problem/1202/B) | There are some repetitive pairs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0327/solution/cf1202b.md) |
-| 2000 | [CF1951D](https://codeforces.com/problemset/problem/1951/D) | If $k$ is small enough, it's always easy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0327/solution/cf1951d.md) |
+| 1700 | [CF930B](https://codeforces.com/problemset/problem/930/B) | If the first letter is $x$ , what is the maximum probability? |
+| 2100 | [CF1906J](https://codeforces.com/problemset/problem/1906/J) | If we have arrived at $x$ , what can be the possible condition? |
