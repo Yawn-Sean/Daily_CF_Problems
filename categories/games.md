@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF1033C](https://codeforces.com/problemset/problem/1033/C) | Classic DP for games. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0622/solution/cf1033c.md) |
+| 1600 | [CF930B](https://codeforces.com/problemset/problem/930/B) | If the first letter is $x$ , what is the maximum probability? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0328/solution/cf930b.md) |
 | 1700 | [CF1194D](https://codeforces.com/problemset/problem/1194/D) | Game theory. If you can't move k cells to the left, what should happen? How is the question different now? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0306/solution/cf1194d.md) |
 | 1700 | [CF1056C](https://codeforces.com/problemset/problem/1056/C) | Make use of your advantage. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1219/solution/cf1056c.md) |
 | 1900 | [CF1600E](https://codeforces.com/problemset/problem/1600/E) | The second player's strategy: Find a corresponding move for each move of the first player. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0820/solution/cf1600e.md) |
