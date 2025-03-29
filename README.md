@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF930B](https://codeforces.com/problemset/problem/930/B) | If the first letter is $x$ , what is the maximum probability? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0328/solution/cf930b.md) |
-| 2100 | [CF1906J](https://codeforces.com/problemset/problem/1906/J) | If we have arrived at $x$ , what can be the possible condition? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0328/solution/cf1906j.md) |
+| 1600 | [CF380A](https://codeforces.com/problemset/problem/380/A) | It is such a repetitive array, and it can be divided into several parts. |
+| 2100 | [CF757D](https://codeforces.com/problemset/problem/757/D) | The largest number can't get too large. |
