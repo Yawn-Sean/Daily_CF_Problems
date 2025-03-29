@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF380A](https://codeforces.com/problemset/problem/380/A) | It is such a repetitive array, and it can be divided into several parts. |
-| 2100 | [CF757D](https://codeforces.com/problemset/problem/757/D) | The largest number can't get too large. |
+| 1600 | [CF380A](https://codeforces.com/problemset/problem/380/A) | It is such a repetitive array, and it can be divided into several parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0329/solution/cf380a.md) |
+| 2200 | [CF757D](https://codeforces.com/problemset/problem/757/D) | The largest number can't get too large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0329/solution/cf757d.md) |  
