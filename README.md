@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF691C](https://codeforces.com/problemset/problem/691/C) | You just need to decide the two parts of the expression. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0401/solution/cf691c.md) |
-| 1900 | [CF336B](https://codeforces.com/problemset/problem/336/B) | For different $(i,j)$ -s, How should you get from $(2iR-R, 0)$ to $(2jR-R, 2R)$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0401/solution/cf336b.md) |
+| 1700 | [CF766C](https://codeforces.com/problemset/problem/766/C) | Just $3$ DP-s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0402/solution/cf766c.md) |
+| 2000 | [CF1090K](https://codeforces.com/problemset/problem/1090/K) | Focus on the infinite part. | [Editorial](http://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0402/solution/cf1090k.md) |
