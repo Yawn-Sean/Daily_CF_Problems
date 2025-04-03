@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF766C](https://codeforces.com/problemset/problem/766/C) | Just $3$ DP-s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0402/solution/cf766c.md) |
-| 2000 | [CF1090K](https://codeforces.com/problemset/problem/1090/K) | Focus on the infinite part. | [Editorial](http://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0402/solution/cf1090k.md) |
+| 1700 | [CF405D](https://codeforces.com/problemset/problem/405/D) | Pair the numbers. What if the paired numbers are already chosen? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0403/solution/cf405d.md) |
+| 2000 | [CF911E](https://codeforces.com/problemset/problem/911/E) | How can you check whether a permutation satisfy the conditions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0403/solution/cf911e.md) |
