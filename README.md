@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF405D](https://codeforces.com/problemset/problem/405/D) | Pair the numbers. What if the paired numbers are already chosen? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0403/solution/cf405d.md) |
-| 2000 | [CF911E](https://codeforces.com/problemset/problem/911/E) | How can you check whether a permutation satisfy the conditions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0403/solution/cf911e.md) |
+| 1600 | [CF1530D](https://codeforces.com/problemset/problem/1530/D) | Find positions to change and numbers they get changed into. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0404/solution/cf1530d.md) |
+| 2100 | [CF386D](https://codeforces.com/problemset/problem/386/D) | Classic shortest path problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0404/solution/cf386d.md) |
