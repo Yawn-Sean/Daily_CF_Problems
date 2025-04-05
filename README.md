@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1530D](https://codeforces.com/problemset/problem/1530/D) | Find positions to change and numbers they get changed into. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0404/solution/cf1530d.md) |
-| 2100 | [CF386D](https://codeforces.com/problemset/problem/386/D) | Classic shortest path problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0404/solution/cf386d.md) |
+| 1600 | [CF715A](https://codeforces.com/problemset/problem/715/A) | Consider what property the number should have before $\sqrt$ operation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0405/solution/cf715a.md) |
+| 2300 | [CF1090E](https://codeforces.com/problemset/problem/1090/E) | It's always possible to go from $(x,y)$ to $(x',y')$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0405/solution/cf1090e.md) |
