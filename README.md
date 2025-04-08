@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF83B](https://codeforces.com/problemset/problem/83/B) | Which round is it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0407/solution/cf83b.md) |
-| 1900 | [CF1938C](https://codeforces.com/problemset/problem/1938/C) | $p(x+1)\leq p(x)$ means something. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0407/solution/cf1938c.md) |
+| 1800 | [CF727D](https://codeforces.com/problemset/problem/727/D) | Some are fixed. Others can be greedily distributed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0408/solution/cf727d.md) |
+| 1900 | [CF412E](https://codeforces.com/problemset/problem/412/E) | There is exactly one `'@'` in each email. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0408/solution/cf412e.md) |
