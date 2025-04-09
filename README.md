@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF727D](https://codeforces.com/problemset/problem/727/D) | Some are fixed. Others can be greedily distributed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0408/solution/cf727d.md) |
-| 1900 | [CF412E](https://codeforces.com/problemset/problem/412/E) | There is exactly one `'@'` in each email. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0408/solution/cf412e.md) |
+| 1700 | [CF442A](https://codeforces.com/problemset/problem/442/A) | Iterate over all possible combinations of hints. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0409/solution/cf442a.md) |
+| 2000 | [CF29D](https://codeforces.com/problemset/problem/29/D) | If you are at $u$ , where should you go? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0409/solution/cf29d.md) |
