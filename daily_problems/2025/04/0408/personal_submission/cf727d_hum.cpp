@@ -23,11 +23,13 @@ int main() {
       }
     }
   }
-  for (int t = 0; t < 5; t++) {
-    if (a[t] < 0) {
+  for (int i = 0; i < 6; i++) {
+    if (a[i] < 0) {
       cout << "NO\n";
       return 0;
     }
+  }
+  for (int t = 0; t < 5; t++) {
     for (int i = 0; i < n; i++) {
       if (s[i] == cmp[t]) {
         if (a[t] > 0) {
