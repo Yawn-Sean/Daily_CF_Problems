@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF442A](https://codeforces.com/problemset/problem/442/A) | Iterate over all possible combinations of hints. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0409/solution/cf442a.md) |
-| 2000 | [CF29D](https://codeforces.com/problemset/problem/29/D) | If you are at $u$ , where should you go? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0409/solution/cf29d.md) |
+| 1700 | [CF925B](https://codeforces.com/problemset/problem/925/B) | If you decide to use some of the servers, re-distribute them between services. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0410/solution/cf925b.md) |
+| 2000 | [CF413D](https://codeforces.com/problemset/problem/413/D) | What's remaining for merging? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0410/solution/cf413d.md) |
