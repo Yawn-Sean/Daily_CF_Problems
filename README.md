@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF925B](https://codeforces.com/problemset/problem/925/B) | If you decide to use some of the servers, re-distribute them between services. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0410/solution/cf925b.md) |
-| 2000 | [CF413D](https://codeforces.com/problemset/problem/413/D) | What's remaining for merging? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0410/solution/cf413d.md) |
+| 1600 | [CF272D](https://codeforces.com/problemset/problem/272/D) | Which points can be swapped in the final sequence? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0411/solution/cf272d.md) |
+| 2100 | [CF212C](https://codeforces.com/problemset/problem/212/C) | If you know the original direction and the current direction of $i$ , you can decide that of $i + 1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0411/solution/cf212c.md) | 
