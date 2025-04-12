@@ -1,7 +1,7 @@
-# Submission link: https://codeforces.com/contest/1089/submission/315071515
+# Submission link: https://codeforces.com/contest/1089/submission/315072076
 def main():
     def f(score1, score2, set1, set2):
-        return ((score1 * 201 + score2) * 4 + set1) * 4 + set2
+        return (((score1 * 201) + score2) * 4 + set1) * 4 + set2
 
     dp = [-2] * (201 * 201 * 4 * 4)
     dp[f(0, 0, 0, 0)] = -1
@@ -84,23 +84,19 @@ def main():
                 sets.append(divmod(scores, 201))
                 cur = prev
             
-            if cx + cy < 5:
-                if cx > cy: sets.sort(key=lambda x: x[0] - x[1])
-                else: sets.sort(key=lambda x: x[1] - x[0])
-            
+            final_set_score = 15 if cx + cy == 5 else 25
+            if cx > cy:
+                for i in range(5):
+                    a, b = sets[i]
+                    if a > b and (a == final_set_score or a - b == 2):
+                        sets[i], sets[-1] = sets[-1], sets[i]
+                        break
             else:
-                if cx > cy:
-                    for i in range(5):
-                        a, b = sets[i]
-                        if a > b and (a == 15 or a - b == 2):
-                            sets[i], sets[4] = sets[4], sets[i]
-                            break
-                else:
-                    for i in range(5):
-                        a, b = sets[i]
-                        if b > a and (b == 15 or b - a == 2):
-                            sets[i], sets[4] = sets[4], sets[i]
-                            break
+                for i in range(5):
+                    a, b = sets[i]
+                    if b > a and (b == final_set_score or b - a == 2):
+                        sets[i], sets[-1] = sets[-1], sets[i]
+                        break
             
             outs.append(' '.join(f'{a}:{b}' for a, b in sets))
         else:
