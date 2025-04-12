@@ -139,6 +139,7 @@ int main() {
             }
 
             reverse(sets.begin(), sets.end());
+            
             for (auto &[x, y]: sets)
                 cout << x << ':' << y << ' ';
             cout << '\n';
