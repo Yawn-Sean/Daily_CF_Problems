@@ -84,20 +84,7 @@ def main():
                 sets.append(divmod(scores, 201))
                 cur = prev
             
-            final_set_score = 15 if cx + cy == 5 else 25
-            if cx > cy:
-                for i in range(5):
-                    a, b = sets[i]
-                    if a > b and (a == final_set_score or a - b == 2):
-                        sets[i], sets[-1] = sets[-1], sets[i]
-                        break
-            else:
-                for i in range(5):
-                    a, b = sets[i]
-                    if b > a and (b == final_set_score or b - a == 2):
-                        sets[i], sets[-1] = sets[-1], sets[i]
-                        break
-            
+            sets.reverse()
             outs.append(' '.join(f'{a}:{b}' for a, b in sets))
         else:
             outs.append('Impossible')

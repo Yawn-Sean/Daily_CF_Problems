@@ -138,26 +138,7 @@ int main() {
                 cur = prev;
             }
 
-            int final_set_score = (cx + cy == 5 ? 15 : 25);
-            if (cx > cy) {
-                for (int i = 0; i < cx + cy - 1; i ++) {
-                    auto [a, b] = sets[i];
-                    if (a > b && (a == final_set_score || a - b == 2)) {
-                        swap(sets[i], sets[cx + cy - 1]);
-                        break;
-                    }
-                }
-            }
-            else {
-                for (int i = 0; i < cx + cy - 1; i ++) {
-                    auto [a, b] = sets[i];
-                    if (b > a && (b == final_set_score || b - a == 2)) {
-                        swap(sets[i], sets[cx + cy - 1]);
-                        break;
-                    }
-                }
-            }
-
+            reverse(sets.begin(), sets.end());
             for (auto &[x, y]: sets)
                 cout << x << ':' << y << ' ';
             cout << '\n';
