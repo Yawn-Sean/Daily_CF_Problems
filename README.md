@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF272D](https://codeforces.com/problemset/problem/272/D) | Which points can be swapped in the final sequence? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0411/solution/cf272d.md) |
-| 2100 | [CF212C](https://codeforces.com/problemset/problem/212/C) | If you know the original direction and the current direction of $i$ , you can decide that of $i + 1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0411/solution/cf212c.md) | 
+| 1600 | [CF605A](https://codeforces.com/problemset/problem/605/A) | Consider the number of cars that are not moved. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0412/solution/cf605a.md) |
+| 2200 | [CF1089A](https://codeforces.com/problemset/problem/1089/A) | Pre-process the DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0412/solution/cf1089a.md) |
