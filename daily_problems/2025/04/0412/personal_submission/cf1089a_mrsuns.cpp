@@ -1,9 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
-using ll = long long;
-#define int long long 
-#define endl '\n'
-
 int f(int a, int b, int c, int d) {
     return ((a * 201 + b) * 4 + c) * 4 + d;
 }
@@ -104,11 +98,3 @@ void Solve() {
     cout << endl;
 }
 
-signed main() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);cout.tie(0);
-    int T = 1;
-    cin >> T;
-    Prework();
-    while (T--) Solve();
-}
