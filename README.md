@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF605A](https://codeforces.com/problemset/problem/605/A) | Consider the number of cars that are not moved. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0412/solution/cf605a.md) |
-| 2200 | [CF1089A](https://codeforces.com/problemset/problem/1089/A) | Pre-process the DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0412/solution/cf1089a.md) |
+| 1800 | [CF630M](https://codeforces.com/problemset/problem/630/M) | If you rotate the camera $x$ times, how far is it from being vertical? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0414/solution/cf630m.md) |
+| 1900 | [CF258B](https://codeforces.com/problemset/problem/258/B) | Group the numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0414/solution/cf258b.md) |
