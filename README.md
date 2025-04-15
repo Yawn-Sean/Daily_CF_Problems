@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF630M](https://codeforces.com/problemset/problem/630/M) | If you rotate the camera $x$ times, how far is it from being vertical? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0414/solution/cf630m.md) |
-| 1900 | [CF258B](https://codeforces.com/problemset/problem/258/B) | Group the numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0414/solution/cf258b.md) |
+| 1800 | [CF187B](https://codeforces.com/problemset/problem/187/B) | Consider the path in segments and each segment is composed of one car. In each segment, if you go from $u$ to $v$ , you can pre-process the minimum time. So you can iterate over the number of segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0415/solution/cf187b.md) |
+| 1900 | [CF353B](https://codeforces.com/problemset/problem/353/B) | Distribute the numbers evenly. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0415/solution/cf353b.md) |
