@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF187B](https://codeforces.com/problemset/problem/187/B) | Consider the path in segments and each segment is composed of one car. In each segment, if you go from $u$ to $v$ , you can pre-process the minimum time. So you can iterate over the number of segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0415/solution/cf187b.md) |
-| 1900 | [CF353B](https://codeforces.com/problemset/problem/353/B) | Distribute the numbers evenly. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0415/solution/cf353b.md) |
+| 1800 | [CF813C](https://codeforces.com/problemset/problem/813/C) | The total steps taken by Bob can't be larger than those of Alice. |
+| 1900 | [CF509C](https://codeforces.com/problemset/problem/509/C) | Try the "smallest" number. If it can't satisfy the conditions, largen it a little bit. |
