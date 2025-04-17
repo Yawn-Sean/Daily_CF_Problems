@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF813C](https://codeforces.com/problemset/problem/813/C) | The total steps taken by Bob can't be larger than those of Alice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0416/solution/cf813c.md) |
-| 2000 | [CF509C](https://codeforces.com/problemset/problem/509/C) | Try the "smallest" number. If it can't satisfy the conditions, enlarge it a little bit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0416/solution/cf509c.md) |
+| 1700 | [CF1835A](https://codeforces.com/problemset/problem/1835/A) | Iterate over $a$ . What can be $b$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0417/solution/cf1835a.md) |
+| 2000 | [CF676D](https://codeforces.com/problemset/problem/676/D) | Rotating $4$ times means nothing. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0417/solution/cf676d.md) |
