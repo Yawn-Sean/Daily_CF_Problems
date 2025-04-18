@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF603A](https://codeforces.com/problemset/problem/603/A) | Classic DP. Or ...? | [Editorial]
-| 2100 | [CF1938J](https://codeforces.com/problemset/problem/1938/J) | You just need to find the $2$ shortest path from $1$ to $n$ . |
+| 1600 | [CF603A](https://codeforces.com/problemset/problem/603/A) | Classic DP. Or ...? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0418/solution/cf603a.md) |
+| 2100 | [CF1938J](https://codeforces.com/problemset/problem/1938/J) | You just need to find the $2$ shortest path from $1$ to $n$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0418/solution/cf1938j.md) |
