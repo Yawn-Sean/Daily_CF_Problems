@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1835A](https://codeforces.com/problemset/problem/1835/A) | Iterate over $a$ . What can be $b$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0417/solution/cf1835a.md) |
-| 2000 | [CF676D](https://codeforces.com/problemset/problem/676/D) | Rotating $4$ times means nothing. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0417/solution/cf676d.md) |
+| 1600 | [CF603A](https://codeforces.com/problemset/problem/603/A) | Classic DP. Or ...? | [Editorial]
+| 2100 | [CF1938J](https://codeforces.com/problemset/problem/1938/J) | You just need to find the $2$ shortest path from $1$ to $n$ . |
