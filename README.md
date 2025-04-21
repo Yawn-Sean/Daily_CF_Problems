@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF317A](https://codeforces.com/problemset/problem/317/A) | Make both positive. Then what should you do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0419/solution/cf317a.md) |
-| 2400 | [CF200A](https://codeforces.com/problemset/problem/200/A) | There are only a few rows that you need to check! | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0419/solution/cf200a.md) |
+| 1800 | [CF87B](https://codeforces.com/problemset/problem/87/B) | Just implement it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0421/solution/cf87b.md) |
+| 1900 | [CF1277D](https://codeforces.com/problemset/problem/1277/D) | There are $4$ types of strings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0421/solution/cf1277d.md) |
