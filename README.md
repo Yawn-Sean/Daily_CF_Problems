@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF87B](https://codeforces.com/problemset/problem/87/B) | Just implement it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0421/solution/cf87b.md) |
-| 1900 | [CF1277D](https://codeforces.com/problemset/problem/1277/D) | There are $4$ types of strings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0421/solution/cf1277d.md) |
+| 1800 | [CF847C](https://codeforces.com/problemset/problem/847/C) | Just make sure you can make another move. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0422/solution/cf847c.md) |
+| 1900 | [CF490D](https://codeforces.com/problemset/problem/490/D) | Two operations are adjusting the power of $2$ and $3$ in the numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0422/solution/cf490d.md) | 
