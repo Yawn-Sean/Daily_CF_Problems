@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| 1700 | [CF1092C](https://codeforces.com/problemset/problem/1092/C) | You just need to find the concatenation of the two longest substrings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0423/solution/cf1092c.md) |
 | 1800 | [CF533E](https://codeforces.com/problemset/problem/533/E) | There are a lot of things in common for $S$ and $T$, such as their prefixes and suffixes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0521/solution/cf533e.md) |
 | 1800 | [CF1109B](https://codeforces.com/problemset/problem/1109/B) | First of all, ignore that you need to minimize the number of steps and find a way to make another palindrome. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0203/solution/cf1109b.md) |
 | 1900 | [CF535D](https://codeforces.com/problemset/problem/535/D) | First, decide if the conditions contradict. Then, fill up the residual blanks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0617/solution/cf535d.md) |
