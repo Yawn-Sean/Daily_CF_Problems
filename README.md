@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1092C](https://codeforces.com/problemset/problem/1092/C) | You just need to find the concatenation of the two longest substrings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0423/solution/cf1092c.md) |
-| 2000 | [CF818C](https://codeforces.com/problemset/problem/818/C) | You just need to calculate the number of sofas to the left / right / upside / downside of one position.  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0423/solution/cf818c.md) |
+| 1700 | [CF1468D](https://codeforces.com/problemset/problem/1468/D) | Do something bad and run. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0424/solution/cf1468d.md) |
+| 2000 | [CF234H](https://codeforces.com/problemset/problem/234/H) | The second step is easy to optimize and you can calculate the total number of moves. How's it determined? Use the first step to make it fewer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0424/solution/cf234h.md) |
