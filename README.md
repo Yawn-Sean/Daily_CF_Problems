@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF793B](https://codeforces.com/problemset/problem/793/B) | DFS or you can check something different. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0425/solution/cf793b.md) |
-| 2100 | [CF362D](https://codeforces.com/problemset/problem/362/D) | Greedily merge the components. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0425/solution/cf362d.md) |
+| 1600 | [CF616C](https://codeforces.com/problemset/problem/616/C) | Classic DSU. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0426/solution/cf616c.md) |
+| 2200 | [CF593C](https://codeforces.com/problemset/problem/593/C) | A formula for each circle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0426/solution/cf593c.md) |
