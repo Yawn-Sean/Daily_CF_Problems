@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF845D](https://codeforces.com/problemset/problem/845/D) | It's about how many rules you disobey. The harder one is the speed limit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0428/solution/cf845d.md) |
-| 1900 | [CF1423B](https://codeforces.com/problemset/problem/1423/B) | If we have a deadline, there are only a few roads that can be built. They represent the possible pairs that can be formed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0428/solution/cf1423b.md) |
+| 1800 | [CF690E1](https://codeforces.com/problemset/problem/690/E1) | Find the special characteristic. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0429/solution/cf690e1.md) |
+| 1900 | [CF367B](https://codeforces.com/problemset/problem/367/B) | If you delete one element and add another one, can you check the condition efficiently? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0429/solution/cf367b.md) |
