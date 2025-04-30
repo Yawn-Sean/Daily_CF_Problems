@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF690E1](https://codeforces.com/problemset/problem/690/E1) | Find the special characteristic. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0429/solution/cf690e1.md) |
-| 1900 | [CF367B](https://codeforces.com/problemset/problem/367/B) | If you delete one element and add another one, can you check the condition efficiently? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0429/solution/cf367b.md) |
+| 1700 | [CF269B](https://codeforces.com/problemset/problem/269/B) | Find the maximum number of plants that don't need to be moved. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0430/solution/cf269b.md) |
+| 2000 | [2073J](https://codeforces.com/problemset/problem/2073/J) | It's about merging to $2$ remaining elements together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0430/solution/cf2073j.md) |
