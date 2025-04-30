@@ -1,0 +1,39 @@
+/* #pragma GCC optimize(2) */
+#include <bits/stdc++.h>
+using namespace std;
+#define endl '\n'
+#define ll long long
+#define Debug(x) cout << #x << ':' << x << endl
+#define all(x) (x).begin(), (x).end()
+
+void solve() {
+  int n, m, x, y;
+  cin >> n >> m;
+  vector<vector<int>> a(n + 1, vector<int>(m + 1));
+
+  for (int i = 1; i <= n; i++) {
+    for (int j = 1; j <= m; j++) {
+      cin >> a[i][j];
+    }
+  }
+  x = y = 0;
+  for (int i = 1; i <= m; i++)
+    x += abs(a[1][i] - a[n][i]);
+  for (int i = 1; i <= m; i++)
+    y += abs(a[n / 2][i] - a[n / 2 + 1][i]);
+  if (x > y)
+    cout << "NO" << endl;
+  else
+    cout << "YES" << endl;
+}
+
+int main() {
+  ios::sync_with_stdio(false);
+  cin.tie(0);
+  int t;
+  cin >> t;
+  while (t--) {
+    solve();
+  }
+  return 0;
+}
