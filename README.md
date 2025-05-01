@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF269B](https://codeforces.com/problemset/problem/269/B) | Find the maximum number of plants that don't need to be moved. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0430/solution/cf269b.md) |
-| 2000 | [CF2073J](https://codeforces.com/problemset/problem/2073/J) | It's about merging to $2$ remaining elements together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0430/solution/cf2073j.md) |
+| 1700 | [CF617D](https://codeforces.com/problemset/problem/617/D) | What are the different cases? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0501/solution/cf617d.md) |
+| 2000 | [CF433D](https://codeforces.com/problemset/problem/433/D) | What data do you need to find the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0501/solution/cf433d.md) |
