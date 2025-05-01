@@ -1,0 +1,66 @@
+import java.io.*;
+import java.util.StringTokenizer;
+
+/**
+ * Refs: <a href="https://codeforces.com/contest/2073/problem/J">J. Gathering Sharks</a>
+ * <p>Author: nhant
+ * <p>2025-05-01 04:12:35 +0800
+ * https://codeforces.com/contest/2073/submission/317882810, 311 ms, 1200 KB
+ **/
+public class J {
+  static IO io;
+  
+  private static void solve() {
+    int n = io.ni();
+    int[] x = new int[n + 1];
+    for (int i = 1; i <= n; i++) {
+      x[io.ni()] = i;
+    }
+    int[][] d = new int[n + 1][n + 1];
+    for (int j = 2; j <= n; j++) {
+      for (int i = j - 1; i >= 1; i--) {
+        d[j][i] = d[j - 1][i] + Math.abs(x[j] - x[i]);
+        for (int k = j - 1; k > i; k--) {
+          d[j][i] = Math.min(d[j][i], d[j][k] + d[k][i]);
+        }
+      }
+    }
+    io.println(d[n][1]);
+  }
+  
+  public static void main(String[] args) {
+    try {
+      io = new IO();
+      solve();
+    } finally {
+      io.close();
+    }
+  }
+  
+  static class IO extends PrintWriter {
+    private BufferedReader r;
+    private StringTokenizer st;
+  
+    public IO() {
+      this(System.in, System.out);
+    }
+  
+    public IO(InputStream i, OutputStream o) {
+      super(o);
+      r = new BufferedReader(new InputStreamReader(i), 1 << 15);
+    }
+    
+    public String next() {
+      try {
+        while (st == null || !st.hasMoreTokens()) st = new StringTokenizer(r.readLine());
+        return st.nextToken();
+      } catch (Exception e) {
+      }
+      return null;
+    }
+  
+    public int ni() {
+      return Integer.parseInt(next());
+    }
+  }
+}
