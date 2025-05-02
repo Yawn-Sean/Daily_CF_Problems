@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF617D](https://codeforces.com/problemset/problem/617/D) | What are the different cases? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0501/solution/cf617d.md) |
-| 2000 | [CF433D](https://codeforces.com/problemset/problem/433/D) | What data do you need to find the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0501/solution/cf433d.md) |
+| 1600 | [CF375B](https://codeforces.com/problemset/problem/375/B) | Iterate over the right bound. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0502/solution/cf375b.md) |
+| 2100 | [CF631D](https://codeforces.com/problemset/problem/631/D) | The middle part should be exactly the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0502/solution/cf631d.md) |
