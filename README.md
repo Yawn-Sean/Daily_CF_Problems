@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF375B](https://codeforces.com/problemset/problem/375/B) | Iterate over the right bound. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0502/solution/cf375b.md) |
-| 2100 | [CF631D](https://codeforces.com/problemset/problem/631/D) | The middle part should be exactly the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0502/solution/cf631d.md) |
+| 1600 | [CF599C](https://codeforces.com/problemset/problem/599/C) | Don't use any kind of data structures. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0503/solution/cf599c.md) |
+| 2400 | [CF679C](https://codeforces.com/problemset/problem/679/C) | Iterate over the position of the square. What should you pre-process? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0503/solution/cf679c.md) |
