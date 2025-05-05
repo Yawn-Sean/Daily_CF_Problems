@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF599C](https://codeforces.com/problemset/problem/599/C) | Don't use any kind of data structures. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0503/solution/cf599c.md) |
-| 2400 | [CF679C](https://codeforces.com/problemset/problem/679/C) | Iterate over the position of the square. What should you pre-process? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0503/solution/cf679c.md) |
+| 1800 | [CF89A](https://codeforces.com/problemset/problem/89/A) | How many diamonds should you move if you take out one of them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0505/solution/cf89a.md) |
+| 1900 | [CF685B](https://codeforces.com/problemset/problem/685/B) | If $v$ is the son of $u$ with the subtree of the largest size, the centroid of the subtree of $u$ is also an ancestor of the centroid of the subtree of $v$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0505/solution/cf685b.md) |
