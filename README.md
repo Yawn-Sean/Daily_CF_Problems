@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF89A](https://codeforces.com/problemset/problem/89/A) | How many diamonds should you move if you take out one of them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0505/solution/cf89a.md) |
-| 1900 | [CF685B](https://codeforces.com/problemset/problem/685/B) | If $v$ is the son of $u$ with the subtree of the largest size, the centroid of the subtree of $u$ is also an ancestor of the centroid of the subtree of $v$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0505/solution/cf685b.md) |
+| 1800 | [CF794C](https://codeforces.com/problemset/problem/794/C) | A greedy approach. But think carefully. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0506/solution/cf794c.md) |
+| 1900 | [CF653C](https://codeforces.com/problemset/problem/653/C) | Note that the sequence is not nice now. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0506/solution/cf653c.md) |
