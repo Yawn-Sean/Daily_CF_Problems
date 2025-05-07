@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF794C](https://codeforces.com/problemset/problem/794/C) | A greedy approach. But think carefully. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0506/solution/cf794c.md) |
-| 1900 | [CF653C](https://codeforces.com/problemset/problem/653/C) | Note that the sequence is not nice now. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0506/solution/cf653c.md) |
+| 1700 | [CF245C](https://codeforces.com/problemset/problem/245/C) | It's a binary tree. Just operate from the leaves. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0507/solution/cf245c.md) |
+| 2000 | [CF82C](https://codeforces.com/problemset/problem/82/C) | It's allowed to solve the problem in $\mathcal{O}(n^2)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0507/solution/cf82c.md) |
