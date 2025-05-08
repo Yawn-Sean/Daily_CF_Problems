@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF245C](https://codeforces.com/problemset/problem/245/C) | It's a binary tree. Just operate from the leaves. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0507/solution/cf245c.md) |
-| 2000 | [CF82C](https://codeforces.com/problemset/problem/82/C) | It's allowed to solve the problem in $\mathcal{O}(n^2)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0507/solution/cf82c.md) |
+| 1700 | [CF605B](https://codeforces.com/problemset/problem/605/B) | If you have a minimum spanning tree of the graph, how can you add an edge to the graph without changing the MST? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0508/solution/cf605b.md) |
+| 2000 | [CF662D](https://codeforces.com/problemset/problem/662/D) | Take notice of the leading zeros. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0508/solution/cf662d.md) |
