@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF605B](https://codeforces.com/problemset/problem/605/B) | If you have a minimum spanning tree of the graph, how can you add an edge to the graph without changing the MST? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0508/solution/cf605b.md) |
-| 2000 | [CF662D](https://codeforces.com/problemset/problem/662/D) | Take notice of the leading zeros. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0508/solution/cf662d.md) |
+| 1600 | [CF877C](https://codeforces.com/problemset/problem/877/C) | Use the first few steps to make sure the tank is in some of the positions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0509/solution/cf877c.md) |
+| 2100 | [CF12E](https://codeforces.com/problemset/problem/12/E) | Find out the rules. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0509/solution/cf12e.md) |
