@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF877C](https://codeforces.com/problemset/problem/877/C) | Use the first few steps to make sure the tank is in some of the positions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0509/solution/cf877c.md) |
-| 2100 | [CF12E](https://codeforces.com/problemset/problem/12/E) | Find out the rules. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0509/solution/cf12e.md) |
+| 1600 | [CF689B](https://codeforces.com/problemset/problem/689/B) | Just another simple shortest-path problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0510/solution/cf689b.md) |
+| 2300 | [CF425C](https://codeforces.com/problemset/problem/425/C) | You can't really operate many number of times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0510/solution/cf425c.md) |

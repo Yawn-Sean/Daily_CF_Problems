@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF954D](https://codeforces.com/problemset/problem/954/D) | How does the length of shortest path change when you add an edge? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf954d.md) |
+| 1600 | [CF689B](https://codeforces.com/problemset/problem/689/B) | Just another simple shortest-path problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0510/solution/cf689b.md) |
 | 1700 | [CF1204C](https://codeforces.com/problemset/problem/1204/C) | How can you check if a vertex $x$ is on the path from $u$ to $v$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1113/solution/cf1204c.md) |
 | 1700 | [CF769C](https://codeforces.com/problemset/problem/769/C) | For the first few steps, you can use greedy approach, but you should guarantee that you can come back. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0101/solution/cf769c.md) |
 | 1700 | [CF1320B](https://codeforces.com/problemset/problem/1320/B) | You should calculate the distance to the destination. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0226/solution/cf1320b.md) |
