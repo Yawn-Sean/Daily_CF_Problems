@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF768C](https://codeforces.com/problemset/problem/768/C) | Note that the value range is small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0512/solution/cf768c.md) |
-| 1900 | [CF552D](https://codeforces.com/problemset/problem/552/D) | Calculate all tri-ples and remove those wrong ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0512/solution/cf552d.md) |
+| 1800 | [CF768C](https://codeforces.com/problemset/problem/768/C) | Note that the value range is small. It's good for ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0512/solution/cf768c.md) |
+| 1900 | [CF552D](https://codeforces.com/problemset/problem/552/D) | Calculate all tri-ples, and remove those wrong ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0512/solution/cf552d.md) |
