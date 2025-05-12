@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF689B](https://codeforces.com/problemset/problem/689/B) | Just another simple shortest-path problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0510/solution/cf689b.md) |
-| 2300 | [CF425C](https://codeforces.com/problemset/problem/425/C) | You can't really operate many number of times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0510/solution/cf425c.md) |
+| 1800 | [CF768C](https://codeforces.com/problemset/problem/768/C) | Note that the value range is small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0512/solution/cf768c.md) |
+| 1900 | [CF552D](https://codeforces.com/problemset/problem/552/D) | Calculate all tri-ples and remove those wrong ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0512/solution/cf552d.md) |
