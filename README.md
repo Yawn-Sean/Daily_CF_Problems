@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF67B](https://codeforces.com/problemset/problem/67/B) | Add numbers from large to small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0513/solution/cf67b.md) |
-| 1900 | [CF208C](https://codeforces.com/problemset/problem/208/C) | The number of safe roads is not large, so you can consider different cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0513/solution/cf208c.md) |
+| 1700 | [CF294B](https://codeforces.com/problemset/problem/294/B) | If you know the total widths of the vertical books, you can tell the total widths of the horizontal ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0514/solution/cf294b.md) | 
+| 2000 | [CF1970E2](https://codeforces.com/problemset/problem/1970/E2) | It's an easy DP transition. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0514/solution/cf1970e2.md) |
