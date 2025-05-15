@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF294B](https://codeforces.com/problemset/problem/294/B) | If you know the total widths of the vertical books, you can tell the total widths of the horizontal ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0514/solution/cf294b.md) | 
-| 2000 | [CF1970E2](https://codeforces.com/problemset/problem/1970/E2) | It's an easy DP transition. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0514/solution/cf1970e2.md) |
+| 1700 | [CF327C](https://codeforces.com/problemset/problem/327/C) | Iterate over the possible positions of the last digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0515/solution/cf327c.md) |
+| 2000 | [CF109D](https://codeforces.com/problemset/problem/109/D) | Consider different cases. You only need one lucky number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0515/solution/cf109d.md) |
