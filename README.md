@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF327C](https://codeforces.com/problemset/problem/327/C) | Iterate over the possible positions of the last digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0515/solution/cf327c.md) |
-| 2000 | [CF109D](https://codeforces.com/problemset/problem/109/D) | Consider different cases. You only need one lucky number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0515/solution/cf109d.md) |
+| 1600 | [CF780C](https://codeforces.com/problemset/problem/780/C) | When you do a DFS, just fill the uncolored vertex with the smallest number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0516/solution/cf780c.md) |
+| 2100 | [CF309B](https://codeforces.com/problemset/problem/309/B) | If you know the start of one line, its end is already determined. It is the same for the other lines. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0516/solution/cf309b.md) |
