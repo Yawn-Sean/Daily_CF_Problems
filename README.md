@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF780C](https://codeforces.com/problemset/problem/780/C) | When you do a DFS, just fill the uncolored vertex with the smallest number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0516/solution/cf780c.md) |
-| 2100 | [CF309B](https://codeforces.com/problemset/problem/309/B) | If you know the start of one line, its end is already determined. It is the same for the other lines. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0516/solution/cf309b.md) |
+| 1600 | [CF932C](https://codeforces.com/problemset/problem/932/C) | Cycles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0517/solution/cf932c.md) |
+| 2200 | [CF1970E3](https://codeforces.com/problemset/problem/1970/E3) | Find the appropriate definition of status such that the number of them is small enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0517/solution/cf1970e3.md) |
