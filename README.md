@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF932C](https://codeforces.com/problemset/problem/932/C) | Cycles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0517/solution/cf932c.md) |
-| 2200 | [CF1970E3](https://codeforces.com/problemset/problem/1970/E3) | Find the appropriate definition of status such that the number of them is small enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0517/solution/cf1970e3.md) |
+| 1800 | [CF1915G](https://codeforces.com/problemset/problem/1915/G) | Classic shortest path problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0519/solution/cf1915g.md) |
+| 1900 | [CF232B](https://codeforces.com/problemset/problem/232/B) | Connection between the $i$ -th column and the $i+n$ -th column. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0519/solution/cf232b.md) |
