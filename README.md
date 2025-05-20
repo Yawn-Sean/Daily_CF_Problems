@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1915G](https://codeforces.com/problemset/problem/1915/G) | Classic shortest path problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0519/solution/cf1915g.md) |
-| 1900 | [CF232B](https://codeforces.com/problemset/problem/232/B) | Connection between the $i$ -th column and the $i+n$ -th column. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0519/solution/cf232b.md) |
+| 1800 | [CF141C](https://codeforces.com/problemset/problem/141/C) | Consider an order to construct. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0520/solution/cf141c.md) |
+| 1900 | [CF261B](https://codeforces.com/problemset/problem/261/B) | Consider the guest that breaks the limit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0520/solution/cf261b.md) |
