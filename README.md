@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF141C](https://codeforces.com/problemset/problem/141/C) | Consider an order to construct. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0520/solution/cf141c.md) |
-| 1900 | [CF261B](https://codeforces.com/problemset/problem/261/B) | Consider the guest that breaks the limit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0520/solution/cf261b.md) |
+| 1700 | [CF275B](https://codeforces.com/problemset/problem/275/B) | Find a way to check the lines. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0521/solution/cf275b.md) |
+| 2000 | [CF1080D](https://codeforces.com/problemset/problem/1080/D) | Find the minimum or the maximum number of times you can cut when you go through a path made of squares of $2^x\times 2^x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0521/solution/cf1080d.md) |
