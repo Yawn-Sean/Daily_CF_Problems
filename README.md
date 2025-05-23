@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF685A](https://codeforces.com/problemset/problem/685/A) | There aren't many kinds of possible numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0522/solution/cf685a.md) |
-| 2000 | [CF633D](https://codeforces.com/problemset/problem/633/D) | It's not even that possible to have a long prefix that satisfies the condition. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0522/solution/cf633d.md) |
+| 1600 | [CF818B](https://codeforces.com/problemset/problem/818/B) | What are the contradictions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0523/solution/cf818b.md) |
+| 2100 | [CF306C](https://codeforces.com/problemset/problem/306/C) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0523/solution/cf306c.md) |
