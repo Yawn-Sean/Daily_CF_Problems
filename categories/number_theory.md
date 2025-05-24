@@ -61,3 +61,4 @@
 | 2100 | [CF1510D](https://codeforces.com/problemset/problem/1510/D) | The numbers not chosen are limited. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0221/solution/cf1510d.md) |
 | 2200 | [CF852F](https://codeforces.com/problemset/problem/852/F) | Use Logarithm. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0511/solution/cf852f.md) |
 | 2200 | [CF538F](https://codeforces.com/problemset/problem/538/F) | For each $k$, how many conditions should you check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf538f.md) |
+| 2400 | [CF582C](https://codeforces.com/problemset/problem/582/C) | If $s$ is fixed, what should $l$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0524/solution/cf582c.md) |

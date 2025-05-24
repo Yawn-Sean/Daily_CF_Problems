@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF818B](https://codeforces.com/problemset/problem/818/B) | What are the contradictions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0523/solution/cf818b.md) |
-| 2100 | [CF306C](https://codeforces.com/problemset/problem/306/C) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0523/solution/cf306c.md) |
+| 1600 | [CF373B](https://codeforces.com/problemset/problem/373/B) | Numbers comes in intervals. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0524/solution/cf373b.md) |
+| 2400 | [CF582C](https://codeforces.com/problemset/problem/582/C) | If $s$ is fixed, what should $l$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0524/solution/cf582c.md) |
