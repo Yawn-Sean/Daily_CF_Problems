@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF373B](https://codeforces.com/problemset/problem/373/B) | Numbers comes in intervals. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0524/solution/cf373b.md) |
-| 2400 | [CF582C](https://codeforces.com/problemset/problem/582/C) | If $s$ is fixed, what should $l$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0524/solution/cf582c.md) |
+| 1800 | [CF38E](https://codeforces.com/problemset/problem/38/E) | If you know the pins that are stuck, you can find out the answer of that situation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0526/solution/cf38e.md) |
+| 1900 | [CF109B](https://codeforces.com/problemset/problem/109/B) | There are not a lot of lucky numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0526/solution/cf109b.md) |
