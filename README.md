@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF38E](https://codeforces.com/problemset/problem/38/E) | If you know the pins that are stuck, you can find out the answer of that situation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0526/solution/cf38e.md) |
-| 1900 | [CF109B](https://codeforces.com/problemset/problem/109/B) | There are not a lot of lucky numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0526/solution/cf109b.md) |
+| 1800 | [CF73C](https://codeforces.com/problemset/problem/73/C) | When you arrived at the $i$ -th character, what matters? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0527/solution/cf73c.md) |
+| 1900 | [CF195D](https://codeforces.com/problemset/problem/195/D) | What are the turning points? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0527/solution/cf195d.md) |
