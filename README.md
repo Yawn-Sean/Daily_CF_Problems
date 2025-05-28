@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF73C](https://codeforces.com/problemset/problem/73/C) | When you arrived at the $i$ -th character, what matters? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0527/solution/cf73c.md) |
-| 1900 | [CF195D](https://codeforces.com/problemset/problem/195/D) | What are the turning points? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0527/solution/cf195d.md) |
+| 1700 | [CF216D](https://codeforces.com/problemset/problem/216/D) | Count the numbers in an array that are in the interval. It's simple. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0528/solution/cf216d.md) |
+| 2000 | [CF1185E](https://codeforces.com/problemset/problem/1185/E) | Find the solution and check if it is right. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0528/solution/cf1185e.md) | 
