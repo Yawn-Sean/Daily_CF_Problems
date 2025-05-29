@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF216D](https://codeforces.com/problemset/problem/216/D) | Count the numbers in an array that are in the interval. It's simple. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0528/solution/cf216d.md) |
-| 2000 | [CF1185E](https://codeforces.com/problemset/problem/1185/E) | Find the solution and check if it is right. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0528/solution/cf1185e.md) | 
+| 1700 | [CF747E](https://codeforces.com/problemset/problem/747/E) | It is just about a special way to show a graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0529/solution/cf747e.md) |
+| 2000 | [CF253D](https://codeforces.com/problemset/problem/253/D) | If you fix the left and right bounds of the rectangle... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0529/solution/cf253d.md) |
