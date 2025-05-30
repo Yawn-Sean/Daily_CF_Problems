@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF747E](https://codeforces.com/problemset/problem/747/E) | It is just about a special way to show a graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0529/solution/cf747e.md) |
-| 2000 | [CF253D](https://codeforces.com/problemset/problem/253/D) | If you fix the left and right bounds of the rectangle... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0529/solution/cf253d.md) |
+| 1600 | [CF440B](https://codeforces.com/problemset/problem/440/B) | How many moves need to make for each neighboring boxes? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0530/solution/cf440b.md) |
+| 2100 | [CF60C](https://codeforces.com/problemset/problem/60/C) | If you know the answer for one vertex, its connected component is already fixed. Why? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0530/solution/cf60c.md) |
