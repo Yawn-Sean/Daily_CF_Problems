@@ -9,7 +9,7 @@ def solve():
         pos.append([x,y])
         y_max=max(y_max,y)
         y_min=min(y_min,y)
-    graph=[[' ']*pos[-1][0] for i in range(y_max-y_min+1)]
+    graph=[[' ']*pos[-1][0] for i in range(y_max-y_min)]
     X,Y=-1,y_max
     for i in range(n):
         x,y=pos[i]
@@ -26,6 +26,6 @@ def solve():
             Y-=1
         else:
             Y+=1
-    for i in range(y_max-y_min+1):
+    for i in range(y_max-y_min):
         print(''.join(graph[i]))
     return
