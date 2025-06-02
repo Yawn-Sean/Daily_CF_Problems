@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF435C](https://codeforces.com/problemset/problem/435/C) | Yet another implementation problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0531/solution/cf435c.md) |
-| 2400 | [CF990F](https://codeforces.com/problemset/problem/990/F) | Consider each connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0531/solution/cf990f.md) |
+| 1800 | [CF65A](https://codeforces.com/problemset/problem/65/A) | Cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0602/solution/cf65a.md) |
+| 1900 | [CF529B](https://codeforces.com/problemset/problem/529/B) | Fix the final height, how should you find the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0602/solution/cf529b.md) |
