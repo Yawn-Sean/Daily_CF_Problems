@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF65A](https://codeforces.com/problemset/problem/65/A) | Cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0602/solution/cf65a.md) |
-| 1900 | [CF529B](https://codeforces.com/problemset/problem/529/B) | Fix the final height, how should you find the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0602/solution/cf529b.md) |
+| 1800 | [CF140C](https://codeforces.com/problemset/problem/140/C) | Greedy and constructive. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0603/solution/cf140c.md) |
+| 1900 | [CF222D](https://codeforces.com/problemset/problem/222/D) | It's actually about counting the maximum number of students whose scores exceed $x$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0603/solution/cf222d.md) |
