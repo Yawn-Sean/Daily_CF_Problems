@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF140C](https://codeforces.com/problemset/problem/140/C) | Greedy and constructive. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0603/solution/cf140c.md) |
-| 1900 | [CF222D](https://codeforces.com/problemset/problem/222/D) | It's actually about counting the maximum number of students whose scores exceed $x$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0603/solution/cf222d.md) |
+| 1700 | [CF1210A](https://codeforces.com/problemset/problem/1210/A) | $n$ is quite small, so ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0604/solution/cf1210a.md) |
+| 2000 | [CF39E](https://codeforces.com/problemset/problem/39/E) | What's the count of methods? What's the DP for games? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0604/solution/cf39e.md) |
