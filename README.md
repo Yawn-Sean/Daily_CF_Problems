@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1210A](https://codeforces.com/problemset/problem/1210/A) | $n$ is quite small, so ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0604/solution/cf1210a.md) |
-| 2000 | [CF39E](https://codeforces.com/problemset/problem/39/E) | What's the count of methods? What's the DP for games? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0604/solution/cf39e.md) |
+| 1700 | [CF815A](https://codeforces.com/problemset/problem/815/A) | Once you check the conditions, you just need to take the first row and the first column. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0605/solution/cf815a.md) |
+| 2100 | [CF266C](https://codeforces.com/problemset/problem/266/C) | Turn the problem into a $(n-1)\times(n-1)$ one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0605/solution/cf266c.md) |
