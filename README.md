@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1036B](https://codeforces.com/problemset/problem/1036/B) | Find the minimum number of steps first. How many of them can be diagonal? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0222/solution/cf1036b.md) |
-| 2200 | [CF1227E](https://codeforces.com/problemset/problem/1227/E) | Each burned tree turned into a square. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0222/solution/cf1227e.md) |
+| 1700 | [CF815A](https://codeforces.com/problemset/problem/815/A) | Once you check the conditions, you just need to take the first row and the first column. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0605/solution/cf815a.md) |
+| 2100 | [CF266C](https://codeforces.com/problemset/problem/266/C) | Turn the problem into a $(n-1)\times(n-1)$ one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0605/solution/cf266c.md) |
