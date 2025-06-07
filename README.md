@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF906A](https://codeforces.com/problemset/problem/906/A) | What are the conditions that you can decide the final answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0606/solution/cf906a.md) |
-| 2100 | [CF217B](https://codeforces.com/problemset/problem/217/B) | If we know the other number, the computing series is defined. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0606/solution/cf217b.md) |
+| 1600 | [CF1041C](https://codeforces.com/problemset/problem/1041/C) | If the number of days is fixed, you can distribute the coffee breaks optimally. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0607/solution/cf1041c.md) |
+| 2400 | [CF639D](https://codeforces.com/problemset/problem/639/D) | Iterate over ... The cost is composed of two parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0607/solution/cf639d.md) |
