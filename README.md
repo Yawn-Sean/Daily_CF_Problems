@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1041C](https://codeforces.com/problemset/problem/1041/C) | If the number of days is fixed, you can distribute the coffee breaks optimally. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0607/solution/cf1041c.md) |
-| 2400 | [CF639D](https://codeforces.com/problemset/problem/639/D) | Iterate over ... The cost is composed of two parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0607/solution/cf639d.md) |
+| 1800 | [CF1041C](https://codeforces.com/problemset/problem/79/C) | Find each occurence of boring strings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0609/solution/cf79c.md) |
+| 1900 | [CF534D](https://codeforces.com/problemset/problem/534/D) | Find the best number that can appear next. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0609/solution/cf534d.md) |
