@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF439C](https://codeforces.com/problemset/problem/439/C) | Enough odd numbers and enough partitions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0305/solution/cf439c.md) |
-| 2000 | [CF187C](https://codeforces.com/problemset/problem/187/C) | If you got a value $q$ , how can you get the connected component where any two vertices can reach each other? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0305/solution/cf187c.md) |
+| 1800 | [CF1041C](https://codeforces.com/problemset/problem/79/C) | Find each occurence of boring strings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0609/solution/cf79c.md) |
+| 1900 | [CF534D](https://codeforces.com/problemset/problem/534/D) | Find the best number that can appear next. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0609/solution/cf534d.md) |
