@@ -1,0 +1,62 @@
+import sys
+from heapq import heappop, heappush
+
+input = lambda: sys.stdin.readline().rstrip()
+I = lambda: int(input())
+
+
+
+class ListNode:
+
+    def __init__(self, val=None, idx=None):
+        self.val = val
+        self.idx = idx
+        self.pre = None
+        self.nex = None
+
+
+tcn = 1
+for _tcn_ in range(tcn):
+    n = I()
+    s = input()
+    cur = ListNode(26)
+    dummy = cur
+    h = []
+    vis = [0] * n
+    for i, c in enumerate(s):
+        x = ord(c) - ord('a')
+        node = ListNode(x, i)
+        cur.nex = node
+        node.pre = cur
+        cur = node
+
+    node = ListNode(26)
+    cur.nex = node
+    node.pre = cur
+
+    cur = dummy.nex
+    for i in range(n):
+        if cur.pre.val == cur.val - 1 or cur.nex.val == cur.val - 1:
+            heappush(h, (-cur.val, cur.idx, cur))
+            vis[i] = 1
+        cur = cur.nex
+
+    ans = 0
+    while h:
+        c, _, node = heappop(h)
+        if node.pre.val == node.val - 1 or node.nex.val == node.val - 1:
+            node.pre.nex = node.nex
+            node.nex.pre = node.pre
+            cur = node.pre
+            if cur.idx is not None and vis[cur.idx] == 0:
+                if cur.pre.val == cur.val - 1 or cur.nex.val == cur.val - 1:
+                    heappush(h, (-cur.val, cur.idx, cur))
+                    vis[cur.idx] = 1
+            cur = node.nex
+            if cur.idx is not None and vis[cur.idx] == 0:
+                if cur.pre.val == cur.val - 1 or cur.nex.val == cur.val - 1:
+                    heappush(h, (-cur.val, cur.idx, cur))
+                    vis[cur.idx] = 1
+
+            ans += 1
+    print(ans)

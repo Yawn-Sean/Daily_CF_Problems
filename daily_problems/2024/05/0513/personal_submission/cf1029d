@@ -1,0 +1,54 @@
+#include<bits/stdc++.h>
+using namespace std;
+const int N=2e5+10;
+typedef long long LL;
+struct custom_hash {
+	static uint64_t splitmix64(uint64_t x) {
+		x ^= x << 13;
+		x ^= x >> 7;
+		x ^= x << 17;
+		return x; 
+	}
+	size_t operator () (uint64_t x) const {
+		static const uint64_t FIXED_RANDOM = chrono::steady_clock::now().time_since_epoch().count(); // 时间戳
+		return splitmix64(x + FIXED_RANDOM);
+	}
+};
+unordered_map<uint64_t, int, custom_hash>mp[11];
+//unordered_map<LL,int>mp[11];
+LL a[N];
+
+LL mu[11]={1,10,100,1000,10000,100000,1000000,10000000,100000000,1000000000,10000000000};
+
+void solve(){
+	int n,k;cin>>n>>k;
+	for(int i=1;i<=n;i++){
+		cin>>a[i];
+		for(int j=0;j<=10;j++){
+			LL x=(LL)((a[i]%k)*(mu[j]%k))%k;
+			//cout<<x<<" ";
+			mp[j][x]++;
+			//cout<<mp[j][x]<<"\n";
+		}
+		//cout<<"\n";
+	}
+	LL ans=0;
+	for(int i=1;i<=n;i++){
+		int x=(int)log10(a[i])+1;
+		//cout<<(k-a[i])%k<<"\n";
+		ans+=mp[x][(k-a[i]%k)%k];
+		//cout<<ans<<"\n";
+		if((((a[i]%k)*(mu[x])%k)+a[i]%k)%k==0)//减去自己
+			ans--;
+	}
+	cout<<ans<<"\n";
+
+
+}
+
+signed main(){
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+	solve();
+	return 0;
+}

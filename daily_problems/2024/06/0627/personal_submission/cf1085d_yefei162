@@ -1,0 +1,18 @@
+import sys
+
+input = lambda: sys.stdin.readline().rstrip()
+sys.stdin = open('../input.txt', 'r')
+I = lambda: int(input())
+MI = lambda: map(int, input().split())
+
+tcn = 1
+for _tcn_ in range(tcn):
+    n, s = MI()
+    deg = [0] * n
+    for i in range(n-1):
+        u, v = GMI()
+        deg[u] += 1
+        deg[v] += 1
+    c = deg.count(1)
+    ans = s / c * 2
+    print(ans)
