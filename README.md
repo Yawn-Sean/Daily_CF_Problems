@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF251B](https://codeforces.com/problemset/problem/251/B) | It's about approaching the goal and pacing back and forth. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0610/solution/cf251b.md) |
-| 1900 | [CF2044F](https://codeforces.com/problemset/problem/2044/F) | Use a formula to represent the sum. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0610/solution/cf2044f.md) |
+| 1700 | [CF303B](https://codeforces.com/problemset/problem/303/B) | Find the largest rectangle and move it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0611/solution/cf303b.md) |
+| 2100 | [CF228D](https://codeforces.com/problemset/problem/228/D) | $z$ isn't large, so you may categorize the queries and find answer for each query. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0611/solution/cf228d.md) |
