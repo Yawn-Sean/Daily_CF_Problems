@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF303B](https://codeforces.com/problemset/problem/303/B) | Find the largest rectangle and move it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0611/solution/cf303b.md) |
-| 2100 | [CF228D](https://codeforces.com/problemset/problem/228/D) | $z$ isn't large, so you may categorize the queries and find answer for each query. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0611/solution/cf228d.md) |
+| 1700 | [CF1453C](https://codeforces.com/problemset/problem/1453/C) | For each $2$ vertices, which vertex should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0612/solution/cf1453c.md) |
+| 2000 | [CF2057D](https://codeforces.com/problemset/problem/2057/D) | In the subarray, the maximum and minimum value should be at the border. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0612/solution/cf2057d.md) |
