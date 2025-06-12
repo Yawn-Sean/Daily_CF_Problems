@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1453C](https://codeforces.com/problemset/problem/1453/C) | For each $2$ vertices, which vertex should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0612/solution/cf1453c.md) |
-| 2000 | [CF2057D](https://codeforces.com/problemset/problem/2057/D) | In the subarray, the maximum and minimum value should be at the border. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0612/solution/cf2057d.md) |
+| 1600 | [CF958E1](https://codeforces.com/problemset/problem/958/E1) | Actually a constructive problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0613/solution/cf958e1.md) |
+| 2200 | [CF274D](https://codeforces.com/problemset/problem/274/D) | Consider a graph to represent the relation of $a\lt b$ or $b\lt a$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0613/solution/cf274d.md) |
