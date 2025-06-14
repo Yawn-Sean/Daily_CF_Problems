@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF958E1](https://codeforces.com/problemset/problem/958/E1) | Actually a constructive problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0613/solution/cf958e1.md) |
-| 2200 | [CF274D](https://codeforces.com/problemset/problem/274/D) | Consider a graph to represent the relation of $a\lt b$ or $b\lt a$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0613/solution/cf274d.md) |
+| 1600 | [CF1006E](https://codeforces.com/problemset/problem/1006/E) | It's about DFS-order in a subtree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0614/solution/cf1006e.md) |
+| 2400 | [CF297C](https://codeforces.com/problemset/problem/297/C) | Divide the array into $3$ parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0614/solution/cf297c.md) |
