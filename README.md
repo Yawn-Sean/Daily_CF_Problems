@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1006E](https://codeforces.com/problemset/problem/1006/E) | It's about DFS-order in a subtree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0614/solution/cf1006e.md) |
-| 2400 | [CF297C](https://codeforces.com/problemset/problem/297/C) | Divide the array into $3$ parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0614/solution/cf297c.md) |
+| 1800 | [CF254C](https://codeforces.com/problemset/problem/254/C) | Two conditions: Switch to a smaller character / You have to switch one position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0616/solution/cf254c.md) |
+| 1900 | [CF1949C](https://codeforces.com/problemset/problem/1949/C) | Once a vertex becomes zero... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0616/solution/cf1949c.md) |
