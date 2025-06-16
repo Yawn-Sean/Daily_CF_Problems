@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF254C](https://codeforces.com/problemset/problem/254/C) | Two conditions: Switch to a smaller character / You have to switch one position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0616/solution/cf254c.md) |
-| 1900 | [CF1949C](https://codeforces.com/problemset/problem/1949/C) | Once a vertex becomes zero... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0616/solution/cf1949c.md) |
+| 1800 | [CF2014E](https://codeforces.com/problemset/problem/2014/E) | If you iterate over the position to meet, what should you find out? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0617/solution/cf2014e.md) |
+| 1900 | [CF138B](https://codeforces.com/problemset/problem/138/B) | Start from the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0617/solution/cf138b.md) | 
