@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF2014E](https://codeforces.com/problemset/problem/2014/E) | If you iterate over the position to meet, what should you find out? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0617/solution/cf2014e.md) |
-| 1900 | [CF138B](https://codeforces.com/problemset/problem/138/B) | Start from the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0617/solution/cf138b.md) | 
+| 1700 | [CF1889B](https://codeforces.com/problemset/problem/1889/B) | For each edge you add, you should choose the vertices with the smallest indexes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0618/solution/cf1889b.md) |
+| 2100 | [CF2044H](https://codeforces.com/problemset/problem/2044/H) | Linear combination. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0618/solution/cf2044h.md) |
