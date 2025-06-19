@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1889B](https://codeforces.com/problemset/problem/1889/B) | For each edge you add, you should choose the vertices with the smallest indexes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0618/solution/cf1889b.md) |
-| 2100 | [CF2044H](https://codeforces.com/problemset/problem/2044/H) | Linear combination. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0618/solution/cf2044h.md) |
+| 1700 | [CF321A](https://codeforces.com/problemset/problem/321/A) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0619/solution/cf321a.md) |
+| 2200 | [CF575B](https://codeforces.com/problemset/problem/575/B) | For each edge, what is its weight? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0619/solution/cf575b.md) |
