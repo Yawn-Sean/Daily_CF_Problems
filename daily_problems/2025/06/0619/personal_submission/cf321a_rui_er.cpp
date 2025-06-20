@@ -21,6 +21,24 @@ int main() {
         auto [dx, dy] = mp[c];
         mx += dx;
         my += dy;
+        if(mx == tx && my == ty) {
+            cout << "Yes" << endl;
+            return 0;
+        }
+    }
+    if(!mx && !my) {
+        int rx = 0, ry = 0;
+        for(char c: s) {
+            auto [dx, dy] = mp[c];
+            rx += dx;
+            ry += dy;
+            if(tx == rx && ty == ry) {
+                cout << "Yes" << endl;
+                return 0;
+            }
+        }
+        cout << "No" << endl;
+        return 0;
     }
     if(!mx) {
         int rx = 0, ry = 0;
