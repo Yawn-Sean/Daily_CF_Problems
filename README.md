@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF321A](https://codeforces.com/problemset/problem/321/A) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0619/solution/cf321a.md) |
-| 2200 | [CF575B](https://codeforces.com/problemset/problem/575/B) | For each edge, what is its weight? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0619/solution/cf575b.md) |
+| 1600 | [CF898E](https://codeforces.com/problemset/problem/898/E) | What do you need to change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0620/solution/cf898e.md) |
+| 2200 | [CF183C](https://codeforces.com/problemset/problem/183/C) | If the color of one vertex is fixed, what about the other vertices? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0620/solution/cf183c.md) |
