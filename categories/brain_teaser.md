@@ -113,3 +113,4 @@
 | 2200 | [CF593C](https://codeforces.com/problemset/problem/593/C) | A formula for each circle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0426/solution/cf593c.md) |
 | 2300 | [CF1065E](https://codeforces.com/problemset/problem/1065/E) | Check the string and the reversed string. What happens in a operation? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0914/solution/cf1065e.md) |
 | 2400 | [CF297C](https://codeforces.com/problemset/problem/297/C) | Divide the array into $3$ parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0614/solution/cf297c.md) |
+| 2400 | [CF790A3](https://codeforces.com/problemset/problem/690/A3) | The $n$ players should cover all kinds of possibilities. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0621/solution/cf690a3.md) |

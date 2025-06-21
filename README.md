@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF898E](https://codeforces.com/problemset/problem/898/E) | What do you need to change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0620/solution/cf898e.md) |
-| 2200 | [CF183C](https://codeforces.com/problemset/problem/183/C) | If the color of one vertex is fixed, what about the other vertices? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0620/solution/cf183c.md) |
+| 1600 | [CF618C](https://codeforces.com/problemset/problem/618/C) | Find a triangle that is guaranteed to have no points inside. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0621/solution/cf618c.md) |
+| 2400 | [CF790A3](https://codeforces.com/problemset/problem/690/A3) | The $n$ players should cover all kinds of possibilities. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0621/solution/cf690a3.md) |
