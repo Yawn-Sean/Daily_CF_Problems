@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF618C](https://codeforces.com/problemset/problem/618/C) | Find a triangle that is guaranteed to have no points inside. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0621/solution/cf618c.md) |
-| 2400 | [CF790A3](https://codeforces.com/problemset/problem/690/A3) | The $n$ players should cover all kinds of possibilities. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0621/solution/cf690a3.md) |
+| 1800 | [CF132C](https://codeforces.com/problemset/problem/132/C) | Classic DP. What is the status? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0623/solution/cf132c.md) |
+| 1900 | [CF1887B](https://codeforces.com/problemset/problem/1887/B) | If you arrive at $u$ and you want to take the road $(u,v)$ , you can find the earliest time to go. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0623/solution/cf1887b.md) |
