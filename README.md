@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF132C](https://codeforces.com/problemset/problem/132/C) | Classic DP. What is the status? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0623/solution/cf132c.md) |
-| 1900 | [CF1887B](https://codeforces.com/problemset/problem/1887/B) | If you arrive at $u$ and you want to take the road $(u,v)$ , you can find the earliest time to go. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0623/solution/cf1887b.md) |
+| 1800 | [CF58C](https://codeforces.com/problemset/problem/58/C) | Each number represents a distinctive array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0624/solution/cf58c.md) |
+| 1900 | [CF1945F](https://codeforces.com/problemset/problem/1945/F) | Greedy thing. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0624/solution/cf1945f.md) |
