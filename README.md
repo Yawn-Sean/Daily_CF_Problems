@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF58C](https://codeforces.com/problemset/problem/58/C) | Each number represents a distinctive array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0624/solution/cf58c.md) |
-| 1900 | [CF1945F](https://codeforces.com/problemset/problem/1945/F) | Greedy thing. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0624/solution/cf1945f.md) |
+| 1700 | [CF917B](https://codeforces.com/problemset/problem/917/B) | Classic games DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0625/solution/cf917b.md) |
+| 2100 | [CF1098B](https://codeforces.com/problemset/problem/1098/B) | There are only a few configurations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0625/solution/cf1098b.md) |
