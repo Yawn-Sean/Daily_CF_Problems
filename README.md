@@ -25,4 +25,4 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
 | 1700 | [CF1089E](https://codeforces.com/problemset/problem/1089/E) | Find a way to implement this more easily. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0626/solution/cf1089e.md) |
-| 2100 | [CF254E](https://codeforces.com/problemset/problem/254/E) | Saved food doesn't last long. So it's an efficient status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0626/solution/cf260d.md) |
+| 2100 | [CF260D](https://codeforces.com/problemset/problem/260/D) | Make connections between the vertices with different colors. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0626/solution/cf260d.md) |
