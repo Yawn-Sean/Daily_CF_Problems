@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1089E](https://codeforces.com/problemset/problem/1089/E) | Find a way to implement this more easily. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0626/solution/cf1089e.md) |
-| 2100 | [CF260D](https://codeforces.com/problemset/problem/260/D) | Make connections between the vertices with different colors. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0626/solution/cf260d.md) |
+| 1600 | [CF1255C](https://codeforces.com/problemset/problem/1255/C) | If you find a sequence of length $2$ in the final cycle, you can always decide what's next. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0627/solution/cf1255c.md) |
+| 2200 | [CF286B](https://codeforces.com/problemset/problem/286/B) | Moving - it's not that many moves to make. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0627/solution/cf286b.md) |
