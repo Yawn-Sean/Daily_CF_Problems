@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1255C](https://codeforces.com/problemset/problem/1255/C) | If you find a sequence of length $2$ in the final cycle, you can always decide what's next. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0627/solution/cf1255c.md) |
-| 2200 | [CF286B](https://codeforces.com/problemset/problem/286/B) | Moving - it's not that many moves to make. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0627/solution/cf286b.md) |
+| 1600 | [CF741A](https://codeforces.com/problemset/problem/741/A) | Cycles. What's the answer for each cycle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0628/solution/cf741a.md) |
+| 2400 | [CF283D](https://codeforces.com/problemset/problem/283/D) | What's the condition for the neighboring elements? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0628/solution/cf283d.md) |
