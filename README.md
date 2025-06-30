@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF741A](https://codeforces.com/problemset/problem/741/A) | Cycles. What's the answer for each cycle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0628/solution/cf741a.md) |
-| 2400 | [CF283D](https://codeforces.com/problemset/problem/283/D) | What's the condition for the neighboring elements? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0628/solution/cf283d.md) |
+| 1800 | [CF30C](https://codeforces.com/problemset/problem/30/C) | Classic DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0630/solution/cf30c.md) |
+| 1900 | [CF137D](https://codeforces.com/problemset/problem/137/D) | Pre-process each substrings. Then, classic DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0630/solution/cf137d.md) |
