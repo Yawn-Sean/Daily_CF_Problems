@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF30C](https://codeforces.com/problemset/problem/30/C) | Classic DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0630/solution/cf30c.md) |
-| 1900 | [CF137D](https://codeforces.com/problemset/problem/137/D) | Pre-process each substrings. Then, classic DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0630/solution/cf137d.md) |
+| 1800 | [CF44D](https://codeforces.com/problemset/problem/44/D) | Figure out the answer should be ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0701/solution/cf44d.md) |
+| 1900 | [CF343](https://codeforces.com/problemset/problem/343/C) | The positions to be read should be assigned in an order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0701/solution/cf343c.md) |
