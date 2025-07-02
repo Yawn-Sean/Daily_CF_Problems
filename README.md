@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF44D](https://codeforces.com/problemset/problem/44/D) | Figure out the answer should be ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0701/solution/cf44d.md) |
-| 1900 | [CF343](https://codeforces.com/problemset/problem/343/C) | The positions to be read should be assigned in an order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0701/solution/cf343c.md) |
+| 1700 | [CF1810D](https://codeforces.com/problemset/problem/1810/D) | Use a formula to represent the range of the height. Then check whether the answer is fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0702/solution/cf1810d.md) |
+| 2000 | [CF358C](https://codeforces.com/problemset/problem/358/C) | Rounds consist of operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0702/solution/cf358c.md) |
