@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1810D](https://codeforces.com/problemset/problem/1810/D) | Use a formula to represent the range of the height. Then check whether the answer is fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0702/solution/cf1810d.md) |
-| 2000 | [CF358C](https://codeforces.com/problemset/problem/358/C) | Rounds consist of operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0702/solution/cf358c.md) |
+| 1700 | [CF625A](https://codeforces.com/problemset/problem/625/A) | The cheaper way? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0703/solution/cf625a.md) |
+| 2000 | [CF1510G](https://codeforces.com/problemset/problem/1510/G) | If you need to return to the root, the answer should be ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0703/solution/cf1510g.md) |
