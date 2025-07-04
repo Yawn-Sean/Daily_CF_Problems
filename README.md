@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF625A](https://codeforces.com/problemset/problem/625/A) | The cheaper way? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0703/solution/cf625a.md) |
-| 2000 | [CF1510G](https://codeforces.com/problemset/problem/1510/G) | If you need to return to the root, the answer should be ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0703/solution/cf1510g.md) |
+| 1600 | [CF234G](https://codeforces.com/problemset/problem/234/G) | First, find out the minimum times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0704/solution/cf234g.md) |
+| 2200 | [CF508E](https://codeforces.com/problemset/problem/508/E) | Close the bracket as soon as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0704/solution/cf508e.md) | 
