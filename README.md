@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF234G](https://codeforces.com/problemset/problem/234/G) | First, find out the minimum times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0704/solution/cf234g.md) |
-| 2200 | [CF508E](https://codeforces.com/problemset/problem/508/E) | Close the bracket as soon as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0704/solution/cf508e.md) | 
+| 1600 | [CF1833E](https://codeforces.com/problemset/problem/1833/E) | Graph. But what about the number of cycles? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0705/solution/cf1833e.md) |
+| 2300 | [CF313E](https://codeforces.com/problemset/problem/313/E) | Greedy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0705/solution/cf313e.md) |
