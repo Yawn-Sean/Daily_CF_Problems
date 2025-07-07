@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1833E](https://codeforces.com/problemset/problem/1833/E) | Graph. But what about the number of cycles? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0705/solution/cf1833e.md) |
-| 2300 | [CF313E](https://codeforces.com/problemset/problem/313/E) | Greedy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0705/solution/cf313e.md) |
+| 1800 | [CF49D](https://codeforces.com/problemset/problem/49/D) | Two final states. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0707/solution/cf49d.md) |
+| 1900 | [CF199B](https://codeforces.com/problemset/problem/199/B) | What do you need to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0707/solution/cf199b.md) | 
