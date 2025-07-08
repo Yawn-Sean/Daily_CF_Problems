@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF49D](https://codeforces.com/problemset/problem/49/D) | Two final states. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0707/solution/cf49d.md) |
-| 1900 | [CF199B](https://codeforces.com/problemset/problem/199/B) | What do you need to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0707/solution/cf199b.md) | 
+| 1800 | [CF690D2](https://codeforces.com/problemset/problem/690/D2) | Another counting problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0708/solution/cf690d2.md) |
+| 1900 | [CF746E](https://codeforces.com/problemset/problem/746/E) | Find the numbers that should not be changed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0708/solution/cf746e.md) |
