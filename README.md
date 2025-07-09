@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF690D2](https://codeforces.com/problemset/problem/690/D2) | Another counting problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0708/solution/cf690d2.md) |
-| 1900 | [CF746E](https://codeforces.com/problemset/problem/746/E) | Find the numbers that should not be changed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0708/solution/cf746e.md) |
+| 1700 | [CF260C](https://codeforces.com/problemset/problem/260/C) | Greedy. Choose the one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0709/solution/cf260c.md) |
+| 2100 | [CF859E](https://codeforces.com/problemset/problem/859/E) | Graph. Find the connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0709/solution/cf859e.md) |
