@@ -1,4 +1,4 @@
 | Difficulty | Problems | Hints |
 | -------- | -------- | -------- |
-| 1800 | [CF690D2](https://codeforces.com/problemset/problem/690/D2) | Another counting problem. |
-| 1900 | [CF746E](https://codeforces.com/problemset/problem/746/E) | Find the numbers that should not be changed. |
+| 1700 | [CF260C](https://codeforces.com/problemset/problem/260/C) | Greedily choose the one. |
+| 2100 | [CF859E](https://codeforces.com/problemset/problem/859/E) | Graph. Counting. |
