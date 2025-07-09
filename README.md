@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF260C](https://codeforces.com/problemset/problem/260/C) | Greedy. Choose the one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0709/solution/cf260c.md) |
-| 2100 | [CF859E](https://codeforces.com/problemset/problem/859/E) | Graph. Find the connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0709/solution/cf859e.md) |
+| 1700 | [CF183B](https://codeforces.com/problemset/problem/183/B) | How do the lines coincide? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0710/solution/cf183b.md) |
+| 2100 | [CF35E](https://codeforces.com/problemset/problem/35/E) | It's just about segments. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0710/solution/cf35e.md) |
