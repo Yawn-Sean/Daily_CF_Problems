@@ -12,7 +12,7 @@ void solve(){
         for(int j=i+1;j<m;j++){
             auto [xj,yj]=v[j];
             if(yi==yj)continue;
-            if(xi==xj){
+            if(xi==xj&&xi>0&&xi<=n){
                 int cnt=2;
                 for(int k=j+1;k<m;k++){
                     auto[xk,yk]=v[k];
