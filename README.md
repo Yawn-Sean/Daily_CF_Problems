@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF316B2](https://codeforces.com/problemset/problem/316/B2) | All about chains. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0711/solution/cf316b2.md) |
-| 2200 | [CF86B](https://codeforces.com/problemset/problem/86/B) | Always make the left connected components possible to fill. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0711/solution/cf86b.md) |
+| 1600 | [CF305C](https://codeforces.com/problemset/problem/305/C) | Calculate the current result first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0712/solution/cf305c.md) |
+| 2400 | [CF802L](https://codeforces.com/problemset/problem/802/L) | Find the equations first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0712/solution/cf802l.md) |
