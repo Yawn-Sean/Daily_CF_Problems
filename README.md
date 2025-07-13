@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF305C](https://codeforces.com/problemset/problem/305/C) | Calculate the current result first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0712/solution/cf305c.md) |
-| 2400 | [CF802L](https://codeforces.com/problemset/problem/802/L) | Find the equations first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0712/solution/cf802l.md) |
+| 1800 | [CF45J](https://codeforces.com/problemset/problem/45/J) | If the grid is large enough... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0714/solution/cf45j.md) |
+| 1900 | [CF285D](https://codeforces.com/problemset/problem/285/D) | Fix one permutation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0714/solution/cf285d.md) |
