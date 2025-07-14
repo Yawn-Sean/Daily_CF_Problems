@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF45J](https://codeforces.com/problemset/problem/45/J) | If the grid is large enough... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0714/solution/cf45j.md) |
-| 1900 | [CF285D](https://codeforces.com/problemset/problem/285/D) | Fix one permutation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0714/solution/cf285d.md) |
+| 1800 | [CF2045M](https://codeforces.com/problemset/problem/2045/M) | All about implementation. How can you implement a reflection? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0715/solution/cf2045m.md) |
+| 1900 | [CF1991D](https://codeforces.com/problemset/problem/1991/D) | Primes are almost always odd. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0715/solution/cf1991d.md) |
