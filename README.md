@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF2045M](https://codeforces.com/problemset/problem/2045/M) | All about implementation. How can you implement a reflection? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0715/solution/cf2045m.md) |
-| 1900 | [CF1991D](https://codeforces.com/problemset/problem/1991/D) | Primes are almost always odd. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0715/solution/cf1991d.md) |
+| 1700 | [CF223A](https://codeforces.com/problemset/problem/223/A) | For each $i$ , you can find the longest valid substring ending at it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0716/solution/cf223a.md) |
+| 2000 | [CF2048E](https://codeforces.com/problemset/problem/2048/E) | For each color, what is the maximum number of edges? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0716/solution/cf2048e.md) |
