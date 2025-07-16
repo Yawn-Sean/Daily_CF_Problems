@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF223A](https://codeforces.com/problemset/problem/223/A) | For each $i$ , you can find the longest valid substring ending at it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0716/solution/cf223a.md) |
-| 2000 | [CF2048E](https://codeforces.com/problemset/problem/2048/E) | For each color, what is the maximum number of edges? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0716/solution/cf2048e.md) |
+| 1700 | [CF1931F](https://codeforces.com/problemset/problem/1931/F) | Each screenshot represents an order relationship. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0717/solution/cf1931f.md) |
+| 2200 | [CF2045G](https://codeforces.com/problemset/problem/2045/G) | Cycles. So how can a "shortest path" exist? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0717/solution/cf2045g.md) | 
