@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1931F](https://codeforces.com/problemset/problem/1931/F) | Each screenshot represents an order relationship. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0717/solution/cf1931f.md) |
-| 2200 | [CF2045G](https://codeforces.com/problemset/problem/2045/G) | Cycles. So how can a "shortest path" exist? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0717/solution/cf2045g.md) | 
+| 1600 | [CF681C](https://codeforces.com/problemset/problem/681/C) | You can wait until you do the operation to find what you should do before that. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0718/solution/cf681c.md) |
+| 2200 | [CF2060F](https://codeforces.com/problemset/problem/2060/F) | Find the non-one elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0718/solution/cf2060f.md) | 
