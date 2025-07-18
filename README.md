@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF681C](https://codeforces.com/problemset/problem/681/C) | You can wait until you do the operation to find what you should do before that. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0718/solution/cf681c.md) |
-| 2200 | [CF2060F](https://codeforces.com/problemset/problem/2060/F) | Find the non-one elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0718/solution/cf2060f.md) | 
+| 1600 | [CF493C](https://codeforces.com/problemset/problem/493/C) | Iterate over possible $d$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0719/solution/cf493c.md) |
+| 2300 | [CF111D](https://codeforces.com/problemset/problem/111/D) | Calculate with steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0719/solution/cf111d.md) |
