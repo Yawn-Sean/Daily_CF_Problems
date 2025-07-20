@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF493C](https://codeforces.com/problemset/problem/493/C) | Iterate over possible $d$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0719/solution/cf493c.md) |
-| 2300 | [CF111D](https://codeforces.com/problemset/problem/111/D) | Calculate with steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0719/solution/cf111d.md) |
+| 1800 | [CF1923D](https://codeforces.com/problemset/problem/1923/D) | Each element should be eaten by a segment. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0721/solution/cf1923d.md) |
+| 1900 | [CF103C](https://codeforces.com/problemset/problem/103/C) | Save your bullets for the other player. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0721/solution/cf103c.md) |
