@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF370C](https://codeforces.com/problemset/problem/370/C) | The numbers should be staggered. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0722/solution/cf370c.md) |
-| 1900 | [CF1906E](https://codeforces.com/problemset/problem/1906/E) | Which numbers should be in the same group as $c_1$ ? What's next? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0722/solution/cf1906e.md) |
+| 1700 | [CF1942C2](https://codeforces.com/problemset/problem/1942/C2) | Find a way to fill up the blanks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0723/solution/cf1942c2.md) |
+| 2100 | [CF220C](https://codeforces.com/problemset/problem/220/C) | For each pair such that $a_i=b_j$ , how will the distance between $i,j$ change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0723/solution/cf220c.md) |
