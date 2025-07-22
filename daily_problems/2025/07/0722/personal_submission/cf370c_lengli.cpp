@@ -18,7 +18,7 @@ void solve(){
     int cnt=0;
     for(int i=0;i<n;i++) cnt+=(a[i]!=a[(i+(n/2))%n]);
     std::cout<<cnt<<"\n";
-    for(int i=0;i<n;i++) std::cout<<a[i]<<" "<<a[(i+(n/2))%n]<<"\n";   
+    for(int i=0;i<n;i++) std::cout<<a[i]<<" "<<a[(i+(n/2))%n]<<"\n"; 
 }
 
 signed main(){
