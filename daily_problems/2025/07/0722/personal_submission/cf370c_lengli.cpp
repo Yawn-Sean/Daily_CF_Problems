@@ -9,30 +9,16 @@ Hope there are no bugs!!!
 #define i64 long long
 
 void solve(){
-    i64 n,k;
-    int p;
-    std::cin>>n>>k>>p;
-    
-    auto query=[&](i64 n,i64 k,i64 x){
-        if(x&1){
-            if(k<=n/2) return '.';
-            return (n-(x+1)/2+1<=k ? 'X' : '.');
-        }
-        return ((n-x)/2+1<=k ? 'X' : '.');
+    int n,m;
+    std::cin>>n>>m;
+    std::vector<int> a(n);
+    for(int i=0;i<n;i++) std::cin>>a[i];
+    std::sort(all(a));
 
-    };
-
-    while(p--){
-        i64 x;
-        std::cin>>x;
-        if(n&1){
-            if(x==n){
-                std::cout<<(k ? 'X' : '.');
-            }else{
-                std::cout<<query(n-1,k-1,x);
-            }
-        }else std::cout<<query(n,k,x);
-    }
+    int cnt=0;
+    for(int i=0;i<n;i++) cnt+=(a[i]!=a[(i+(n/2))%n]);
+    std::cout<<cnt<<"\n";
+    for(int i=0;i<n;i++) std::cout<<a[i]<<" "<<a[(i+(n/2))%n]<<"\n"; 
 }
 
 signed main(){
