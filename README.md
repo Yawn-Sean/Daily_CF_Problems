@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1942C2](https://codeforces.com/problemset/problem/1942/C2) | Find a way to fill up the blanks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0723/solution/cf1942c2.md) |
-| 2100 | [CF220C](https://codeforces.com/problemset/problem/220/C) | For each pair such that $a_i=b_j$ , how will the distance between $i,j$ change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0723/solution/cf220c.md) |
+| 1700 | [CF207B3](https://codeforces.com/problemset/problem/207/B3) | Find the position to jump to. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0724/solution/cf207b3.md) |
+| 2100 | [CF847F](https://codeforces.com/problemset/problem/847/F) | Brute force can be used. What conditions do you need to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0724/solution/cf847f.md) |
