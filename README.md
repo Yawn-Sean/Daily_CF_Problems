@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF207B3](https://codeforces.com/problemset/problem/207/B3) | Find the position to jump to. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0724/solution/cf207b3.md) |
-| 2100 | [CF847F](https://codeforces.com/problemset/problem/847/F) | Brute force can be used. What conditions do you need to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0724/solution/cf847f.md) |
+| 1600 | [CF209A](https://codeforces.com/problemset/problem/209/A) | Classic DP. The status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0725/solution/cf209a.md) |
+| 2300 | [CF101D](https://codeforces.com/problemset/problem/101/D) | List the DP. How should you choose the order of sons? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0725/solution/cf101d.md) |
