@@ -22,3 +22,4 @@
 | 2100 | [CF268E](https://codeforces.com/problemset/problem/268/E) | Consider the order of $2$ consecutive songs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1018/solution/cf268e.md) |
 | 2300 | [CF629E](https://codeforces.com/problemset/problem/629/E) | The cycle can be divided into two parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0104/solution/cf629e.md) |
 | 2400 | [CF802L](https://codeforces.com/problemset/problem/802/L) | Find the equations first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0712/solution/cf802l.md) |
+| 2400 | [CF97C](https://codeforces.com/problemset/problem/97/C) | What's the average of $a_i$ in the long term? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0726/solution/cf97c.md) |

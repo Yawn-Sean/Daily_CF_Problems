@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF825C](https://codeforces.com/problemset/problem/825/C) | Choose an order that is appropriate. |
-| 2400 | [CF97C](https://codeforces.com/problemset/problem/97/C) | What's the average of $a_i$ in the long term? |
+| 1600 | [CF825C](https://codeforces.com/problemset/problem/825/C) | Choose an order that is appropriate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0726/solution/cf825c.md) |
+| 2400 | [CF97C](https://codeforces.com/problemset/problem/97/C) | What's the average of $a_i$ in the long term? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0726/solution/cf97c.md) |
