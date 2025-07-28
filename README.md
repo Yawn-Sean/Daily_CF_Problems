@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF370C](https://codeforces.com/problemset/problem/370/C) | The numbers should be staggered. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0722/solution/cf370c.md) |
-| 1900 | [CF1906E](https://codeforces.com/problemset/problem/1906/E) | Which numbers should be in the same group as $c_1$ ? What's next? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0722/solution/cf1906e.md) |
+| 1800 | [CF585A](https://codeforces.com/problemset/problem/585/A) | Reading and comprehension. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0728/solution/cf585a.md) |
+| 1900 | [CF319B](https://codeforces.com/problemset/problem/319/B) | The number of times $nums[i]$ can delete other numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0728/solution/cf319b.md) |
