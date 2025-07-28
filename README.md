@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF585A](https://codeforces.com/problemset/problem/585/A) | Reading and comprehension. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0728/solution/cf585a.md) |
-| 1900 | [CF319B](https://codeforces.com/problemset/problem/319/B) | The number of times $nums[i]$ can delete other numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0728/solution/cf319b.md) |
+| 1800 | [CF420B](https://codeforces.com/problemset/problem/420/B) | Each person has intervals when he is in the meeting room. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0729/solution/cf420b.md) |
+| 1900 | [CF223B](https://codeforces.com/problemset/problem/223/B) | Prefixes and suffixes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0729/solution/cf223b.md) |
