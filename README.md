@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF420B](https://codeforces.com/problemset/problem/420/B) | Each person has intervals when he is in the meeting room. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0729/solution/cf420b.md) |
-| 1900 | [CF223B](https://codeforces.com/problemset/problem/223/B) | Prefixes and suffixes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0729/solution/cf223b.md) |
+| 1700 | [CF471C](https://codeforces.com/problemset/problem/471/C) | How can you check whether height $h$ is achievable? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0730/solution/cf471c.md) |
+| 2000 | [CF786A](https://codeforces.com/problemset/problem/786/A) | Start from the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0730/solution/cf786a.md) |
