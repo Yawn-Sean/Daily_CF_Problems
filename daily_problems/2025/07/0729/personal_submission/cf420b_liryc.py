@@ -60,45 +60,6 @@ def solve(n: int, m: int, ra: list[int]) -> list[int]:
                     first = x
     return [i + 1 for i in range(n) if leader[i]]
 
-def solve_WA(n: int, m: int, ra: list[int]) -> list[int]:
-    leader = [True] * n
-    online = [False] * n
-    cnt = 0
-    first = -1
-    for i, r in enumerate(ra):
-        login, x = True, r
-        if r < 0:
-            login, x = False, ~r
-        if login:
-            if first == -1:
-                first = x
-            else:
-                leader[x] = False
-            online[x] = True
-            cnt += 1
-        else: # logoff
-            if i == m - 1: # the last person to logoff
-                if online[x]:
-                    online[x] = False
-                    cnt -= 1
-                else:
-                    if first >= 0:
-                        leader[first] = False
-                        first = -2
-                if cnt:
-                    leader[x] = False
-            else:
-                leader[x] = False
-                if online[x]:
-                    online[x] = False
-                    cnt -= 1
-                else: # no online record but has a offline record, x must be online at the beginning
-                    if first >= 0:
-                        leader[first] = False
-                        first = -2
-        
-    return [i + 1 for i in range(n) if leader[i]]
-
 if __name__ == '__main__':
     args = init()
     ans = solve(*args)
