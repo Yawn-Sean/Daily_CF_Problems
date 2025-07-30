@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF471C](https://codeforces.com/problemset/problem/471/C) | How can you check whether height $h$ is achievable? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0730/solution/cf471c.md) |
-| 2000 | [CF786A](https://codeforces.com/problemset/problem/786/A) | Start from the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0730/solution/cf786a.md) |
+| 1700 | [CF1015E1](https://codeforces.com/problemset/problem/1015/E1) | Iterate over the center. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0731/solution/cf1015e1.md) |
+| 2000 | [CF18D](https://codeforces.com/problemset/problem/18/D) | DP, but the number is large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0731/solution/cf18d.md) |
