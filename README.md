@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1015E1](https://codeforces.com/problemset/problem/1015/E1) | Iterate over the center. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0731/solution/cf1015e1.md) |
-| 2000 | [CF18D](https://codeforces.com/problemset/problem/18/D) | DP, but the number is large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0731/solution/cf18d.md) |
+| 1700 | [CF163A](https://codeforces.com/problemset/problem/163/A) | DP, what should be the status for counting? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0801/solution/cf163a.md) |
+| 2000 | [CF75D](https://codeforces.com/problemset/problem/75/D) | The subarray can be inside one segment or crossing the borders. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0801/solution/cf75d.md) |
