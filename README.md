@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF163A](https://codeforces.com/problemset/problem/163/A) | DP, what should be the status for counting? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0801/solution/cf163a.md) |
-| 2000 | [CF75D](https://codeforces.com/problemset/problem/75/D) | The subarray can be inside one segment or crossing the borders. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0801/solution/cf75d.md) |
+| 1600 | [CF154B](https://codeforces.com/problemset/problem/154/B) | To find the number in the set that is not co-prime with the queried number, you should take some notes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0802/solution/cf154b.md) |
+| 2400 | [CF1089M](https://codeforces.com/problemset/problem/1089/M) | Solve each line separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0802/solution/cf1089m.md) |
