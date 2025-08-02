@@ -170,3 +170,4 @@
 | 2400 | [CF990F](https://codeforces.com/problemset/problem/990/F) | Consider each connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0531/solution/cf990f.md) |
 | 2400 | [CF297C](https://codeforces.com/problemset/problem/297/C) | Divide the array into $3$ parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0614/solution/cf297c.md) |
 | 2400 | [CF790A3](https://codeforces.com/problemset/problem/690/A3) | The $n$ players should cover all kinds of possibilities. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0621/solution/cf690a3.md) |
+| 2400 | [CF1089M](https://codeforces.com/problemset/problem/1089/M) | Solve each line separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0802/solution/cf1089m.md) |

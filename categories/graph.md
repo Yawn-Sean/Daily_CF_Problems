@@ -121,3 +121,4 @@
 | 2400 | [CF1282E](https://codeforces.com/problemset/problem/1282/E) | First of all, you can decide the edges of the polygon: they apear only once. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0215/solution/cf1282e.md) |
 | 2400 | [CF679C](https://codeforces.com/problemset/problem/679/C) | Iterate over the position of the square. What should you pre-process? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0503/solution/cf679c.md) |
 | 2400 | [CF990F](https://codeforces.com/problemset/problem/990/F) | Consider each connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0531/solution/cf990f.md) |
+| 2400 | [CF1089M](https://codeforces.com/problemset/problem/1089/M) | Solve each line separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0802/solution/cf1089m.md) |
