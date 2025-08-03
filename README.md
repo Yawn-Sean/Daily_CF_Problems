@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF154B](https://codeforces.com/problemset/problem/154/B) | To find the number in the set that is not co-prime with the queried number, you should take some notes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0802/solution/cf154b.md) |
-| 2400 | [CF1089M](https://codeforces.com/problemset/problem/1089/M) | Solve each line separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0802/solution/cf1089m.md) |
+| 1800 | [CF33C](https://codeforces.com/problemset/problem/33/C) | The weight for each number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0804/solution/cf33c.md) |
+| 1900 | [CF67D](https://codeforces.com/problemset/problem/67/D) | Under what circumstances do the two rays cross? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0804/solution/cf67d.md) |
