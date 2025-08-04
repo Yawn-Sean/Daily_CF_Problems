@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF33C](https://codeforces.com/problemset/problem/33/C) | The weight for each number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0804/solution/cf33c.md) |
-| 1900 | [CF67D](https://codeforces.com/problemset/problem/67/D) | Under what circumstances do the two rays cross? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0804/solution/cf67d.md) |
+| 1800 | [CF274B](https://codeforces.com/problemset/problem/274/B) | Choose a variable to do a DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0805/solution/cf274b.md) |
+| 1900 | [CF1891D](https://codeforces.com/problemset/problem/1891/D) | $f(x)$ can't vary much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0805/solution/cf1891d.md) |
