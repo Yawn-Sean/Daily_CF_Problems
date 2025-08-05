@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF274B](https://codeforces.com/problemset/problem/274/B) | Choose a variable to do a DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0805/solution/cf274b.md) |
-| 1900 | [CF1891D](https://codeforces.com/problemset/problem/1891/D) | $f(x)$ can't vary much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0805/solution/cf1891d.md) |
+| 1600 | [CF269A](https://codeforces.com/problemset/problem/269/A) | Each $k$ can be handled separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0806/solution/cf269a.md) |
+| 2200 | [CF406D](https://codeforces.com/problemset/problem/406/D) | The next step is always fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0806/solution/cf406d.md) |
