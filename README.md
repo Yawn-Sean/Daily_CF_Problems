@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF131E](https://codeforces.com/problemset/problem/131/E) | In each direction, which two queens attack each other? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0807/solution/cf131e.md) |
-| 2000 | [CF1070C](https://codeforces.com/problemset/problem/1070/C) | Sweepline. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0807/solution/cf1070c.md) |
+| 1600 | [CF856A](https://codeforces.com/problemset/problem/856/A) | Once you add a number, the number of contradictions is increased by ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0808/solution/cf856a.md) |
+| 2200 | [CF76A](https://codeforces.com/problemset/problem/76/A) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0808/solution/cf76a.md) |
