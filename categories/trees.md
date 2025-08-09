@@ -58,4 +58,5 @@
 | 2200 | [CF406D](https://codeforces.com/problemset/problem/406/D) | The next step is always fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0806/solution/cf406d.md) |
 | 2200 | [CF76A](https://codeforces.com/problemset/problem/76/A) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0808/solution/cf76a.md) |
 | 2300 | [CF629E](https://codeforces.com/problemset/problem/629/E) | The cycle can be divided into two parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0104/solution/cf629e.md) |
+| 2300 | [CF1252B](https://codeforces.com/problemset/problem/1252/B) | What information should you carry in a DP? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0809/solution/cf1252b.md) |
 | 2400 | [CF802L](https://codeforces.com/problemset/problem/802/L) | Find the equations first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0712/solution/cf802l.md) |

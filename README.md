@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF856A](https://codeforces.com/problemset/problem/856/A) | Once you add a number, the number of contradictions is increased by ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0808/solution/cf856a.md) |
-| 2200 | [CF76A](https://codeforces.com/problemset/problem/76/A) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0808/solution/cf76a.md) |
+| 1600 | [CF246C](https://codeforces.com/problemset/problem/246/C) | Find subsets that are easy to compare. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0809/solution/cf246c.md) | 
+| 2300 | [CF1252B](https://codeforces.com/problemset/problem/1252/B) | What information should you carry in a DP? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0809/solution/cf1252b.md) |
