@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF246C](https://codeforces.com/problemset/problem/246/C) | Find subsets that are easy to compare. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0809/solution/cf246c.md) | 
-| 2300 | [CF1252B](https://codeforces.com/problemset/problem/1252/B) | What information should you carry in a DP? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0809/solution/cf1252b.md) |
+| 1800 | [CF652C](https://codeforces.com/problemset/problem/652/C) | With $r$ increasing, $l$ should be ascending. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0811/solution/cf652c.md) |
+| 1900 | [CF1041E](https://codeforces.com/problemset/problem/1041/E) | $n$ is in at least one of the subtrees. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0811/solution/cf1041e.md) |
