@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF652C](https://codeforces.com/problemset/problem/652/C) | With $r$ increasing, $l$ should be ascending. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0811/solution/cf652c.md) |
-| 1900 | [CF1041E](https://codeforces.com/problemset/problem/1041/E) | $n$ is in at least one of the subtrees. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0811/solution/cf1041e.md) |
+| 1800 | [CF991E](https://codeforces.com/problemset/problem/991/E) | Consider each digit and do the DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0812/solution/cf991e.md) |
+| 1900 | [CF126A](https://codeforces.com/problemset/problem/126/A) | Iterate over one of the values. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0812/solution/cf126a.md) |
