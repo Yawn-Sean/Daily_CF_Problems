@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF991E](https://codeforces.com/problemset/problem/991/E) | Consider each digit and do the DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0812/solution/cf991e.md) |
-| 1900 | [CF126A](https://codeforces.com/problemset/problem/126/A) | Iterate over one of the values. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0812/solution/cf126a.md) |
+| 1700 | [CF1006D](https://codeforces.com/problemset/problem/1006/D) | The positions that are correlated are easy to identify. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0813/solution/cf1006d.md) |
+| 2100 | [CF730C](https://codeforces.com/problemset/problem/730/C) | Calculate the distance first, and then as time passes, the items only get cheaper. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0813/solution/cf730c.md) |
