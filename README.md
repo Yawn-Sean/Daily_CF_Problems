@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1006D](https://codeforces.com/problemset/problem/1006/D) | The positions that are correlated are easy to identify. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0813/solution/cf1006d.md) |
-| 2100 | [CF730C](https://codeforces.com/problemset/problem/730/C) | Calculate the distance first, and then as time passes, the items only get cheaper. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0813/solution/cf730c.md) |
+| 1700 | [CF148C](https://codeforces.com/problemset/problem/148/C) | What operator should you do earlier? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0814/solution/cf148c.md) |
+| 2100 | [CF1896E](https://codeforces.com/problemset/problem/1896/E) | It's about moving element forward. But some steps can be skipped. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0814/solution/cf1896e.md) | 
