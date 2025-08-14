@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF148C](https://codeforces.com/problemset/problem/148/C) | What operator should you do earlier? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0814/solution/cf148c.md) |
-| 2100 | [CF1896E](https://codeforces.com/problemset/problem/1896/E) | It's about moving element forward. But some steps can be skipped. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0814/solution/cf1896e.md) | 
+| 1600 | [CF283A](https://codeforces.com/problemset/problem/283/A) | The applied range for an operation is changing. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0815/solution/cf283a.md) |
+| 2200 | [CF271E](https://codeforces.com/problemset/problem/271/E) | The difference between the two numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0815/solution/cf271e.md) |
