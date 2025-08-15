@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF283A](https://codeforces.com/problemset/problem/283/A) | The applied range for an operation is changing. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0815/solution/cf283a.md) |
-| 2200 | [CF271E](https://codeforces.com/problemset/problem/271/E) | The difference between the two numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0815/solution/cf271e.md) |
+| 1600 | [CF518C](https://codeforces.com/problemset/problem/518/C) | You only need to do swaps and find the position of some elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0816/solution/cf518c.md) |
+| 2400 | [CF1913E](https://codeforces.com/problemset/problem/1913/E) | Each element has a cost to be $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0816/solution/cf1913e.md) |
