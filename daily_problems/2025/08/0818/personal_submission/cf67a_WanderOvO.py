@@ -4,7 +4,7 @@ a[i] > a[i + 1]，则 a[i] >= a[i + 1] + 1
 连接 (i + 1, i, 1) 这条边
 a[i] < a[i + 1]，连接 (i, i + 1, 1) 这条边
 a[i] >= 1, 不妨连接 (n, i, 1) 这条边，强制一下
-从 n 出发，跑最长路，其实就是所有边权取相反数，求最短路，SPFA
+从 n 出发，跑最长路，其实就是所有边权取相反数，求最短路
 """
 
 n = int(input())
@@ -23,11 +23,8 @@ for i in range(n):
     es.append((n, i, -1))
 
 INF = int(1e9)
-q = []
 d = [INF for _ in range(n + 1)]
 d[n] = 0
-cnt = [0 for _ in range(n + 1)]
-front = 0
 
 for rd in range(n):
     for i in range(len(es)):
