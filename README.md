@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF518C](https://codeforces.com/problemset/problem/518/C) | You only need to do swaps and find the position of some elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0816/solution/cf518c.md) |
-| 2400 | [CF1913E](https://codeforces.com/problemset/problem/1913/E) | Each element has a cost to be $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0816/solution/cf1913e.md) |
+| 1800 | [CF67A](https://codeforces.com/problemset/problem/67/A) | Each mount can be handled easily. |
+| 1900 | [CF1986F](https://codeforces.com/problemset/problem/1986/F) | The deleted edge should separate the graph into $2$ . What difference does it make? |
