@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF67A](https://codeforces.com/problemset/problem/67/A) | Each mount can be handled easily. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0818/solution/cf67a.md) |
-| 1900 | [CF1986F](https://codeforces.com/problemset/problem/1986/F) | The deleted edge should separate the graph into $2$ . What difference does it make? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0818/solution/cf1986f.md) |
+| 1800 | [CF1941F](https://codeforces.com/problemset/problem/1941/F) | Only one of the two largest gaps can be changed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0819/solution/cf1941f.md) |
+| 1900 | [CF1970B1](https://codeforces.com/problemset/problem/1970/B1) | $n$ is even. And $n$ isn't that far. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0819/solution/cf1970b1.md) |
