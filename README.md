@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1941F](https://codeforces.com/problemset/problem/1941/F) | Only one of the two largest gaps can be changed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0819/solution/cf1941f.md) |
-| 1900 | [CF1970B1](https://codeforces.com/problemset/problem/1970/B1) | $n$ is even. And $n$ isn't that far. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0819/solution/cf1970b1.md) |
+| 1700 | [CF160C](https://codeforces.com/problemset/problem/160/C) | You should consider the first number in groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0820/solution/cf160c.md) |
+| 2100 | [CF1970B2](https://codeforces.com/problemset/problem/1970/B2) | Fix the $0$ , and the other numbers come in a chain. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0820/solution/cf1970b2.md) |
