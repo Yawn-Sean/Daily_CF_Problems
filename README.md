@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF160C](https://codeforces.com/problemset/problem/160/C) | You should consider the first number in groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0820/solution/cf160c.md) |
-| 2100 | [CF1970B2](https://codeforces.com/problemset/problem/1970/B2) | Fix the $0$ , and the other numbers come in a chain. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0820/solution/cf1970b2.md) |
+| 1700 | [CF203D](https://codeforces.com/problemset/problem/203/D) | The mirrors. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0821/solution/cf203d.md) |
+| 2100 | [CF1970D1](https://codeforces.com/problemset/problem/1970/D1) | $30n$ is just too many. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0821/solution/cf1970d1.md) |
