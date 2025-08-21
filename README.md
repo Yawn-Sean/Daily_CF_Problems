@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF203D](https://codeforces.com/problemset/problem/203/D) | The mirrors. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0821/solution/cf203d.md) |
-| 2100 | [CF1970D1](https://codeforces.com/problemset/problem/1970/D1) | $30n$ is just too many. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0821/solution/cf1970d1.md) |
+| 1600 | [CF1957C](https://codeforces.com/problemset/problem/1957/C) | Consider the remaining rows and columns. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0822/solution/cf1957c.md) |
+| 2200 | [CF1238F](https://codeforces.com/problemset/problem/1238/F) | For each interval, consider the types of intervals that overlap with it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0822/solution/cf1238f.md) |
