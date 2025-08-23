@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1957C](https://codeforces.com/problemset/problem/1957/C) | Consider the remaining rows and columns. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0822/solution/cf1957c.md) |
-| 2200 | [CF1238F](https://codeforces.com/problemset/problem/1238/F) | For each interval, consider the types of intervals that overlap with it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0822/solution/cf1238f.md) |
+| 1600 | [CF538C](https://codeforces.com/problemset/problem/538/C) | Consider each gap. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0823/solution/cf538c.md) |
+| 2300 | [CF1989E](https://codeforces.com/problemset/problem/1989/E) | The array consists of blocks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0823/solution/cf1989e.md) |
