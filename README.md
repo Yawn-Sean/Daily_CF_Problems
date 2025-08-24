@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF538C](https://codeforces.com/problemset/problem/538/C) | Consider each gap. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0823/solution/cf538c.md) |
-| 2300 | [CF1989E](https://codeforces.com/problemset/problem/1989/E) | The array consists of blocks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0823/solution/cf1989e.md) |
+| 1800 | [CF15B](https://codeforces.com/problemset/problem/15/B) | Let's see what area we should calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0825/solution/cf15b.md) |
+| 1900 | [CF95C](https://codeforces.com/problemset/problem/95/C) | The taxi works as an edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0825/solution/cf95c.md) |
