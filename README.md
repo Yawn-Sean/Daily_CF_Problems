@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF160C](https://codeforces.com/problemset/problem/160/C) | You should consider the first number in groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0820/solution/cf160c.md) |
-| 2100 | [CF1970B2](https://codeforces.com/problemset/problem/1970/B2) | Fix the $0$ , and the other numbers come in a chain. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0820/solution/cf1970b2.md) |
+| 1800 | [CF15B](https://codeforces.com/problemset/problem/15/B) | Let's see what area we should calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0825/solution/cf15b.md) |
+| 1900 | [CF95C](https://codeforces.com/problemset/problem/95/C) | The taxi works as an edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0825/solution/cf95c.md) |
