@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF15B](https://codeforces.com/problemset/problem/15/B) | Let's see what area we should calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0825/solution/cf15b.md) |
-| 1900 | [CF95C](https://codeforces.com/problemset/problem/95/C) | The taxi works as an edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0825/solution/cf95c.md) |
+| 1800 | [CF2071D1](https://codeforces.com/problemset/problem/2071/D1) | A lot of neighboring same numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0826/solution/cf2071d1.md) |
+| 1900 | [CF1991E](https://codeforces.com/problemset/problem/1991/E) | There's clearly an easy strategy for Alice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0826/solution/cf1991e.md) |
