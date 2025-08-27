@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF2071D1](https://codeforces.com/problemset/problem/2071/D1) | A lot of neighboring same numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0826/solution/cf2071d1.md) |
-| 1900 | [CF1991E](https://codeforces.com/problemset/problem/1991/E) | There's clearly an easy strategy for Alice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0826/solution/cf1991e.md) |
+| 1700 | [CF1948D](https://codeforces.com/problemset/problem/1948/D) | For a candidate, you just need to check whether two substrings are equal. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0827/solution/cf1948d.md) |
+| 2000 | [CF251C](https://codeforces.com/problemset/problem/251/C) | There are some must-visit numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0827/solution/cf251c.md) |
