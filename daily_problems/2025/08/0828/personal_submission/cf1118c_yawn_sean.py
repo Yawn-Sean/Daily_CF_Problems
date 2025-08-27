@@ -3,21 +3,55 @@ def main():
     n = II()
     nums = LII()
     
-    left0 = [0] * n
-    left1 = [0] * n
+    cnt = [0] * 1001
     
-    for i in range(n - 1):
-        if nums[i] > 1:
-            left1[i + 1] = left1[i] + nums[i] // 2 * 2
-        left0[i + 1] = fmax(left0[i] + nums[i] - (nums[i] + 1) % 2, left1[i] + nums[i])
+    for x in nums:
+        cnt[x] += 1
     
-    right0 = [0] * n
-    right1 = [0] * n
+    ans = [[0] * n for _ in range(n)]
     
-    for i in range(n - 2, -1, -1):
-        if nums[i] > 1:
-            right1[i] = right1[i + 1] + nums[i] // 2 * 2
-        right0[i] = fmax(right0[i + 1] + nums[i] - (nums[i] + 1) % 2, right1[i + 1] + nums[i])
+    pt = 0
+    for i in range(n // 2):
+        for j in range(n // 2):
+            while pt < 1001 and cnt[pt] < 4:
+                pt += 1
+            
+            if pt == 1001:
+                exit(print('NO'))
+            
+            cnt[pt] -= 4
+            ans[i][j] = pt
+            ans[n - 1 - i][j] = pt
+            ans[i][n - 1 - j] = pt
+            ans[n - 1 - i][n - 1 - j] = pt
     
-    print(fmax(max(left0[i] + right1[i] for i in range(n)),
-            max(left1[i] + right0[i] for i in range(n))))
+    if n % 2:
+        pt = 0
+        for i in range(n // 2):
+            while pt < 1001 and cnt[pt] < 2:
+                pt += 1
+            
+            if pt == 1001:
+                exit(print('NO'))
+            
+            cnt[pt] -= 2
+            ans[i][n // 2] = pt
+            ans[n - 1 - i][n // 2] = pt
+        
+        for i in range(n // 2):
+            while pt < 1001 and cnt[pt] < 2:
+                pt += 1
+            
+            if pt == 1001:
+                exit(print('NO'))
+            
+            cnt[pt] -= 2
+            ans[n // 2][i] = pt
+            ans[n // 2][n - 1 - i] = pt
+        
+        for i in range(1001):
+            if cnt[i]:
+                ans[n // 2][n // 2] = i
+    
+    print('YES')
+    print('\n'.join(' '.join(map(str, x)) for x in ans))
