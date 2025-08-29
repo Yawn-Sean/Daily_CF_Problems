@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF1118C](https://codeforces.com/problemset/problem/1118/C) | Some numbers are born to be the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0828/solution/cf1118c.md) |
-| 2000 | [CF201C](https://codeforces.com/problemset/problem/201/C) | If we start at $x$ , what are the possible moves? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0828/solution/cf201c.md) |
+| 1700 | [CF201A](https://codeforces.com/problemset/problem/201/A) | The answer should be odd. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0829/solution/cf201a.md) |
+| 2300 | [CF2077C](https://codeforces.com/problemset/problem/2077/C) | What defines the answer for a subsequence. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0829/solution/cf2077c.md) |
