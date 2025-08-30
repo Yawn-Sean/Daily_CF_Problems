@@ -24,5 +24,3 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF523D](https://codeforces.com/problemset/problem/523/D) | Implementation. What should you do effectively? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0830/solution/cf523d.md) |
-| 2400 | [CF332D](https://codeforces.com/problemset/problem/332/D) | Dig into the property of the graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0830/solution/cf332d.md) |
