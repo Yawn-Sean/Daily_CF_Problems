@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF201A](https://codeforces.com/problemset/problem/201/A) | The answer should be odd. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0829/solution/cf201a.md) |
-| 2300 | [CF2077C](https://codeforces.com/problemset/problem/2077/C) | What defines the answer for a subsequence. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0829/solution/cf2077c.md) |
+| 1600 | [CF523D](https://codeforces.com/problemset/problem/523/D) | Implementation. What should you do effectively? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0830/solution/cf523d.md) |
+| 2400 | [CF332D](https://codeforces.com/problemset/problem/332/D) | Dig into the property of the graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0830/solution/cf332d.md) |
