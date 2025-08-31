@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF523D](https://codeforces.com/problemset/problem/523/D) | Implementation. What should you do effectively? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0830/solution/cf523d.md) |
-| 2400 | [CF332D](https://codeforces.com/problemset/problem/332/D) | Dig into the property of the graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0830/solution/cf332d.md) |
+| 1800 | [CF778B](https://codeforces.com/problemset/problem/778/B) | Consider each digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0901/solution/cf778b.md) |
+| 1900 | [CF63D](https://codeforces.com/problemset/problem/63/D) | You just need to design a path that covers every block of the whole island. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0901/solution/cf63d.md) |

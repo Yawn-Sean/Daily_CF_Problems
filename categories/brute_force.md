@@ -56,6 +56,7 @@
 | 1800 | [CF251B](https://codeforces.com/problemset/problem/251/B) | It's about approaching the goal and pacing back and forth. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0610/solution/cf251b.md) |
 | 1800 | [CF44D](https://codeforces.com/problemset/problem/44/D) | Figure out the answer should be ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0701/solution/cf44d.md) |
 | 1800 | [CF585A](https://codeforces.com/problemset/problem/585/A) | Reading and comprehension. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0728/solution/cf585a.md) |
+| 1800 | [CF778B](https://codeforces.com/problemset/problem/778/B) | Consider each digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0901/solution/cf778b.md) |
 | 1900 | [CF847I](https://codeforces.com/problemset/problem/847/I) | Noise can't get too far. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0331/solution/cf847i.md) |
 | 1900 | [CF653C](https://codeforces.com/problemset/problem/653/C) | Note that the sequence is not nice now. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0506/solution/cf653c.md) |
 | 1900 | [CF109B](https://codeforces.com/problemset/problem/109/B) | There are not a lot of lucky numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0526/solution/cf109b.md) |
