@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF145B](https://codeforces.com/problemset/problem/145/B) | $c_{47},c_{74}$ represent a basic structure. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0902/solution/cf145b.md) |
-| 1900 | [CF549D](https://codeforces.com/problemset/problem/549/D) | The number of operations for each $(x,y)$ can be calculated. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0902/solution/cf549d.md) |
+| 1600 | [CF164A](https://codeforces.com/problemset/problem/164/A) | We have conditions for the starting and ending point for the path. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0903/solution/cf164a.md) |
+| 2100 | [CF81D](https://codeforces.com/problemset/problem/81/D) | We choose the elements and then we re-order them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0903/solution/cf81d.md) |
