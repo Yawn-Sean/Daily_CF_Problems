@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1500 | [CF687A](https://codeforces.com/problemset/problem/687/A) | Try thinking of each edge. What necessary condition does the definition imply? Is it sufficient? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0301/solution/cf687a.md) |
+| 1500 | [CF901A](https://codeforces.com/problemset/problem/901/A) | Sometimes the tree is almost fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0905/solution/cf901a.md) |
 | 1600 | [CF1512E](https://codeforces.com/problemset/problem/1512/E) | Constructive method: find the bounds and slowly adjust your answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/02/0227/solution/cf1512e.md) |
 | 1600 | [CF1098A](https://codeforces.com/problemset/problem/1098/A) | Greedy constructive problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0312/solution/cf1098a.md) |
 | 1600 | [CF375A](https://codeforces.com/problemset/problem/375/A) | Note the strange constraint: its decimal representation quite luckily contains digits 1, 6, 8, 9. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0320/solution/cf375a.md) |
@@ -176,6 +177,7 @@
 | 2200 | [CF271E](https://codeforces.com/problemset/problem/271/E) | The difference between the two numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0815/solution/cf271e.md) |
 | 2300 | [CF432E](https://codeforces.com/problemset/problem/432/E) | Find the first element of non-filled position and fill it up. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0713/solution/cf432e.md) |
 | 2300 | [CF306D](https://codeforces.com/problemset/problem/306/D) | When you decide the first few edges, the last ones are already settled. How can you make it different? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1228/solution/cf306d.md) |
+| 2300 | [CF141E](https://codeforces.com/problemset/problem/141/E) | Some of the $S$ edges are necessary. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0905/solution/cf141e.md) |
 | 2400 | [CF1673F](https://codeforces.com/problemset/problem/1673/F) | A cycle means $0$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0831/solution/cf1673f.md) |
 | 2400 | [CF1282E](https://codeforces.com/problemset/problem/1282/E) | First of all, you can decide the edges of the polygon: they apear only once. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0215/solution/cf1282e.md) |
 | 2400 | [CF990F](https://codeforces.com/problemset/problem/990/F) | Consider each connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0531/solution/cf990f.md) |

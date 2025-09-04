@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF81C](https://codeforces.com/problemset/problem/81/C) | Consider the weight for each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0904/solution/cf81c.md) |
-| 2200 | [CF731D](https://codeforces.com/problemset/problem/731/D) | How do we decide the lexicographical order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0904/solution/cf731d.md) |
+| 1500 | [CF901A](https://codeforces.com/problemset/problem/901/A) | Sometimes the tree is almost fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0905/solution/cf901a.md) |
+| 2300 | [CF141E](https://codeforces.com/problemset/problem/141/E) | Some of the $S$ edges are necessary. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0905/solution/cf141e.md) |
