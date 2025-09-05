@@ -45,3 +45,4 @@ int main(){
         cnt += a[i];
     }
     return 0;
+}
