@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1500 | [CF901A](https://codeforces.com/problemset/problem/901/A) | Sometimes the tree is almost fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0905/solution/cf901a.md) |
-| 2300 | [CF141E](https://codeforces.com/problemset/problem/141/E) | Some of the $S$ edges are necessary. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0905/solution/cf141e.md) |
+| 1500 | [CF1207C](https://codeforces.com/problemset/problem/1207/C) | When we consider the status for $i+1$ , we only need the status for $i$ to calculate the cost. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0906/solution/cf1207c.md) |
+| 2300 | [CF141D](https://codeforces.com/problemset/problem/141/D) | There are only a few positions where one take off or arrive. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0906/solution/cf141d.md) |
