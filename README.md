@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1500 | [CF1207C](https://codeforces.com/problemset/problem/1207/C) | When we consider the status for $i+1$ , we only need the status for $i$ to calculate the cost. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0906/solution/cf1207c.md) |
-| 2300 | [CF141D](https://codeforces.com/problemset/problem/141/D) | There are only a few positions where one take off or arrive. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0906/solution/cf141d.md) |
+| 1700 | [CF670E](https://codeforces.com/problemset/problem/670/E) | You don't really need some complex structures. You only need two stacks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0908/solution/cf670e.md) |
+| 2000 | [CF207A3](https://codeforces.com/problemset/problem/207/A3) | Find the lower bound. Can it be reached? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0908/solution/cf207a3.md) |
