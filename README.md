@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF670E](https://codeforces.com/problemset/problem/670/E) | You don't really need some complex structures. You only need two stacks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0908/solution/cf670e.md) |
-| 2000 | [CF207A3](https://codeforces.com/problemset/problem/207/A3) | Find the lower bound. Can it be reached? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0908/solution/cf207a3.md) |
+| *1700 | [GYM103114G](https://codeforces.com/gym/103114/problem/G) | Your query should. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0909/solution/cf103114g.md) |
+| *1900 | [GYM103114H](https://codeforces.com/gym/103114/problem/H) | Find the lower bound. Can it be reached? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0909/solution/cf103114h.md) |
