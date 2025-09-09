@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM103114G](https://codeforces.com/gym/103114/problem/G) | Each query gives a $01$ -tag. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0909/solution/cf103114g.md) |
-| *1900 | [GYM103114H](https://codeforces.com/gym/103114/problem/H) | Fix the first person and find positions for the others to sit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0909/solution/cf103114h.md) |
+| *1700 | [GYM104805K](https://codeforces.com/gym/104805/problem/K) | The score for each array can be calculated in a different way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0910/solution/cf104805k.md) |
+| *2000 | [CF104030F](https://codeforces.com/gym/104030/problem/F) | There is too much information, so you can use the important thing first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0910/solution/cf104030f.md) |
