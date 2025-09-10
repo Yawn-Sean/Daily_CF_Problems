@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM104805K](https://codeforces.com/gym/104805/problem/K) | The score for each array can be calculated in a different way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0910/solution/cf104805k.md) |
-| *2000 | [GYM104030F](https://codeforces.com/gym/104030/problem/F) | There is too much information, so you can use the important thing first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0910/solution/cf104030f.md) |
+| *1600 | [GYM101875A](https://codeforces.com/gym/101875/problem/A) | Consider the edges from the largest value to the smallest. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0911/solution/cf101875a.md) |
+| *2000 | [GYM101875G](https://codeforces.com/gym/101875/problem/G) | For each car, you only need the $t-x$ plot of the car in front of it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0911/solution/cf101875g.md) |
