@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM101875A](https://codeforces.com/gym/101875/problem/A) | Consider the edges from the largest value to the smallest. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0911/solution/cf101875a.md) |
-| *2000 | [GYM101875G](https://codeforces.com/gym/101875/problem/G) | For each car, you only need the $t-x$ plot of the car in front of it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0911/solution/cf101875g.md) |
+| *1600 | [GYM100384H](https://codeforces.com/gym/100384/problem/H) | First fill in the `'a'`-s. Where should you put them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0912/solution/cf100384h.md) |
+| *2100 | [GYM100008D](https://codeforces.com/gym/100008/problem/D) | The brute force is $\mathcal{O}(n^3)$ . So if you can make full use of the previous result, it can be easily reduced. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0912/solution/cf100008d.md) |
