@@ -1,5 +1,5 @@
 '''
-https://codeforces.com/gym/104805/my#   
+https://codeforces.com/gym/104805/submission/337812421
 '''
 # DFS
 from sys import stdin
