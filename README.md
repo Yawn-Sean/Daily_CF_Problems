@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM100384H](https://codeforces.com/gym/100384/problem/H) | First fill in the `'a'`-s. Where should you put them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0912/solution/cf100384h.md) |
-| *2100 | [GYM100008D](https://codeforces.com/gym/100008/problem/D) | The brute force is $\mathcal{O}(n^3)$ . So if you can make full use of the previous result, it can be easily reduced. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0912/solution/cf100008d.md) |
+| *1600 | [GYM101466E](https://codeforces.com/gym/101466/problem/E) | The longer the prefix we choose ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0913/solution/cf101466e.md) |
+| *1900 | [GYM102791J](https://codeforces.com/gym/102791/problem/J) | For each $i$ , which character should we pair it with? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0913/solution/cf102791j.md) |
