@@ -23,29 +23,18 @@ int main() {
 
     int inf = 1e6;
 
-    vector<vector<int>> saved_ans(26, vector<int>(26, -inf)), saved_pos(26, vector<int>(26, 0));
-
-    vector<int> dp(n + 1, -inf), pre(n + 1, -1);
+    vector<int> dp(n + 1, -inf), pre(n + 1, -1), saved_ans(26, -inf), saved_pos(26, -1);
     dp[0] = 0;
 
     for (int i = 1; i < n; i ++) {
-        if (dp[i - 1] != -inf) {
-            if (i == 1) {
-                for (int j = 0; j < 26; j ++) {
-                    saved_ans[j][s[i - 1] - 'a'] = 0;
-                }
-            }
-            else if (dp[i - 1] > saved_ans[s[i - 2] - 'a'][s[i - 1] - 'a']) {
-                saved_ans[s[i - 2] - 'a'][s[i - 1] - 'a'] = dp[i - 1];
-                saved_pos[s[i - 2] - 'a'][s[i - 1] - 'a'] = i - 1;
-            }
+        if (dp[i - 1] > saved_ans[s[i - 1] - 'a']) {
+            saved_ans[s[i - 1] - 'a'] = dp[i - 1];
+            saved_pos[s[i - 1] - 'a'] = i - 1;
         }
 
-        for (int j = 0; j < 26; j ++) {
-            if (saved_ans[j][s[i] - 'a'] != -inf && saved_ans[j][s[i] - 'a'] + 1 > dp[i + 1]) {
-                dp[i + 1] = saved_ans[j][s[i] - 'a'] + 1;
-                pre[i + 1] = saved_pos[j][s[i] - 'a'];
-            }
+        if (saved_ans[s[i] - 'a'] >= 0) {
+            dp[i + 1] = saved_ans[s[i] - 'a'] + 1;
+            pre[i + 1] = saved_pos[s[i] - 'a'];
         }
     }
 
