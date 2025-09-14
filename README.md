@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM101466E](https://codeforces.com/gym/101466/problem/E) | The longer the prefix we choose ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0913/solution/cf101466e.md) |
-| *1900 | [GYM102791J](https://codeforces.com/gym/102791/problem/J) | For each $i$ , which character should we pair it with? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0913/solution/cf102791j.md) |
+| *1800 | [CF102861I](https://codeforces.com/gym/102861/problem/I) | Each subtree has two possible status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0915/solution/cf102861i.md) |
+| *2200 | [CF102861K](https://codeforces.com/gym/102861/problem/K) | Each condition represents an equation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0915/solution/cf102861k.md) |
