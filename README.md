@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [CF102861I](https://codeforces.com/gym/102861/problem/I) | Each subtree has two possible status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0915/solution/cf102861i.md) |
-| *2200 | [CF102861K](https://codeforces.com/gym/102861/problem/K) | Each condition represents an equation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0915/solution/cf102861k.md) |
+| *1700 | [GYM106068H](https://codeforces.com/gym/106068/problem/H) | If the indices are far from each other... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0916/solution/cf106068h.md) |
+| *2000 | [GYM105946A](https://codeforces.com/gym/105946/problem/A) | Consider the property of the numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0916/solution/cf105946a.md) |
