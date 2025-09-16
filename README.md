@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106068H](https://codeforces.com/gym/106068/problem/H) | If the indices are far from each other... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0916/solution/cf106068h.md) |
-| *2000 | [GYM105946A](https://codeforces.com/gym/105946/problem/A) | Consider the property of the numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0916/solution/cf105946a.md) |
+| *1700 | [CF105862H](https://codeforces.com/gym/105862/problem/H) | Each element is calculated several times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0917/solution/cf105862h.md) |
+| *2200 | [CF105562M](https://codeforces.com/gym/105562/problem/M) | We are calculating areas. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0917/solution/cf105562m.md) |
