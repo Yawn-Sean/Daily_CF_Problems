@@ -1,5 +1,5 @@
 '''
-https://codeforces.com/gym/106068/my#
+https://codeforces.com/gym/106068/submission/338917208
 '''
 # implementation
 
