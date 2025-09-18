@@ -9,5 +9,5 @@ for i in range(1 , 10 ** 6):
     cur = (cur * 10 + 9) % d
     tot = (tot +9) % o
     if cur == tot == 0:
-        print('9' * i + '0'*13)
+        print('9' * i + '0'*9)
         break
