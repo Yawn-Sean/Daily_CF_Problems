@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM104059J](https://codeforces.com/gym/104059/problem/J) | We just need to calculate how many cards don't need an insertion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0919/solution/cf104059j.md) |
-| *2100 | [GYM104182C](https://codeforces.com/gym/104182/problem/C) | Find out the property of the sub-array. How can you calculate the number of them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0919/solution/cf104182c.md) |
+| *1600 | [GYM105819D](https://codeforces.com/gym/105819/problem/D) | Consider each digit separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0920/solution/cf105819d.md) |
+| *2000 | [GYM105884C](https://codeforces.com/gym/105884/problem/C) | We should find a "inner" point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0920/solution/cf105884c.md) |
