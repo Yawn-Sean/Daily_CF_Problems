@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105819D](https://codeforces.com/gym/105819/problem/D) | Consider each digit separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0920/solution/cf105819d.md) |
-| *2000 | [GYM105884C](https://codeforces.com/gym/105884/problem/C) | We should find a "inner" point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0920/solution/cf105884c.md) |
+| *1800 | [GYM105387G](https://codeforces.com/gym/105387/problem/G) | If you know the number of methods for no more than $i$ cubes ending in red, green or blue, what is the answer for $i+1$? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0922/solution/cf105387g.md) |
+| *1900 | [GYM105394D](https://codeforces.com/gym/105394/problem/D) | What should we add in a segment? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0922/solution/cf105394d.md) |
