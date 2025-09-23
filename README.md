@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM104777N](https://codeforces.com/gym/104777/problem/N) | Actually you know the value of $a_1\mathrm{xor}a_i$ for each $i$, so you just need to find a valid $a_i$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0923/solution/cf104777n.md) |
-| *2300 | [GYM104790K](https://codeforces.com/gym/104790/problem/K) | Reduce $n$ to a smaller value by using queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0923/solution/cf104790k.md) |
+| *1800 | [GYM105552D](https://codeforces.com/gym/105552/problem/D) | We just need to find out the distance between the center and the line. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0924/solution/cf105552d.md) |
+| *2100 | [GYM105584G](https://codeforces.com/gym/105584/problem/G) | Draw a graph. Each connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0924/solution/cf105584g.md) |
