@@ -25,4 +25,4 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
 | *1800 | [GYM1047777N](https://codeforces.com/gym/104777/problem/N) | Actually you know the value of $a_1\mathrm{xor}a_i$ for each $i$, so you just need to find a valid $a_i$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0923/solution/cf104777n.md) |
-| *2300 | [GYM104790](https://codeforces.com/gym/104790/problem/K) | Reduce $n$ to a smaller value by using queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0923/solution/cf104790k.md) |
+| *2300 | [GYM104790K](https://codeforces.com/gym/104790/problem/K) | Reduce $n$ to a smaller value by using queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0923/solution/cf104790k.md) |
