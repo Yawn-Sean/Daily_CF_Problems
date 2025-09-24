@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105387G](https://codeforces.com/gym/105387/problem/G) | If you know the number of methods for no more than $i$ cubes ending in red, green or blue, what is the answer for $i+1$? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0922/solution/cf105387g.md) |
-| *1900 | [GYM105394D](https://codeforces.com/gym/105394/problem/D) | What should we add in a segment? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0922/solution/cf105394d.md) |
+| *1800 | [GYM105552D](https://codeforces.com/gym/105552/problem/D) | We just need to find out the distance between the center and the line. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0924/solution/cf105552d.md) |
+| *2100 | [GYM105584G](https://codeforces.com/gym/105584/problem/G) | Draw a graph. Each connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0924/solution/cf105584g.md) |
