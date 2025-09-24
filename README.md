@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105552D](https://codeforces.com/gym/105552/problem/D) | We just need to find out the distance between the center and the line. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0924/solution/cf105552d.md) |
-| *2100 | [GYM105584G](https://codeforces.com/gym/105584/problem/G) | Draw a graph. Each connected component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0924/solution/cf105584g.md) |
+| *1800 | [GYM105431D](https://codeforces.com/gym/105431/problem/D) | LIS problem, but the frequency is small. How can you make use of it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0925/solution/cf105431d.md) |
+| *2000 | [GYM106082J](https://codeforces.com/gym/106082/problem/J) | Consider connect points with edges. Which edges are important? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0925/solution/cf106082j.md) |
