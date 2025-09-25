@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105431D](https://codeforces.com/gym/105431/problem/D) | LIS problem, but the frequency is small. How can you make use of it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0925/solution/cf105431d.md) |
-| *2000 | [GYM106082J](https://codeforces.com/gym/106082/problem/J) | Consider connect points with edges. Which edges are important? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0925/solution/cf106082j.md) |
+| *1800 | [GYM106042D](https://codeforces.com/gym/106042/problem/D) | Transform the problem into a minimize maximize problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0926/solution/cf106042d.md) |
+| *2000 | [GYM106043C](https://codeforces.com/gym/106043/problem/C) | For each maximum value, the length of the subarray with a maximum of it could be any integer smaller than some $v$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0926/solution/cf106043c.md) |
