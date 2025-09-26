@@ -1,10 +1,12 @@
 '''
-https://codeforces.com/gym/106042/submission/340589380
+https://codeforces.com/gym/106042/submission/340598859
 '''
 # 前后缀分解
 pmax = lambda x, y: y if y > x else x
 pmin = lambda x, y: x if y < 0 or x >= 0 and x <= y else y
 def solve(n: int, x: int, y: int, a: list[int]) -> int:
+    if n == 1: 
+        return (a[0] | x) & y
     suf = [0] * n
     max_suf = [0] * n
     suf[-1] = a[-1]
