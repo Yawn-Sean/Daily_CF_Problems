@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106042D](https://codeforces.com/gym/106042/problem/D) | Transform the problem into a minimize maximize problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0926/solution/cf106042d.md) |
-| *2000 | [GYM106043C](https://codeforces.com/gym/106043/problem/C) | For each maximum value, the length of the subarray with a maximum of it could be any integer smaller than some $v$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0926/solution/cf106043c.md) |
+| *1500 | [GYM106032J](https://codeforces.com/gym/106032/problem/J) | When two number "merges" ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0927/solution/cf106032j.md) |
+| *2100 | [GYM105809C](https://codeforces.com/gym/105809/problem/C) | The property of the graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0927/solution/cf105809c.md) |
