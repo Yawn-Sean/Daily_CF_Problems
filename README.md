@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106032J](https://codeforces.com/gym/106032/problem/J) | When two number "merges" ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0927/solution/cf106032j.md) |
-| *2100 | [GYM105809C](https://codeforces.com/gym/105809/problem/C) | The property of the graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0927/solution/cf105809c.md) |
+| *1600 | [GYM100488I](https://codeforces.com/gym/100488/problem/I) | Use the minimum number of colors to satisfy some of the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0929/solution/cf100488i.md) |
+| *1700 | [GYM100488K](https://codeforces.com/gym/100488/problem/K) | Which items can you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0929/solution/cf100488k.md) |
