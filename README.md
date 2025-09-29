@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM100488I](https://codeforces.com/gym/100488/problem/I) | Use the minimum number of colors to satisfy some of the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0929/solution/cf100488i.md) |
-| *1700 | [GYM100488K](https://codeforces.com/gym/100488/problem/K) | Which items can you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0929/solution/cf100488k.md) |
+| *1800 | [GYM100488B](https://codeforces.com/gym/100488/problem/B) | Start from small cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0930/solution/cf100488b.md) |
+| *2000 | [GYM100488L](https://codeforces.com/gym/100488/problem/L) | You don't need to actually reverse the interval. You just need to make a tag. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0930/solution/cf100488l.md) |
