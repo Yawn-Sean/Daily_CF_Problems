@@ -11,22 +11,6 @@ auto rngl = mt19937_64(random_device()());
 // using namespace __gnu_cxx;
 // using namespace __gnu_pbds;
 
-set<int> query(int l, int r) {
-    cout << "Q " << l << ' ' << r << endl;
-    set<int> st;
-    for (int i = l; i <= r; i ++) {
-        int x;
-        cin >> x;
-        st.insert(x);
-    }
-    return st;
-}
-
-void answer(vector<int> &ans) {
-    cout << 'A';
-    for (auto &x: ans) cout << ' ' << x;
-}
-
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(0);
