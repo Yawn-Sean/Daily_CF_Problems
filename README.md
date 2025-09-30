@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM100488B](https://codeforces.com/gym/100488/problem/B) | Start from small cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0930/solution/cf100488b.md) |
-| *2000 | [GYM100488L](https://codeforces.com/gym/100488/problem/L) | You don't need to actually reverse the interval. You just need to make a tag. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0930/solution/cf100488l.md) |
+| *1800 | [GYM105833K](https://codeforces.com/gym/105833/problem/K) | If you use more than $k$ edges ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1001/solution/cf105833k.md) |
+| *1900 | [GYM105833C](https://codeforces.com/gym/105833/problem/C) | For each $i$ , the total harm is bounded. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1001/solution/cf105833c.md) |
