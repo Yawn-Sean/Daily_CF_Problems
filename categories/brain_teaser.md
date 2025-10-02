@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1500 | [GYM106032J](https://codeforces.com/gym/106032/problem/J) | When two number "merges" ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0927/solution/cf106032j.md) |
+| *1500 | [GYM105271B](https://codeforces.com/gym/105271/problem/B) | It's almost just like walking from $(1,1)$ to $(n,n)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1002/solution/cf105271b.md) |
 | 1600 | [CF444A](https://codeforces.com/problemset/problem/444/A) | Maximization: if you adjust your answer slightly, it is no way that the answer gets better. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0405/solution/cf444a.md) |
 | 1600 | [CF1025C](https://codeforces.com/problemset/problem/1025/C) | What does the operation actually mean? Find a position to split and connect the strings on the other side. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0517/solution/cf1025c.md) |
 | 1600 | [CF1671D](https://codeforces.com/problemset/problem/1671/D) | Use the fact that you can insert any number between two consecutive numbers in the array without changing the score. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0531/solution/cf1671d.md) |
