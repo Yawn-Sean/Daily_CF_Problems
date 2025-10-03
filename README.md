@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM105271B](https://codeforces.com/gym/105271/problem/B) | It's almost just like walking from $(1,1)$ to $(n,n)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1002/solution/cf105271b.md) |
-| *1800 | [GYM105167J](https://codeforces.com/gym/105167/problem/J) | Minimum swaps. You just need to calculate some type of inversions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1002/solution/cf105167j.md) |
+| *1600 | [GYM105012J](https://codeforces.com/gym/105012/problem/J) | It's almost the same as other problems that maximizes the value of a path. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1003/solution/cf105012j.md) |
+| *2000 | [GYM104854C](https://codeforces.com/gym/104854/problem/C) | Fix something. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1003/solution/cf104854c.md) |
