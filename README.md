@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105012J](https://codeforces.com/gym/105012/problem/J) | It's almost the same as other problems that maximizes the value of a path. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1003/solution/cf105012j.md) |
-| *2000 | [GYM104854C](https://codeforces.com/gym/104854/problem/C) | Fix something. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1003/solution/cf104854c.md) |
+| *1700 | [GYM105822C](https://codeforces.com/gym/105822/problem/C) | Leave enough space for others. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1004/solution/cf105822c.md) |
+| *1900 | [GYM105822D](https://codeforces.com/gym/105822/problem/D) | Figure out a construction method and check if it is valid. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1004/solution/cf105822d.md) |
