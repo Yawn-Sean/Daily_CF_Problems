@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105822C](https://codeforces.com/gym/105822/problem/C) | Leave enough space for others. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1004/solution/cf105822c.md) |
-| *1900 | [GYM105822D](https://codeforces.com/gym/105822/problem/D) | Figure out a construction method and check if it is valid. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1004/solution/cf105822d.md) |
+| *1700 | [GYM105053D](https://codeforces.com/gym/105053/problem/D) | Games. Strategy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1006/solution/cf105053d.md) |
+| *1900 | [GYM105022G](https://codeforces.com/gym/105022/problem/G) | Linear algebra. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1006/solution/cf105022g.md) |
