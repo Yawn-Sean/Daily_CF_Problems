@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM104822I](https://codeforces.com/gym/104822/problem/I) | Transform the condition. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1007/solution/cf104822i.md) |
-| *2000 | [GYM106100F](https://codeforces.com/gym/106100/problem/F) | Simplify the operation. Swaps - number of inversions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1007/solution/cf106100f.md) |
+| *1600 | [GYM104679E](https://codeforces.com/gym/104679/problem/E) | Consider some special pairs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1008/solution/cf104679e.md) |
+| *1600 | [GYM104679F](https://codeforces.com/gym/104679/problem/F) | You can almost choose all of the "possible" numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1008/solution/cf104679f.md) |
