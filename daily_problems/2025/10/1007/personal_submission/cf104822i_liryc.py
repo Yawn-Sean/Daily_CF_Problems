@@ -1,7 +1,8 @@
 '''
-https://codeforces.com/gym/104822/submission/342425952
+https://codeforces.com/gym/104822/submission/342438144
 '''
 # primes, factors
+from collections import Counter
 from sys import stdin
 input = lambda: stdin.readline().strip()
 pmin = lambda x, y: x if y < 0 or x >= 0 and x <= y else y
@@ -25,19 +26,30 @@ def initPrimes():
 
 def solve(n: int) -> int:
     global prime_set
-    fa = [n]
+
     m = n
+    cn = Counter()
     for p in prime_set:
-        if p > m:
+        if p * p > m: 
             break
         d, v = divmod(m, p)
         while v == 0:
+            cn[p] += 1
             m = d
-            if m == 1: break
-            fa.append(m)
             d, v = divmod(m, p)
-    fa += [n // x for x in fa]
+
+    if m > 1:
+        cn[m] = 1
+    
+    fa = [1]
+    
+    for x, c in cn.items():
+        k = len(fa)
+        for i in range(c * k):
+            fa.append(fa[i] * x)
+
     fa.sort()
+
     i, j = 0, len(fa) - 1
     ans = -1
     while i <= j:
