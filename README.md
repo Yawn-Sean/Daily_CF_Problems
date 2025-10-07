@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105053D](https://codeforces.com/gym/105053/problem/D) | Games. Strategy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1006/solution/cf105053d.md) |
-| *1900 | [GYM105022G](https://codeforces.com/gym/105022/problem/G) | Linear algebra. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1006/solution/cf105022g.md) |
+| *1800 | [GYM104822I](https://codeforces.com/gym/104822/problem/I) | Transform the condition. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1007/solution/cf104822i.md) |
+| *2000 | [GYM106100F](https://codeforces.com/gym/106100/problem/F) | Simplify the operation. Swaps - number of inversions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1007/solution/cf106100f.md) |
