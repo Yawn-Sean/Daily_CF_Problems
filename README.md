@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM104328D](https://codeforces.com/gym/104328/problem/D) | Check some candidates. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1009/solution/cf104328d.md) |
-| *2100 | [GYM104094B](https://codeforces.com/gym/104094/problem/B) | Choose one edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1009/solution/cf104094b.md) |
+| *1600 | [GYM104380F](https://codeforces.com/gym/104380/problem/F) | Which numbers can't be chosen? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1010/solution/cf104380f.md) |
+| *2100 | [GYM104380R](https://codeforces.com/gym/104380/problem/R) | Consider the weights for each number. And use their relation to reduce the number of calculations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1010/solution/cf104380r.md) |
