@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104380F](https://codeforces.com/gym/104380/problem/F) | Which numbers can't be chosen? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1010/solution/cf104380f.md) |
-| *2100 | [GYM104380R](https://codeforces.com/gym/104380/problem/R) | Consider the weights for each number. And use their relation to reduce the number of calculations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1010/solution/cf104380r.md) |
+| *1600 | [GYM103785H](https://codeforces.com/gym/103785/problem/H) | Think from the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1011/solution/cf103785h.md) |
+| *2000 | [GYM103708L](https://codeforces.com/gym/103708/problem/L) | Each $f(i)$ can be figured out separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1011/solution/cf103708l.md) |
