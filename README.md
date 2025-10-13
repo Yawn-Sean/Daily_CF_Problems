@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM103855H](https://codeforces.com/gym/103855/problem/H) | Find the property of the separation part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1013/solution/cf103855h.md) |
-| *2100 | [GYM103855M](https://codeforces.com/gym/103855/problem/M) | Change the value to the sum of absolute functions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1013/solution/cf103855m.md) |
+| *1800 | [GYM103855D](https://codeforces.com/gym/103855/problem/D) | $1+2$ or $0+3$. Iterate over the smaller one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1014/solution/cf103855d.md) |
+| *2000 | [GYM103855E](https://codeforces.com/gym/103855/problem/E) | Somehow about blocks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1014/solution/cf103855e.md) |
