@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM103785H](https://codeforces.com/gym/103785/problem/H) | Think from the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1011/solution/cf103785h.md) |
-| *1900 | [GYM103708L](https://codeforces.com/gym/103708/problem/L) | Each $f(i)$ can be figured out separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1011/solution/cf103708l.md) |
+| *1700 | [GYM103855H](https://codeforces.com/gym/103855/problem/H) | Find the property of the separation part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1013/solution/cf103855h.md) |
+| *2100 | [GYM103855M](https://codeforces.com/gym/103855/problem/M) | Change the value to the sum of absolute functions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1013/solution/cf103855m.md) |
