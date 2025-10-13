@@ -16,23 +16,39 @@ int main() {
     cin.tie(0);
     cout.tie(0);
 
-	int mod = 1e9 + 7;
-
 	int n;
 	cin >> n;
 
-	int cur = 0, pos = 0, ans = 1;
+	vector<int> p(n), q(n);
+	for (auto &x: p) cin >> x;
+	for (auto &x: q) cin >> x;
 
-	for (int i = 0; i < n; i ++) {
-		int x;
-		cin >> x;
+	auto solve = [&] (vector<int> &nums) -> long long {
+		int mi = *min_element(nums.begin(), nums.end());
+		int ma = *max_element(nums.begin(), nums.end());
 
-		if (x > cur) {
-			ans = 1ll * ans * (i - pos + 1) % mod;
-			cur = x;
-			pos = i;
-		}
-	}
+		vector<int> cnt(ma - mi + 1);
+		for (auto &x: nums) cnt[x - mi] ++;
+
+		vector<int> tmp;
+		for (int i = 0; i <= ma - mi; i ++)
+			while (cnt[i] --) tmp.emplace_back(i);
+		
+		long long ans = 0;
+		for (int i = 0; i < n; i ++)
+			ans += 1ll * (2 * i - n + 1) * tmp[i];
+		return ans;
+	};
+
+	long long ans = (solve(p) + solve(q)) * 2;
+
+	vector<int> tmp(n);
+
+	for (int i = 0; i < n; i ++) tmp[i] = p[i] - q[i];
+	ans -= solve(tmp);
+
+	for (int i = 0; i < n; i ++) tmp[i] = p[i] + q[i];
+	ans -= solve(tmp);
 
 	cout << ans;
 
