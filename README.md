@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM103855D](https://codeforces.com/gym/103855/problem/D) | $1+2$ or $0+3$. Iterate over the smaller one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1014/solution/cf103855d.md) |
-| *2000 | [GYM103855E](https://codeforces.com/gym/103855/problem/E) | Somehow about blocks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1014/solution/cf103855e.md) |
+| *1600 | [GYM102409J](https://codeforces.com/gym/102409/problem/J) | Iterate over ... |
+| *1800 | [GYM102419D](https://codeforces.com/gym/102419/problem/D) | Equal pairs are special. |
