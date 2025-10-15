@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1800 | [CF1252H](https://codeforces.com/problemset/problem/1252/H) | When considering two dimensions, it's always easier to fix one first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1028/solution/cf1252h.md) |
-| 1900 | [CF1043E](https://codeforces.com/problemset/problem/1043/E) | Do the calculation without restriction first. When should we choose the $x_i+y_j$ instead of $x_j+y_i$ ? Is there an simpler rule? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1028/solution/cf1043e.md) |
+| *1600 | [GYM102409J](https://codeforces.com/gym/102409/problem/J) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1015/solution/cf102409j.md) |
+| *1800 | [GYM102419D](https://codeforces.com/gym/102419/problem/D) | Equal pairs are special. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1015/solution/cf102419d.md) |
