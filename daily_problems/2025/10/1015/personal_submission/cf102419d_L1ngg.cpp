@@ -51,4 +51,5 @@ signed main()
         solve();
         std::cout << '\n';
     }
+
 }
