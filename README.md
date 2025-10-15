@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM102409J](https://codeforces.com/gym/102409/problem/J) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1015/solution/cf102409j.md) |
-| *1800 | [GYM102419D](https://codeforces.com/gym/102419/problem/D) | Equal pairs are special. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1015/solution/cf102419d.md) |
+| *1600 | [GYM104673A](https://codeforces.com/gym/104673/problem/A) | $C_n^m$ , but $m$ can't be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1016/solution/cf104673a.md) |
+| *2000 | [GYM104842K](https://codeforces.com/gym/104842/problem/K) | Find the upper bound. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1016/solution/cf104842k.md) |
