@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104673A](https://codeforces.com/gym/104673/problem/A) | $C_n^m$ , but $m$ can't be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1016/solution/cf104673a.md) |
-| *2000 | [GYM104842K](https://codeforces.com/gym/104842/problem/K) | Find the upper bound. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1016/solution/cf104842k.md) |
+| *1600 | [GYM104852D](https://codeforces.com/gym/104852/problem/4) | Fun integers are fewer than you think. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1017/solution/cf104852d.md) |
+| *2100 | [GYM104072D](https://codeforces.com/gym/104072/problem/D) | Iterate over the diagonal. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1017/solution/cf104072d.md) |
