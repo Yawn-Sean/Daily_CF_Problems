@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104852D](https://codeforces.com/gym/104852/problem/4) | Fun integers are fewer than you think. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1017/solution/cf104852d.md) |
-| *2100 | [GYM104072D](https://codeforces.com/gym/104072/problem/D) | Iterate over the diagonal. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1017/solution/cf104072d.md) |
+| *1500 | [GYM105408G](https://codeforces.com/gym/105408/problem/G) | What's the common GCD? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1018/solution/cf105408g.md) |
+| *1800 | [GYM104848M](https://codeforces.com/gym/104848/problem/M) | If we already choose a path, how should we decide the speed? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1018/solution/cf104848m.md) |
