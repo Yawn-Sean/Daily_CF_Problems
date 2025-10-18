@@ -18,8 +18,8 @@ int main() {
 
     for (int i = 1; i <= n; i++) {
         for (int x = A[i] / g; x > 1; x /= fac[x]) {
-            if (flag[fac[x]] && flag[fac[x]] != A[i]) { printf("NO\n"); return 0; }
-            flag[fac[x]] = A[i];
+            if (flag[fac[x]] && flag[fac[x]] != i) { printf("NO\n"); return 0; }
+            flag[fac[x]] = i;
         }
     }
     printf("YES\n");
