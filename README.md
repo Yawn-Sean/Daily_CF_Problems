@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM105408G](https://codeforces.com/gym/105408/problem/G) | What's the common GCD? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1018/solution/cf105408g.md) |
-| *1800 | [GYM104848M](https://codeforces.com/gym/104848/problem/M) | If we already choose a path, how should we decide the speed? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1018/solution/cf104848m.md) |
+| *1500 | [GYM105129L](https://codeforces.com/gym/105129/problem/L) | Only a few candidates. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1020/solution/cf105129l.md) |
+| *1800 | [GYM103886G](https://codeforces.com/gym/103886/problem/G) | Try decompose the problem into a smaller scale. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1020/solution/cf103886g.md) |
