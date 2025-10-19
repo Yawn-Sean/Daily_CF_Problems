@@ -16,46 +16,18 @@ int main() {
 	cin.tie(0);
 	cout.tie(0);
 
-	vector<int> prs = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47};
-	vector<long long> to_check = {1};
+	int n;
+	cin >> n;
 
-	for (auto &x: prs) {
-		int k = to_check.size();
-		for (int i = 0; i < k; i ++) {
-			to_check.emplace_back(to_check[i] * x);
-		}
-	}
+	auto solve = [&] (auto &self, int x) -> vector<int> {
+		if (x == 1) return {1};
+		vector<int> ans;
+		for (auto &v: self(self, x / 2)) ans.emplace_back(2 * v);
+		for (auto &v: self(self, x - x / 2)) ans.emplace_back(2 * v - 1);
+		return ans;
+	};
 
-	sort(to_check.begin(), to_check.end());
-
-	int t;
-	cin >> t;
-
-	while (t --) {
-		int n;
-		cin >> n;
-
-		vector<int> vis(51, 0);
-		while (n --) {
-			int x;
-			cin >> x;
-			vis[x] = 1;
-		}
-
-		for (auto &v: to_check) {
-			bool flg = true;
-			for (int i = 0; i <= 50; i ++) {
-				if (vis[i] && gcd(i, v) == 1) {
-					flg = false;
-					break;
-				}
-			}
-			if (flg) {
-				cout << v << '\n';
-				break;
-			}
-		}
-	}
+	for (auto &v: solve(solve, n)) cout << v << ' ';
 
 	return 0;
 }
