@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM105129L](https://codeforces.com/gym/105129/problem/L) | Only a few candidates. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1020/solution/cf105129l.md) |
-| *1800 | [GYM103886G](https://codeforces.com/gym/103886/problem/G) | Try decompose the problem into a smaller scale. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1020/solution/cf103886g.md) |
+| *1900 | [GYM105335I](https://codeforces.com/gym/105335/problem/I) | Try solve the problem in $\mathcal{O}(n)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1021/solution/cf105335i.md) |
+| *2000 | [GYM104848E](https://codeforces.com/gym/104848/problem/E) | Only a few candidates. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1021/solution/cf104848e.md) |
