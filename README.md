@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1900 | [GYM105335I](https://codeforces.com/gym/105335/problem/I) | Try solve the problem in $\mathcal{O}(n)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1021/solution/cf105335i.md) |
-| *2000 | [GYM104848E](https://codeforces.com/gym/104848/problem/E) | Only a few candidates. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1021/solution/cf104848e.md) |
+| *1700 | [GYM105582K](https://codeforces.com/gym/105582/problem/K) | Try solve the problem in $\mathcal{O}(n)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1022/solution/cf105582k.md) |
+| *2200 | [GYM105139I](https://codeforces.com/gym/105139/problem/I) | Adding points and finding diameters is easier. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1022/solution/cf105139i.md) |
