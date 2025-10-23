@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105582G](https://codeforces.com/gym/105582/problem/G) | Find the difference of each solution and the benchmark. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1023/solution/cf105582g.md) |
-| *1800 | [GYM105582C](https://codeforces.com/gym/105582/problem/C) | If you know how many sets you need to build ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1023/solution/cf105582c.md) |
+| *1600 | [GYM106129F](https://codeforces.com/gym/106129/problem/F) | There are only a few different lengths you need to check. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1024/solution/cf106129f.md) |
+| *2000 | [GYM106132C](https://codeforces.com/gym/106132/problem/C) | Once you fix $p_n$ , you can get the final result. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1024/solution/cf106132c.md) |
