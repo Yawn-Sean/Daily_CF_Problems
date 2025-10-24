@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106129F](https://codeforces.com/gym/106129/problem/F) | There are only a few different lengths you need to check. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1024/solution/cf106129f.md) |
-| *2000 | [GYM106132C](https://codeforces.com/gym/106132/problem/C) | Once you fix $p_n$ , you can get the final result. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1024/solution/cf106132c.md) |
+| *1600 | [GYM106125E](https://codeforces.com/gym/106125/problem/E) | The number of $1$ -s can keep growing. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1025/solution/cf106125e.md) |
+| *2100 | [GYM106125F](https://codeforces.com/gym/106125/problem/F) | Cliques are hard to find, but it means... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1025/solution/cf106125f.md) |
