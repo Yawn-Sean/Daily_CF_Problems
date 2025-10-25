@@ -1,5 +1,5 @@
 '''
-https://codeforces.com/gym/105582/submission/345331156
+https://codeforces.com/gym/105582/submission/345752536
 '''
 # 二分+换零钱问题
 def solve(n: int, m_min: int, m_max: int, a: list[list[int]]) -> int:
@@ -29,4 +29,4 @@ def solve(n: int, m_min: int, m_max: int, a: list[list[int]]) -> int:
                 return OK
         return FAIL
     
-    return bisect_right(range(10001), 0, key=check) - 1
+    return bisect_right(range(1000001), 0, key=check) - 1
