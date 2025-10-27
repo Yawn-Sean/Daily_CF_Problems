@@ -1,0 +1,7 @@
+n = ix()
+print(-1, 2)
+print(0, 2)
+print(n - 1, 1)
+print(n, 0)
+print(n - 1, 0)
+print(0, 1)
