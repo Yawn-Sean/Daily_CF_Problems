@@ -24,5 +24,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104873I](https://codeforces.com/gym/104873/problem/I) | Each array consists of distinct numbers. So you can easily identify its next appearance. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1027/solution/cf104873i.md) |
-| *1900 | [GYM105613E](https://codeforces.com/gym/105613/problem/E) | The upper bound of $k$ is easy to find. How can you get other $k$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1027/solution/cf105613e.md) |
+| *1700 | [GYM104535E](https://codeforces.com/gym/104535/problem/911.E) | Construct a hexagon of an area $3$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1028/solution/cf104535e.md) |
+| *2100 | [GYM104901K](https://codeforces.com/gym/104901/problem/K) | Is it OK to caculate the cost of a subarray when adding an element to or removing an element from it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1028/solution/cf104901k.md) |
+
