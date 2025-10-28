@@ -24,6 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM104535E](https://codeforces.com/gym/104535/problem/911.E) | Construct a hexagon of an area $3$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1028/solution/cf104535e.md) |
-| *2100 | [GYM104901K](https://codeforces.com/gym/104901/problem/K) | Is it OK to caculate the cost of a subarray when adding an element to or removing an element from it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1028/solution/cf104901k.md) |
-
+| *1600 | [GYM104599I](https://codeforces.com/gym/104599/problem/I) | A path can be decomposed into two parts by LCA. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1029/solution/cf104599i.md) |
+| *2000 | [GYM106054B](https://codeforces.com/gym/106054/problem/B) | Some elements are adjusted together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1029/solution/cf106054b.md) |
