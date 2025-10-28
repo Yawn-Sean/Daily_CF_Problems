@@ -24,5 +24,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105582G](https://codeforces.com/gym/105582/problem/G) | Find the difference of each solution and the benchmark. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1023/solution/cf105582g.md) |
-| *1800 | [GYM105582C](https://codeforces.com/gym/105582/problem/C) | If you know how many sets you need to build ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1023/solution/cf105582c.md) |
+| *1700 | [GYM104535E](https://codeforces.com/gym/104535/problem/911.E) | Construct a hexagon of an area $3$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1028/solution/cf104535e.md) |
+| *2100 | [GYM104901K](https://codeforces.com/gym/104901/problem/K) | Is it OK to caculate the cost of a subarray when adding an element to or removing an element from it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1028/solution/cf104901k.md) |
+
