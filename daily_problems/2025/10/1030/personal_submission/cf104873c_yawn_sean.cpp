@@ -16,7 +16,7 @@ int main() {
 	cin.tie(0);
 	cout.tie(0);
 
-	int mod = 998244353, M = 1e5 + 1e3, CNT = 450;
+	int mod = 998244353, M = 1e5, CNT = 450;
 
 	auto add = [&] (int &x, int y) -> void {
 		x += y;
@@ -38,12 +38,6 @@ int main() {
 		}
 	}
 
-	for (int i = 449; i >= 1; i --) {
-		for (int j = 0; j <= M; j ++) {
-			del(dp[i][j], dp[i - 1][j]);
-		}
-	}
-
 	int t;
 	cin >> t;
 
@@ -54,7 +48,7 @@ int main() {
 		int ans = 0;
 		for (int i = 1; i < 450; i ++) {
 			if ((n + i) % 2 == 0 && i * i <= n) {
-				add(ans, dp[i][(n - i * i) / 2 + i]);
+				add(ans, dp[i][(n - i * i) / 2]);
 			}
 		}
 
