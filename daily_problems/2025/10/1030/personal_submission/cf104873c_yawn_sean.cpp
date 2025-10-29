@@ -23,11 +23,6 @@ int main() {
 		if (x >= mod) x -= mod;
 	};
 
-	auto del = [&] (int &x, int y) -> void {
-		x -= y;
-		if (x < 0) x += mod;
-	};
-
 	vector<vector<int>> dp(CNT, vector<int>(M + 1, 0));
 	dp[0][0] = 1;
 
