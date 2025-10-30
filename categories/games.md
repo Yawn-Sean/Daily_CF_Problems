@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | 1600 | [CF1033C](https://codeforces.com/problemset/problem/1033/C) | Classic DP for games. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0622/solution/cf1033c.md) |
 | 1600 | [CF930B](https://codeforces.com/problemset/problem/930/B) | If the first letter is $x$ , what is the maximum probability? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0328/solution/cf930b.md) |
+| *1600 | [GYM106144F](https://codeforces.com/gym/106144/problem/F) | Each layer are one of the two kinds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1031/solution/cf106144f.md) |
 | 1700 | [CF1194D](https://codeforces.com/problemset/problem/1194/D) | Game theory. If you can't move k cells to the left, what should happen? How is the question different now? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0306/solution/cf1194d.md) |
 | 1700 | [CF1056C](https://codeforces.com/problemset/problem/1056/C) | Make use of your advantage. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/12/1219/solution/cf1056c.md) |
 | 1700 | [CF813C](https://codeforces.com/problemset/problem/813/C) | The total steps taken by Bob can't be larger than those of Alice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0416/solution/cf813c.md) |
