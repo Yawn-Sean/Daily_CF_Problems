@@ -25,4 +25,4 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
 | *1600 | [GYM104785K](https://codeforces.com/gym/104785/problem/K) | If you can categorize the edges into two parts and both have no cyclical dependencies, at least one of them has more than $m/2$ edges. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1030/solution/cf104785k.md) |
-| *2200 | [GYM104873](https://codeforces.com/gym/104873/problem/C) | Remove the square. There are not a lot of lines. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1030/solution/cf104873c.md) |
+| *2200 | [GYM104873C](https://codeforces.com/gym/104873/problem/C) | Remove the square. There are not a lot of lines. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1030/solution/cf104873c.md) |
