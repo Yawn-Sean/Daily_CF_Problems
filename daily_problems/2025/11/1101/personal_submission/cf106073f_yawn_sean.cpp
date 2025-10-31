@@ -23,20 +23,17 @@ int main() {
 	for (auto &v: nums) cin >> v;
 
 	int mod = 1e9 + 7, rev2 = (mod + 1) / 2;
+	vector<int> ans(n + 1, 0);
 
 	int cur = 0;
-	for (int i = q - 1; i >= 0; i --)
-		cur = 1ll * (cur + nums[i]) * rev2 % mod;
-	
-	vector<int> ans(n + 1, 0);
-	ans[1] = cur;
+	reverse(nums.begin(), nums.end());
 
-	for (int i = 0; i < q; i ++) {
-		cur = (cur * 2 - nums[i]) % mod;
-		if (cur < 0) cur += mod;
-		ans[nums[i]] += 1ll * cur * rev2 % mod;
-		if (ans[nums[i]] >= mod) ans[nums[i]] -= mod;
+	for (auto &v: nums) {
+		ans[v] = (1ll * cur * rev2 + ans[v]) % mod;
+		cur = 1ll * (cur + v) * rev2 % mod;
 	}
+
+	ans[1] = (ans[1] + cur) % mod;
 
 	for (int i = 1; i <= n; i ++)
 		cout << ans[i] << '\n';
