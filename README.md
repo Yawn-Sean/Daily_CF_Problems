@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106144F](https://codeforces.com/gym/106144/problem/F) | Each layer are one of the two kinds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1031/solution/cf106144f.md) |
-| *2200 | [GYM104873I](https://codeforces.com/gym/104871/problem/I) | First, determine the degree of each vertex. We can start from the leaves. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1031/solution/cf104871i.md) |
+| *1600 | [GYM106073F](https://codeforces.com/gym/106073/problem/F) | Additivity. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1101/solution/cf106073f.md) |
+| *2000 | [GYM104015G](https://codeforces.com/gym/104015/problem/G) | Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1101/solution/cf104015g.md) |
