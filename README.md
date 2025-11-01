@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104599I](https://codeforces.com/gym/104599/problem/I) | A path can be decomposed into two parts by LCA. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1029/solution/cf104599i.md) |
-| *2000 | [GYM106054B](https://codeforces.com/gym/106054/problem/B) | Some elements are adjusted together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1029/solution/cf106054b.md) |
+| *1700 | [GYM106073F](https://codeforces.com/gym/106073/problem/F) | Additivity. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1101/solution/cf106073f.md) |
+| *2000 | [GYM104015G](https://codeforces.com/gym/104015/problem/G) | Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1101/solution/cf104015g.md) |
