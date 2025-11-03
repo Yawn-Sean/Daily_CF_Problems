@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106073F](https://codeforces.com/gym/106073/problem/F) | Additivity. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1101/solution/cf106073f.md) |
-| *2000 | [GYM104015G](https://codeforces.com/gym/104015/problem/G) | Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1101/solution/cf104015g.md) |
+| *1700 | [GYM101968B](https://codeforces.com/gym/101968/problem/B) | What is the intersection? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1103/solution/cf101968b.md) |
+| *2100 | [GYM106157E](https://codeforces.com/gym/106157/problem/E) | If we know the final number of edges in the polygon... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1103/solution/cf106157e.md) |
