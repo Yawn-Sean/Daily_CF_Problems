@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105973C](https://codeforces.com/gym/105973/problem/C) | You can change the order of calculations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1104/solution/cf105973c.md) |
-| *2000 | [GYM106157F](https://codeforces.com/gym/106157/problem/F) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1104/solution/cf106157f.md) |
+| *1600 | [GYM105934C](https://codeforces.com/gym/105934/problem/C) | Two kinds of arrays. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1105/solution/cf105934c.md) |
+| *1800 | [GYM106160A](https://codeforces.com/gym/106160/problem/A) | Symmetry. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1105/solution/cf106160a.md) |
