@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM101968B](https://codeforces.com/gym/101968/problem/B) | What is the intersection? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1103/solution/cf101968b.md) |
-| *2100 | [GYM106157E](https://codeforces.com/gym/106157/problem/E) | If we know the final number of edges in the polygon... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1103/solution/cf106157e.md) |
+| *1700 | [GYM105973C](https://codeforces.com/gym/105973/problem/C) | You can change the order of calculations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1104/solution/cf105973c.md) |
+| *2000 | [GYM106157F](https://codeforces.com/gym/106157/problem/F) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1104/solution/cf106157f.md) |
