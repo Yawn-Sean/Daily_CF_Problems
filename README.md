@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105934C](https://codeforces.com/gym/105934/problem/C) | Two kinds of arrays. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1105/solution/cf105934c.md) |
-| *1800 | [GYM106160A](https://codeforces.com/gym/106160/problem/A) | Symmetry. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1105/solution/cf106160a.md) |
+| *1500 | [GYM105669B](https://codeforces.com/gym/105669/problem/B) | Transform the two numbers into something smaller. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1106/solution/cf105669b.md) |
+| *2000 | [GYM105940A](https://codeforces.com/gym/105940/problem/A) | How can we calculate the number of substrings that satisfy the condition? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1106/solution/cf105940a.md) |
