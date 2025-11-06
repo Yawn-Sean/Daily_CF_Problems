@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM105669B](https://codeforces.com/gym/105669/problem/B) | Transform the two numbers into something smaller. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1106/solution/cf105669b.md) |
-| *2000 | [GYM105940A](https://codeforces.com/gym/105940/problem/A) | How can we calculate the number of substrings that satisfy the condition? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1106/solution/cf105940a.md) |
+| *1700 | [GYM106159D](https://codeforces.com/gym/106159/problem/D) | Actually, a lot of things don't change when you use the operation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1107/solution/cf106159d.md) |
+| *2100 | [GYM106170K](https://codeforces.com/gym/106170/problem/K) | A lot of inequalities. Each inequality can be transformed into a simpler form. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1107/solution/cf106170k.md) |
