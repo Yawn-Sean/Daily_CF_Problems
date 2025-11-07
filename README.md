@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106159D](https://codeforces.com/gym/106159/problem/D) | Actually, a lot of things don't change when you use the operation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1107/solution/cf106159d.md) |
-| *2100 | [GYM106170K](https://codeforces.com/gym/106170/problem/K) | A lot of inequalities. Each inequality can be transformed into a simpler form. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1107/solution/cf106170k.md) |
+| *1600 | [GYM106174C](https://codeforces.com/gym/106174/problem/3) | The number of digits gets larger as the number gets larger. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1108/solution/cf106174c.md) |
+| *2100 | [GYM106170A](https://codeforces.com/gym/106170/problem/A) | Again, find the lower bound for the problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1108/solution/cf106170a.md) |
