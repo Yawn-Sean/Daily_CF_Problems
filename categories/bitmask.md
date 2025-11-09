@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1200 | [GYM106179C](https://codeforces.com/gym/106179/problem/C) | Make the result easier to calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1110/solution/cf106179c.md) |
 | 1600 | [CF1045I](https://codeforces.com/problemset/problem/1045/I) | Check the conditions of "constructing" a palindrome. Find a way to store the information. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0329/solution/cf1045i.md) |
 | 1600 | [CF878A](https://codeforces.com/problemset/problem/878/A) | Consider each bit separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0823/solution/cf878a.md) |
 | 1600 | [CF768B](https://codeforces.com/problemset/problem/768/B) | As $r-l$ is not large, we can find out the answer of each position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0830/solution/cf768b.md) |

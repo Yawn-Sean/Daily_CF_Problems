@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106174C](https://codeforces.com/gym/106174/problem/3) | The number of digits gets larger as the number gets larger. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1108/solution/cf106174c.md) |
-| *2100 | [GYM106170A](https://codeforces.com/gym/106170/problem/A) | Again, find the lower bound for the problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1108/solution/cf106170a.md) |
+| *1200 | [GYM106179C](https://codeforces.com/gym/106179/problem/C) | Make the result easier to calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1110/solution/cf106179c.md) |
+| *1800 | [GYM105486I](https://codeforces.com/gym/105486/problem/I) | Some positions are meant to be separated. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1110/solution/cf105486i.md) |
