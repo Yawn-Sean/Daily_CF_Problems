@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM106179C](https://codeforces.com/gym/106179/problem/C) | Make the result easier to calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1110/solution/cf106179c.md) |
-| *1800 | [GYM105486I](https://codeforces.com/gym/105486/problem/I) | Some positions are meant to be separated. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1110/solution/cf105486i.md) |
+| *1700 | [GYM106177F](https://codeforces.com/gym/106177/problem/F) | Find the rule for $f(x)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1111/solution/cf106177f.md) |
+| *1700 | [GYM106179D](https://codeforces.com/gym/106179/problem/D) | We don't need many operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1111/solution/cf106179d.md) |
