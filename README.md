@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106177F](https://codeforces.com/gym/106177/problem/F) | Find the rule for $f(x)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1111/solution/cf106177f.md) |
-| *1700 | [GYM106179D](https://codeforces.com/gym/106179/problem/D) | We don't need many operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1111/solution/cf106179d.md) |
+| *1400 | [GYM105478B](https://codeforces.com/gym/105478/problem/B) | Consider each segment of question marks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1112/solution/cf105478b.md) |
+| *1800 | [GYM105962C](https://codeforces.com/gym/105962/problem/C) | Iterate over the two rows chosen. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1112/solution/cf105962c.md) |
