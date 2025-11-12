@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM105478B](https://codeforces.com/gym/105478/problem/B) | Consider each segment of question marks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1112/solution/cf105478b.md) |
-| *1800 | [GYM105962C](https://codeforces.com/gym/105962/problem/C) | Iterate over the two rows chosen. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1112/solution/cf105962c.md) |
+| *1600 | [GYM104671F](https://codeforces.com/gym/104671/problem/F) | Find the important elements and their contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1113/solution/cf104671f.md) |
+| *2100 | [GYM106185I](https://codeforces.com/gym/106185/problem/I) | If we know the pairs, how can we calculate the answer? Pair the elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1113/solution/cf106185i.md) |
