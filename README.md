@@ -24,5 +24,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104671F](https://codeforces.com/gym/104671/problem/F) | Find the important elements and their contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1113/solution/cf104671f.md) |
-| *2100 | [GYM106185I](https://codeforces.com/gym/106185/problem/I) | If we know the pairs, how can we calculate the answer? Pair the elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1113/solution/cf106185i.md) |
+| *1700 | [GYM106188G](https://codeforces.com/gym/106188/problem/G) | Iterate over the longest edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1114/solution/cf106188g.md) |
+| *2100 | [GYM105214K](https://codeforces.com/gym/105214/problem/K) | Transform the problem into the one where rectangles can touch each other. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1114/solution/cf105214k.md) |
+
