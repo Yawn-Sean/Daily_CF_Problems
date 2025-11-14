@@ -24,6 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106188G](https://codeforces.com/gym/106188/problem/G) | Iterate over the longest edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1114/solution/cf106188g.md) |
-| *2100 | [GYM105214K](https://codeforces.com/gym/105214/problem/K) | Transform the problem into the one where rectangles can touch each other. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1114/solution/cf105214k.md) |
-
+| *1700 | [GYM106189J](https://codeforces.com/gym/106189/problem/J) | Consider the pairing cubes and the subsequence formed by them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1115/solution/cf106189j.md) |
+| *1900 | [GYM106189I](https://codeforces.com/gym/106189/problem/I) | A kind of step can gets you into many places, but they can be simplified. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1115/solution/cf106189i.md) |
