@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106189J](https://codeforces.com/gym/106189/problem/J) | Consider the pairing cubes and the subsequence formed by them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1115/solution/cf106189j.md) |
-| *1900 | [GYM106189I](https://codeforces.com/gym/106189/problem/I) | A kind of step can gets you into many places, but they can be simplified. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1115/solution/cf106189i.md) |
+| *1700 | [GYM106191E](https://codeforces.com/gym/106191/problem/E) | If $S=T$ ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1117/solution/cf106191e.md) |
+| *2000 | [GYM106191F](https://codeforces.com/gym/106191/problem/F) | Find the conditions for the subarray. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1117/solution/cf106191f.md) |
