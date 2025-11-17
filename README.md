@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106191E](https://codeforces.com/gym/106191/problem/E) | If $S=T$ ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1117/solution/cf106191e.md) |
-| *2000 | [GYM106191F](https://codeforces.com/gym/106191/problem/F) | Find the conditions for the subarray. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1117/solution/cf106191f.md) |
+| *1800 | [GYM105698G](https://codeforces.com/gym/105698/problem/G) | If we want the answer of index $i$ to be larger than $x$ , which operations should we do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1118/solution/cf105698g.md) |
+| *1900 | [GYM105698I](https://codeforces.com/gym/105698/problem/I) | What's the condition for the subsequence? And what's the important information we should save? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1118/solution/cf105698i.md) |
