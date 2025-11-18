@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105698G](https://codeforces.com/gym/105698/problem/G) | If we want the answer of index $i$ to be larger than $x$ , which operations should we do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1118/solution/cf105698g.md) |
-| *1900 | [GYM105698I](https://codeforces.com/gym/105698/problem/I) | What's the condition for the subsequence? And what's the important information we should save? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1118/solution/cf105698i.md) |
+| *1600 | [GYM106007D](https://codeforces.com/gym/106007/problem/D) | Consider the edge between the winner and the loser as an edge of the tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1119/solution/cf106007d.md) |
+| *2000 | [GYM106007E](https://codeforces.com/gym/106007/problem/E) | Which pairs of white vertices should we count? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1119/solution/cf106007e.md) |
