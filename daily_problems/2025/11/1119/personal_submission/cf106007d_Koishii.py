@@ -22,12 +22,11 @@ def soviet():
                 vis[y] = True
                 ans.append((x, y))
 
-    for i in range(n):
-        if not vis[i]:
-            print("No")
-            return
+    if False in vis:
+        print("No")
+    else:
+        print("Yes")
 
-    print("Yes")
     for x, y in ans[::-1]:
         print(x + 1, y + 1)
     print()
