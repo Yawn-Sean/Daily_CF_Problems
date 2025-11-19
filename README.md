@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106007D](https://codeforces.com/gym/106007/problem/D) | Consider the edge between the winner and the loser as an edge of the tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1119/solution/cf106007d.md) |
-| *2000 | [GYM106007E](https://codeforces.com/gym/106007/problem/E) | Which pairs of white vertices should we count? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1119/solution/cf106007e.md) |
+| *1600 | [GYM104536E](https://codeforces.com/gym/104536/problem/E) | Find the easier way to implement. It's just choosing the element to add in the LIS. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1120/solution/cf104536e.md) |
+| *1700 | [GYM104936E](https://codeforces.com/gym/104936/problem/E) | Exactly $k$ is relatively more difficult. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1120/solution/cf104936e.md) |
