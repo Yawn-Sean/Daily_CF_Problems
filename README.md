@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104536E](https://codeforces.com/gym/104536/problem/E) | Find the easier way to implement. It's just choosing the element to add in the LIS. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1120/solution/cf104536e.md) |
-| *1700 | [GYM104936E](https://codeforces.com/gym/104936/problem/E) | Exactly $k$ is relatively more difficult. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1120/solution/cf104936e.md) |
+| *1600 | [GYM104604D](https://codeforces.com/gym/104604/problem/D) | Consider the factor of $V$ as $V/x$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1121/solution/cf104604d.md) |
+| *1800 | [GYM106178B](https://codeforces.com/gym/106178/problem/B) | When $N$ is large, the elements which come later don't vary much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1121/solution/cf106178b.md) |
