@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104604D](https://codeforces.com/gym/104604/problem/D) | Consider the factor of $V$ as $V/x$. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1121/solution/cf104604d.md) |
-| *1800 | [GYM106178B](https://codeforces.com/gym/106178/problem/B) | When $N$ is large, the elements which come later don't vary much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1121/solution/cf106178b.md) |
+| *1700 | [GYM106107B](https://codeforces.com/gym/106107/problem/B) | If we iterate over $r$ , what is the condition for the left border? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1122/solution/cf106107b.md) |
+| *2300 | [GYM105712I](https://codeforces.com/gym/105712/problem/I) | After a transformation, you just need to move some black blocks to another places. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1122/solution/cf105712i.md) |
