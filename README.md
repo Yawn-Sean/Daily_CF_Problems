@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106107B](https://codeforces.com/gym/106107/problem/B) | If we iterate over $r$ , what is the condition for the left border? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1122/solution/cf106107b.md) |
-| *2300 | [GYM105712I](https://codeforces.com/gym/105712/problem/I) | After a transformation, you just need to move some black blocks to another places. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1122/solution/cf105712i.md) |
+| *1700 | [GYM105712B](https://codeforces.com/gym/105712/problem/B) | Find the upper bound. What do you need to reach this? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1124/solution/cf105712b.md) |
+| *1800 | [GYM106208A](https://codeforces.com/gym/106208/problem/A) | Transitions are just about the length of the interval. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1124/solution/cf106208a.md) |
