@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *2000 | [GYM106015K](https://codeforces.com/gym/106015/problem/K) | What's the tree we want? How can we decide if it satisfies the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1125/solution/cf106015k.md) |
-| *2200 | [GYM105561B](https://codeforces.com/gym/105561/problem/B) | If the value of the power is large enough, we don't really care much about it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1125/solution/cf105561b.md) |
+| *1700 | [GYM106197L](https://codeforces.com/gym/106197/problem/L) | Use two groups of numbers to assign the rows and columns. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1126/solution/cf106197l.md) |
+| *2000 | [GYM106197G](https://codeforces.com/gym/106197/problem/G) | What do we need to decide the $i$ -th digit of the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1126/solution/cf106197g.md) |
