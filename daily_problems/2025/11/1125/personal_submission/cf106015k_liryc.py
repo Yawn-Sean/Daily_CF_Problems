@@ -1,29 +1,30 @@
 '''
-https://codeforces.com/gym/106015/submission/350585730
+https://codeforces.com/gym/106015/submission/350641280
 '''
+
+# templates and globals are skipped
+# class UnionFind:
+selected_edges = set() 
+# def build_mst(n: int, edges: list[list[int]]) -> list[list[int]]:
+depth = [] 
+dis_to_root = [] 
+parent = [] 
+# def tree_dfs(tg: list[list[int]]): 
+nth_parent = []
+# def init_lca():
+# def lca(u, v):
+    
 def solve(n: int, m: int, edges: list[list[int]]) -> bool: 
-    uni = UnionFind(n)
-    si = sorted(range(m), key=lambda i: edges[i][2])
-    
-    path = [[] for _ in range(n)]
-    b = [0] * m
-    
-    for i in si:
-        u, v, w = edges[i]
-        if uni.union(u, v):
-            b[i] = 1
-            path[u].append(w * n + v)
-            path[v].append(w * n + u)
-    
-    global ra
-    init_lca(n, m, edges, path)
-    
+    global dis_to_root, selected_edges
+    mst = build_mst(n, edges)
+    if n - 1 != len(selected_edges): 
+        return False
+    tree_dfs(mst)
+    init_lca()
     for i in range(m):
-        if not b[i]:
-            u = u
-            v = v
+        if not i in selected_edges:
+            u, v, w = edges[i]
             l = lca(u, v)
-            if ra[u] + ra[v] - 2 * ra[l] > w:
+            if dis_to_root[u] + dis_to_root[v] - 2 * dis_to_root[l] > w:
                 return False
     return True
-
