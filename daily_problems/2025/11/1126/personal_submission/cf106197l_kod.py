@@ -8,4 +8,4 @@ for i in range(t):
     for i in range(n % 2, n):
         ans[n - 1][i] += 1
     for x in ans:
-        print(*x)
+        print(''.join(map(str, x)))
