@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106197L](https://codeforces.com/gym/106197/problem/L) | Use two groups of numbers to assign the rows and columns. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1126/solution/cf106197l.md) |
-| *2000 | [GYM106197G](https://codeforces.com/gym/106197/problem/G) | What do we need to decide the $i$ -th digit of the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1126/solution/cf106197g.md) |
+| *1800 | [GYM106197C](https://codeforces.com/gym/106197/problem/C) | Find $1$ first. Then delete numbers round after round. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1127/solution/cf106197c.md) |
+| *2200 | [GYM106197F](https://codeforces.com/gym/106197/problem/F) | You can sort most of the elements except for some larger numbers. You can just adjust the current status to something simpler to cope with. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1127/solution/cf106197f.md) |
