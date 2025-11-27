@@ -37,3 +37,4 @@ def soviet():
     print(*ans)
 
 soviet()
+
