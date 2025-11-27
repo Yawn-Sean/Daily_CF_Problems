@@ -48,3 +48,4 @@ int main() {
 	while (M_T--) { soviet(); }
 	return 0;
 }
+
