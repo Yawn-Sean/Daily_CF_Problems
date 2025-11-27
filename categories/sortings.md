@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1500 | [CF1547E](https://codeforces.com/problemset/problem/1547/E) | Try plotting the function and find where the function changes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/02/0226/solution/cf1547e.md) |
+| *1500 | [GYM105314B](https://codeforces.com/gym/105314/problem/B) | Find the bound and what do you need to calculate afterwards? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf105314b.md) |
 | 1600 | [CF231C](https://codeforces.com/problemset/problem/231/C) | If you want to make all elements in a subsequence equal, how many operations at least should you apply? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0706/solution/cf231c.md) |
 | 1600 | [CF593B](https://codeforces.com/problemset/problem/593/B) | Use a single formula to check if the intersection lays between $x_1$ and $x_2$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0906/solution/cf593b.md) |
 | 1600 | [CF416C](https://codeforces.com/problemset/problem/416/C) | Consider each table from small to large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0927/solution/cf416c.md) |

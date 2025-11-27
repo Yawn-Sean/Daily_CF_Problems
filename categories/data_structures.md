@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1500 | [GYM106032J](https://codeforces.com/gym/106032/problem/J) | When two number "merges" ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0927/solution/cf106032j.md) |
+| *1500 | [GYM105314B](https://codeforces.com/gym/105314/problem/B) | Find the bound and what do you need to calculate afterwards? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf105314b.md) |
 | 1600 | [CF822C](https://codeforces.com/problemset/problem/822/C) | Figure out a way to describe two non-intersecting segments. Minimize the value then. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0406/solution/cf822c.md) |
 | 1600 | [CF830B](https://codeforces.com/problemset/problem/830/B)   | You already know the order of the cards being drawn, so you only need to consider how to caculate the "gap" between cards. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0413/solution/cf830b.md) |
 | 1600 | [CF1878D](https://codeforces.com/problemset/problem/1878/D) | Actually, the order of the operations doesn't matter at all. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0419/solution/cf1878d.md) |

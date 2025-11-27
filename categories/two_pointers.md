@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1500 | [CF1547E](https://codeforces.com/problemset/problem/1547/E) | Try plotting the function and find where the function changes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/tree/main/daily_problems/2024/02/0226) |
+| *1500 | [GYM105314B](https://codeforces.com/gym/105314/problem/B) | Find the bound and what do you need to calculate afterwards? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf105314b.md) |
 | 1600 | [CF924B](https://codeforces.com/problemset/problem/924/B) | Three variables but one can be deleted using greedy. So the problem can be solved with two-pointers | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0327/solution/cf924b.md) |
 | 1600 | [CF1196D2](https://codeforces.com/problemset/problem/1196/D2) | There are only $3$ different patterns. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0629/solution/cf1196d2.md) |
 | 1600 | [CF231C](https://codeforces.com/problemset/problem/231/C) | If you want to make all elements in a subsequence equal, how many operations at least should you apply? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0706/solution/cf231c.md) |

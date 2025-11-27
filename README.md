@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106197C](https://codeforces.com/gym/106197/problem/C) | Find $1$ first. Then delete numbers round after round. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1127/solution/cf106197c.md) |
-| *2200 | [GYM106197F](https://codeforces.com/gym/106197/problem/F) | You can sort most of the elements except for some larger numbers. You can just adjust the current status to something simpler to cope with. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1127/solution/cf106197f.md) |
+| *1500 | [GYM105314B](https://codeforces.com/gym/105314/problem/B) | Find the bound and what do you need to calculate afterwards? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf105314b.md) |
+| *1800 | [GYM104479D](https://codeforces.com/gym/104479/problem/D) | Consider the position of $n$ in the topological order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf104479d.md) |
