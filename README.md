@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM105314B](https://codeforces.com/gym/105314/problem/B) | Find the bound and what do you need to calculate afterwards? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf105314b.md) |
-| *1800 | [GYM104479D](https://codeforces.com/gym/104479/problem/D) | Consider the position of $n$ in the topological order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf104479d.md) |
+| *1700 | [GYM106017C](https://codeforces.com/gym/106017/problem/C) | As there are only a few possible answers, we just need to decide which is the final answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1129/solution/cf106017c.md) |
+| *2000 | [GYM104479J](https://codeforces.com/gym/104479/problem/J) | Find a possible answer first. Find an order to calculate the number of methods. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1129/solution/cf104479j.md) |
