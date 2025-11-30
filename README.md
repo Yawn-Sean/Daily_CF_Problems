@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106017C](https://codeforces.com/gym/106017/problem/C) | As there are only a few possible answers, we just need to decide which is the final answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1129/solution/cf106017c.md) |
-| *2000 | [GYM104479J](https://codeforces.com/gym/104479/problem/J) | Find a possible answer first. Find an order to calculate the number of methods. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1129/solution/cf104479j.md) |
+| *1500 | [GYM105316A](https://codeforces.com/gym/105316/problem/A) | DP. Transitions are continuous. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1201/solution/cf105316a.md) |
+| *1900 | [GYM105668G](https://codeforces.com/gym/105668/problem/G) | There is a constant, and the final result is fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1201/solution/cf105668g.md) |

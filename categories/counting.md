@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | 1500 | [CF584B](https://codeforces.com/problemset/problem/584/B) | Classic counting problem. Think of the opposite | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0302/solution/cf584b.md) |
+| *1500 | [GYM105316A](https://codeforces.com/gym/105316/problem/A) | DP. Transitions are continuous. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1201/solution/cf105316a.md) |
 | 1600 | [CF1045I](https://codeforces.com/problemset/problem/1045/I) | Check the conditions of "constructing" a palindrome. Find a way to store the information. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0329/solution/cf1045i.md) |
 | 1600 | [CF1056B](https://codeforces.com/problemset/problem/1056/B) | $m$ isn't large, so the conditons of $(i, j)$ modulo $m$ isn't large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0608/solution/cf1056b.md) |
 | 1600 | [CF888D](https://codeforces.com/problemset/problem/888/D) | Consider different $k$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0802/solution/cf888d.md) |
