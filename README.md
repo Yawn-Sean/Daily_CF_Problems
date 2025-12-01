@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM105316A](https://codeforces.com/gym/105316/problem/A) | DP. Transitions are continuous. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1201/solution/cf105316a.md) |
-| *1900 | [GYM105668G](https://codeforces.com/gym/105668/problem/G) | There is a constant, and the final result is fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1201/solution/cf105668g.md) |
+| *1600 | [GYM105316H](https://codeforces.com/gym/105316/problem/H) | What are you calculating? What is the contribution of each position? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1202/solution/cf105316h.md) |
+| *1900 | [GYM105316L](https://codeforces.com/gym/105316/problem/L) | A correct bracket sequence is just a tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1202/solution/cf105316l.md) |
