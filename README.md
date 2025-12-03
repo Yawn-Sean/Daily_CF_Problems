@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105187B](https://codeforces.com/gym/105187/problem/B) | What is the difference a pair makes to the others? You just need to calculate the minimum number of players whose score exceeds $i$ 's. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1203/solution/cf105187b.md) |
-| *2100 | [GYM105056F](https://codeforces.com/gym/105056/problem/F) | You can answer the queries offline and consider the operations as an array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1203/solution/cf105056f.md) |
+| *1700 | [GYM105056E](https://codeforces.com/gym/105056/problem/E) | What are you actually calculating? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1204/solution/cf105056e.md) |
+| *1700 | [GYM104493M](https://codeforces.com/gym/104493/problem/M) | It's all about Minkowski sum. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1204/solution/cf104493m.md) |
