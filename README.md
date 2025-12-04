@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105056E](https://codeforces.com/gym/105056/problem/E) | What are you actually calculating? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1204/solution/cf105056e.md) |
-| *1700 | [GYM104493M](https://codeforces.com/gym/104493/problem/M) | It's all about Minkowski sum. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1204/solution/cf104493m.md) |
+| *1800 | [GYM104511F](https://codeforces.com/gym/104511/problem/F) | Consider the cost of each $1$ coffees as 1. You just need to calculate the cost of the first kind of coffee. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1205/solution/cf104511f.md) |
+| *2200 | [GYM105401J](https://codeforces.com/gym/105401/problem/J) | The answer can't be large. Then it's all about different cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1205/solution/cf105401j.md) |
