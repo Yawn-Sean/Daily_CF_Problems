@@ -35,7 +35,7 @@ int main() {
 			x --, y --, z --;
 		}
 
-		vector<long double> cost(n, -1);
+		vector<long long> cost(n, -1);
 		for (int i = 0; i < n; i ++) {
 			if (s[i] == '1') {
 				cost[i] = 1;
@@ -45,14 +45,14 @@ int main() {
 		for (int _ = 0; _ < n; _ ++) {
 			for (auto &[a, x, b, y, c, z]: ops) {
 				if (cost[x] >= 0 && cost[y] >= 0) {
-					if (cost[z] == -1) cost[z] = (a * cost[x] + b * cost[y]) / c;
-					else cost[z] = min(cost[z], (a * cost[x] + b * cost[y]) / c);
+					if (cost[z] == -1) cost[z] = a * cost[x] + b * cost[y];
+					else cost[z] = min(cost[z], a * cost[x] + b * cost[y]);
 				}
 			}
 		}
 
 		if (cost[0] < 0) cout << 0 << '\n';
-		else cout << v / cost[0] << '\n';
+		else cout << (long double)v / cost[0] << '\n';
 	}
 
 	return 0;

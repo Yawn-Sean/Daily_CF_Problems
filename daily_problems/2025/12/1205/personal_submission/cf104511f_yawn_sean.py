@@ -23,8 +23,8 @@ def main():
         for _ in range(n):
             for a, x, b, y, c, z in transactions:
                 if cost[x] != -1 and cost[y] != -1:
-                    if cost[z] == -1: cost[z] = (a * cost[x] + b * cost[y]) / c
-                    else: cost[z] = fmin(cost[z], (a * cost[x] + b * cost[y]) / c)
+                    if cost[z] == -1: cost[z] = (a * cost[x] + b * cost[y])
+                    else: cost[z] = fmin(cost[z], (a * cost[x] + b * cost[y]))
         
         outs.append(v / cost[0] if cost[0] != -1 else 0)
     
