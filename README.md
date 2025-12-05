@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM104511F](https://codeforces.com/gym/104511/problem/F) | Consider the cost of each $1$ coffees as 1. You just need to calculate the cost of the first kind of coffee. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1205/solution/cf104511f.md) |
-| *2200 | [GYM105401J](https://codeforces.com/gym/105401/problem/J) | The answer can't be large. Then it's all about different cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1205/solution/cf105401j.md) |
+| *1800 | [GYM106241G](https://codeforces.com/gym/106241/problem/G) | There are only a few different kinds of status. What about the transitions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1206/solution/cf106241g.md) |
+| *2000 | [GYM106241F](https://codeforces.com/gym/106241/problem/F) | You should avoid leaving something or adding something twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1206/solution/cf106241f.md) |
