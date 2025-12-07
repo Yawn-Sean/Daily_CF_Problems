@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106241G](https://codeforces.com/gym/106241/problem/G) | There are only a few different kinds of status. What about the transitions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1206/solution/cf106241g.md) |
-| *2000 | [GYM106241F](https://codeforces.com/gym/106241/problem/F) | You should avoid leaving something or adding something twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1206/solution/cf106241f.md) |
+| *1800 | [GYM106035C](https://codeforces.com/gym/106035/problem/C) | Calculate the answer in binary system. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1208/solution/cf106035c.md) |
+| *1900 | [GYM106039J](https://codeforces.com/gym/106039/problem/J) | There can't be a huge detour. When you arrive a node $u$ to get to the target, the real route taken can't be much longer than the shortest path. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1208/solution/cf106035j.md) |
