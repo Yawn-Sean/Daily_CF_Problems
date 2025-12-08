@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106035C](https://codeforces.com/gym/106035/problem/C) | Calculate the answer in binary system. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1208/solution/cf106035c.md) |
-| *1900 | [GYM106039J](https://codeforces.com/gym/106039/problem/J) | There can't be a huge detour. When you arrive a node $u$ to get to the target, the real route taken can't be much longer than the shortest path. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1208/solution/cf106035j.md) |
+| *1800 | [GYM106039L](https://codeforces.com/gym/106039/problem/L) | Transition is actually linear. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1209/solution/cf106039l.md) |
+| *1800 | [GYM106039F](https://codeforces.com/gym/106039/problem/F) | Transform the teleporters into roads. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1209/solution/cf106039f.md) |
