@@ -1,42 +1,40 @@
 '''
-2025/12/09 Y2
-1800
+https://codeforces.com/gym/106039/submission/352679995
 '''
 # dijkstra
-from itertools import permutations
-from sys import stdin
-from collections import Counter, defaultdict
-input = lambda: stdin.readline().strip()
-
 def init():
     n, m, k = map(int, input().split())
-    edges = Counter()
-    for i in range(m):
+    g = [[] for _ in range(n + k)]
+    for _ in range(m):
         u, v, c = map(int, input().split())
         u, v = u - 1, v - 1
-        edges[u << 18 | v] = edges[v << 18 | u] = c
-    ta = defaultdict(list)
+        g[u].append(c << 20 | v)
+        g[v].append(c << 20 | u)
     for u in range(n):
         t = int(input())
         for _ in range(t):
             x, c = map(int, input().split())
-            ta[x].append([u, c])
-    for a in ta.values():
-        for (u, c), (v, _) in permutations(a, 2):
-            key = u << 18 | v
-            if key in edges:
-                if c < edges[key]:
-                    edges[key] = c
-            else:
-                edges[key] = c
+            x += n - 1
+            g[u].append(c << 20 | x)
+            g[x].append(u)    
+    return n, m, k, g
 
-    
-    return n, m
-
-def solve(n: int, m: int):
-    return n + m
-
-if __name__ == '__main__':
-    args = init()
-    ans = solve(*args)
-    print(ans)
+def solve(n: int, m: int, k: int, g: list[list[int]]) -> int:
+    dist = [-1] * (n + k)
+    dist[0] = 0
+    hp = [0]
+    mg = (1 << 20) - 1
+    while hp:
+        ec = heappop(hp)
+        u, c = ec & mg, ec >> 20
+        if c > dist[u]:
+            continue
+        if u == n - 1:
+            return c
+        for e in g[u]:
+            v, d = e & mg, e >> 20
+            t = c + d
+            if dist[v] < 0 or dist[v] > t:
+                dist[v] = t
+                heappush(hp, t << 20 | v)
+    return -1 
