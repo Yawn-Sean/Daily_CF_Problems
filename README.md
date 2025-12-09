@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106039L](https://codeforces.com/gym/106039/problem/L) | Transition is actually linear. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1209/solution/cf106039l.md) |
-| *1800 | [GYM106039F](https://codeforces.com/gym/106039/problem/F) | Transform the teleporters into roads. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1209/solution/cf106039f.md) |
+| *1600 | [GYM106045D](https://codeforces.com/gym/106045/problem/D) | Consider a single string. The distance between its ends can be decomposed into two parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1210/solution/cf106045d.md) |
+| *2000 | [GYM106098H](https://codeforces.com/gym/106098/problem/H) | You just need to find out the block that includes $0$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1210/solution/cf106098h.md) |
