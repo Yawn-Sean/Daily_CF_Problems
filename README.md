@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106045D](https://codeforces.com/gym/106045/problem/D) | Consider a single string. The distance between its ends can be decomposed into two parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1210/solution/cf106045d.md) |
-| *2000 | [GYM106098H](https://codeforces.com/gym/106098/problem/H) | You just need to find out the block that includes $0$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1210/solution/cf106098h.md) |
+| *1900 | [GYM105863F](https://codeforces.com/gym/105863/problem/F) | The number of modulos that is actually operated is small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1211/solution/cf105863f.md) |
+| *2000 | [GYM106033I](https://codeforces.com/gym/106033/problem/I) | Counting. Consider the problem in a grid. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1211/solution/cf106033i.md) |
