@@ -1,0 +1,25 @@
+def soviet():
+    n, q = map(int, input().split())
+    a = []
+    for x in map(int ,input().split()):
+        if len(a) == 0 or x < a[-1]:
+            a.append(x)
+
+    for _ in range(q):
+        x = int(input())
+        i = 0
+        while i < len(a):
+            x %= a[i]
+            l, r = i + 1, len(a) - 1
+            while l < r:
+                mid = l + r >> 1
+                if a[mid] <= x: r = mid
+                else: l = mid + 1
+            if l < len(a) and a[l] <= x: i = l
+            else: break
+        print(x)
+
+
+MT = int(input())
+for _ in range(MT):
+    soviet()
