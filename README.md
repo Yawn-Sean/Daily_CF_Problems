@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105780D](https://codeforces.com/gym/105780/problem/D) | There aren't many cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1212/solution/cf105780d.md) |
-| *1800 | [GYM105863G](https://codeforces.com/gym/105863/problem/G) | Consider the $i$ -th element having the value of $j$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1212/solution/cf105863g.md) |
+| *1700 | [GYM105284C](https://codeforces.com/gym/105284/problem/C) | The number of connected components is strongly connected with the number of vertices and edges if there are no cycles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1213/solution/cf105284c.md) |
+| *2700 | [GYM105863G](https://codeforces.com/gym/105863/problem/G) | Consider $F(A)$ as the solution of a simple problem. Then for each item about $F(A)$ , we can calculate the number of possible grids that can reach this item. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1213/solution/cf105284j.md) |
