@@ -19,4 +19,5 @@ def soviet():
 
     print(ans // 4)
 
+
 soviet()
