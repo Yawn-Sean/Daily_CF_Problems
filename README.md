@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105284C](https://codeforces.com/gym/105284/problem/C) | The number of connected components is strongly connected with the number of vertices and edges if there are no cycles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1213/solution/cf105284c.md) |
-| *2700 | [GYM105284J](https://codeforces.com/gym/105284/problem/J) | Consider $F(A)$ as the solution of a simple problem. Then for each item about $F(A)$ , we can calculate the number of possible grids that can reach this item. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1213/solution/cf105284j.md) |
+| *1500 | [GYM106260A](https://codeforces.com/gym/106260/problem/A) | Consider the contribution of node $u$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1215/solution/cf106260a.md) |
+| *2100 | [GYM106262D](https://codeforces.com/gym/106262/problem/D) | How do you decide the possible alcohol content of the finally mixed liquid? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1215/solution/cf106262d.md) |

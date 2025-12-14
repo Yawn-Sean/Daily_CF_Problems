@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1500 | [GYM106260A](https://codeforces.com/gym/106260/problem/A) | Consider the contribution of node $u$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1215/solution/cf106260a.md) |
 | 1600 | [CF453A](https://codeforces.com/problemset/problem/453/A) | Expectation problem: either find out the distribution or find the contribution of each component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0307/solution/cf453a.md) |
 | 1600 | [CF340C](https://codeforces.com/problemset/problem/340/C) | Consider the occurence of each $\|a_i-0\|$ and $\|a_i-a_j\|$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0110/solution/cf340c.md) |
 | 1600 | [CF930B](https://codeforces.com/problemset/problem/930/B) | If the first letter is $x$ , what is the maximum probability? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0328/solution/cf930b.md) |
