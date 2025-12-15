@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106260A](https://codeforces.com/gym/106260/problem/A) | Consider the contribution of node $u$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1215/solution/cf106260a.md) |
-| *2100 | [GYM106262D](https://codeforces.com/gym/106262/problem/D) | How do you decide the possible alcohol content of the finally mixed liquid? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1215/solution/cf106262d.md) |
+| *1900 | [GYM105874E](https://codeforces.com/gym/105874/problem/E) | For a fixed $l$ , what are the positions that is important? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1216/solution/cf105874e.md) |
+| *1900 | [GYM105874G](https://codeforces.com/gym/105874/problem/G) | $0$ -s are more flexible. So it's almost a fitting-balls-into-boxes problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1216/solution/cf105874g.md) |
