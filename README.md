@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1900 | [GYM105874E](https://codeforces.com/gym/105874/problem/E) | For a fixed $l$ , what are the positions that is important? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1216/solution/cf105874e.md) |
-| *1900 | [GYM105874G](https://codeforces.com/gym/105874/problem/G) | $0$ -s are more flexible. So it's almost a fitting-balls-into-boxes problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1216/solution/cf105874g.md) |
+| *1800 | [GYM105845F](https://codeforces.com/gym/105845/problem/F) | DP. What are the transitions about? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1217/solution/cf105845f.md) |
+| *1800 | [GYM105870A](https://codeforces.com/gym/105870/problem/A) | Again, find the lower bound for the target function. There are two permutations to choose, so you may fix one in a simpler form and try constructing the other one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1217/solution/cf105870a.md) |
