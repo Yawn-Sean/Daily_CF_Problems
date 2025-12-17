@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105845F](https://codeforces.com/gym/105845/problem/F) | DP. What are the transitions about? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1217/solution/cf105845f.md) |
-| *1800 | [GYM105870A](https://codeforces.com/gym/105870/problem/A) | Again, find the lower bound for the target function. There are two permutations to choose, so you may fix one in a simpler form and try constructing the other one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1217/solution/cf105870a.md) |
+| *1800 | [GYM105789K](https://codeforces.com/gym/105789/problem/K) | If we know the cards to choose, in what order should we apply them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1218/solution/cf105789k.md) |
+| *2000 | [GYM105789I](https://codeforces.com/gym/105789/problem/I) | You just need to check the positions of elements of the queried array in the original one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1218/solution/cf105789i.md) |
