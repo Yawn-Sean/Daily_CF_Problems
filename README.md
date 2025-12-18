@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105789K](https://codeforces.com/gym/105789/problem/K) | If we know the cards to choose, in what order should we apply them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1218/solution/cf105789k.md) |
-| *2000 | [GYM105789I](https://codeforces.com/gym/105789/problem/I) | You just need to check the positions of elements of the queried array in the original one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1218/solution/cf105789i.md) |
+| *1400 | [GYM105292A](https://codeforces.com/gym/105292/problem/A) | Just fit the lights one by one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1219/solution/cf105292a.md) |
+| *2000 | [GYM105775D](https://codeforces.com/gym/105775/problem/D) | Find a condition under which each pair of combinations of scores are valid. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1219/solution/cf105775d.md) |
