@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM105292A](https://codeforces.com/gym/105292/problem/A) | Just fit the lights one by one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1219/solution/cf105292a.md) |
-| *2000 | [GYM105775D](https://codeforces.com/gym/105775/problem/D) | Find a condition under which each pair of combinations of scores are valid. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1219/solution/cf105775d.md) |
+| *1600 | [GYM105789D](https://codeforces.com/gym/105789/problem/D) | For the two consecutive elements to be sorted, what should $x$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1220/solution/cf105789d.md) |
+| *2000 | [GYM105319D](https://codeforces.com/gym/105319/problem/D) | Only a few edges are essential. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1220/solution/cf105319d.md) |
