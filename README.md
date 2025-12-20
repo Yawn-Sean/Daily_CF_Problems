@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105319D](https://codeforces.com/gym/105319/problem/D) | For the two consecutive elements to be sorted, what should $x$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1220/solution/cf105789d.md) |
-| *2000 | [GYM105789D](https://codeforces.com/gym/105789/problem/D) | Only a few edges are essential. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1220/solution/cf105319d.md) |
+| *1600 | [GYM105319D](https://codeforces.com/gym/105319/problem/D) | For the two consecutive elements to be sorted, what should $x$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1220/solution/cf105319d.md) |
+| *2000 | [GYM105789D](https://codeforces.com/gym/105789/problem/D) | Only a few edges are essential. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1220/solution/cf105789d.md) |
