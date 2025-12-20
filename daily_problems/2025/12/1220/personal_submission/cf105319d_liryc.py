@@ -1,27 +1,23 @@
 '''
-20251220 Y1
+https://codeforces.com/gym/105319/submission/354319762
 '''
 def solve(n: int, a: list[int]) -> int: 
-    l, r = 0, 0
-    ans = 0
-    b = [0] * 30
-    c = [0] * 30
-    while l < n:
-        while r + 1 < n:
-            v = (a[r] ^ a[r + 1]).bit_length() - 1
-            if v >= 0:
-                if a[r] >> v & 1:
-                    if b[v]: break
-                    c[v] += 1
-                else:
-                    if c[v]: break
-                    b[v] += 1
-            r += 1
-        ans += r - l + 1
-        if l + 1 < n:
-            v = (a[l] ^ a[l + 1]).bit_length() - 1
-            if v >= 0:
-                if a[l] >> v & 1: c[v] -= 1
-                else: b[v] -= 1
-        l += 1
+    i, ans = 0, 1
+    ba = [deque() for _ in range(30)]
+    for j in range(1, n):
+        x = a[j] ^ a[j - 1]
+        c = a[j - 1] > a[j]
+        if x:
+            b = x.bit_length() - 1
+            ba[b].append(j << 1 | c)
+            has_i_moved = False
+            while ba[b] and (ba[b][0] & 1) != c:
+                p = ba[b].popleft() >> 1
+                i = p 
+                has_i_moved = True
+            if has_i_moved:
+                for dq in ba:
+                    while dq and (dq[0] >> 1) <= i: 
+                        dq.popleft()
+        ans += j - i + 1
     return ans
