@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1400 | [GYM105790K](https://codeforces.com/gym/105790/problem/K) | Consider the numbers in the form of $x^y$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1222/solution/cf105790k.md) |
 | 1500 | [CF566F](https://codeforces.com/problemset/problem/566/F) | Find out what happens inside a clique, and try using DP to capture it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0322/solution/cf566f.md) |
 | *1500 | [GYM105408G](https://codeforces.com/gym/105408/problem/G) | What's the common GCD? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1018/solution/cf105408g.md) |
 | *1500 | [GYM105129L](https://codeforces.com/gym/105129/problem/L) | Only a few candidates. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1020/solution/cf105129l.md) |
@@ -88,6 +89,7 @@
 | 2100 | [CF1510D](https://codeforces.com/problemset/problem/1510/D) | The numbers not chosen are limited. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0221/solution/cf1510d.md) |
 | 2100 | [CF60C](https://codeforces.com/problemset/problem/60/C) | If you know the answer for one vertex, its connected component is already fixed. Why? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0530/solution/cf60c.md) |
 | 2100 | [CF217B](https://codeforces.com/problemset/problem/217/B) | If we know the other number, the computing series is defined. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0606/solution/cf217b.md) |
+| *2100 | [GYM105786I](https://codeforces.com/gym/105786/problem/I) | How can you calculate the cost of an array? And what can an operation do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1222/solution/cf105786i.md) |
 | 2200 | [CF852F](https://codeforces.com/problemset/problem/852/F) | Use Logarithm. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0511/solution/cf852f.md) |
 | 2200 | [CF538F](https://codeforces.com/problemset/problem/538/F) | For each $k$, how many conditions should you check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0803/solution/cf538f.md) |
 | 2200 | [CF271E](https://codeforces.com/problemset/problem/271/E) | The difference between the two numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0815/solution/cf271e.md) |
