@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM105790K](https://codeforces.com/gym/105790/problem/K) | Consider the numbers in the form of $x^y$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1222/solution/cf105790k.md) |
-| *2100 | [GYM105786I](https://codeforces.com/gym/105786/problem/I) | How can you calculate the cost of an array? And what can an operation do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1222/solution/cf105786i.md) |
+| *1700 | [GYM105761F](https://codeforces.com/gym/105761/problem/F) | $p$ doesn't need to be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1223/solution/cf105761f.md) |
+| *2100 | [GYM105786J](https://codeforces.com/gym/105786/problem/J) | Consider the subarray from short ones to long ones. First reach the same value, then get to $0$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1223/solution/cf105786j.md) |
