@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105761F](https://codeforces.com/gym/105761/problem/F) | $p$ doesn't need to be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1223/solution/cf105761f.md) |
-| *2100 | [GYM105786J](https://codeforces.com/gym/105786/problem/J) | Consider the subarray from short ones to long ones. First reach the same value, then get to $0$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1223/solution/cf105786j.md) |
+| *1800 | [GYM106270H](https://codeforces.com/gym/106270/problem/H) | First, calculate the costs of each element in the two possible final conditions. How should you combine them to find the final answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1224/solution/cf106270h.md) |
+| *2000 | [GYM106270E](https://codeforces.com/gym/106270/problem/E) | How should you choose $k$ ? What $k$ brings $0$ probability? If the probability is strictly positive, how should you calculate it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1224/solution/cf106270e.md) |
