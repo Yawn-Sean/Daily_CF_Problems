@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106270H](https://codeforces.com/gym/106270/problem/H) | First, calculate the costs of each element in the two possible final conditions. How should you combine them to find the final answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1224/solution/cf106270h.md) |
-| *2000 | [GYM106270E](https://codeforces.com/gym/106270/problem/E) | How should you choose $k$ ? What $k$ brings $0$ probability? If the probability is strictly positive, how should you calculate it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1224/solution/cf106270e.md) |
+| *1900 | [GYM106251G](https://codeforces.com/gym/106251/problem/G) | What is the condition for the array? And once that condition is satisfied, the construction is almost obvious. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1225/solution/cf106251g.md) |
+| *2400 | [GYM106251H](https://codeforces.com/gym/106251/problem/H) | You can't choose many points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1225/solution/cf106251h.md) |
