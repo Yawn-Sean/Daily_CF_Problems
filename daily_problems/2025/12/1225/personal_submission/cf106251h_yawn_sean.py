@@ -1,4 +1,4 @@
-# Submission link: https://codeforces.com/gym/106251/submission/354888913
+# Submission link: https://codeforces.com/gym/106251/submission/354945200
 def main(): 
     def sign(v):
         return v[1] > 0 or (v[1] == 0 and v[0] > 0)
@@ -39,28 +39,19 @@ def main():
         return target > v1 and target > v2
     
     saved = [[check(i, j) for j in range(n)] for i in range(n)]
-    ans = [0] * 5
+    ans = n
     
     for i in range(n):
-        dp = [[0] * n for _ in range(5)]
-        dp[0][i] = 1
+        dp = [0] * n
+        dp[i] = 1
         
-        for x in range(i, i + n):
-            oj = x % n
-            for v in range(3, -1, -1):
-                if dp[v][oj]:
-                    for y in range(x + 1, i + n):
-                        nj = y % n
-                        if saved[oj][nj]:
-                            dp[v + 1][nj] += dp[v][oj]
+        for x in range(i, n):
+            for y in range(x + 1, n):
+                if saved[x][y]:
+                    dp[y] += dp[x]
         
-        for x in range(5):
-            for y in range(n):
-                if saved[i][y]:
-                    ans[x] += dp[x][y]
+        for x in range(n):
+            if saved[i][x]:
+                ans += dp[x]
     
-    res = n
-    for i in range(1, 5):
-        res += ans[i] // (i + 1)
-    
-    print(res % mod)
+    print(ans % mod)

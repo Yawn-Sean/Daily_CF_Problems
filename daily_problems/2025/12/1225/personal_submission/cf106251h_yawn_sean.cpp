@@ -63,37 +63,23 @@ int main() {
 		}
 	}
 
-	vector<long long> ans(5);
+	long long ans = n;
 
 	for (int i = 0; i < n; i ++) {
-		vector<vector<long long>> dp(5, vector<long long>(n, 0));
-		dp[0][i] = 1;
+		vector<long long> dp(n, 0);
+		dp[i] = 1;
 
-		for (int x = i; x < i + n; x ++) {
-			int oj = x % n;
-			for (int v = 3; v >= 0; v --) {
-				if (dp[v][oj]) {
-					for (int y = x + 1; y < i + n; y ++) {
-						int nj = y % n;
-						if (saved[oj][nj]) dp[v + 1][nj] += dp[v][oj];
-					}
-				}
+		for (int x = i; x < n; x ++) {
+			for (int y = x + 1; y < n; y ++) {
+				if (saved[x][y]) dp[y] += dp[x];
 			}
 		}
 
-		for (int x = 0; x < 5; x ++) {
-			for (int y = 0; y < n; y ++) {
-				if (saved[i][y]) {
-					ans[x] += dp[x][y];
-				}
-			}
-		}
+		for (int x = i; x < n; x ++)
+			if (saved[i][x]) ans += dp[x];
 	}
 
-	long long res = n;
-	for (int i = 1; i < 5; i ++) res += ans[i] / (i + 1);
-
-	cout << res % mod;
+	cout << ans % mod;
 
 	return 0;
 }
