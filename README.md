@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1900 | [GYM106251G](https://codeforces.com/gym/106251/problem/G) | What is the condition for the array? And once that condition is satisfied, the construction is almost obvious. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1225/solution/cf106251g.md) |
-| *2400 | [GYM106251H](https://codeforces.com/gym/106251/problem/H) | You can't choose many points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1225/solution/cf106251h.md) |
+| *1600 | [GYM105805D](https://codeforces.com/gym/105805/problem/D) | What is the contribution of the $i$ -th element added? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1226/solution/cf105805d.md) |
+| *1700 | [GYM105418A](https://codeforces.com/gym/105418/problem/A) | Consider the using or not using the magic as a status, consider a new graph and run a shortest-path algorithm on it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1226/solution/cf105418a.md) |
