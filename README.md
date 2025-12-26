@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105805D](https://codeforces.com/gym/105805/problem/D) | What is the contribution of the $i$ -th element added? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1226/solution/cf105805d.md) |
-| *1700 | [GYM105418A](https://codeforces.com/gym/105418/problem/A) | Consider the using or not using the magic as a status, consider a new graph and run a shortest-path algorithm on it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1226/solution/cf105418a.md) |
+| *1700 | [GYM105262G](https://codeforces.com/gym/105262/problem/G) | Find palindromes first and find the weight of each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1227/solution/cf105262g.md) |
+| *2400 | [GYM105845A](https://codeforces.com/gym/105845/problem/A) | Find a variable to represent the current status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1227/solution/cf105845a.md) |
