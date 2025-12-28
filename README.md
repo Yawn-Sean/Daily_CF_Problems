@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105262G](https://codeforces.com/gym/105262/problem/G) | Find palindromes first and find the weight of each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1227/solution/cf105262g.md) |
-| *2400 | [GYM105845A](https://codeforces.com/gym/105845/problem/A) | Find a variable to represent the current status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1227/solution/cf105845a.md) |
+| *1600 | [GYM104786C](https://codeforces.com/gym/104786/problem/C) | What's the strategy? What's the transition? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1229/solution/cf104786c.md) |
+| *1600 | [GYM105067F](https://codeforces.com/gym/105067/problem/F) | Higher bits are boring. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1229/solution/cf105067f.md) |
