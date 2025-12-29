@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104786C](https://codeforces.com/gym/104786/problem/C) | What's the strategy? What's the transition? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1229/solution/cf104786c.md) |
-| *1600 | [GYM105067F](https://codeforces.com/gym/105067/problem/F) | Higher bits are boring. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1229/solution/cf105067f.md) |
+| *1800 | [GYM106049G](https://codeforces.com/gym/106049/problem/G) | The first part should be as short as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1230/solution/cf106049g.md) |
+| *1900 | [GYM106049E](https://codeforces.com/gym/106049/problem/E) | Once a $k$ is updated, the answer is just easier to adjust for future updates of that $k$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1230/solution/cf106049e.md) |
