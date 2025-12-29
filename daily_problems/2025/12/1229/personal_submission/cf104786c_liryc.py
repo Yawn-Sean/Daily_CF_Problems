@@ -1,5 +1,5 @@
 '''
-20251229 Y1
+https://codeforces.com/gym/104786/submission/355650211
 '''
 def solve(n: int, x: int, y: int) -> int: 
     MOD = 1000000007
