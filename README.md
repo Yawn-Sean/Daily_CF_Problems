@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106049G](https://codeforces.com/gym/106049/problem/G) | The first part should be as short as possible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1230/solution/cf106049g.md) |
-| *1900 | [GYM106049E](https://codeforces.com/gym/106049/problem/E) | Once a $k$ is updated, the answer is just easier to adjust for future updates of that $k$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1230/solution/cf106049e.md) |
+| *1800 | [GYM105930E](https://codeforces.com/gym/105930/problem/E) | What should the answer satisfy? And what's the condition to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1231/solution/cf105930e.md) |
+| *1900 | [GYM105948H](https://codeforces.com/gym/105948/problem/H) | Reconsider the condition that the element counted in the ratio should satisfy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1231/solution/cf105948h.md) |
