@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106094C](https://codeforces.com/gym/106094/problem/C) | If a number has a lotusency of $k$ , what should the number satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0101/solution/cf106094c.md) |
-| *2100 | [GYM106290H](https://codeforces.com/gym/106290/problem/H) | Consider the contribution each distinct number makes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0101/solution/cf106290h.md) |
+| *1600 | [GYM104468M](https://codeforces.com/gym/104468/problem/M) | What are the actual conditions that must be satisfied? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0102/solution/cf104468m.md) |
+| *1900 | [GYM104468A](https://codeforces.com/gym/104468/problem/A) | Each position has two choices, so the problem seems a classic problem about finding a valid combination of YES-s or NO-s.  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0102/solution/cf104468a.md) |
