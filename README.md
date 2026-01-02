@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104468M](https://codeforces.com/gym/104468/problem/M) | What are the actual conditions that must be satisfied? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0102/solution/cf104468m.md) |
-| *1900 | [GYM104468A](https://codeforces.com/gym/104468/problem/A) | Each position has two choices, so the problem seems a classic problem about finding a valid combination of YES-s or NO-s.  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0102/solution/cf104468a.md) |
+| *1800 | [GYM104770F](https://codeforces.com/gym/104770/problem/F) | From leaves to the root. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0103/solution/cf104770f.md) |
+| *1800 | [GYM104770D](https://codeforces.com/gym/104770/problem/D) | There's a constant for the graph. And we can transform the graphs into the same configuration if the condition is satisfied. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0103/solution/cf104770d.md) |
