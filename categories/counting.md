@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1300 | [GYM104287H](https://codeforces.com/gym/104287/problem/H) | Consider the contribution of each edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0105/solution/cf104287h.md) |
 | 1500 | [CF584B](https://codeforces.com/problemset/problem/584/B) | Classic counting problem. Think of the opposite | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0302/solution/cf584b.md) |
 | *1500 | [GYM105316A](https://codeforces.com/gym/105316/problem/A) | DP. Transitions are continuous. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1201/solution/cf105316a.md) |
 | 1600 | [CF1045I](https://codeforces.com/problemset/problem/1045/I) | Check the conditions of "constructing" a palindrome. Find a way to store the information. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0329/solution/cf1045i.md) |

@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM104770F](https://codeforces.com/gym/104770/problem/F) | From leaves to the root. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0103/solution/cf104770f.md) |
-| *1800 | [GYM104770D](https://codeforces.com/gym/104770/problem/D) | There's a constant for the graph. And we can transform the graphs into the same configuration if the condition is satisfied. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0103/solution/cf104770d.md) |
+| *1100 | [GYM104287F](https://codeforces.com/gym/104287/problem/F) | What should $d$ satisfy? And how should we optimize the final result? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0105/solution/cf104287f.md) |
+| *1300 | [GYM104287H](https://codeforces.com/gym/104287/problem/H) | Consider the contribution of each edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0105/solution/cf104287h.md) |

@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1100 | [GYM104287F](https://codeforces.com/gym/104287/problem/F) | What should $d$ satisfy? And how should we optimize the final result? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0105/solution/cf104287f.md) |
 | *1400 | [GYM105790K](https://codeforces.com/gym/105790/problem/K) | Consider the numbers in the form of $x^y$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1222/solution/cf105790k.md) |
 | 1500 | [CF566F](https://codeforces.com/problemset/problem/566/F) | Find out what happens inside a clique, and try using DP to capture it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0322/solution/cf566f.md) |
 | *1500 | [GYM105408G](https://codeforces.com/gym/105408/problem/G) | What's the common GCD? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1018/solution/cf105408g.md) |
