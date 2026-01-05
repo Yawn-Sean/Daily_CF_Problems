@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1100 | [GYM104287F](https://codeforces.com/gym/104287/problem/F) | What should $d$ satisfy? And how should we optimize the final result? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0105/solution/cf104287f.md) |
-| *1300 | [GYM104287H](https://codeforces.com/gym/104287/problem/H) | Consider the contribution of each edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0105/solution/cf104287h.md) |
+| *1700 | [GYM104287K](https://codeforces.com/gym/104287/problem/K) | Each letter is considered a step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0106/solution/cf104287k.md) |
+| *2100 | [GYM104287O](https://codeforces.com/gym/104287/problem/O) | Consider the contribution of each edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0106/solution/cf104287o.md) |
