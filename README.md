@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM104287K](https://codeforces.com/gym/104287/problem/K) | Each letter is considered a step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0106/solution/cf104287k.md) |
-| *2100 | [GYM104287O](https://codeforces.com/gym/104287/problem/O) | Consider the contribution of each edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0106/solution/cf104287o.md) |
+| *1500 | [GYM104287A](https://codeforces.com/gym/104294/problem/A) | How can you calculate the answer for each square efficiently? Save the pre-calculated results for queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0107/solution/cf104287a.md) |
+| *1700 | [GYM104287N](https://codeforces.com/gym/104287/problem/N) | There are multiple ways to consider this. One is about checking if the answer is valid. One is about iterating over the edge that separates the two paths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0107/solution/cf104287n.md) |
