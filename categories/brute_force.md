@@ -1,7 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1500 | [GYM105129L](https://codeforces.com/gym/105129/problem/L) | Only a few candidates. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1020/solution/cf105129l.md) |
-| *1500 | [GYM104294A](https://codeforces.com/gym/104294/problem/A) | How can you calculate the answer for each square efficiently? Save the pre-calculated results for queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0107/solution/cf104287a.md) |
+| *1500 | [GYM104294A](https://codeforces.com/gym/104294/problem/A) | How can you calculate the answer for each square efficiently? Save the pre-calculated results for queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0107/solution/cf104294a.md) |
 | 1600 | [CF1025B](https://codeforces.com/problemset/problem/1025/B) | Hmm... At least one element of the pair. Then, which one? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0309/solution/cf1025b.md) |
 | 1600 | [CF1082C](https://codeforces.com/problemset/problem/1082/C) | Iterate over the number of students participating in each group. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1012/solution/cf1082c.md) |
 | 1600 | [CF873C](https://codeforces.com/problemset/problem/873/C) | Consider each column separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1122/solution/cf873c.md) |
