@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM104294A](https://codeforces.com/gym/104294/problem/A) | How can you calculate the answer for each square efficiently? Save the pre-calculated results for queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0107/solution/cf104294a.md) |
-| *1700 | [GYM104287N](https://codeforces.com/gym/104287/problem/N) | There are multiple ways to consider this. One is about checking if the answer is valid. One is about iterating over the edge that separates the two paths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0107/solution/cf104287n.md) |
+| *1600 | [GYM105390C2](https://codeforces.com/gym/105390/problem/C2) | What's the winning strategy? How can you maximize the target? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0108/solution/cf105390c2.md) |
+| *2200 | [GYM105755C](https://codeforces.com/gym/105755/problem/C) | DP. What's the possible transitions? Do them together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0108/solution/cf105755c.md) |
