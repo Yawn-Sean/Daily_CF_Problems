@@ -1,5 +1,5 @@
 '''
-Docstring for daily_problems.2026.01.0107.personal_submission.cf104287a_liryc
+https://codeforces.com/gym/104294/submission/356735841
 '''
 def presolve(n: int, grid: list[list[int]]) -> list[list[int]]: 
     mr = [[n * n + 1] * (n * n + 1) for _ in range(n)]
