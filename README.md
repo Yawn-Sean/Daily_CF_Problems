@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105390C2](https://codeforces.com/gym/105390/problem/C2) | What's the winning strategy? How can you maximize the target? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0108/solution/cf105390c2.md) |
-| *2200 | [GYM105755C](https://codeforces.com/gym/105755/problem/C) | DP. What's the possible transitions? Do them together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0108/solution/cf105755c.md) |
+| *1600 | [GYM105811J](https://codeforces.com/gym/105811/problem/J) | We just need to calculate the minimum needed level to go from $1$ to $i$ and from $i$ to $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0109/solution/cf105811j.md) |
+| *2000 | [GYM105633K](https://codeforces.com/gym/105633/problem/K) | Iterate over the first meeting. How can you quickly decide the best second meeting? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0109/solution/cf105633k.md) |
