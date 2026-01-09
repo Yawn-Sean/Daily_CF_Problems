@@ -1,4 +1,7 @@
 import heapq
+import sys
+
+input = lambda: sys.stdin.readline().strip()
 
 def sol():
     n, m = map(int, input().split())
@@ -17,6 +20,7 @@ def sol():
 
         while len(pq):
             dist_x, x = heapq.heappop(pq)
+            if dist_x > dist[x]: continue
             for y, w in e[x]:
                 if dist[y] > max(dist[x], w):
                     dist[y] = max(dist[x], w)
