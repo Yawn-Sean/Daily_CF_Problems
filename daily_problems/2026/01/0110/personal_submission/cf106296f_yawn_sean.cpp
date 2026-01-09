@@ -16,31 +16,32 @@ int main() {
 	cin.tie(0);
 	cout.tie(0);
 
-    int t;
-    cin >> t;
+    int n;
+    cin >> n;
 
-    while (t --) {
-        int n;
-        cin >> n;
+    vector<int> nums(n);
+    for (auto &v: nums) cin >> v;
 
-        int v = (n + 1) >> 1;
-        int l = 1, r = v - 1;
+    int mod = 998244353, ans = 1, cur = 0;
 
-        while (l <= r) {
-            int mid = (l + r) >> 1;
-            
-            int v1, v2;
-            cout << 2 << ' ' << 2 * mid - 1 << endl;
-            cin >> v1;
-            cout << 1 << ' ' << 2 * mid << endl;
-            cin >> v2;
-
-            if (v1 == v2) l = mid + 1;
-            else r = mid - 1;
+    for (int i = 0; i < n; i ++) {
+        if (nums[i]) cur ++;
+        else {
+            ans = 1ll * ans * cur % mod;
+            cur --;
         }
-
-        cout << 3 << ' ' << 2 * r - 1 << ' ' << 2 * r + 1 << endl;
     }
+
+    cur = 0;
+    for (int i = n - 1; i >= n % 2; i --) {
+        if (nums[i]) {
+            ans = 1ll * ans * cur % mod;
+            cur --;
+        }
+        else cur ++;
+    }
+
+    cout << ans;
 
 	return 0;
 }
