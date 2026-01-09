@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105811J](https://codeforces.com/gym/105811/problem/J) | We just need to calculate the minimum needed level to go from $1$ to $i$ and from $i$ to $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0109/solution/cf105811j.md) |
-| *2000 | [GYM105633K](https://codeforces.com/gym/105633/problem/K) | Iterate over the first meeting. How can you quickly decide the best second meeting? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0109/solution/cf105633k.md) |
+| *1600 | [GYM106296C](https://codeforces.com/gym/106296/problem/C) | Find a chain that two consecutive elements has some kind of connections. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0110/solution/cf106296c.md) |
+| *2000 | [GYM106296F](https://codeforces.com/gym/106296/problem/F) | Consider $0$ -s and $1$ -s separately and calculate the ways to place $p_i$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0110/solution/cf106296f.md) |
