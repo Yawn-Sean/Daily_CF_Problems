@@ -16,53 +16,64 @@ int main() {
 	cin.tie(0);
 	cout.tie(0);
 
-    int n, m;
-    cin >> n >> m;
+	int n, m;
+	cin >> n >> m;
 
-    vector<vector<pair<int, int>>> path(n), rev_path(n);
+	vector<int> vals(1 << m, -100), idxs(1 << m, 0), msks(n);
 
-    while (m --) {
-        int u, v, w;
-        cin >> u >> v >> w;
-        u --, v --;
-        path[u].emplace_back(v, w);
-        rev_path[v].emplace_back(u, w);
-    }
+	for (int i = 0; i < n; i ++) {
+		string s;
+		cin >> s;
+		
+		for (int j = 0; j < m; j ++) {
+			if (s[j] == 'Y') {
+				msks[i] |= 1 << j;
+			}
+		}
 
-    int inf = 2e9;
+		if (vals[msks[i]] < 0) {
+			vals[msks[i]] = 0;
+			idxs[msks[i]] = i;
+		}
+	}
 
-    auto shortest_path = [&] (vector<vector<pair<int, int>>> paths) -> vector<int> {
-        vector<int> ans(n, inf);
-        ans[0] = 0;
+	if (vals.back() == 0) {
+		int x = idxs.back(), y = -1;
+		for (int i = 0; i < n; i ++) {
+			if (i != idxs.back() && (y == -1 || __popcount(msks[y]) < __popcount(msks[i]))) {
+				y = i;
+			}
+		}
+		if (x > y) swap(x, y);
+		cout << x + 1 << ' ' << y + 1;
+	}
+	else {
+		for (int i = 0; i < m; i ++) {
+			for (int j = 0; j < 1 << m; j ++) {
+				if (j >> i & 1) {
+					int nj = j ^ (1 << i);
+					if (vals[j] + 1 > vals[nj] || (vals[j] + 1 == vals[nj] && idxs[j] < idxs[nj])) {
+						vals[nj] = vals[j] + 1;
+						idxs[nj] = idxs[j];
+					}
+				}
+			}
+		}
 
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-        pq.push({0, 0});
+		int cur = -1, x = -1, y = -1;
 
-        while (!pq.empty()) {
-            auto [d, u] = pq.top(); pq.pop();
-            if (ans[u] == d) {
-                for (auto &[v, nd]: paths[u]) {
-                    if (max(d, nd) < ans[v]) {
-                        ans[v] = max(d, nd);
-                        pq.push({ans[v], v});
-                    }
-                }
-            }
-        }
+		for (int i = 0; i < n; i ++) {
+			int v = (1 << m) - 1 - msks[i];
+			if (vals[v] > cur) {
+				cur = vals[v];
+				x = i;
+				y = idxs[v];
+			}
+		}
 
-        return ans;
-    };
-
-    auto d1 = shortest_path(path);
-    auto d2 = shortest_path(rev_path);
-
-    for (int i = 0; i < n; i ++) {
-        if (d2[i] > d1[i]) {
-            return cout << "NO", 0;
-        }
-    }
-
-    cout << "YES";
+		if (cur >= 0) cout << x + 1 << ' ' << y + 1;
+		else cout << "No";
+	}
 
 	return 0;
 }
