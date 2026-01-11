@@ -24,5 +24,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106296C](https://codeforces.com/gym/106296/problem/C) | Find a chain that two consecutive elements has some kind of connections. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0110/solution/cf106296c.md) |
-| *2000 | [GYM106296F](https://codeforces.com/gym/106296/problem/F) | Consider $0$ -s and $1$ -s separately and calculate the ways to place $p_i$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0110/solution/cf106296f.md) |
+| *1700 | [GYM106298D](https://codeforces.com/gym/106298/problem/D) | Consider possible common divisor. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0112/solution/cf106298d.md) |
+| *1900 | [GYM105321E](https://codeforces.com/gym/105321/problem/E) | There is an optimal order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0112/solution/cf105321e.md) |
+
