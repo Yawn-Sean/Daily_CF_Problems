@@ -24,6 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106298D](https://codeforces.com/gym/106298/problem/D) | Consider possible common divisor. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0112/solution/cf106298d.md) |
-| *1900 | [GYM105321E](https://codeforces.com/gym/105321/problem/E) | There is an optimal order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0112/solution/cf105321e.md) |
-
+| *1700 | [GYM105317D](https://codeforces.com/gym/105317/problem/D) | We only need to operate at most once. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0113/solution/cf105317d.md) |
+| *2000 | [GYM105317E](https://codeforces.com/gym/105317/problem/E) | If we want to get to $k$ times of the current value, what is the minimum number of operations? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0113/solution/cf105317e.md) |
