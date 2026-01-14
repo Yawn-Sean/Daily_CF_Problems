@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105018A](https://codeforces.com/gym/105018/problem/A) | It's about how the prefix of one string is connected with the prefix of the other string, so you can just combine them together. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0114/solution/cf105018a.md) |
-| *2400 | [GYM105047E](https://codeforces.com/gym/105047/problem/E) | The operation can easily be transformed into swaps. You can change the array so that swaps need fewer operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0114/solution/cf105047e.md) |
+| *1600 | [GYM105242B](https://codeforces.com/gym/105242/problem/B) | Find the necessary feature. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0115/solution/cf105242b.md) |
+| *2000 | [GYM105364F](https://codeforces.com/gym/105364/problem/F) | Clearly a DP problem. What's the status and the optimization target? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0115/solution/cf105364f.md) |
