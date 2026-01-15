@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105242B](https://codeforces.com/gym/105242/problem/B) | Find the necessary feature. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0115/solution/cf105242b.md) |
-| *2000 | [GYM105364F](https://codeforces.com/gym/105364/problem/F) | Clearly a DP problem. What's the status and the optimization target? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0115/solution/cf105364f.md) |
+| *1400 | [GYM104375D](https://codeforces.com/gym/104375/problem/D) | The operation doesn't change which is bigger between elements.  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0116/solution/cf104375d.md) |
+| *1700 | [GYM104149I](https://codeforces.com/gym/104149/problem/I) | Find a right angle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0116/solution/cf104149i.md) |

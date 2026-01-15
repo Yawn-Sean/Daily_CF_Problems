@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1400 | [GYM104375D](https://codeforces.com/gym/104375/problem/D) | The operation doesn't change which is bigger between elements.  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0116/solution/cf104375d.md) |
 | *1500 | [GYM106032J](https://codeforces.com/gym/106032/problem/J) | When two number "merges" ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0927/solution/cf106032j.md) |
 | *1500 | [GYM105314B](https://codeforces.com/gym/105314/problem/B) | Find the bound and what do you need to calculate afterwards? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf105314b.md) |
 | *1500 | [GYM104294A](https://codeforces.com/gym/104294/problem/A) | How can you calculate the answer for each square efficiently? Save the pre-calculated results for queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0107/solution/cf104294a.md) |

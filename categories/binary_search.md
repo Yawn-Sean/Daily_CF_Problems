@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1400 | [GYM104375D](https://codeforces.com/gym/104375/problem/D) | The operation doesn't change which is bigger between elements.  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0116/solution/cf104375d.md) |
 | *1500 | [GYM105314B](https://codeforces.com/gym/105314/problem/B) | Find the bound and what do you need to calculate afterwards? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf105314b.md) |
 | 1600 | [CF780B](https://codeforces.com/problemset/problem/780/B) | Classic problem. How can you check whether they can gather or not? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0311/solution/cf780b.md) |
 | 1600 | [CF1461D](https://codeforces.com/problemset/problem/1461/D) | Find the separation point quickly. And it can be proven that there are not many possible subarray-sums. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0607/solution/cf1461d.md) |
