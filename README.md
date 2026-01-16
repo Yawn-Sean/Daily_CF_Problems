@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM104375D](https://codeforces.com/gym/104375/problem/D) | The operation doesn't change which is bigger between elements.  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0116/solution/cf104375d.md) |
-| *1700 | [GYM104149I](https://codeforces.com/gym/104149/problem/I) | Find a right angle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0116/solution/cf104149i.md) |
+| *1700 | [GYM104064D](https://codeforces.com/gym/104064/problem/D) | You can consider a larger shape. And there is some case work. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0117/solution/cf104064d.md) |
+| *2100 | [GYM104064L](https://codeforces.com/gym/104064/problem/L) | There is one key feature of the process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0117/solution/cf104064l.md) |
