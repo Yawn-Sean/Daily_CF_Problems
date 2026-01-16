@@ -1,21 +1,19 @@
 '''
-Docstring for daily_problems.2026.01.0116.personal_submission.cf104375d_liryc
+https://codeforces.com/gym/104375/submission/358064879
 '''
+# brute-force
 def solve(n: int, q: int, a: list[int], qa: list[list[int]]) -> list[int]: 
     a.sort()
     ans = []
-    for qry in qa:
-        if qry[0] == 1:
-            v = qry[1]
-            
-            if v > a[-1]: a.append(v)
+    for t, *r in qa:
+        if t == 1:
+            k = r[0]
+            if k > a[-1]:
+                a.append(k)
             else:
-                p = bisect_right(a, v)
-                if p > 0 and a[p - 1] == v: continue
-                else: a[p] = v
-        
+                i = bisect_left(a, k)
+                a[i] = k
         else:
-            l = qry[1]
-            r = qry[2]
-            ans.append(bisect_right(a, r) - bisect_left(a, l))
+            lo, hi = r
+            ans.append(bisect_right(a, hi) - bisect_left(a, lo))
     return ans
