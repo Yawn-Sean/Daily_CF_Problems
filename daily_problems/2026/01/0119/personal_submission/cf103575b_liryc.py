@@ -1,8 +1,5 @@
 '''
-GYM 103575-B 
-2026/01/19
-1700
-dsu
+https://codeforces.com/gym/103575/submission/358728105
 '''
 def solve(n: int, m: int, edges: list[list[int]]) -> list[int]: 
     uni1 = UnionFind(n)
