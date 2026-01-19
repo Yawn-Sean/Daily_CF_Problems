@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM103575B](https://codeforces.com/gym/103575/problem/B) | Some odd edges are neccesary. And if they don't satisfy the condition, add one more. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0119/solution/cf103575b.md) |
-| *1900 | [GYM103483D](https://codeforces.com/gym/103483/problem/D) | It's a classic optimization problem. Also, the condition to check seems classic. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0119/solution/cf103483d.md) |
+| *1500 | [GYM105813J](https://codeforces.com/gym/105813/problem/J) | Prove the conclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0120/solution/cf105813j.md) |
+| *1800 | [GYM105813D](https://codeforces.com/gym/105813/problem/D) | Consider each digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0120/solution/cf105813d.md) |
