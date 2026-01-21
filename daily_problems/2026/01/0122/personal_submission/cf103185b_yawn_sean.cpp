@@ -10,36 +10,56 @@ auto rngl = mt19937_64(random_device()());
 // I came, I divided, I conquered!
 // using namespace __gnu_cxx;
 // using namespace __gnu_pbds;
-#include "atcoder/lazysegtree"
-
-int e() {return -1;}
-
-int op(int x, int y) {return max(x, y);}
-
-int add(int x, int y) {return x + y;}
-
-int id() {return 0;}
 
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(0);
 	cout.tie(0);
 
-	int M = 1e6;
-	vector<int> ar(M + 1);
-	for (int i = 0; i <= M; i ++) ar[i] = -i - 1;
-	atcoder::lazy_segtree<int, op, e, int, add, add, id> seg(ar);
+	int n;
+	cin >> n;
 
-	int q;
-	cin >> q;
+	vector<int> nums(n);
+	for (auto &v: nums) cin >> v;
 
-	while (q --) {
-		int t, x;
-		cin >> t >> x;
-		if (t == 1) seg.apply(x, M + 1, 1);
-		else seg.apply(x, M + 1, -1);
-		cout << seg.min_left(M + 1, [&] (int x) {return x < 0;}) << '\n';
+	vector<int> inc_length(n, 1), dec_length(n, 1);
+	int pos;
+
+	pos = -1;
+	for (int i = n - 1; i >= 0; i --) {
+		if (nums[i] > 0) {
+			if (pos != -1) {
+				if (nums[i] > nums[pos]) inc_length[i] = pos - i;
+				else inc_length[i] = inc_length[i] = inc_length[i + 1] + 1;
+			}
+			pos = i;
+		}
+		else if (i != n - 1) inc_length[i] = inc_length[i + 1] + 1;
 	}
+
+	pos = -1;
+	for (int i = 0; i < n; i ++) {
+		if (nums[i] > 0) {
+			if (pos != -1) {
+				if (nums[i] > nums[pos]) dec_length[i] = i - pos;
+				else dec_length[i] = dec_length[i] = dec_length[i - 1] + 1;
+			}
+			pos = i;
+		}
+		else if (i) dec_length[i] = dec_length[i - 1] + 1;
+	}
+
+	bool total_flg = false;
+	for (int i = 3; i <= n; i ++) {
+		bool flg = true;
+		for (int j = 0; j < n; j += i) {
+			int l = j, r = min(j + i - 1, n - 1);
+			if (inc_length[l] + dec_length[r] < r - l + 2 || r - l + 1 < 3 || inc_length[l] < 2 || dec_length[r] < 2) flg = false;
+		}
+		total_flg |= flg;
+	}
+
+	cout << (total_flg ? "Y" : "N");
 
 	return 0;
 }
