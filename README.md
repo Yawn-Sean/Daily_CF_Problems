@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM103185B](https://codeforces.com/gym/103185/problem/B) | You can check each number in the range $[3,n]$ . How can you do it efficiently? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0122/solution/cf103815b.md) |
-| *1900 | [GYM102862I](https://codeforces.com/gym/102862/problem/I) | What is the largest possible MEX? What data structure do you need? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0122/solution/cf102862i.md) |
+| *1800 | [GYM105617E](https://codeforces.com/gym/105617/problem/E) | Recover the array. Since the value inserted are in increasing order, you can calculate the answer easily. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0123/solution/cf105617e.md) |
+| *1900 | [GYM105803C](https://codeforces.com/gym/105803/problem/C) | If $k\leq n-2$ , the operation is quite flexible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0123/solution/cf105803c.md) |
