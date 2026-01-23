@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105617E](https://codeforces.com/gym/105617/problem/E) | Recover the array. Since the value inserted are in increasing order, you can calculate the answer easily. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0123/solution/cf105617e.md) |
-| *1900 | [GYM105803C](https://codeforces.com/gym/105803/problem/C) | If $k\leq n-2$ , the operation is quite flexible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0123/solution/cf105803c.md) |
+| *1600 | [GYM105427A](https://codeforces.com/gym/105427/problem/A) | Use a small $k$ to find the pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0124/solution/cf105427a.md) |
+| *1900 | [GYM105667B](https://codeforces.com/gym/105667/problem/B) | Find the feature of a snake or a non-snake. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0124/solution/cf105667b.md) |
