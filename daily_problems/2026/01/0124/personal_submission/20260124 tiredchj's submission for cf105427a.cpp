@@ -6,40 +6,40 @@ typedef __int128_t lll;
 typedef pair<int,int> pii;
 #define mem(a,b) memset(a,b,sizeof(a))
 #define x first
-#definey秒
+#define y second
 constexpr ll inf = 1e18;
 constexpr ll mod = 998244353;
 constexpr ll MOD = 1e9 + 7;
 
-void 解() {
+void solve() {
     ll n, k;
     cin >> n >> k;
     ll ans = 0;
-    当(n > k) {
-        对于 (ll x = k + 1, y = 1, i = 1; ;i++) {
-            如果 (i == k) {
+    while(n > k) {
+        for (ll x = k + 1, y = 1, i = 1; ;i++) {
+            if (i == k) {
                 ans += y + n - x;
                 n = 0;
-                中断;
+                break;
             }
-            如果 (n < k * x + 1) {
+            if (n < k * x + 1) {
                 ans += y * (n / x);
                 n %= x;
-                中断;
+                break;
             }
             x = x * k + 1;
             y = y * k + 1;
         }
     }
-输出 ans << ' ';
+    cout << ans << '\n';
 }
 
 int main() {
-    ios::与 stdio 同步(0),cin.绑定(0);
+    ios::sync_with_stdio(0),cin.tie(0);
     int T = 1;
     //cin >> T;
-    当(T--) {
-        解();
+    while(T--) {
+        solve();
     }
     return 0;
 }
