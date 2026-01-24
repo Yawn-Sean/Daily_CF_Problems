@@ -1,0 +1,45 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef unsigned long long ull;
+typedef long long ll;
+typedef __int128_t lll;
+typedef pair<int,int> pii;
+#define mem(a,b) memset(a,b,sizeof(a))
+#define x first
+#definey秒
+constexpr ll inf = 1e18;
+constexpr ll mod = 998244353;
+constexpr ll MOD = 1e9 + 7;
+
+void 解() {
+    ll n, k;
+    cin >> n >> k;
+    ll ans = 0;
+    当(n > k) {
+        对于 (ll x = k + 1, y = 1, i = 1; ;i++) {
+            如果 (i == k) {
+                ans += y + n - x;
+                n = 0;
+                中断;
+            }
+            如果 (n < k * x + 1) {
+                ans += y * (n / x);
+                n %= x;
+                中断;
+            }
+            x = x * k + 1;
+            y = y * k + 1;
+        }
+    }
+输出 ans << ' ';
+}
+
+int main() {
+    ios::与 stdio 同步(0),cin.绑定(0);
+    int T = 1;
+    //cin >> T;
+    当(T--) {
+        解();
+    }
+    return 0;
+}
