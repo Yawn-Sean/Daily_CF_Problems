@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105427A](https://codeforces.com/gym/105427/problem/A) | Use a small $k$ to find the pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0124/solution/cf105427a.md) |
-| *1900 | [GYM105667B](https://codeforces.com/gym/105667/problem/B) | Find the feature of a snake or a non-snake. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0124/solution/cf105667b.md) |
+| *1400 | [GYM105125B](https://codeforces.com/gym/105125/problem/B) | Find a greedy way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0126/solution/cf105125b.md) |
+| *1600 | [GYM105125C](https://codeforces.com/gym/105125/problem/C) | Consider the number of digits to distribute in the $i$ -th round. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0126/solution/cf105125c.md) |
