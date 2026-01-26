@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM105125B](https://codeforces.com/gym/105125/problem/B) | Find a greedy way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0126/solution/cf105125b.md) |
-| *1600 | [GYM105125C](https://codeforces.com/gym/105125/problem/C) | Consider the number of digits to distribute in the $i$ -th round. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0126/solution/cf105125c.md) |
+| *1600 | [GYM105198F](https://codeforces.com/gym/105198/problem/F) | Deal with smaller $n$ -s first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0127/solution/cf105198f.md) |
+| *1700 | [GYM105198A](https://codeforces.com/gym/105198/problem/A) | Consider the contribution of each digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0127/solution/cf105198a.md) |
