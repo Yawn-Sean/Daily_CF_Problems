@@ -68,7 +68,10 @@ int main(){
 		}
 	};
 	auto check=[&](auto&& b,int sx,int sy,int tx,int ty)->bool {
-		return !!(b[tx][ty]-b[sx-1][ty]-b[tx][sy-1]+b[sx-1][sy-1]);
+		if(sx<=tx && sy<=ty){
+			return !!(b[tx][ty]-b[sx-1][ty]-b[tx][sy-1]+b[sx-1][sy-1]);
+		}
+		else return 0;
 	};
 	vector b(n+1,vector<int>(m+1));  // for 2x2
 	vector c(n+1,vector<int>(m+1));  // for 1x3
