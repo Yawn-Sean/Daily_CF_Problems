@@ -11,44 +11,25 @@ auto rngl = mt19937_64(random_device()());
 // using namespace __gnu_cxx;
 // using namespace __gnu_pbds;
 
+long long quickPow(long long base, long long power, long long mod) {
+    if (power == 0) return 1 % mod;
+    long long cur = quickPow(base, power / 2, mod);
+    return power & 1 ? base * cur % mod * cur % mod : cur * cur % mod; 
+}
+
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(0);
 	cout.tie(0);
 
-	vector<int> digits = {6, 2, 5, 5, 4, 5, 6, 3, 7, 6};
-	vector<int> ans(22, 1000);
-
-	for (int i = 0; i < 10; i ++) ans[digits[i]] = min(ans[digits[i]], i);
-
-	for (int i = 1; i < 10; i ++) {
-		for (int j = 0; j < 10; j ++) {
-			int d = digits[i] + digits[j];
-			ans[d] = min(ans[d], i * 10 + j);
-		}
-	}
-
-	for (int i = 1; i < 10; i ++) {
-		for (int j = 0; j < 10; j ++) {
-			for (int k = 0; k < 10; k ++) {
-				int d = digits[i] + digits[j] + digits[k];
-				ans[d] = min(ans[d], i * 100 + j * 10 + k);
-			}
-		}
-	}
-
-	int t;
+	int t, mod = 1e9 + 7;
 	cin >> t;
 
 	while (t --) {
-		int n;
-		cin >> n;
+		int k, x;
+		cin >> k >> x;
 
-		if (n <= 21) cout << ans[n] << '\n';
-		else {
-			int v = (n - 15) % 7 + 15;
-			cout << ans[v] << string((n - v) / 7, '8') << '\n';
-		}
+		cout << x * quickPow(k + 1, __popcount(x) - 1, mod) % mod << '\n';
 	}
 
 	return 0;
