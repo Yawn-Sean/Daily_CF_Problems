@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105198F](https://codeforces.com/gym/105198/problem/F) | Deal with smaller $n$ -s first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0127/solution/cf105198f.md) |
-| *1700 | [GYM105198A](https://codeforces.com/gym/105198/problem/A) | Consider the contribution of each digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0127/solution/cf105198a.md) |
+| *1400 | [GYM105198M](https://codeforces.com/gym/105198/problem/M) | If you need extra steps on a direction, how can you reduce the number of steps on the other direction? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0128/solution/cf105198m.md) |
+| *1900 | [GYM105198G](https://codeforces.com/gym/105198/problem/G) | Just let all sums be the same for most $n$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0128/solution/cf105198g.md) |

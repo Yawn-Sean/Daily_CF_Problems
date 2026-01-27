@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1400 | [GYM105125B](https://codeforces.com/gym/105125/problem/B) | Find a greedy way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0126/solution/cf105125b.md) |
+| *1400 | [GYM105198M](https://codeforces.com/gym/105198/problem/M) | If you need extra steps on a direction, how can you reduce the number of steps on the other direction? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0128/solution/cf105198m.md) |
 | 1500 | [CF891A](https://codeforces.com/problemset/problem/891/A) | You need the first $1$ , and then you can make all the others $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0328/solution/cf891a.md) |
 | 1600 | [CF788A](https://codeforces.com/problemset/problem/788/A) | $a[i]-a[i+1]$ doesn't really matter. How can you use DP to solve a segment-sum-maximum problem? This is similar. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0314/solution/cf788a.md) |
 | 1600 | [CF913C](https://codeforces.com/problemset/problem/913/C) | Backpack problems with $2^i$ volume: greedy approach. Note that you can buy more than what you want. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0321/solution/cf913c.md) |
