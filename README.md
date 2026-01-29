@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105198K](https://codeforces.com/gym/105198/problem/K) | Exclude illegal arrangements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0129/solution/cf105198k.md) |
-| *1700 | [GYM105244F](https://codeforces.com/gym/105244/problem/F) | Find minimum steps first. $k$ doesn't need to be that large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0129/solution/cf105244f.md) |
+| *1800 | [GYM102788K](https://codeforces.com/gym/102788/problem/K) | Decide the index of an array in a binary form. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0130/solution/cf102788k.md) |
+| *1800 | [GYM102890M](https://codeforces.com/gym/102890/problem/M) | Decide each digit one at a time. What's the condition you need to satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0130/solution/cf102890m.md) |
