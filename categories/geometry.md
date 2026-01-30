@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1200 | [GYM104408B](https://codeforces.com/gym/104408/problem/B) | What circle should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0131/solution/cf104408b.md) |
 | 1500 | [CF908C](https://codeforces.com/problemset/problem/908/C) | How can you determine the positional relationship between two circles? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0323/solution/cf908c.md) |
 | 1600 | [CF993A](https://codeforces.com/problemset/problem/993/A) | Find the representative points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0817/solution/cf993a.md) |
 | 1600 | [CF849B](https://codeforces.com/problemset/problem/849/B) | If $3$ points is divided in $2$ groups, ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0824/solution/cf849b.md) |
