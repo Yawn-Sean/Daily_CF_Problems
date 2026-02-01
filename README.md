@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM104408B](https://codeforces.com/gym/104408/problem/B) | What circle should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0131/solution/cf104408b.md) |
-| *1500 | [GYM104408C](https://codeforces.com/gym/104408/problem/C) | What decides whether a position should be flipped? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0131/solution/cf104408c.md) |
+| *1400 | [CF1176C](https://codeforces.com/problemset/problem/1176/C) | Greedily assign elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0202/solution/cf1176c.md) |
+| *1500 | [GYM104758D](https://codeforces.com/gym/104758/problem/D) | Find the final state first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0202/solution/cf104758d.md) |
