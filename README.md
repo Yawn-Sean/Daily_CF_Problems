@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [CF1176C](https://codeforces.com/problemset/problem/1176/C) | Greedily assign elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0202/solution/cf1176c.md) |
-| *1500 | [GYM104758D](https://codeforces.com/gym/104758/problem/D) | Find the final state first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0202/solution/cf104758d.md) |
+| *1200 | [GYM105400E](https://codeforces.com/gym/105400/problem/E) | What's the condition of the original array? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0203/solution/cf105400e.md) |
+| *1600 | [GYM105327K](https://codeforces.com/gym/105327/problem/K) | Check the condition and construct the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0203/solution/cf105327k.md) |
