@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM105400E](https://codeforces.com/gym/105400/problem/E) | What's the condition of the original array? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0203/solution/cf105400e.md) |
-| *1600 | [GYM105327K](https://codeforces.com/gym/105327/problem/K) | Check the condition and construct the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0203/solution/cf105327k.md) |
+| *1600 | [GYM105400K](https://codeforces.com/gym/105400/problem/K) | What's the best order of operations? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0204/solution/cf105400k.md) |
+| *1600 | [GYM105327B](https://codeforces.com/gym/105327/problem/B) | It's about getting to another node on the graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0204/solution/cf105327b.md) |
