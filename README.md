@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105400K](https://codeforces.com/gym/105400/problem/K) | What's the best order of operations? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0204/solution/cf105400k.md) |
-| *1600 | [GYM105327B](https://codeforces.com/gym/105327/problem/B) | It's about getting to another node on the graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0204/solution/cf105327b.md) |
+| *1400 | [GYM104147D](https://codeforces.com/gym/104147/problem/D) | Find the pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0205/solution/cf104147d.md) |
+| *1700 | [GYM104847E](https://codeforces.com/gym/104847/problem/E) | Consider edges in an order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0205/solution/cf104847e.md) |
