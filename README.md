@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM104147D](https://codeforces.com/gym/104147/problem/D) | Find the pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0205/solution/cf104147d.md) |
-| *1700 | [GYM104847E](https://codeforces.com/gym/104847/problem/E) | Consider edges in an order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0205/solution/cf104847e.md) |
+| *1700 | [GYM106351K](https://codeforces.com/gym/106351/problem/K) | Find a way to iterate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0206/solution/cf106351k.md) |
+| *1900 | [GYM104020L](https://codeforces.com/gym/104020/problem/L) | Since the points are randomly chosen, the answer can't be too large, so you can find a way to iterate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0206/solution/cf104020l.md) |
