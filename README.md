@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106351K](https://codeforces.com/gym/106351/problem/K) | Find a way to iterate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0206/solution/cf106351k.md) |
-| *1900 | [GYM104020L](https://codeforces.com/gym/104020/problem/L) | Since the points are randomly chosen, the answer can't be too large, so you can find a way to iterate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0206/solution/cf104020l.md) |
+| *1700 | [GYM103347J](https://codeforces.com/gym/103347/problem/J) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0207/solution/cf103347j.md) |
+| *2000 | [GYM104020J](https://codeforces.com/gym/104020/problem/J) | How can you find the height of a position? How can you reduce the number of positions you need to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0207/solution/cf104020j.md) |
