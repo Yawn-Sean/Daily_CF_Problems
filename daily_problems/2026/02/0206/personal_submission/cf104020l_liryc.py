@@ -1,14 +1,13 @@
 '''
-Docstring for daily_problems.2026.02.0206.personal_submission.cf104020l_yawn_sean
+https://codeforces.com/gym/104020/submission/361633863
 '''
-def solve(n: int, pa: list[list[int]]) -> float:
-    pa.sort()
-    ans = 4 * 10 ** 18
-    
+def solve(n: int, a: list[list[int]]) -> float:
+    a.sort()
+    ans = (1 << 62) - 1 << 1
     for i in range(n):
-        x1, y1, z1 = pa[i]
-        for j in range(max(i - 100, 0), i):
-            x2, y2, z2 = pa[j]
-            ans = min(ans, (x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1) + (z2 - z1) * (z2 - z1))
-    
+        x1, y1, z1 = a[i]
+        for j in range(pmax(i - 100, 0), i):
+            x2, y2, z2 = a[j]
+            ans = pmin(ans, (x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1) + (z2 - z1) * (z2 - z1))
     return ans ** 0.5
+
