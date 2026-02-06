@@ -27,9 +27,10 @@ def query(x: int, y: int) -> bool:
 if __name__ == "__main__":
     n, m = map(int, input().split())
     a = list(range(1, n + 1))
+    random.seed()
     random.shuffle(a)
     ansx, ansy = 1, 0
-    for x in range(1, n + 1):
+    for x in a:
         if not query(x, ansy + 1):
             continue
         ansx, ansy = x, ansy + 1
