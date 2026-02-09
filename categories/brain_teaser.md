@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1200 | [GYM105400E](https://codeforces.com/gym/105400/problem/E) | What's the condition of the original array? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0203/solution/cf105400e.md) |
+| *1200 | [GYM102946D](https://codeforces.com/gym/102946/problem/D) | Find the position of the largest element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0210/solution/cf102946d.md) |
 | *1400 | [GYM105478B](https://codeforces.com/gym/105478/problem/B) | Consider each segment of question marks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1112/solution/cf105478b.md) |
 | *1500 | [GYM106032J](https://codeforces.com/gym/106032/problem/J) | When two number "merges" ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0927/solution/cf106032j.md) |
 | *1500 | [GYM105271B](https://codeforces.com/gym/105271/problem/B) | It's almost just like walking from $(1,1)$ to $(n,n)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1002/solution/cf105271b.md) |
