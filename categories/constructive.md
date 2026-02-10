@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1200 | [GYM106179C](https://codeforces.com/gym/106179/problem/C) | Make the result easier to calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1110/solution/cf106179c.md) |
+| *1200 | [GYM105876B](https://codeforces.com/gym/105876/problem/B) | Find answers for smaller $n$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0211/solution/cf105876b.md) |
 | *1400 | [GYM105292A](https://codeforces.com/gym/105292/problem/A) | Just fit the lights one by one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1219/solution/cf105292a.md) |
 | *1400 | [GYM105198M](https://codeforces.com/gym/105198/problem/M) | If you need extra steps on a direction, how can you reduce the number of steps on the other direction? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0128/solution/cf105198m.md) |
 | 1500 | [CF687A](https://codeforces.com/problemset/problem/687/A) | Try thinking of each edge. What necessary condition does the definition imply? Is it sufficient? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0301/solution/cf687a.md) |

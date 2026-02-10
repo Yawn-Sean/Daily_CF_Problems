@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM102946D](https://codeforces.com/gym/102946/problem/D) | Find the position of the largest element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0210/solution/cf102946d.md) |
-| *1700 | [GYM103059I](https://codeforces.com/gym/103059/problem/I) | What's the condition? Fix the final array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0210/solution/cf103059i.md) |
+| *1200 | [GYM105876B](https://codeforces.com/gym/105876/problem/B) | Find answers for smaller $n$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0211/solution/cf105876b.md) |
+| *1700 | [GYM104020C](https://codeforces.com/gym/104020/problem/C) | What's the target for each step? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0211/solution/cf104020c.md) |
