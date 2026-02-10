@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM103451I](https://codeforces.com/gym/103451/problem/I) | Consider each digit separately. There are lots of details. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0209/solution/cf103451i.md) |
-| *2100 | [GYM106124D](https://codeforces.com/gym/106124/problem/D) | Once you find the starting position, the whole route seems easy to find. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0209/solution/cf106124d.md) |
+| *1200 | [GYM102946D](https://codeforces.com/gym/102946/problem/D) | Find the position of the largest element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0210/solution/cf102946d.md) |
+| *1700 | [GYM103059I](https://codeforces.com/gym/103059/problem/I) | What's the condition? Fix the final array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0210/solution/cf103059i.md) |
