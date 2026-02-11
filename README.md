@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM105876B](https://codeforces.com/gym/105876/problem/B) | Find answers for smaller $n$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0211/solution/cf105876b.md) |
-| *1700 | [GYM104020C](https://codeforces.com/gym/104020/problem/C) | What's the target for each step? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0211/solution/cf104020c.md) |
+| *1400 | [GYM106225F](https://codeforces.com/gym/106225/problem/F) | Once the array crosses the lines... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0212/solution/cf106225f.md) |
+| *1700 | [GYM106225C](https://codeforces.com/gym/106225/problem/C) | Consider whether $n\bmod 2 =0$ or $m\bmod 2 = 0$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0212/solution/cf106225c.md) |
