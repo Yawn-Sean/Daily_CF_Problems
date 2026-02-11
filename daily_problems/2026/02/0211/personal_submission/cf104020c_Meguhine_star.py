@@ -33,7 +33,7 @@ if __name__ == "__main__":
     add_base = p * time_recover + 1
     inv_q = 1 / (1 - p)
     exp = list(accumulate(
-        range(n + 1),
+        range(n),
         lambda pre, _: (pre + add_base) * inv_q,
         initial=0
     ))
