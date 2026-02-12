@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106225F](https://codeforces.com/gym/106225/problem/F) | Once the array crosses the lines... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0212/solution/cf106225f.md) |
-| *1700 | [GYM106225C](https://codeforces.com/gym/106225/problem/C) | Consider whether $n\bmod 2 =0$ or $m\bmod 2 = 0$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0212/solution/cf106225c.md) |
+| *1600 | [GYM106363E](https://codeforces.com/gym/106363/problem/E) | Contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0213/solution/cf106363e.md) |
+| *2100 | [GYM106363F](https://codeforces.com/gym/106363/problem/F) | Consider each prefix. What's the information to save? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0213/solution/cf106363f.md) |
