@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106363E](https://codeforces.com/gym/106363/problem/E) | Contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0213/solution/cf106363e.md) |
-| *2100 | [GYM106363F](https://codeforces.com/gym/106363/problem/F) | Consider each prefix. What's the information to save? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0213/solution/cf106363f.md) |
+| *1500 | [GYM104013C](https://codeforces.com/gym/104013/problem/C) | Recover from the random swaps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0214/solution/cf104013c.md) |
+| *1600 | [GYM104052B](https://codeforces.com/gym/104052/problem/B) | Hull. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0214/solution/cf104052b.md) |
