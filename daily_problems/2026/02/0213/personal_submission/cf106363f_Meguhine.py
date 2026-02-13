@@ -37,20 +37,18 @@ mod = 10**9 + 7
 if __name__ == "__main__":
     n, m = map(int, input().split())
 
-    def f(x: int, y: int) -> int:
-        return x * (n + 1) + y
+    _a = (n + 1) * (m + 2) * 3
+    _0 = (n + 1) * (m + 2)
+    _1 = n + 1
 
-    dp = [
-        [
-            [0] * (n + 1) * (m + 2) for _ in range(3)
-        ] for _ in range(2)
-    ]
-    dp[0][0][f(0, 0)] = 1
-    dp[0][0][f(0, 1)] = mod - 1
+    def f(x: int, y: int, z: int) -> int:
+        return x * _0 + y * _1 + z
+
+    dp = [[0] * _a for _ in range(2)]
+    dp[0][f(0, 0, 0)] = 1
+    dp[0][f(0, 0, 1)] = mod - 1
     for i in range(1, n):
-        nw = dp[i & 1] = [
-            [0] * (n + 1) * (m + 2) for _ in range(3)
-        ]
+        nw = dp[i & 1] = [0] * _a
         pre = dp[(i & 1) ^ 1]
         for l in range(3):
             nl = fmin(l + 1, 2)
@@ -58,21 +56,20 @@ if __name__ == "__main__":
                 ncnt = cnt + int(l == 2)
                 cur = 0
                 for last in range(i):
-                    cur += pre[l][f(cnt, last)]
+                    cur += pre[f(l, cnt, last)]
                     cur %= mod
-                    # print(f"dp[{i - 1}][{l}][{cnt}][{last}]={cur}")
                     if cur == 0:
                         continue
-                    nw[0][f(cnt, 0)] += cur
-                    nw[0][f(cnt, last + 1)] -= cur
-                    nw[nl][f(ncnt, last + 1)] += cur
-                    nw[nl][f(ncnt, i + 1)] -= cur
+                    nw[f(0, cnt, 0)] += cur
+                    nw[f(0, cnt, last + 1)] -= cur
+                    nw[f(nl, ncnt, last + 1)] += cur
+                    nw[f(nl, ncnt, i + 1)] -= cur
     ans = 0
     nw = dp[(n & 1) ^ 1]
     for l in range(3):
         cur = 0
         for last in range(0, n):
-            cur += nw[l][f(m, last)]
+            cur += nw[f(l, m, last)]
             cur %= mod
             ans += cur
     print(ans % mod)
