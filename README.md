@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM104013C](https://codeforces.com/gym/104013/problem/C) | Recover from the random swaps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0214/solution/cf104013c.md) |
-| *1600 | [GYM104052B](https://codeforces.com/gym/104052/problem/B) | Hull. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0214/solution/cf104052b.md) |
+| *1200 | [CF2195D](https://codeforces.com/problemset/problem/2195/D) | consider the weights of $a_i$ in each result. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0216/solution/cf2195d.md) |
+| *1900 | [CF2195F](https://codeforces.com/problemset/problem/2195/F) | Assign an order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0216/solution/cf2195f.md) |

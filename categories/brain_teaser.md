@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | *1200 | [GYM105400E](https://codeforces.com/gym/105400/problem/E) | What's the condition of the original array? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0203/solution/cf105400e.md) |
 | *1200 | [GYM102946D](https://codeforces.com/gym/102946/problem/D) | Find the position of the largest element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0210/solution/cf102946d.md) |
+| *1200 | [CF2195D](https://codeforces.com/problemset/problem/2195/D) | consider the weights of $a_i$ in each result. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0216/solution/cf2195d.md) |
 | *1400 | [GYM105478B](https://codeforces.com/gym/105478/problem/B) | Consider each segment of question marks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1112/solution/cf105478b.md) |
 | *1400 | [GYM106225F](https://codeforces.com/gym/106225/problem/F) | Once the array crosses the lines... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0212/solution/cf106225f.md) |
 | *1500 | [GYM106032J](https://codeforces.com/gym/106032/problem/J) | When two number "merges" ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0927/solution/cf106032j.md) |
