@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [CF2195D](https://codeforces.com/problemset/problem/2195/D) | consider the weights of $a_i$ in each result. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0216/solution/cf2195d.md) |
-| *1900 | [CF2195F](https://codeforces.com/problemset/problem/2195/F) | Assign an order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0216/solution/cf2195f.md) |
+| *1500 | [CF2195E](https://codeforces.com/problemset/problem/2195/E) | Consider the process in steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0217/solution/cf2195e.md) |
+| *1600 | [GYM106367G](https://codeforces.com/gym/106367/problem/G) | Each element is deleted only once. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0217/solution/cf106367g.md) |
