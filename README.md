@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [CF2195E](https://codeforces.com/problemset/problem/2195/E) | Consider the process in steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0217/solution/cf2195e.md) |
-| *1600 | [GYM106367G](https://codeforces.com/gym/106367/problem/G) | Each element is deleted only once. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0217/solution/cf106367g.md) |
+| *1700 | [GYM106369D](https://codeforces.com/gym/106369/problem/D) | Find a best position - an equation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0218/solution/cf106369d.md) |
+| *1700 | [GYM106369F](https://codeforces.com/gym/106369/problem/F) | If we fix the distance from the point to the base, how should we optimize the result? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0218/solution/cf106369f.md) |
