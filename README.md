@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106369D](https://codeforces.com/gym/106369/problem/D) | Find a best position - an equation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0218/solution/cf106369d.md) |
-| *1700 | [GYM106369F](https://codeforces.com/gym/106369/problem/F) | If we fix the distance from the point to the base, how should we optimize the result? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0218/solution/cf106369f.md) |
+| *1000 | [GYM105628C](https://codeforces.com/gym/105628/problem/C) | The answer minus $k$ is just ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0219/solution/cf105628c.md) |
+| *1600 | [GYM105900M](https://codeforces.com/gym/105900/problem/M) | The transitions of DP happen on the shortest paths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0219/solution/cf105900m.md) |
