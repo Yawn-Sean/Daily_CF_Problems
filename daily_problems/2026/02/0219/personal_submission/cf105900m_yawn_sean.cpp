@@ -11,41 +11,6 @@ auto rngl = mt19937_64(random_device()());
 // using namespace __gnu_cxx;
 // using namespace __gnu_pbds;
 
-const int N = 1e6 + 3e5 + 5;
-int trie[N][26], weights[N];
-int rt = 1, pt = 1;
-
-void insert_char(char ch) {
-	pt ++;
-	trie[pt][ch - 'a'] = rt;
-	weights[pt] = weights[rt];
-	rt = pt;
-}
-
-void insert_string(string s) {
-	int cur = rt; weights[rt] ++;
-
-	for (auto &ch: s) {
-		if (!trie[cur][ch - 'a'])
-			trie[cur][ch - 'a'] = ++pt;
-		cur = trie[cur][ch - 'a'];
-		weights[cur] ++;
-	}
-}
-
-void query(string s) {
-	long long ans = 0;
-	int cur = rt;
-
-	for (auto &ch: s) {
-		if (!trie[cur][ch - 'a']) break;
-		cur = trie[cur][ch - 'a'];
-		ans += weights[cur];
-	}
-
-	cout << ans << '\n';
-} 
-
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(0);
