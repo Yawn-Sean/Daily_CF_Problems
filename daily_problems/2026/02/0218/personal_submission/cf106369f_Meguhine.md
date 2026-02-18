@@ -29,7 +29,6 @@ $S_1,S_2,S_3$ 每一个函数都是一次函数，因为 $\vert S_i(x)-S_j(x)\ve
 
 设 $f(x)=ax^2+bx+c\,(a>0)$，则有 $f''(x)=2a>0$，因此 $f$ 为严格凸函数
 
-
 #### 凸函数取 $\mathbf{max}$ 是凸函数
 
 设 $f, g: \mathbb{R}^n\rightarrow\mathbb{R}$ 为凸函数，定义 $h(x) = \max(f(x), g(x))$
