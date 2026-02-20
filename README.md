@@ -25,4 +25,4 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
 | *1400 | [GYM106247B](https://codeforces.com/gym/106247/problem/2) | It's about finding some numbers the sum of whose inverse numbers equals $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0220/solution/cf106247b.md) |
-| *1600 | [GGYM106247D](https://codeforces.com/gym/106247/problem/4) | Consider the best $p$ when it comes to the same GCD. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0220/solution/cf106247d.md) |
+| *1600 | [GYM106247D](https://codeforces.com/gym/106247/problem/4) | Consider the best $p$ when it comes to the same GCD. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0220/solution/cf106247d.md) |
