@@ -1,5 +1,5 @@
 '''
-2026.2.20 Y1 1400
+https://codeforces.com/gym/106247/submission/363708305
 '''
 def solve(n: int) -> tuple[int, list[int]]: 
     if n == 2:
