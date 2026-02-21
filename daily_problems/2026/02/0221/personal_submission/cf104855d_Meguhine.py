@@ -63,16 +63,22 @@ class Graph:
 
 def solve(_case: int) -> None:
     n, m = map(int, input().split())
+
+    def f(u: int, c: int) -> int:
+        return u * m + c
+
     e = Graph(n)
     for _ in range(m):
         u, v, c = map(lambda s: int(s) - 1, input().split())
-        e.append(u, (v, c))  # now u,v is [0,n), c is [0,m)
+        e.append(u, f(v, c))  # now u,v is [0,n), c is [0,m)
+
     dp = array('i', [-1] * n)
     dp[0] = m
     q = deque([0])
     while q:
         u = q.popleft()
-        for v, c in e.iterate(u):
+        for edge in e.iterate(u):
+            v, c = divmod(edge, m)
             if c == dp[u] or dp[v] == m:
                 continue
             if dp[v] == -1:
@@ -81,6 +87,7 @@ def solve(_case: int) -> None:
             elif dp[v] != c:
                 dp[v] = m
                 q.append(v)
+
     outs[_case] = " ".join(
         str(i + 1) for i in range(n) if dp[i] != -1
     )
