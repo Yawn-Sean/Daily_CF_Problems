@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104855D](https://codeforces.com/gym/104855/problem/D) | You only need to visit a node at most twice. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0221/solution/cf104855d.md) |
-| *1600 | [GYM106151E](https://codeforces.com/gym/106151/problem/E) | If you fix the subset, what order should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0221/solution/cf106151e.md) |
+| *1400 | [GYM104736I](https://codeforces.com/gym/104736/problem/I) | Consider the inversions in and between blocks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0223/solution/cf104736i.md) |
+| *1600 | [GYM104720K](https://codeforces.com/gym/104720/problem/K) | If we fix the largest circle, what should we optimize? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0223/solution/cf104720k.md) |
