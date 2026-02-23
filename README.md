@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM104736I](https://codeforces.com/gym/104736/problem/I) | Consider the inversions in and between blocks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0223/solution/cf104736i.md) |
-| *1600 | [GYM104720K](https://codeforces.com/gym/104720/problem/K) | If we fix the largest circle, what should we optimize? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0223/solution/cf104720k.md) |
+| *1500 | [GYM104523A](https://codeforces.com/gym/104523/problem/A) | The cascading sum of each different number is different. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0224/solution/cf104523a.md) |
+| *2000 | [GYM104523D](https://codeforces.com/gym/104523/problem/D) | Subarrays are deleted in blocks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0224/solution/cf104523d.md) |
