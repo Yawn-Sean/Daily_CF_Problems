@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM104523A](https://codeforces.com/gym/104523/problem/A) | The cascading sum of each different number is different. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0224/solution/cf104523a.md) |
-| *2000 | [GYM104523D](https://codeforces.com/gym/104523/problem/D) | Subarrays are deleted in blocks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0224/solution/cf104523d.md) |
+| *1000 | [GYM103870G](https://codeforces.com/gym/103870/problem/G) | Find the pattern of the value of XOR between $x$ and $x+1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0225/solution/cf103870g.md) |
+| *1900 | [GYM103870K](https://codeforces.com/gym/103870/problem/K) | DP. What's the transition? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0225/solution/cf103870k.md) |

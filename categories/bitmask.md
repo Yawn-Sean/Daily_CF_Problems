@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1000 | [GYM103870G](https://codeforces.com/gym/103870/problem/G) | Find the pattern of the value of XOR between $x$ and $x+1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0225/solution/cf103870g.md) |
 | *1200 | [GYM106179C](https://codeforces.com/gym/106179/problem/C) | Make the result easier to calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1110/solution/cf106179c.md) |
 | *1200 | [GYM105876B](https://codeforces.com/gym/105876/problem/B) | Find answers for smaller $n$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0211/solution/cf105876b.md) |
 | 1600 | [CF1045I](https://codeforces.com/problemset/problem/1045/I) | Check the conditions of "constructing" a palindrome. Find a way to store the information. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0329/solution/cf1045i.md) |
