@@ -36,10 +36,10 @@ def solve(_case: int) -> None:
         return l * n + r
 
     def calc2(x: int, y: int) -> int:
-        return 1 if abs(x - y) <= K else n * 2
+        return 1 if abs(a[x] - a[y]) <= K else n * 2
 
     def calc3(x: int, y: int, z: int) -> int:
-        mx, mn = max(x, y, z), min(x, y, z)
+        mx, mn = max(a[x], a[y], a[z]), min(a[x], a[y], a[z])
         return 1 if mx - mn <= K else n * 3
 
     inf = n * n
@@ -48,12 +48,12 @@ def solve(_case: int) -> None:
     for l in range(0, n):
         dp[f(l, l)] = inf
         if l + 1 < n:
-            dp[f(l, l + 1)] = calc2(a[l], a[l + 1])
+            dp[f(l, l + 1)] = calc2(l, l + 1)
         if l + 2 < n:
             dp[f(l, l + 2)] = min(
-                calc3(a[l], a[l + 1], a[l + 2]),
-                calc2(a[l], a[l + 1]) + n,
-                calc2(a[l + 1], a[l + 2]) + n
+                calc3(l, l + 1, l + 2),
+                calc2(l, l + 1) + n,
+                calc2(l + 1, l + 2) + n
             )
 
     for _len in range(4, n + 1):
@@ -61,10 +61,9 @@ def solve(_case: int) -> None:
         for l in range(0, n):
             res = fmin(dp[f(l + 1, r)], dp[f(l, r - 1)]) + n
 
-            if 1:
-                inner = dp[f(l + 1, r - 1)]
-                if inner < n:
-                    res = fmin(res, inner + calc2(a[l], a[r]))
+            inner = dp[f(l + 1, r - 1)]
+            if inner < n:
+                res = fmin(res, inner + calc2(l, r))
 
             for m in range(l + 1, r):
                 res = fmin(res, dp[f(l, m)] + dp[f(m + 1, r)])
@@ -72,13 +71,13 @@ def solve(_case: int) -> None:
                 mr_inner = dp[f(m + 1, r - 1)]
                 if lm_inner < n:
                     res = fmin(res, lm_inner + dp[f(m + 1, r)] +
-                               calc2(a[l], a[m]))
+                               calc2(l, m))
                 if mr_inner < n:
                     res = fmin(res, mr_inner + dp[f(l, m - 1)] +
-                               calc2(a[m], a[r]))
+                               calc2(m, r))
                 if lm_inner < n and mr_inner < n:
                     res = fmin(res, lm_inner + mr_inner +
-                               calc3(a[l], a[m], a[r]))
+                               calc3(l, m, r))
 
             dp[f(l, r)] = res
             # print(f"{l=} {r=} {divmod(res, n)}")  #
