@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1000 | [GYM103870G](https://codeforces.com/gym/103870/problem/G) | Find the pattern of the value of XOR between $x$ and $x+1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0225/solution/cf103870g.md) |
-| *1900 | [GYM103870K](https://codeforces.com/gym/103870/problem/K) | DP. What's the transition? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0225/solution/cf103870k.md) |
+| *1700 | [GYM103940L](https://codeforces.com/gym/103940/problem/L) | Which variable should we choose as status? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0226/solution/cf103940l.md) |
+| *1700 | [GYM103940A](https://codeforces.com/gym/103940/problem/A) | A two-step problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0226/solution/cf103940a.md) |
