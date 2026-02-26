@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM103940L](https://codeforces.com/gym/103940/problem/L) | Which variable should we choose as status? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0226/solution/cf103940l.md) |
-| *1700 | [GYM103940A](https://codeforces.com/gym/103940/problem/A) | A two-step problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0226/solution/cf103940a.md) |
+| *1600 | [GYM104158J](https://codeforces.com/gym/104158/problem/J) | What's the variable that matters? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0227/solution/cf104158j.md) |
+| *2000 | [GYM104158K](https://codeforces.com/gym/104158/problem/K) | What happens when two paths intersect? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0227/solution/cf104158k.md) |
