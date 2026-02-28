@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | *1400 | [GYM105478B](https://codeforces.com/gym/105478/problem/B) | Consider each segment of question marks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1112/solution/cf105478b.md) |
 | *1400 | [GYM104147D](https://codeforces.com/gym/104147/problem/D) | Find the pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0205/solution/cf104147d.md) |
+| *1500 | [CF2200E](https://codeforces.com/contest/2200/problem/E) | Fint the perfect move to kill the game. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0228/solution/cf2200e.md) |
 | 1600 | [CF1033C](https://codeforces.com/problemset/problem/1033/C) | Classic DP for games. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/06/0622/solution/cf1033c.md) |
 | 1600 | [CF930B](https://codeforces.com/problemset/problem/930/B) | If the first letter is $x$ , what is the maximum probability? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/03/0328/solution/cf930b.md) |
 | *1600 | [GYM106144F](https://codeforces.com/gym/106144/problem/F) | Each layer are one of the two kinds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1031/solution/cf106144f.md) |
