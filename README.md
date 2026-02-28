@@ -25,4 +25,4 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
 | *1500 | [CF2200E](https://codeforces.com/contest/2200/problem/E) | Fint the perfect move to kill the game. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0228/solution/cf2200e.md) |
-| *1900 | [GYM104158K](https://codeforces.com/gym/104158/problem/K) | The added item doesn't change the chosen subset that much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0228/solution/cf2200f.md) |
+| *1900 | [CF2200F](https://codeforces.com/contest/2200/problem/F) | The added item doesn't change the chosen subset that much. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0228/solution/cf2200f.md) |
