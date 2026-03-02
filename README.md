@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106390B](https://codeforces.com/gym/106390/problem/B) | Consider the path before and after the usage of the jump. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0302/solution/cf106390b.md) |
-| *1700 | [GYM106391B](https://codeforces.com/gym/106391/problem/B) | Convert the problem into a $n-1,n-2,\dots$ one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0302/solution/cf106391b.md) |
+| *1700 | [GYM104669L](https://codeforces.com/gym/104669/problem/L) | How can you check a number $v$ is reachable? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0303/solution/cf104669l.md) |
+| *2100 | [GYM106147B](https://codeforces.com/gym/106147/problem/B) | Reduce the number of candidates. Then you can use some classic algorithm. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0303/solution/cf106147b.md) |
