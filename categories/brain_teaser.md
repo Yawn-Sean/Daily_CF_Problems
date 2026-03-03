@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1100 | [GYM104574E](https://codeforces.com/gym/104574/problem/E) | Print the result of each shuffling. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0304/solution/cf104574e.md) |
 | *1200 | [GYM105400E](https://codeforces.com/gym/105400/problem/E) | What's the condition of the original array? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0203/solution/cf105400e.md) |
 | *1200 | [GYM102946D](https://codeforces.com/gym/102946/problem/D) | Find the position of the largest element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0210/solution/cf102946d.md) |
 | *1200 | [CF2195D](https://codeforces.com/problemset/problem/2195/D) | consider the weights of $a_i$ in each result. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0216/solution/cf2195d.md) |

@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM104669L](https://codeforces.com/gym/104669/problem/L) | How can you check a number $v$ is reachable? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0303/solution/cf104669l.md) |
-| *2100 | [GYM106147B](https://codeforces.com/gym/106147/problem/B) | Reduce the number of candidates. Then you can use some classic algorithm. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0303/solution/cf106147b.md) |
+| *1100 | [GYM104574E](https://codeforces.com/gym/104574/problem/E) | Print the result of each shuffling. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0304/solution/cf104574e.md) |
+| *1600 | [GYM103316J](https://codeforces.com/gym/103316/problem/J) | Addivity of expectation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0304/solution/cf103316j.md) |
