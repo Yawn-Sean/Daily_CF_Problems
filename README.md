@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1100 | [GYM104574E](https://codeforces.com/gym/104574/problem/E) | Print the result of each shuffling. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0304/solution/cf104574e.md) |
-| *1600 | [GYM103316J](https://codeforces.com/gym/103316/problem/J) | Addivity of expectation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0304/solution/cf103316j.md) |
+| *1700 | [GYM106404H](https://codeforces.com/gym/106404/problem/H) | Find the action of the volcanoes first and then the action of the sheep. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0305/solution/cf106404h.md) |
+| *1800 | [GYM106404J](https://codeforces.com/gym/106404/problem/J) | Find the maximum size of the set that doesn't fit the conditions. | [Editorial](http://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0305/solution/cf106404j.md) |
