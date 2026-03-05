@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1200 | [GYM104985A](https://codeforces.com/gym/104985/problem/A) | Consider time in periods. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0306/solution/cf104985a.md) |
 | 1500 | [CF1547E](https://codeforces.com/problemset/problem/1547/E) | Try plotting the function and find where the function changes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/02/0226/solution/cf1547e.md) |
 | *1500 | [GYM105314B](https://codeforces.com/gym/105314/problem/B) | Find the bound and what do you need to calculate afterwards? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf105314b.md) |
 | 1600 | [CF231C](https://codeforces.com/problemset/problem/231/C) | If you want to make all elements in a subsequence equal, how many operations at least should you apply? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0706/solution/cf231c.md) |

@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106404H](https://codeforces.com/gym/106404/problem/H) | Find the action of the volcanoes first and then the action of the sheep. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0305/solution/cf106404h.md) |
-| *1800 | [GYM106404J](https://codeforces.com/gym/106404/problem/J) | Find the maximum size of the set that doesn't fit the conditions. | [Editorial](http://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0305/solution/cf106404j.md) |
+| *1200 | [GYM104985A](https://codeforces.com/gym/104985/problem/A) | Consider time in periods. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0306/solution/cf104985a.md) |
+| *1800 | [GYM105109C](https://codeforces.com/gym/105109/problem/C) | The brute force method is somehow correct. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0306/solution/cf105109c.md) |
