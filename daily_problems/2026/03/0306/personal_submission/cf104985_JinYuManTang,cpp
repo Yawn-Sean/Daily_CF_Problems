@@ -1,0 +1,28 @@
+void solve() {
+    int n;
+    cin >> n;
+    vector<i64> v(n), t(n);
+    for (int i = 0; i < n; i++) {
+        cin >> v[i] >> t[i];
+    }
+    vector<int> ids(n);
+    iota(ids.begin(), ids.end(), 0);
+    sort(ids.begin(), ids.end(), [&](int i, int j) {
+        return t[i] < t[j];
+    });
+    i64 sum_v = reduce(v.begin(), v.end(), 0LL);
+    i64 cur_v = sum_v;
+    long double pre_t = 0, cur_t = 0.0;
+    vector<long double> res(n);
+    for (int i: ids) {
+        long double delta_t = t[i] - pre_t;
+        cur_t += 1.0 * cur_v / sum_v * delta_t;
+        res[i] = cur_t;
+        cur_v -= v[i];
+        pre_t = t[i];
+    }
+    cout << fixed << setprecision(10);
+    for (int i = 0; i < n; i++) {
+        cout << res[i] << "\n";
+    }
+}
