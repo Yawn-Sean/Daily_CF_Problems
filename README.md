@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM104985A](https://codeforces.com/gym/104985/problem/A) | Consider time in periods. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0306/solution/cf104985a.md) |
-| *1800 | [GYM105109C](https://codeforces.com/gym/105109/problem/C) | The brute force method is somehow correct. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0306/solution/cf105109c.md) |
+| *1100 | [GYM102465E](https://codeforces.com/gym/102465/problem/E) | Find each lower bound and upper bound. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0307/solution/cf102465e.md) |
+| *1800 | [GYM104891E](https://codeforces.com/gym/104891/problem/E) | What are the necessary edges? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0307/solution/cf104891e.md) |

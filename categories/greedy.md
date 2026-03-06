@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1100 | [GYM102465E](https://codeforces.com/gym/102465/problem/E) | Find each lower bound and upper bound. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0307/solution/cf102465e.md) |
 | *1200 | [GYM104408B](https://codeforces.com/gym/104408/problem/B) | What circle should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0131/solution/cf104408b.md) |
 | *1400 | [GYM105125B](https://codeforces.com/gym/105125/problem/B) | Find a greedy way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0126/solution/cf105125b.md) |
 | *1400 | [GYM105198M](https://codeforces.com/gym/105198/problem/M) | If you need extra steps on a direction, how can you reduce the number of steps on the other direction? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0128/solution/cf105198m.md) |
@@ -192,6 +193,7 @@
 | *1800 | [GYM104770F](https://codeforces.com/gym/104770/problem/F) | From leaves to the root. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0103/solution/cf104770f.md) |
 | *1800 | [GYM102890M](https://codeforces.com/gym/102890/problem/M) | Decide each digit one at a time. What's the condition you need to satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0130/solution/cf102890m.md) |
 | *1800 | [GYM106404J](https://codeforces.com/gym/106404/problem/J) | Find the maximum size of the set that doesn't fit the conditions. | [Editorial](http://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0305/solution/cf106404j.md) |
+| *1800 | [GYM104891E](https://codeforces.com/gym/104891/problem/E) | What are the necessary edges? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0307/solution/cf104891e.md) |
 | 1900 | [CF1898D](https://codeforces.com/problemset/problem/1898/D) | Another greedy approach. Find out why the value can be bigger. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0304/solution/cf1898d.md) |
 | 1900 | [CF613B](https://codeforces.com/problemset/problem/613/B) | When considering a function with $2$ variables, fix one first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0409/solution/cf613b.md) |
 | 1900 | [CF1912A](https://codeforces.com/problemset/problem/1912/A) | Each used array only has some of the points to consider. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0415/solution/cf1912a.md) |
