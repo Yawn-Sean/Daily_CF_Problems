@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1300 | [GYM106407A](https://codeforces.com/gym/106407/problem/A) | Find the corresponding move. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0309/solution/cf106407a.md) |
 | *1400 | [GYM105478B](https://codeforces.com/gym/105478/problem/B) | Consider each segment of question marks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1112/solution/cf105478b.md) |
 | *1400 | [GYM104147D](https://codeforces.com/gym/104147/problem/D) | Find the pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0205/solution/cf104147d.md) |
 | *1500 | [CF2200E](https://codeforces.com/contest/2200/problem/E) | Fint the perfect move to kill the game. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0228/solution/cf2200e.md) |

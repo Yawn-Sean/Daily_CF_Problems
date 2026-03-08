@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1100 | [GYM102465E](https://codeforces.com/gym/102465/problem/E) | Find each lower bound and upper bound. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0307/solution/cf102465e.md) |
-| *1800 | [GYM104891E](https://codeforces.com/gym/104891/problem/E) | What are the necessary edges? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0307/solution/cf104891e.md) |
+| *1300 | [GYM106407A](https://codeforces.com/gym/106407/problem/A) | Find the corresponding move. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0309/solution/cf106407a.md) |
+| *1600 | [GYM106407B](https://codeforces.com/gym/106407/problem/B) | Find the expression for the final position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0309/solution/cf106407b.md) |
