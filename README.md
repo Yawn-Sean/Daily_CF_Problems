@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM106407A](https://codeforces.com/gym/106407/problem/A) | Find the corresponding move. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0309/solution/cf106407a.md) |
-| *1600 | [GYM106407B](https://codeforces.com/gym/106407/problem/B) | Find the expression for the final position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0309/solution/cf106407b.md) |
+| *1300 | [GYM106409D](https://codeforces.com/gym/106409/problem/D) | You don't need to check many things. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0310/solution/cf106409d.md) |
+| *2000 | [GYM106409E](https://codeforces.com/gym/106409/problem/E) | First, make the set of elements. Then, make them equal. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0310/solution/cf106409e.md) |

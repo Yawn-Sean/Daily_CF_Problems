@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1100 | [GYM104574E](https://codeforces.com/gym/104574/problem/E) | Print the result of each shuffling. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0304/solution/cf104574e.md) |
+| *1300 | [GYM106409D](https://codeforces.com/gym/106409/problem/D) | You don't need to check many things. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0310/solution/cf106409d.md) |
 | *1500 | [GYM105129L](https://codeforces.com/gym/105129/problem/L) | Only a few candidates. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/10/1020/solution/cf105129l.md) |
 | *1500 | [GYM104294A](https://codeforces.com/gym/104294/problem/A) | How can you calculate the answer for each square efficiently? Save the pre-calculated results for queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0107/solution/cf104294a.md) |
 | 1600 | [CF1025B](https://codeforces.com/problemset/problem/1025/B) | Hmm... At least one element of the pair. Then, which one? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0309/solution/cf1025b.md) |
