@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM106409D](https://codeforces.com/gym/106409/problem/D) | You don't need to check many things. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0310/solution/cf106409d.md) |
-| *2000 | [GYM106409E](https://codeforces.com/gym/106409/problem/E) | First, make the set of elements. Then, make them equal. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0310/solution/cf106409e.md) |
+| *1400 | [GYM103503A](https://codeforces.com/gym/103503/problem/A) | You need to add smaller elements. And you just need to find the maximum value you add. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0311/solution/cf103503a.md) |
+| *1900 | [GYM103503B](https://codeforces.com/gym/103503/problem/B) | Draw a tree to represent the result. What do you need to calculate? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0311/solution/cf103503b.md) |
