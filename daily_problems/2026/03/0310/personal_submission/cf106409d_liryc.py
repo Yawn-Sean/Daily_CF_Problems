@@ -1,12 +1,16 @@
 '''
-20260310 Y1 1300
-simple search
+https://codeforces.com/gym/106409/submission/366110061
 '''
-def solve(n: int, m: int, g: list[list[int]]) -> list[int]: 
-    for u in range(n):
-        for v in g[u]:
-            for x in g[u][:4]:
-                for y in g[v][:4]:
-                    if x != v and y != u and x != y:
-                        return [x + 1, u + 1, v + 1, y + 1]
+# simple graph search
+def solve(n: int, m: int, edges: list[list[int]]) -> list[int]:
+    g = [[] for _ in range(n)]
+    for u, v in edges:
+        g[u].append(v)
+        g[v].append(u)
+    for b, c in edges:
+        for a in g[b][:4]:
+            if a != c:
+                for d in g[c]:
+                    if d != b and d != a:
+                        return [a + 1, b + 1, c + 1, d + 1]
     return [-1]
