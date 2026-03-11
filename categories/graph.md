@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1300 | [GYM106409D](https://codeforces.com/gym/106409/problem/D) | You don't need to check many things. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0310/solution/cf106409d.md) |
+| *1400 | [GYM105453E](https://codeforces.com/gym/105453/problem/E) | The whole graph is connected in the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0312/solution/cf105453e.md) |
 | 1500 | [CF687A](https://codeforces.com/problemset/problem/687/A) | Try thinking of each edge. What necessary condition does the definition imply? Is it sufficient? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0301/solution/cf687a.md) |
 | 1600 | [CF916C](https://codeforces.com/problemset/problem/916/C) | Fix the shape of the spanning tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/04/0412/solution/cf916c.md) |
 | 1600 | [CF1609D](https://codeforces.com/problemset/problem/1609/D) | If you have a connected component, you can re-arrange the edges in it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0510/solution/cf1609d.md) |

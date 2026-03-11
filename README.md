@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM103503A](https://codeforces.com/gym/103503/problem/A) | You need to add smaller elements. And you just need to find the maximum value you add. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0311/solution/cf103503a.md) |
-| *1900 | [GYM103503B](https://codeforces.com/gym/103503/problem/B) | Draw a tree to represent the result. What do you need to calculate? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0311/solution/cf103503b.md) |
+| *1400 | [GYM105453E](https://codeforces.com/gym/105453/problem/E) | The whole graph is connected in the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0312/solution/cf105453e.md) |
+| *1500 | [GYM105453G](https://codeforces.com/gym/105453/problem/G) | Consider a benchmark and how your choice make a difference to it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0312/solution/cf105453g.md) |
