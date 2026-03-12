@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM105453E](https://codeforces.com/gym/105453/problem/E) | The whole graph is connected in the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0312/solution/cf105453e.md) |
-| *1500 | [GYM105453G](https://codeforces.com/gym/105453/problem/G) | Consider a benchmark and how your choice make a difference to it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0312/solution/cf105453g.md) |
+| *1400 | [GYM106415F](https://codeforces.com/gym/106415/problem/F) | How can you transform a number into a $2^i$ so that it is easy to find the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0313/solution/cf106415f.md) |
+| *1600 | [GYM106421G](https://codeforces.com/gym/106421/problem/G) | You can consider it as two similar problems. And each can be solved more easily if you transform the original array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0313/solution/cf106421g.md) |
