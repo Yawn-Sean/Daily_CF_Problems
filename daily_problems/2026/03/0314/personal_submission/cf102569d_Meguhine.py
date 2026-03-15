@@ -76,7 +76,7 @@ if __name__ == "__main__":
         for u in p:
             for vw in adj.iterate(u):
                 v, w = vw >> B, vw & MASK
-                if w == mn:
+                if w == mn and pre[v] == -1:
                     pre[v] = u << B | w
                     np.append(v)
         p, np = np, []
