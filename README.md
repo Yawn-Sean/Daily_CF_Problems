@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM102569J](https://codeforces.com/gym/102569/problem/J) | Find a simpler form. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0314/solution/cf102569j.md) |
-| *1800 | [GYM102569D](https://codeforces.com/gym/102569/problem/D) | Find each character step by step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0314/solution/cf102569d.md) |
+| *1400 | [GYM106259D](https://codeforces.com/gym/106259/problem/D) | The set only consists of two elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0316/solution/cf106259d.md) |
+| *1600 | [GYM106259A](https://codeforces.com/gym/106259/problem/A) | Conditions to check. What's the property of the two elements operated in the same operation? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0316/solution/cf106259a.md) |
