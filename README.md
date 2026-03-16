@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106259D](https://codeforces.com/gym/106259/problem/D) | The set only consists of two elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0316/solution/cf106259d.md) |
-| *1600 | [GYM106259A](https://codeforces.com/gym/106259/problem/A) | Conditions to check. What's the property of the two elements operated in the same operation? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0316/solution/cf106259a.md) |
+| *1600 | [GYM106259F](https://codeforces.com/gym/106259/problem/F) | Each pair is of the same probability. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0317/solution/cf106259f.md) |
+| *1900 | [GYM106259J](https://codeforces.com/gym/106259/problem/J) | Each element can be only operated a small number of times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0317/solution/cf106259j.md) |
