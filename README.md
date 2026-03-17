@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106259F](https://codeforces.com/gym/106259/problem/F) | Each pair is of the same probability. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0317/solution/cf106259f.md) |
-| *1900 | [GYM106259J](https://codeforces.com/gym/106259/problem/J) | Each element can be only operated a small number of times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0317/solution/cf106259j.md) |
+| *1300 | [GYM106430B](https://codeforces.com/gym/106430/problem/B) | Consider the value range after each step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0318/solution/cf106430b.md) |
+| *1800 | [GYM106430H](https://codeforces.com/gym/106430/problem/H) | If $a+b$ is fixed, you can iterate over $p$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0318/solution/cf106430h.md) |
