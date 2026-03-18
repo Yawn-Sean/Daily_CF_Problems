@@ -2,6 +2,7 @@
 import sys
 
 global outs
+input = lambda: sys.stdin.readline().rstrip()
 
 
 def solve(_case: int) -> None:
@@ -22,13 +23,13 @@ def solve(_case: int) -> None:
         # X -> p
         # X-p < 2p-X
         # 3p > 2X
-        while X > Y:
-            X = X * 2 // 3 + 1
-            ans += 1
-            if ans >= 100:
-                ans = -1
-                break
-        outs[_case] = str(ans)
+        if Y <= 2:
+            outs[_case] = "-1"
+        else:
+            while X > Y:
+                X = X * 2 // 3 + 1
+                ans += 1
+            outs[_case] = str(ans)
 
 
 if __name__ == "__main__":
