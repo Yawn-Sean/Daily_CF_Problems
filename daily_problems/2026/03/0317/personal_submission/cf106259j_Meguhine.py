@@ -3,39 +3,26 @@ import sys
 from array import array
 from dataclasses import dataclass
 from itertools import accumulate
-from typing import Any
+from typing import Any, List, Optional
 
 global outs
 input = lambda: sys.stdin.readline().rstrip()
 
 
-@dataclass(slots=True)
-class DSU:
-    n: int
-    fa: array
-
-    def __init__(self, n: int) -> None:
-        self.n = n
-        self.fa = array('i', range(n))
-
-    def get(self, x: int) -> int:
-        while x != self.fa[x]:  # DONT MERGE !!!
-            self.fa[x] = self.fa[self.fa[x]]
-            x = self.fa[x]
-        return x
-
-    def merge(self, x: int, y: int) -> None:
-        x, y = self.get(x), self.get(y)
-        if x != y:
-            self.fa[x] = y
-        return True
-
-
-class FenwickTree:
+class Fenwick:
 
     def __init__(self, n: int = 0) -> None:
         self._n = n
         self.data = [0] * n
+
+    def init(self, a: List | array) -> None:
+        for i, x in enumerate(a, 1):
+            if i >= self._n:
+                break
+            self.data[i - 1] += x
+            j = i + (i & -i)
+            if j <= self._n:
+                self.data[j - 1] += self.data[i - 1]
 
     def add(self, p: int, x: Any) -> None:
         assert 0 <= p < self._n
@@ -61,6 +48,47 @@ class FenwickTree:
         return s
 
 
+@dataclass(slots=True)
+class DSU:
+    n: int
+    fa: array
+    sz: array
+    head: array
+
+    def __init__(self, n: int) -> None:
+        self.n = n
+        self.fa = array('i', range(n))
+        self.sz = array('i', [1] * n)
+        self.head = array('i', range(n))
+
+    def get(self, x: int) -> int:
+        while x != self.fa[x]:  # DONT MERGE !!!
+            self.fa[x] = self.fa[self.fa[x]]
+            x = self.fa[x]
+        return x
+
+    def H(self, x: int) -> int:
+        return self.head[self.get(x)]
+
+    def same(self, x: int, y: int) -> bool:
+        return self.get(x) == self.get(y)
+
+    def merge(self, x: int, y: int) -> bool:
+        x, y = self.get(x), self.get(y)
+        if x == y:
+            return False
+        top = self.head[y]
+        if self.sz[y] < self.sz[x]:
+            x, y = y, x
+        self.sz[y] += self.sz[x]
+        self.fa[x] = y
+        self.head[x] = self.head[y] = top
+        return True
+
+    def size(self, x: int) -> int:
+        return self.sz[self.get(x)]
+
+
 MOD = 998244353  # fac(13) > 998244353
 N = 5 * 10**5 + 5
 fc = list(accumulate(
@@ -77,11 +105,11 @@ def solve(_case: int) -> None:
     b = [0] * n
 
     nxt = DSU(n + 1)
-    fen = FenwickTree(n + 1)
+    fen = Fenwick(n + 1)
+    fen.init(a)
     for i, x in enumerate(a):
         if x == 1 or x == 2:
             nxt.merge(i, i + 1)
-            fen.add(i, x)
 
     opt = []
     for _ in range(Q):
@@ -89,28 +117,23 @@ def solve(_case: int) -> None:
         l -= 1
         r -= 1
         if op == 1:
-            i = nxt.get(l)
+            i = nxt.H(l)
             while i <= r:
-                if a[i] == 0:
+                x = a[i]
+                if x == 0:
                     fen.add(i, 1)
                     nxt.merge(i, i + 1)
                 elif b[i]:
+                    fen.add(i, -x)
                     nxt.merge(i, i + 1)
                 else:
-                    if a[i] >= 13:
+                    if x >= 13:
                         b[i] = 1
-                    if a[i] < N:
-                        a[i] = fc[a[i]]
-                    else:
-                        a[i] = tab[a[i]]
-                i = nxt.get(i + 1)
+                    a[i] = fc[x] if x < N else tab[x]
+                    fen.add(i, a[i] - x)
+                i = nxt.H(i + 1)
         else:
-            res = fen.sum(l, r + 1)
-            i = nxt.get(l)
-            while i <= r:
-                res += a[i]
-                i = nxt.get(i + 1)
-            opt.append(str(res % MOD))
+            opt.append(str(fen.sum(l, r + 1) % MOD))
 
     outs[_case] = '\n'.join(opt)
 
@@ -121,6 +144,7 @@ if __name__ == "__main__":
     for _ in range(t):
         solve(_)
     print('\n'.join(outs))
+
 
 """
 from math import factorial as fac
