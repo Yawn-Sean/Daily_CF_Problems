@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | *1100 | [GYM102465E](https://codeforces.com/gym/102465/problem/E) | Find each lower bound and upper bound. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0307/solution/cf102465e.md) |
 | *1200 | [GYM104408B](https://codeforces.com/gym/104408/problem/B) | What circle should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0131/solution/cf104408b.md) |
+| *1200 | [GYM105858C](https://codeforces.com/gym/105858/problem/C) | What can the operations do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0319/solution/cf105858c.md) |
 | *1400 | [GYM105125B](https://codeforces.com/gym/105125/problem/B) | Find a greedy way. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0126/solution/cf105125b.md) |
 | *1400 | [GYM105198M](https://codeforces.com/gym/105198/problem/M) | If you need extra steps on a direction, how can you reduce the number of steps on the other direction? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0128/solution/cf105198m.md) |
 | *1400 | [CF1176C](https://codeforces.com/problemset/problem/1176/C) | Greedily assign elements. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0202/solution/cf1176c.md) |

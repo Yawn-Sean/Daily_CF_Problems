@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM106430B](https://codeforces.com/gym/106430/problem/B) | Consider the value range after each step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0318/solution/cf106430b.md) |
-| *1800 | [GYM106430H](https://codeforces.com/gym/106430/problem/H) | If $a+b$ is fixed, you can iterate over $p$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0318/solution/cf106430h.md) |
+| *1200 | [GYM105858C](https://codeforces.com/gym/105858/problem/C) | What can the operations do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0319/solution/cf105858c.md) |
+| *1700 | [GYM105925J](https://codeforces.com/gym/105925/problem/J) | Let's say the particle doesn't change but the filter changes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0319/solution/cf105925j.md) |
