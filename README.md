@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM105858C](https://codeforces.com/gym/105858/problem/C) | What can the operations do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0319/solution/cf105858c.md) |
-| *1700 | [GYM105925J](https://codeforces.com/gym/105925/problem/J) | Let's say the particle doesn't change but the filter changes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0319/solution/cf105925j.md) |
+| *1400 | [GYM106433B](https://codeforces.com/gym/106433/problem/B) | Consider each pair of neighboring values. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0320/solution/cf106433b.md) |
+| *1800 | [GYM106433D](https://codeforces.com/gym/106433/problem/D) | Find the necessary condition. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0320/solution/cf106433d.md) |
