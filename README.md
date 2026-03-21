@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106433B](https://codeforces.com/gym/106433/problem/B) | Consider each pair of neighboring values. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0320/solution/cf106433b.md) |
-| *1800 | [GYM106433D](https://codeforces.com/gym/106433/problem/D) | Find the necessary condition. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0320/solution/cf106433d.md) |
+| *1600 | [GYM104009D](https://codeforces.com/gym/104009/problem/D) | How can you check if a graph is bipartite efficiently? And how can you clear all the things you've done once you decide to make a new subsequence? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0321/solution/cf104009d.md) |
+| *1800 | [GYM104009H](https://codeforces.com/gym/104009/problem/H) | What's the DP transition? And how can you do it $K$ times efficiently? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0321/solution/cf104009h.md) |
