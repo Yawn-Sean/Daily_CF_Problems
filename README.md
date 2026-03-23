@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1500 | [CF1368C](https://codeforces.com/problemset/problem/1368/C) | You just need to wrap up the $n$ squares without adding other wrapped squares. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0323/solution/cf1368c.md) |
-| *1900 | [GYM103439N](https://codeforces.com/gym/103439/problem/N) | What is the weight really about? And how should you match the pairs? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0323/solution/cf103439n.md) |
+| *1700 | [GYM103439J](https://codeforces.com/gym/103439/problem/J) | What is the maximum number of operations needed? Then it's about finding different cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0324/solution/cf103439j.md) |
+| *2400 | [GYM102154C](https://codeforces.com/gym/102154/problem/C) | Moving each element with fewer expected steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0324/solution/cf102154c.md) |
