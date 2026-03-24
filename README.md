@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM103439J](https://codeforces.com/gym/103439/problem/J) | What is the maximum number of operations needed? Then it's about finding different cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0324/solution/cf103439j.md) |
-| *2400 | [GYM102154C](https://codeforces.com/gym/102154/problem/C) | Moving each element with fewer expected steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0324/solution/cf102154c.md) |
+| *1600 | [GYM102556H](https://codeforces.com/gym/102556/problem/H) | For an integer $N$ , how can you calculate $M$ efficiently? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0325/solution/cf102556h.md) |
+| *2400 | [GYM102556I](https://codeforces.com/gym/102556/problem/I) | You just need to calculate the number of points inside the triangles. It can be solved like calculating something like the area. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0325/solution/cf102556i.md) |
