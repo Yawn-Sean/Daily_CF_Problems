@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM102556H](https://codeforces.com/gym/102556/problem/H) | For an integer $N$ , how can you calculate $M$ efficiently? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0325/solution/cf102556h.md) |
-| *2400 | [GYM102556I](https://codeforces.com/gym/102556/problem/I) | You just need to calculate the number of points inside the triangles. It can be solved like calculating something like the area. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0325/solution/cf102556i.md) |
+| *1700 | [GYM106439B](https://codeforces.com/gym/106439/problem/B) | Find a perfectly good solution for a small $n$ . Construct others based on it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0326/solution/cf106439b.md) |
+| *1900 | [GYM106439O](https://codeforces.com/gym/106439/problem/O) | What's the condition that should be satisfied? One of the parts is unchanged. Use that. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0326/solution/cf106439o.md) |
