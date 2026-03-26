@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106439B](https://codeforces.com/gym/106439/problem/B) | Find a perfectly good solution for a small $n$ . Construct others based on it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0326/solution/cf106439b.md) |
-| *1900 | [GYM106439O](https://codeforces.com/gym/106439/problem/O) | What's the condition that should be satisfied? One of the parts is unchanged. Use that. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0326/solution/cf106439o.md) |
+| *1700 | [GYM106439N](https://codeforces.com/gym/106439/problem/N) | You don't need to consider the height as the maximum value of depths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0327/solution/cf106439n.md) |
+| *2000 | [GYM106439M](https://codeforces.com/gym/106439/problem/M) | Consider the value range of $(a\bmod b)+(b\bmod a)$ . Actually the formula can be simplified. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0327/solution/cf106439m.md) |
