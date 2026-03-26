@@ -36,8 +36,6 @@ def check(u: List[int]) -> int:
         if res > M:
             return -1
         x *= pow(p, c)
-    if res > M:
-        return -1
     return x if res == M else 0
 
 
