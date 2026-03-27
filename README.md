@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106439N](https://codeforces.com/gym/106439/problem/N) | You don't need to consider the height as the maximum value of depths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0327/solution/cf106439n.md) |
-| *2000 | [GYM106439M](https://codeforces.com/gym/106439/problem/M) | Consider the value range of $(a\bmod b)+(b\bmod a)$ . Actually the formula can be simplified. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0327/solution/cf106439m.md) |
+| *1600 | [GYM102986G](https://codeforces.com/gym/102986/problem/G) | Additivity. Consider the weights. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0328/solution/cf102986g.md) |
+| *1800 | [GYM106439F](https://codeforces.com/gym/106439/problem/F) | Find the transition from smaller $n$ to larger $n$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0328/solution/cf106439f.md) |
