@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106439N](https://codeforces.com/gym/106439/problem/N) | You don't need to consider the height as the maximum value of depths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0327/solution/cf106439n.md) |
-| *2000 | [GYM106439M](https://codeforces.com/gym/106439/problem/M) | Consider the value range of $(a\bmod b)+(b\bmod a)$ . Actually the formula can be simplified. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0327/solution/cf106439m.md) |
+| *1400 | [GYM106443F](https://codeforces.com/gym/106443/problem/F) | Invalid triples are easier to count. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0330/solution/cf106443f.md) |
+| *1600 | [GYM106443D](https://codeforces.com/gym/106443/problem/D) | Game DP. What do you need to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0330/solution/cf106443d.md) |
