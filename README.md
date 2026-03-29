@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM102986G](https://codeforces.com/gym/102986/problem/G) | Additivity. Consider the weights. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0328/solution/cf102986g.md) |
-| *1800 | [GYM106439F](https://codeforces.com/gym/106439/problem/F) | Find the transition from smaller $n$ to larger $n$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0328/solution/cf106439f.md) |
+| *1400 | [GYM106443F](https://codeforces.com/gym/106443/problem/F) | Invalid triples are easier to count. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0330/solution/cf106443f.md) |
+| *1600 | [GYM106443D](https://codeforces.com/gym/106443/problem/D) | Game DP. What do you need to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0330/solution/cf106443d.md) |
