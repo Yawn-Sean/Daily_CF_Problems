@@ -15,6 +15,6 @@ for x in range(7, N):
     c += dp[x]
 
 
-it = iter(map(int, sys.stdin.buffer.read().split()))
+it = map(int, sys.stdin.buffer.read().split())
 next(it)
 print('\n'.join("mastermei" if dp[x] else "the greatest" for x in it))
