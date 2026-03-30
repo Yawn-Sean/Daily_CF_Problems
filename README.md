@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106443F](https://codeforces.com/gym/106443/problem/F) | Invalid triples are easier to count. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0330/solution/cf106443f.md) |
-| *1600 | [GYM106443D](https://codeforces.com/gym/106443/problem/D) | Game DP. What do you need to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0330/solution/cf106443d.md) |
+| *1600 | [GYM106443H](https://codeforces.com/gym/106443/problem/H) | Find the condition for two consecutive eaten item. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0331/solution/cf106443h.md) |
+| *1900 | [GYM106443G](https://codeforces.com/gym/106443/problem/G) | Bitmask DP. How can you reduce the number of transitions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0331/solution/cf106443g.md) |
