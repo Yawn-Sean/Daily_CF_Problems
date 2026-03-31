@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106443H](https://codeforces.com/gym/106443/problem/H) | Find the condition for two consecutive eaten item. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0331/solution/cf106443h.md) |
-| *1900 | [GYM106443G](https://codeforces.com/gym/106443/problem/G) | Bitmask DP. How can you reduce the number of transitions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0331/solution/cf106443g.md) |
+| *1400 | [GYM106443M](https://codeforces.com/gym/106443/problem/M) | Update a linear function. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0401/solution/cf106443m.md) |
+| *1900 | [GYM106443I](https://codeforces.com/gym/106443/problem/I) | What's the question really about? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0401/solution/cf106443i.md) |
