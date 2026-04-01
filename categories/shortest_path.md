@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1500 | [GYM105950O](https://codeforces.com/gym/105950/problem/O) | What is the minimum length of a ladder you need to get to $i$ ? This is enough to replace the first part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0402/solution/cf105950o.md) |
 | 1600 | [CF954D](https://codeforces.com/problemset/problem/954/D) | How does the length of shortest path change when you add an edge? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf954d.md) |
 | 1600 | [CF689B](https://codeforces.com/problemset/problem/689/B) | Just another simple shortest-path problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0510/solution/cf689b.md) |
 | *1600 | [GYM105811J](https://codeforces.com/gym/105811/problem/J) | We just need to calculate the minimum needed level to go from $1$ to $i$ and from $i$ to $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0109/solution/cf105811j.md) |

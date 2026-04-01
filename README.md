@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106443M](https://codeforces.com/gym/106443/problem/M) | Update a linear function. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0401/solution/cf106443m.md) |
-| *1900 | [GYM106443I](https://codeforces.com/gym/106443/problem/I) | What's the question really about? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0401/solution/cf106443i.md) |
+| *1500 | [GYM105950O](https://codeforces.com/gym/105950/problem/O) | What is the minimum length of a ladder you need to get to $i$ ? This is enough to replace the first part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0402/solution/cf105950o.md) |
+| *2000 | [GYM105972M](https://codeforces.com/gym/105972/problem/M) | Bitmask DP. How can you construct a value that is related to $k$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0402/solution/cf105972m.md) |
