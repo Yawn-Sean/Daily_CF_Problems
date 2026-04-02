@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM105950O](https://codeforces.com/gym/105950/problem/O) | What is the minimum length of a ladder you need to get to $i$ ? This is enough to replace the first part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0402/solution/cf105950o.md) |
-| *2000 | [GYM105972M](https://codeforces.com/gym/105972/problem/M) | Bitmask DP. How can you construct a value that is related to $k$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0402/solution/cf105972m.md) |
+| *1800 | [GYM105971E](https://codeforces.com/gym/105971/problem/E) | There are at most two positions for each step in between. And they just need to be pairwise different. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0403/solution/cf105971e.md) |
+| *2000 | [GYM102911C](https://codeforces.com/gym/102911/problem/C) | The value of the SG function is not large. Use this fact. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0403/solution/cf102911c.md) |
