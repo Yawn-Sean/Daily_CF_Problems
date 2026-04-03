@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105971E](https://codeforces.com/gym/105971/problem/E) | There are at most two positions for each step in between. And they just need to be pairwise different. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0403/solution/cf105971e.md) |
-| *2000 | [GYM102911C](https://codeforces.com/gym/102911/problem/C) | The value of the SG function is not large. Use this fact. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0403/solution/cf102911c.md) |
+| *1600 | [GYM102911H](https://codeforces.com/gym/102911/problem/H) | If $W_i=1$ , what's the problem about? Start from it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0404/solution/cf102911h.md) |
+| *2000 | [GYM102911L](https://codeforces.com/gym/102911/problem/L) | Decompose the problem into easier ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0404/solution/cf102911l.md) |
