@@ -3,7 +3,7 @@ https://codeforces.com/gym/105971/submission/369446908
 '''
 def solve(n: int, m: int, k: int, pa: list[list[int]]) -> int:
     MOD = 1000000007
-    if any(abs(x1 - x0) + abs(y1 - y0) == 2 for (x0, y0), (x1, y1) in pairwise(pa)):
+    if any(abs(x1 - x0) + abs(y1 - y0) != 2 for (x0, y0), (x1, y1) in pairwise(pa)):
         return 0
     uni = UnionFind(n * m)
     ec = [0] * (n * m)
