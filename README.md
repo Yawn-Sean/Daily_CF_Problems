@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM102911H](https://codeforces.com/gym/102911/problem/H) | If $W_i=1$ , what's the problem about? Start from it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0404/solution/cf102911h.md) |
-| *2000 | [GYM102911L](https://codeforces.com/gym/102911/problem/L) | Decompose the problem into easier ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0404/solution/cf102911l.md) |
+| *1600 | [GYM106457J](https://codeforces.com/gym/106457/problem/J) | You just need to figure out the frequency of each number when consider the numbers in an increasing order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0406/solution/cf106457j.md) |
+| *1900 | [GYM106457K](https://codeforces.com/gym/106457/problem/K) | $m$ operations make a step. How to decide where a piece goes after multiple steps? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0406/solution/cf106457k.md) |
