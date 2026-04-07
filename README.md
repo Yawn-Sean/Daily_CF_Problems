@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106457J](https://codeforces.com/gym/106457/problem/J) | You just need to figure out the frequency of each number when consider the numbers in an increasing order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0406/solution/cf106457j.md) |
-| *1900 | [GYM106457K](https://codeforces.com/gym/106457/problem/K) | $m$ operations make a step. How to decide where a piece goes after multiple steps? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0406/solution/cf106457k.md) |
+| *1800 | [GYM106463B](https://codeforces.com/gym/106463/problem/B) | DP and transitions. What makes a subtree different? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0407/solution/cf106463b.md) |
+| *2200 | [GYM106457D](https://codeforces.com/gym/106457/problem/D) | Sweep through $x$ axis. How can you maintain $y$ axis? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0407/solution/cf106457d.md) |
