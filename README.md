@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106463B](https://codeforces.com/gym/106463/problem/B) | DP and transitions. What makes a subtree different? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0407/solution/cf106463b.md) |
-| *2200 | [GYM106457D](https://codeforces.com/gym/106457/problem/D) | Sweep through $x$ axis. How can you maintain $y$ axis? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0407/solution/cf106457d.md) |
+| *1800 | [GYM106463A](https://codeforces.com/gym/106463/problem/A) | Find the first leap. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0408/solution/cf106463a.md) |
+| *2200 | [GYM106457F](https://codeforces.com/gym/106457/problem/F) | Figure out the special form of the permutation. And when you do the DP, how can you decide the value such that the final result is the sum of MEX-s? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0408/solution/cf106463f.md) |
