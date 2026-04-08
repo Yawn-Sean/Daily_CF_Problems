@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106463A](https://codeforces.com/gym/106463/problem/A) | Find the first leap. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0408/solution/cf106463a.md) |
-| *2200 | [GYM106457F](https://codeforces.com/gym/106457/problem/F) | Figure out the special form of the permutation. And when you do the DP, how can you decide the value such that the final result is the sum of MEX-s? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0408/solution/cf106463f.md) |
+| *1700 | [GYM106007L](https://codeforces.com/gym/106007/problem/L) | What's the final value? So, what numbers need to be operated? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0409/solution/cf106007l.md) |
+| *2100 | [GYM106007C](https://codeforces.com/gym/106007/problem/C) | Iterate over $d$ , but the process can be simulated quickly enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0409/solution/cf106007c.md) |
