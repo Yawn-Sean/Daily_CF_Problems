@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106007L](https://codeforces.com/gym/106007/problem/L) | What's the final value? So, what numbers need to be operated? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0409/solution/cf106007l.md) |
-| *2100 | [GYM106007C](https://codeforces.com/gym/106007/problem/C) | Iterate over $d$ , but the process can be simulated quickly enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0409/solution/cf106007c.md) |
+| *1300 | [GYM106394D](https://codeforces.com/gym/106394/problem/D) | Save the opportunity for the future. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0410/solution/cf106394d.md) |
+| *1600 | [GYM105709D](https://codeforces.com/gym/105709/problem/D) | Knapsack problem. Use a status to represent that whether the special hold is used. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0410/solution/cf105709d.md) |
