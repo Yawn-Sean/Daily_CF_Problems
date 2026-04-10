@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM106394D](https://codeforces.com/gym/106394/problem/D) | Save the opportunity for the future. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0410/solution/cf106394d.md) |
-| *1600 | [GYM105709D](https://codeforces.com/gym/105709/problem/D) | Knapsack problem. Use a status to represent that whether the special hold is used. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0410/solution/cf105709d.md) |
+| *1600 | [GYM105709E](https://codeforces.com/gym/105709/problem/E) | Each trait only needs to be operated once. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0411/solution/cf105709e.md) |
+| *1600 | [GYM105709F](https://codeforces.com/gym/105709/problem/F) | Iterate over possible beak lengths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0411/solution/cf105709f.md) |
