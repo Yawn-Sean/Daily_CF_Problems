@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105709E](https://codeforces.com/gym/105709/problem/E) | Each trait only needs to be operated once. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0411/solution/cf105709e.md) |
-| *1600 | [GYM105709F](https://codeforces.com/gym/105709/problem/F) | Iterate over possible beak lengths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0411/solution/cf105709f.md) |
+| *1600 | [GYM105979J](https://codeforces.com/gym/105979/problem/J) | Consider the expectation in a different formula. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0413/solution/cf105979j.md) |
+| *2100 | [GYM105746C](https://codeforces.com/gym/105746/problem/C) | What's the different ways to arrive at $x$ ? which is the best way? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0413/solution/cf105746c.md) |
