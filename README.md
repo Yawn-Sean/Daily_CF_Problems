@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105979J](https://codeforces.com/gym/105979/problem/J) | Consider the expectation in a different formula. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0413/solution/cf105979j.md) |
-| *2100 | [GYM105746C](https://codeforces.com/gym/105746/problem/C) | What's the different ways to arrive at $x$ ? which is the best way? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0413/solution/cf105746c.md) |
+| *1700 | [GYM105666A](https://codeforces.com/gym/105666/problem/A) | Not that many numbers are valid. Find a somehow strong condition. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0414/solution/cf105666a.md) |
+| *2200 | [GYM105745F](https://codeforces.com/gym/105745/problem/F) | It's all about what positions you can get from the beginning or from the end. And you can find a way to decompose the operations thoroughly. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0414/solution/cf105745f.md) |
