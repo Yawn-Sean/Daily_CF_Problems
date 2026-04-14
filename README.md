@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105666A](https://codeforces.com/gym/105666/problem/A) | Not that many numbers are valid. Find a somehow strong condition. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0414/solution/cf105666a.md) |
-| *2200 | [GYM105745F](https://codeforces.com/gym/105745/problem/F) | It's all about what positions you can get from the beginning or from the end. And you can find a way to decompose the operations thoroughly. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0414/solution/cf105745f.md) |
+| *1800 | [GYM105666B](https://codeforces.com/gym/105666/problem/B) | Solve one part without losing a lot on the other one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0415/solution/cf105666b.md) |
+| *2100 | [GYM105745E](https://codeforces.com/gym/105745/problem/E) | What's the number of turns about? And consider steps in blocks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0415/solution/cf105745e.md) |
