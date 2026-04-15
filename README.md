@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105666B](https://codeforces.com/gym/105666/problem/B) | Solve one part without losing a lot on the other one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0415/solution/cf105666b.md) |
-| *2100 | [GYM105745E](https://codeforces.com/gym/105745/problem/E) | What's the number of turns about? And consider steps in blocks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0415/solution/cf105745e.md) |
+| *1600 | [GYM105791M](https://codeforces.com/gym/105791/problem/M) | What's the minimum number of edges? So it's a classic problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0416/solution/cf105791m.md) |
+| *1600 | [GYM105791E](https://codeforces.com/gym/105791/problem/E) | What should you maintain? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0416/solution/cf105791e.md) |
