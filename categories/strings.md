@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1300 | [GYM105501E](https://codeforces.com/gym/105501/problem/E) | A string problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0417/solution/cf105501e.md) |
 | *1600 | [GYM101466E](https://codeforces.com/gym/101466/problem/E) | The longer the prefix we choose ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0913/solution/cf101466e.md) |
 | 1700 | [CF1092C](https://codeforces.com/problemset/problem/1092/C) | You just need to find the concatenation of the two longest substrings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/04/0423/solution/cf1092c.md) |
 | *1700 | [GYM106159D](https://codeforces.com/gym/106159/problem/D) | Actually, a lot of things don't change when you use the operation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1107/solution/cf106159d.md) |

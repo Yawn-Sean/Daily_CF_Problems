@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105791M](https://codeforces.com/gym/105791/problem/M) | What's the minimum number of edges? So it's a classic problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0416/solution/cf105791m.md) |
-| *1600 | [GYM105791E](https://codeforces.com/gym/105791/problem/E) | What should you maintain? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0416/solution/cf105791e.md) |
+| *1300 | [GYM105501E](https://codeforces.com/gym/105501/problem/E) | A string problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0417/solution/cf105501e.md) |
+| *2000 | [GYM105501G](https://codeforces.com/gym/105501/problem/G) | What's the condition? What's the optimizations you need to do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0417/solution/cf105501g.md) |
