@@ -1,49 +1,29 @@
 '''
-https://codeforces.com/gym/105666/submission/371196262
+https://codeforces.com/gym/105666/submission/371471734
 '''
-# priority queue
 def solve(n: int, pa: list[int], qa: list[int]) -> bool:
-    h0, h1, hq = [], [], []
-    for i in range(n):
-        p, pt = pa[i]
-        if pt == 0:
-            heappush(h0, p)
-        else:
-            heappush(h1, p)
-    for j in sorted(range(n), key = lambda j: qa[j][1] << 30 | qa[j][0]):
-        q, qt = qa[j]
+    dep = deque(sorted(p if pt else ~p for p, pt in pa))
+    hq = []
+
+    for q in sorted(q if qt else ~q for q, qt in qa):
+        qt = 1
+        if q < 0:
+            q, qt = ~q, 0
         if qt == 0:
-            p0 = 0
-            while h0:
-                p0 = h0[0]
-                if p0 << 1 >= q:
-                    break
-                else:
-                    heappop(h0)
-                    heappush(hq, p0)
-                    p0 = 0
-            p1 = 0
-            while h1:
-                p1 = h1[0]
-                if p1 >= q:
-                    break
-                else:
-                    heappop(h1)
-                    heappush(hq, p1 << 1)
-                    p1 = 0
-            if p0 > 0 and (p1 == 0 or p0 <= p1 << 1):
-                heappop(h0)
-            elif p1 > 0:
-                heappop(h1)
+            while dep and dep[0] < 0 and ~dep[0] << 1 >= q:
+                heappush(hq, ~dep.popleft())
+            while dep and dep[-1] > 0 and dep[-1] >= q:
+                heappush(hq, dep.pop() << 1)
+            if hq:
+                heappop(hq)
             else:
-                return False     
-        else:
-            if h0 or h1:
-                while h0:
-                    heappush(hq, heappop(h0))
-                while h1:
-                    heappush(hq, heappop(h1) << 1)
-            p1 = heappop(hq)
-            if p1 < q:
+                return False
+        else: # qt == 1
+            while dep:
+                p = dep.pop()
+                heappush(hq, p << 1 if p > 0 else ~p)
+            if hq and hq[0] >= q:
+                heappop(hq)
+            else:
                 return False
     return True
