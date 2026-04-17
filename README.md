@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM105501E](https://codeforces.com/gym/105501/problem/E) | A string problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0417/solution/cf105501e.md) |
-| *2000 | [GYM105501G](https://codeforces.com/gym/105501/problem/G) | What's the condition? What's the optimizations you need to do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0417/solution/cf105501g.md) |
+| *2000 | [GYM105500I](https://codeforces.com/gym/105500/problem/I) | Fill in numbers in an increasing order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0418/solution/cf105500i.md) |
+| *2300 | [GYM105500J](https://codeforces.com/gym/105500/problem/J) | Decompose the sum. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0418/solution/cf105500j.md) |
