@@ -1,24 +1,26 @@
 '''
-20260418 Y2 2300
+https://codeforces.com/gym/105500/submission/371629091
+dp
 '''
 def solve(n: int, k: int) -> int:
     MOD = 1000000007
+    dp, dp1 = [0] * (n + 1), [0] * (n + 1)
+    dp[0] = 1
+    
     ans = 0
-    d0, d1 = [0] * (n + 1), [0] * (n + 1)
-    d0[0] = 1
-    for i in range(k):
-        for j in range(n + 1):
-            d1[j] = 0
-        for j in range(n + 1):
-            if i and i + j <= n:
-                d0[i + j] += d0[j]
-                d0[i + j] %= MOD
-            if i + 1 <= n and j + 1 <= n:
-                d1[j + 1] += d0[j]
-                d1[j + 1] %= MOD
+    for i in range(k + 1):
         y = k - i
-        for x in range(1, n // y + 1):
-            ans += x * x * d0[n - y * x] % MOD
-            ans %= MOD
-        d0, d1 = d1, d0
+        if y > 0:
+            for x in range(1, n // y + 1):
+                rs = n - y * x
+                if rs >= 0:
+                    c = (x * x * dp[rs]) % MOD
+                    ans = (ans + c) % MOD
+        if i < k:
+            dp1[0] = 0
+            for j in range(1, n + 1):
+                dp1[j] = dp[j - 1]
+                if j >= (i + 1):
+                    dp1[j] = (dp1[j] + dp1[j - i - 1]) % MOD
+            dp, dp1 = dp1, dp
     return ans
