@@ -1,6 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| *1300 | [GYM105446D](https://codeforces.com/gym/105446/problem/D) | What's the function actually? How to find its minimum. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0420/solution/cf105446d.md) |
+| *1300 | [GYM105446D](https://codeforces.com/gym/105446/problem/D) | What's the function actually? How to find its minimum? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0420/solution/cf105446d.md) |
 | *1400 | [GYM104375D](https://codeforces.com/gym/104375/problem/D) | The operation doesn't change which is bigger between elements.  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0116/solution/cf104375d.md) |
 | *1400 | [GYM103503A](https://codeforces.com/gym/103503/problem/A) | You need to add smaller elements. And you just need to find the maximum value you add. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0311/solution/cf103503a.md) |
 | *1500 | [GYM105314B](https://codeforces.com/gym/105314/problem/B) | Find the bound and what do you need to calculate afterwards? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf105314b.md) |
