@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM105446D](https://codeforces.com/gym/105446/problem/D) | What's the function actually? How to find its minimum? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0420/solution/cf105446d.md) |
-| *1700 | [GYM105446B](https://codeforces.com/gym/105446/problem/B) | Math problem. What are the important variables needed? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0420/solution/cf105446b.md) |
+| *1400 | [GYM105264D](https://codeforces.com/gym/105264/problem/D) | Consider the contribution of each digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0421/solution/cf105264d.md) |
+| *1700 | [GYM105264C](https://codeforces.com/gym/105264/problem/C) | $k$ is large but the answer is small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0421/solution/cf105264c.md) |
