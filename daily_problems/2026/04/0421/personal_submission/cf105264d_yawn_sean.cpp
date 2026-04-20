@@ -16,7 +16,32 @@ int main() {
 	cin.tie(0);
 	cout.tie(0);
 
+	int t;
+	cin >> t;
 
+	while (t --) {
+		int n;
+		string s;
+		cin >> n >> s;
+
+		if (n == 1) {
+			cout << "0 0\n";
+			continue;
+		}
+
+		int ans = 0;
+		char ma1 = '0', ma2 = '0';
+		for (auto &c: s) {
+			ans += c - '0';
+			if (c > ma1) swap(ma1, ma2), ma1 = c;
+			else ma2 = max(c, ma2);
+		}
+
+		int cnt = (s[0] != ma2) + (s.back() != ma1);
+		if (s[0] == ma1 && s.back() == ma2) cnt = min(cnt, 1);
+
+		cout << cnt << ' ' << 11 * ans - 10 * (ma1 - '0') - (ma2 - '0') << '\n';
+	}
 
 	return 0;
 }
