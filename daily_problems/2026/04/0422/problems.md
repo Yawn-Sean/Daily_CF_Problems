@@ -1,4 +1,4 @@
 | Difficulty | Problems | Hints |
 | -------- | -------- | -------- |
-| *1400 | [GYM105264D](https://codeforces.com/gym/105264/problem/D) | Consider the contribution of each digit. |
-| *1700 | [GYM105264C](https://codeforces.com/gym/105264/problem/C) | $k$ is large but the answer is small. |
+| *1500 | [GYM106494B](https://codeforces.com/gym/106494/problem/B) | If the longest side is found, the others are easy to decide. |
+| *1500 | [GYM106494C](https://codeforces.com/gym/106494/problem/C) | Consider the final sets. What conditions should they satisfy? |
