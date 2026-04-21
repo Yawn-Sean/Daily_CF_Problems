@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM105264D](https://codeforces.com/gym/105264/problem/D) | Consider the contribution of each digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0421/solution/cf105264d.md) |
-| *1700 | [GYM105264C](https://codeforces.com/gym/105264/problem/C) | $k$ is large but the answer is small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0421/solution/cf105264c.md) |
+| *1500 | [GYM106494B](https://codeforces.com/gym/106494/problem/B) | If the longest side is found, the others are easy to decide. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0422/solution/cf106494b.md) |
+| *1600 | [GYM106494C](https://codeforces.com/gym/106494/problem/C) | Consider the final sets. What conditions should they satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0422/solution/cf106494c.md) |
