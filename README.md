@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106494B](https://codeforces.com/gym/106494/problem/B) | If the longest side is found, the others are easy to decide. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0422/solution/cf106494b.md) |
-| *1600 | [GYM106494C](https://codeforces.com/gym/106494/problem/C) | Consider the final sets. What conditions should they satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0422/solution/cf106494c.md) |
+| *2000 | [GYM106494D](https://codeforces.com/gym/106494/problem/D) | Consider the final sets. What conditions should they satisfy? Use contradictions to rule out some non-maximal results. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0423/solution/cf106494d.md) |
+| *2000 | [GYM106494F](https://codeforces.com/gym/106494/problem/F) | A DP problem on segment tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0423/solution/cf106494f.md) |
