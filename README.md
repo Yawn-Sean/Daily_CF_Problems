@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *2000 | [GYM106494D](https://codeforces.com/gym/106494/problem/D) | Consider the final sets. What conditions should they satisfy? Use contradictions to rule out some non-maximal results. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0423/solution/cf106494d.md) |
-| *2000 | [GYM106494F](https://codeforces.com/gym/106494/problem/F) | A DP problem on segment tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0423/solution/cf106494f.md) |
+| *1700 | [GYM106495E](https://codeforces.com/gym/106495/problem/E) | Each prime number. Step by step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0424/solution/cf106495e.md) |
+| *2200 | [GYM106495K](https://codeforces.com/gym/106495/problem/K) | What could be the possible position that has the minimum distance from $P$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0424/solution/cf106495k.md) |
