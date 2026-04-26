@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | *1000 | [GYM106495J](https://codeforces.com/gym/106495/problem/J) | Choose even numbers and odd numbers separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0425/solution/cf106495j.md) |
 | *1300 | [GYM104287H](https://codeforces.com/gym/104287/problem/H) | Consider the contribution of each edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0105/solution/cf104287h.md) |
+| *1300 | [GYM106500B](https://codeforces.com/gym/106500/problem/B) | Consider the constraints for the set of the first numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0427/solution/cf106500b.md) |
 | *1400 | [GYM104736I](https://codeforces.com/gym/104736/problem/I) | Consider the inversions in and between blocks. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0223/solution/cf104736i.md) |
 | *1400 | [GYM106443F](https://codeforces.com/gym/106443/problem/F) | Invalid triples are easier to count. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0330/solution/cf106443f.md) |
 | 1500 | [CF584B](https://codeforces.com/problemset/problem/584/B) | Classic counting problem. Think of the opposite | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0302/solution/cf584b.md) |
