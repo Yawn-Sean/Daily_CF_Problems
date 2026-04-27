@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1000 | [GYM106495J](https://codeforces.com/gym/106495/problem/J) | Choose even numbers and odd numbers separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0425/solution/cf106495j.md) |
-| *2000 | [GYM106495H](https://codeforces.com/gym/106495/problem/H) | Delete the matching prefix and suffix. What's the condition that the rest should satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0425/solution/cf106495h.md) |
+| *1300 | [GYM106500B](https://codeforces.com/gym/106500/problem/B) | Consider the constraints for the set of the first numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0427/solution/cf106500b.md) |
+| *1900 | [GYM106500F](https://codeforces.com/gym/106500/problem/F) | You just need to calculate the swaps between different numbers. And what's the minimum number of that if we already define the final order? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0427/solution/cf106500f.md) |
