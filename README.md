@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106500J](https://codeforces.com/gym/106500/problem/J) | An equation problem and a greedy problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0428/solution/cf106500j.md) |
-| *1800 | [GYM106501K](https://codeforces.com/gym/106501/problem/K) | The first query can be a long interval. And as time goes, the interval can grow longer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0428/solution/cf106501k.md) |
+| *1600 | [GYM106507D](https://codeforces.com/gym/106507/problem/D) | There can't be many numbers in set $S$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0429/solution/cf106507d.md) |
+| *1900 | [GYM106501H](https://codeforces.com/gym/106501/problem/H) | Iterate over the separating point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0429/solution/cf106501h.md) |
