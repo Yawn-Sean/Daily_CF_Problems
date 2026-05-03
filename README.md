@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1100 | [GYM106511F](https://codeforces.com/gym/106511/problem/F) | Cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0502/solution/cf106511f.md) |
-| *1700 | [GYM106511J](https://codeforces.com/gym/106511/problem/J) | Making decisions from back to start. And how many choices do they have? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0502/solution/cf106511j.md) |
+| *1100 | [GYM106511D](https://codeforces.com/gym/106511/problem/D) | Find the number that does not exceed $n$ that has the most number of digit $i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0504/solution/cf106511d.md) |
+| *2200 | [GYM106511I](https://codeforces.com/gym/106511/problem/I) | Small sizes and large sizes both seem useless. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0504/solution/cf106511i.md) |
