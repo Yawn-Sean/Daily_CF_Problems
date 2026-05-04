@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1100 | [GYM106511D](https://codeforces.com/gym/106511/problem/D) | Find the number that does not exceed $n$ that has the most number of digit $i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0504/solution/cf106511d.md) |
-| *2200 | [GYM106511I](https://codeforces.com/gym/106511/problem/I) | Small sizes and large sizes both seem useless. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0504/solution/cf106511i.md) |
+| *1400 | [GYM106414G](https://codeforces.com/gym/106414/problem/G) | In prefixes and suffixes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0505/solution/cf106414g.md) |
+| *2000 | [GYM106414F](https://codeforces.com/gym/106414/problem/F) | Use some values around $m$ or something. How can you reduce the number of triples to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0505/solution/cf106414f.md) |
