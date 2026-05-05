@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106414G](https://codeforces.com/gym/106414/problem/G) | In prefixes and suffixes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0505/solution/cf106414g.md) |
-| *2000 | [GYM106414F](https://codeforces.com/gym/106414/problem/F) | Use some values around $m$ or something. How can you reduce the number of triples to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0505/solution/cf106414f.md) |
+| *1600 | [GYM106414L](https://codeforces.com/gym/106414/problem/L) | Consider the results in contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0506/solution/cf106414l.md) |
+| *1800 | [GYM106414J](https://codeforces.com/gym/106414/problem/J) | Try some cases that are harder to construct. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0506/solution/cf106414j.md) |
