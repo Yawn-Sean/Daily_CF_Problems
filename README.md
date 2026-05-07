@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106414D](https://codeforces.com/gym/106414/problem/D) | Consider the results in contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0507/solution/cf106414d.md) |
-| *1900 | [GYM106414K](https://codeforces.com/gym/106414/problem/K) | Try some cases that are harder to construct. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0507/solution/cf106414k.md) |
+| *1100 | [GYM106414B](https://codeforces.com/gym/106414/problem/B) | Find some impossible patterns. And construct a valid split for other strings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0508/solution/cf106414b.md) |
+| *1900 | [GYM106259H](https://codeforces.com/gym/106259/problem/H) | Find a pattern such that adding a point can bring at least $4$ triangles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0508/solution/cf106259h.md) |

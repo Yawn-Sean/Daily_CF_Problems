@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1100 | [GYM106414B](https://codeforces.com/gym/106414/problem/B) | Find some impossible patterns. And construct a valid split for other strings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0508/solution/cf106414b.md) |
 | *1200 | [GYM106179C](https://codeforces.com/gym/106179/problem/C) | Make the result easier to calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1110/solution/cf106179c.md) |
 | *1200 | [GYM105876B](https://codeforces.com/gym/105876/problem/B) | Find answers for smaller $n$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0211/solution/cf105876b.md) |
 | *1400 | [GYM105292A](https://codeforces.com/gym/105292/problem/A) | Just fit the lights one by one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1219/solution/cf105292a.md) |
@@ -179,6 +180,7 @@
 | *1900 | [GYM105803C](https://codeforces.com/gym/105803/problem/C) | If $k\leq n-2$ , the operation is quite flexible. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0123/solution/cf105803c.md) |
 | *1900 | [GYM105198G](https://codeforces.com/gym/105198/problem/G) | Just let all sums be the same for most $n$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0128/solution/cf105198g.md) |
 | *1900 | [GYM106414K](https://codeforces.com/gym/106414/problem/K) | Try some cases that are harder to construct. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0507/solution/cf106414k.md) |
+| *1900 | [GYM106259H](https://codeforces.com/gym/106259/problem/H) | Find a pattern such that adding a point can bring at least $4$ triangles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0508/solution/cf106259h.md) |
 | 2000 | [CF243B](https://codeforces.com/problemset/problem/243/B) | Clearly, $u, v$ are the most important part of the pattern to find. How can you check the "heads" and "tails"? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0717/solution/cf243b.md) |
 | 2000 | [CF886D](https://codeforces.com/problemset/problem/886/D) | The numbers of appearances of all the substrings of the given strings should be the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0725/solution/cf886d.md) |
 | 2000 | [CF916B](https://codeforces.com/problemset/problem/916/B) | First of all, find the shortest sequence. Prove it is the lexicographically largest one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0731/solution/cf916b.md) |
