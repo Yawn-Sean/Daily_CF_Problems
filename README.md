@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1100 | [GYM106414B](https://codeforces.com/gym/106414/problem/B) | Find some impossible patterns. And construct a valid split for other strings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0508/solution/cf106414b.md) |
-| *1900 | [GYM106259H](https://codeforces.com/gym/106259/problem/H) | Find a pattern such that adding a point can bring at least $4$ triangles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0508/solution/cf106259h.md) |
+| *1100 | [GYM106414A](https://codeforces.com/gym/106414/problem/A) | The two axis can be considered separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0509/solution/cf106414a.md) |
+| *2100 | [GYM106259B](https://codeforces.com/gym/106259/problem/B) | The number of numbers that truly matters are small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0509/solution/cf106259b.md) |
