@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1100 | [GYM106414A](https://codeforces.com/gym/106414/problem/A) | The two axis can be considered separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0509/solution/cf106414a.md) |
-| *2100 | [GYM106259B](https://codeforces.com/gym/106259/problem/B) | The number of numbers that truly matters are small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0509/solution/cf106259b.md) |
+| *1000 | [GYM106259I](https://codeforces.com/gym/106259/problem/I) | Some elements can not be deleted. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0511/solution/cf106259i.md) |
+| *2400 | [GYM106414H](https://codeforces.com/gym/106414/problem/H) | $n/2$ is strong enough to offer extra conditions for every node. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0511/solution/cf106414h.md) |

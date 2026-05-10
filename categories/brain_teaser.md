@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1000 | [GYM106259I](https://codeforces.com/gym/106259/problem/I) | Some elements can not be deleted. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0511/solution/cf106259i.md) |
 | *1100 | [GYM104574E](https://codeforces.com/gym/104574/problem/E) | Print the result of each shuffling. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0304/solution/cf104574e.md) |
 | *1100 | [GYM106511F](https://codeforces.com/gym/106511/problem/F) | Cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0502/solution/cf106511f.md) |
 | *1100 | [GYM106511D](https://codeforces.com/gym/106511/problem/D) | Find the number that does not exceed $n$ that has the most number of digit $i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0504/solution/cf106511d.md) |
@@ -220,3 +221,4 @@
 | 2400 | [CF297C](https://codeforces.com/problemset/problem/297/C) | Divide the array into $3$ parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0614/solution/cf297c.md) |
 | 2400 | [CF790A3](https://codeforces.com/problemset/problem/690/A3) | The $n$ players should cover all kinds of possibilities. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0621/solution/cf690a3.md) |
 | 2400 | [CF332D](https://codeforces.com/problemset/problem/332/D) | Dig into the property of the graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0830/solution/cf332d.md) |
+| *2400 | [GYM106414H](https://codeforces.com/gym/106414/problem/H) | $n/2$ is strong enough to offer extra conditions for every node. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0511/solution/cf106414h.md) |
