@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1000 | [GYM106259I](https://codeforces.com/gym/106259/problem/I) | Some elements can not be deleted. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0511/solution/cf106259i.md) |
-| *2400 | [GYM106414H](https://codeforces.com/gym/106414/problem/H) | $n/2$ is strong enough to offer extra conditions for every node. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0511/solution/cf106414h.md) |
+| *1100 | [GYM106164B](https://codeforces.com/gym/106164/problem/B) | If $m$ is large enough, it doesn't seem to matter. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0512/solution/cf106164b.md) |
+| *2200 | [GYM106164E](https://codeforces.com/gym/106164/problem/E) | What do we need to solve one query? What do we need to pre-process? And how can we make full use of the results of the pre-process? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0512/solution/cf106164e.md) |
