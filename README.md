@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1100 | [GYM106164B](https://codeforces.com/gym/106164/problem/B) | If $m$ is large enough, it doesn't seem to matter. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0512/solution/cf106164b.md) |
-| *2200 | [GYM106164E](https://codeforces.com/gym/106164/problem/E) | What do we need to solve one query? What do we need to pre-process? And how can we make full use of the results of the pre-process? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0512/solution/cf106164e.md) |
+| *1300 | [GYM106164C](https://codeforces.com/gym/106164/problem/C) | Find the conditions for $N$ . Find an easy way to construct. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0513/solution/cf106164c.md) |
+| *2000 | [GYM106164F](https://codeforces.com/gym/106164/problem/F) | Iterate over possible answers. How to calculate the result for each answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0513/solution/cf106164f.md) |
