@@ -1,5 +1,6 @@
 '''
-https://codeforces.com/gym/106164/submission/374237940
+https://codeforces.com/gym/106164/submission/374260460
+greedy
 '''
 def solve(n: int, m: int) -> list[int]:
     if n == 2:
@@ -7,14 +8,7 @@ def solve(n: int, m: int) -> list[int]:
             return [2, 1]
         else: 
             return [1, 2]
+    elif m >= n:
+        return list(range(n, 0, -1))
     else:
-        m = min(n, m)
-        ans = []
-        
-        for i in range(m):
-            ans.append(n - i)
-        
-        for i in range(n - m):
-            ans.append(i + 1)
-
-        return ans
+        return list(range(n, n - m, -1)) + list(range(1, n - m + 1))
