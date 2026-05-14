@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106052C](https://codeforces.com/gym/106052/problem/C) | What's the condition for $(x,y)$ ? And how can you get the result? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0514/solution/cf106052c.md) |
-| *2400 | [GYM106164D](https://codeforces.com/gym/106164/problem/D) | SG function first. And what do you need to calculate? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0514/solution/cf106164d.md) |
+| *1800 | [GYM106164G](https://codeforces.com/gym/106164/problem/G) | If we fix the LCA, what do we need to choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0515/solution/cf106164g.md) |
+| *2000 | [GYM106164L](https://codeforces.com/gym/106164/problem/L) | For each query, the points can be considered as four groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0515/solution/cf106164l.md) |
