@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106164G](https://codeforces.com/gym/106164/problem/G) | If we fix the LCA, what do we need to choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0515/solution/cf106164g.md) |
-| *2000 | [GYM106164L](https://codeforces.com/gym/106164/problem/L) | For each query, the points can be considered as four groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0515/solution/cf106164l.md) |
+| *1600 | [GYM106186D](https://codeforces.com/gym/106186/problem/D) | Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0516/solution/cf106186d.md) |
+| *1700 | [GYM106186C](https://codeforces.com/gym/106186/problem/C) | Bitmask. Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0516/solution/cf106186c.md) |
