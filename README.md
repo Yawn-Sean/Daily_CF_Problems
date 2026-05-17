@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106186D](https://codeforces.com/gym/106186/problem/D) | Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0516/solution/cf106186d.md) |
-| *1700 | [GYM106186C](https://codeforces.com/gym/106186/problem/C) | Bitmask. Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0516/solution/cf106186c.md) |
+| *1600 | [GYM106141L](https://codeforces.com/gym/106141/problem/L) | Two steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0518/solution/cf106141l.md) |
+| *1900 | [GYM106531D](https://codeforces.com/gym/106531/problem/D) | Actually about distributing items. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0518/solution/cf106531d.md) |
