@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106141L](https://codeforces.com/gym/106141/problem/L) | Two steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0518/solution/cf106141l.md) |
-| *1900 | [GYM106531D](https://codeforces.com/gym/106531/problem/D) | Actually about distributing items. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0518/solution/cf106531d.md) |
+| *1700 | [GYM106531E](https://codeforces.com/gym/106531/problem/E) | If you take two streets ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0519/solution/cf106531e.md) |
+| *1700 | [GYM106531H](https://codeforces.com/gym/106531/problem/H) | A topological graph. DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0519/solution/cf106531h.md) |
