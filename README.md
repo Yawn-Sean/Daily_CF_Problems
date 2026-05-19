@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106531E](https://codeforces.com/gym/106531/problem/E) | If you take two streets ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0519/solution/cf106531e.md) |
-| *1700 | [GYM106531H](https://codeforces.com/gym/106531/problem/H) | A topological graph. DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0519/solution/cf106531h.md) |
+| *1600 | [GYM106527C](https://codeforces.com/gym/106527/problem/C) | Hall's theorem. Conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0520/solution/cf106527c.md) |
+| *1800 | [GYM106527D](https://codeforces.com/gym/106527/problem/D) | There can't be a long path. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0520/solution/cf106527d.md) |
