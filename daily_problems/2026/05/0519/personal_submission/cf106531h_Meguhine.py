@@ -58,7 +58,6 @@ for _ in range(M):
     deg[v] += 1
 
 K = int(input())
-max_time = n + K + 5
 banned = Graph(n + 1)
 for _ in range(K):
     t, u = map(int, input().split())
