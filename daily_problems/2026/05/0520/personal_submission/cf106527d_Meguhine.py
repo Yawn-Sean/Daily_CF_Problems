@@ -49,7 +49,7 @@ class Graph:
 
 
 n, m = map(int, input().split())
-d = int(input()[0])
+_s = input()[0]
 
 e = Graph(n + 1)
 deg = [0] * (n + 1)
@@ -75,7 +75,7 @@ if max(deg) != 0:
     print("NO")
 else:
     print("YES")
-    print('\n'.join(str(d) * m))
+    print('\n'.join(_s * m))
 
 """
 首先, 不能有任何的环(包括自环), 不然绕这个环走67圈, 一定会FAIL
