@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106527C](https://codeforces.com/gym/106527/problem/C) | Hall's theorem. Conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0520/solution/cf106527c.md) |
-| *1800 | [GYM106527D](https://codeforces.com/gym/106527/problem/D) | There can't be a long path. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0520/solution/cf106527d.md) |
+| *1800 | [GYM106523H](https://codeforces.com/gym/106523/problem/H) | We only need to consider the power of each prime number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0521/solution/cf106523h.md) |
+| *1900 | [GYM106507K](https://codeforces.com/gym/106507/problem/K) | Consider another way of calculating the answer such that it can be done in a DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0521/solution/cf106507k.md) |
