@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106523H](https://codeforces.com/gym/106523/problem/H) | We only need to consider the power of each prime number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0521/solution/cf106523h.md) |
-| *1900 | [GYM106507K](https://codeforces.com/gym/106507/problem/K) | Consider another way of calculating the answer such that it can be done in a DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0521/solution/cf106507k.md) |
+| *1600 | [GYM106094B](https://codeforces.com/gym/106094/problem/B) | Marginal contribution. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0522/solution/cf106094b.md) |
+| *1700 | [GYM106540A](https://codeforces.com/gym/106540/problem/A) | Decompose the prefixes thoroughly. What would you get? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0522/solution/cf106540a.md) |
