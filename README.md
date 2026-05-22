@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106094B](https://codeforces.com/gym/106094/problem/B) | Marginal contribution. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0522/solution/cf106094b.md) |
-| *1700 | [GYM106540A](https://codeforces.com/gym/106540/problem/A) | Decompose the prefixes thoroughly. What would you get? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0522/solution/cf106540a.md) |
+| *1200 | [GYM105532D](https://codeforces.com/gym/105532/problem/D) | Which side should be merged? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0523/solution/cf105532d.md) |
+| *2100 | [GYM105505L](https://codeforces.com/gym/105505/problem/L) | Find the condition where there must be two equal numbers in the same row or the same column. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0523/solution/cf105505l.md) |
