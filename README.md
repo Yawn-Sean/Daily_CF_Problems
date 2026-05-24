@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM105532D](https://codeforces.com/gym/105532/problem/D) | Which side should be merged? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0523/solution/cf105532d.md) |
-| *2100 | [GYM105505L](https://codeforces.com/gym/105505/problem/L) | Find the condition where there must be two equal numbers in the same row or the same column. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0523/solution/cf105505l.md) |
+| *1400 | [GYM105437H](https://codeforces.com/gym/105437/problem/H) | A prefix and a suffix are not changed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0525/solution/cf105437h.md) |
+| *1900 | [GYM105873G](https://codeforces.com/gym/105873/problem/G) | Find the smallest area and how you can construct it. Then expand it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0525/solution/cf105873g.md) |
