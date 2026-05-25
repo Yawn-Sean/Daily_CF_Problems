@@ -166,7 +166,7 @@ using SGT = _SGT<
 >;
 
 template <class T, LL type>
-    requires(type == 1 || type == (T(1) / T(2)).val())
+    requires(type == 1 || type == T(1) / T(2))
 void fwtxor(vector<T> &a, int _n = -1) {
     const int n = [&]() -> int {
         if (_n == -1) {
