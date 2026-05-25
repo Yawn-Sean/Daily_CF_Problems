@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM105437H](https://codeforces.com/gym/105437/problem/H) | A prefix and a suffix are not changed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0525/solution/cf105437h.md) |
-| *1900 | [GYM105873G](https://codeforces.com/gym/105873/problem/G) | Find the smallest area and how you can construct it. Then expand it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0525/solution/cf105873g.md) |
+| *1700 | [GYM105437I](https://codeforces.com/gym/105437/problem/I) | What's the status? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0526/solution/cf105437i.md) |
+| *1800 | [GYM105873G](https://codeforces.com/gym/105873/problem/H) | We only care about what we have done. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0526/solution/cf105873h.md) |
