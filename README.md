@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105437I](https://codeforces.com/gym/105437/problem/I) | What's the status? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0526/solution/cf105437i.md) |
-| *1800 | [GYM105873G](https://codeforces.com/gym/105873/problem/G) | We only care about what we have done. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0526/solution/cf105873h.md) |
+| *1400 | [GYM105315H](https://codeforces.com/gym/105315/problem/H) | Iterate over $\max b_{i_j}$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0527/solution/cf105315h.md) |
+| *2000 | [GYM105325B](https://codeforces.com/gym/105325/problem/B) | The weights of each edge is ... Then what should you do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0527/solution/cf105325b.md) |
