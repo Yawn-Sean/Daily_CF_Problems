@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM105325D](https://codeforces.com/gym/105325/problem/D) | It's the intersection. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0528/solution/cf105325d.md) |
-| *1900 | [GYM105580J](https://codeforces.com/gym/105580/problem/J) | Iterate over all possible status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0528/solution/cf105580j.md) |
+| *1500 | [GYM105059F](https://codeforces.com/gym/105059/problem/F) | Gather the subarrays of the same length. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0529/solution/cf105059f.md) |
+| *1700 | [GYM105059C](https://codeforces.com/gym/105059/problem/C) | Back and forth - an important operation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0529/solution/cf105059c.md) |
