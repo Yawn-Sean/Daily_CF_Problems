@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM105059F](https://codeforces.com/gym/105059/problem/F) | Gather the subarrays of the same length. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0529/solution/cf105059f.md) |
-| *1700 | [GYM105059C](https://codeforces.com/gym/105059/problem/C) | Back and forth - an important operation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0529/solution/cf105059c.md) |
+| *1600 | [GYM105010D](https://codeforces.com/gym/105010/problem/D) | Some easy cases. Some harder cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0530/solution/cf105010d.md) |
+| *1900 | [GYM104782D](https://codeforces.com/gym/104782/problem/D) | What should you calculate for real? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0530/solution/cf104782d.md) |
