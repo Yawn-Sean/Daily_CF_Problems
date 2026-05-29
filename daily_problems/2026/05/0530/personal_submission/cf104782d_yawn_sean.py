@@ -4,7 +4,6 @@ def main():
     v1 = LII()
     v2 = LII()
     
-    msk = 10 ** 9 * 2
     vals = [(v2[i] - v1[i], v2[i]) for i in range(n)]
     
     def f(a, b):
