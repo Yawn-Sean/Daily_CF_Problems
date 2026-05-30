@@ -55,9 +55,11 @@ struct SegmentTree {
 		Info res;
 		if (x < m) {
 			res = rangeQuery(2 * p, l, m, x, y);
-		}
-		if (y > m) {
-			res = res + rangeQuery(2 * p + 1, m, r, x, y);
+			if (y > m) {
+				res = res + rangeQuery(2 * p + 1, m, r, x, y);
+			}
+		} else if (y > m) {
+			res = rangeQuery(2 * p + 1, m, r, x, y);
 		}
 		return res;
 	}
@@ -143,7 +145,7 @@ int main() {
 		cin >> x;
 	}
 
-	vector<Info> f(n + 1);
+	vector<Info> f(n);
 	for (int i = 0; i < n; i++) {
 		pre[i + 1] = pre[i] + b[i] - a[i];
 		f[i] = Info(i, i, b[i]);
