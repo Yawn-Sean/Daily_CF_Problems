@@ -90,3 +90,4 @@
 | 2200 | [CF1227E](https://codeforces.com/problemset/problem/1227/E) | Each burned tree turned into a square. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0222/solution/cf1227e.md) |
 | 2300 | [CF425C](https://codeforces.com/problemset/problem/425/C) | You can't really operate many number of times. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0510/solution/cf425c.md) |
 | *2300 | [GYM104790K](https://codeforces.com/gym/104790/problem/K) | Reduce $n$ to a smaller value by using queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0923/solution/cf104790k.md) |
+| *2300 | [GYM106523M](https://codeforces.com/gym/106523/problem/M) | The fix point of a contradiction mapping. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0601/solution/cf106523m.md) |

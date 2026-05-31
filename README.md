@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105010D](https://codeforces.com/gym/105010/problem/D) | Some easy cases. Some harder cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0530/solution/cf105010d.md) |
-| *1900 | [GYM104782D](https://codeforces.com/gym/104782/problem/D) | What should you calculate for real? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0530/solution/cf104782d.md) |
+| *1500 | [GYM104782I](https://codeforces.com/gym/104782/problem/I) | Consider in groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0601/solution/cf104782i.md) |
+| *2300 | [GYM106523M](https://codeforces.com/gym/106523/problem/M) | The fix point of a contradiction mapping. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0601/solution/cf106523m.md) |
