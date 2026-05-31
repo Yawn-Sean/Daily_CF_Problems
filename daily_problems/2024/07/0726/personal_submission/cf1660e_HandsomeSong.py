@@ -2,12 +2,6 @@ import sys
 input = sys.stdin.readline
 def II():
     return int(input())
-def LII():
-    return list(map(int, input().split()))
-def MII():
-    return map(int, input().split())
-def LI():
-    return list(input().strip())
 def I():
     return input().strip()
 t=II()
