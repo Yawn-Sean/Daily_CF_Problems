@@ -20,7 +20,7 @@ signed main(){
 		int c = K / T;
 		if( S % c ){ puts("0"); return 0; }
 		int t1 = K / c,t2 = S / c;
-		printf("%d\n",C( t1 + t2 - 1 , t1 - 1 ));
+		printf("%d\n",C( t2 - 1 , t1 - 1 ));
 		return 0;
 	}
 	int c = K % T,p = K / T,ans = 0;
