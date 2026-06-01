@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM104782I](https://codeforces.com/gym/104782/problem/I) | Consider in groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0601/solution/cf104782i.md) |
-| *2300 | [GYM106523M](https://codeforces.com/gym/106523/problem/M) | The fix point of a contradiction mapping. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0601/solution/cf106523m.md) |
+| *1400 | [GYM106539D](https://codeforces.com/gym/106539/problem/D) | Calculate the probability of each person. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0602/solution/cf106539d.md) |
+| *2100 | [GYM103476C](https://codeforces.com/gym/103476/problem/C) | It's about walking in a high-dimensional space. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0602/solution/cf103476c.md) |
