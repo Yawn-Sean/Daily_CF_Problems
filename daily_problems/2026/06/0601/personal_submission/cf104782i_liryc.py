@@ -1,9 +1,16 @@
+'''
+https://codeforces.com/gym/104782/submission/376887312
+'''
 def solve(k: int, s: int, t: int) -> int:
-    MAXN = 5000004
     MOD = 1000000007
-    fac = Factorial(MAXN, MOD)
+    fac = Factorial(s + 1, MOD)
     d, m = divmod(k, t)
     ans = 0
+    if m == 0:
+        if s % d == 0:
+            x = s // d
+            ans = fac.combi(x - 1, t - 1)
+        return ans
     for x in range(s + 1):
         if (s - d * x) % (d + 1) == 0:
             y = (s - d * x) // (d + 1)
