@@ -1,5 +1,3 @@
-import sys
-
 n = int(input())
 
 # 质因数分解
