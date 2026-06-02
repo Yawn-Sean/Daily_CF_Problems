@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106539D](https://codeforces.com/gym/106539/problem/D) | Calculate the probability of each person. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0602/solution/cf106539d.md) |
-| *2100 | [GYM103476C](https://codeforces.com/gym/103476/problem/C) | It's about walking in a high-dimensional space. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0602/solution/cf103476c.md) |
+| *1300 | [GYM103150C](https://codeforces.com/gym/103150/problem/C) | Some letters can't be reversed back to form a EZPC. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0603/solution/cf103510c.md) |
+| *1700 | [GYM103150D](https://codeforces.com/gym/103150/problem/D) | The upperbound for $d$ is easy to find. Find a condition that is easier to construct and add something to construct the others. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0603/solution/cf103510d.md) |
