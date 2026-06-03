@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 // #pragma GCC optimize("O3,Ofast,unroll-loops")
 // #include "atcoder/all"
-#include "atcoder/dsu"
 
 using namespace std;
 auto rng = mt19937(random_device()());
@@ -12,37 +11,55 @@ int main() {
 	cin.tie(0);
 	cout.tie(0);
 
-	int n;
-	cin >> n;
+	int n, m, q;
+	cin >> n >> m >> q;
 
-	vector<int> nums(n);
-	for (auto &x: nums) cin >> x, x --;
+	vector<vector<int>> path(n + m);
 
-	int mod = 998244353;
+	for (int u = 0; u < n; u ++) {
+		int k;
+		cin >> k;
+		while (k --) {
+			int v; cin >> v; v --;
+			path[u].emplace_back(n + v);
+			path[n + v].emplace_back(u);
+		}
+	}
 
-	vector<int> pw2(n + 1, 1);
-	for (int i = 1; i <= n; i ++) pw2[i] = pw2[i - 1] * 2 % mod;
+	vector<vector<int>> dis(m, vector<int>(n + m, -1));
 
-	int ans = 0;
-	atcoder::dsu uf(n + 1);
+	for (int x = 0; x < m; x ++) {
+		dis[x][n + x] = 0;
+		queue<int> q; q.push(n + x);
 
-	for (int i = 0; i < n; i ++) {
-		uf.init();
+		while (!q.empty()) {
+			int u = q.front(); q.pop();
+			for (auto &v: path[u]) {
+				if (dis[x][v] == -1) {
+					dis[x][v] = dis[x][u] + 1;
+					q.push(v);
+				}
+			}
+		}
+	}
 
-		for (int j = 0; j < n; j ++) uf.merge(j, min(nums[j] + i, n));
+	int inf = 1e6;
 
-		int cur = 0;
-		for (int j = 0; j < n; j ++) {
-			if (uf.leader(j) == j && uf.leader(j) != uf.leader(n)) {
-				cur ++;
+	while (q --) {
+		int u, v;
+		cin >> u >> v;
+		u --, v --;
+
+		int ans = inf;
+
+		for (int i = 0; i < m; i ++) {
+			if (dis[i][u] != -1 && dis[i][v] != -1) {
+				ans = min(ans, dis[i][u] + dis[i][v]);
 			}
 		}
 
-		ans += pw2[cur] - 1;
-		ans %= mod;
+		cout << (ans < inf ? ans / 2 - 1 : -1) << '\n';
 	}
-
-	cout << ans;
 
 	return 0;
 }
