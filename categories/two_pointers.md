@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1400 | [GYM102860B](https://codeforces.com/gym/102860/problem/B) | The number of triangles that don't contain the center of the circle is easier to calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0605/solution/cf102860b.md) |
 | 1500 | [CF1547E](https://codeforces.com/problemset/problem/1547/E) | Try plotting the function and find where the function changes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/tree/main/daily_problems/2024/02/0226) |
 | *1500 | [GYM105314B](https://codeforces.com/gym/105314/problem/B) | Find the bound and what do you need to calculate afterwards? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf105314b.md) |
 | *1500 | [GYM105316A](https://codeforces.com/gym/105316/problem/A) | DP. Transitions are continuous. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1201/solution/cf105316a.md) |

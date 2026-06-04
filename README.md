@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106552I](https://codeforces.com/gym/106552/problem/I) | Consider the problem in the form of the distance in the graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0604/solution/cf106552i.md) |
-| *2100 | [GYM106523F](https://codeforces.com/gym/106523/problem/F) | Iterate over $C(x)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0604/solution/cf106523f.md) |
+| *1400 | [GYM102860B](https://codeforces.com/gym/102860/problem/B) | The number of triangles that don't contain the center of the circle is easier to calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0605/solution/cf102860b.md) |
+| *1800 | [GYM102860L](https://codeforces.com/gym/102860/problem/L) | How does the $x$ and $y$ change? How can you decide which direction are you turning? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0605/solution/cf102860l.md) |
