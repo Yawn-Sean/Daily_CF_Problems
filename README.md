@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM102860B](https://codeforces.com/gym/102860/problem/B) | The number of triangles that don't contain the center of the circle is easier to calculate. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0605/solution/cf102860b.md) |
-| *1800 | [GYM102860L](https://codeforces.com/gym/102860/problem/L) | How does the $x$ and $y$ change? How can you decide which direction are you turning? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0605/solution/cf102860l.md) |
+| *1700 | [GYM104345B](https://codeforces.com/gym/104345/problem/B) | How can you find the connected component effectively? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0606/solution/cf104345b.md) |
+| *1800 | [GYM105401D](https://codeforces.com/gym/105401/problem/D) | Arrange the odd numbers and even numbers wisely. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0606/solution/cf105401d.md) |
