@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | *1200 | [GYM104985A](https://codeforces.com/gym/104985/problem/A) | Consider time in periods. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0306/solution/cf104985a.md) |
 | *1200 | [GYM105532D](https://codeforces.com/gym/105532/problem/D) | Which side should be merged? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0523/solution/cf105532d.md) |
+| *1300 | [GYM102448D](https://codeforces.com/gym/102448/problem/D) | Inplementation. From near to far. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0608/solution/cf102448d.md) |
 | *1400 | [GYM105315H](https://codeforces.com/gym/105315/problem/H) | Iterate over $\max b_{i_j}$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0527/solution/cf105315h.md) |
 | 1500 | [CF1547E](https://codeforces.com/problemset/problem/1547/E) | Try plotting the function and find where the function changes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/02/0226/solution/cf1547e.md) |
 | *1500 | [GYM105314B](https://codeforces.com/gym/105314/problem/B) | Find the bound and what do you need to calculate afterwards? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/11/1128/solution/cf105314b.md) |

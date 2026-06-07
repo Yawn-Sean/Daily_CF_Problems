@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM104345B](https://codeforces.com/gym/104345/problem/B) | How can you find the connected component effectively? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0606/solution/cf104345b.md) |
-| *1800 | [GYM105401D](https://codeforces.com/gym/105401/problem/D) | Arrange the odd numbers and even numbers wisely. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0606/solution/cf105401d.md) |
+| *1300 | [GYM102448D](https://codeforces.com/gym/102448/problem/D) | Inplementation. From near to far. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0608/solution/cf102448d.md) |
+| *1800 | [GYM102441F](https://codeforces.com/gym/102441/problem/F) | Decompose $s^2$ . What's the probability you need to calculate? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0608/solution/cf102441f.md) |
