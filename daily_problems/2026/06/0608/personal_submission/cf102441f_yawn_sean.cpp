@@ -35,7 +35,7 @@ int main() {
 
 	int mod = 1e9 + 7;
 
-	int p1 = x * quickPow(y, mod - 2, mod), p0 = (mod + 1 - p1) % mod;
+	int p1 = x * quickPow(y, mod - 2, mod) % mod, p0 = (mod + 1 - p1) % mod;
 
 	vector<int> probs(n + 1, 0);
 	int v1 = 0, v0 = 1;
