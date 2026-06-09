@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM102448D](https://codeforces.com/gym/102448/problem/D) | Inplementation. From near to far. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0608/solution/cf102448d.md) |
-| *1800 | [GYM102441F](https://codeforces.com/gym/102441/problem/F) | Decompose $s^2$ . What's the probability you need to calculate? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0608/solution/cf102441f.md) |
+| *1200 | [GYM102396E](https://codeforces.com/gym/102396/problem/E) | Larger values are harder to construct. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0609/solution/cf102396e.md) |
+| *1600 | [GYM102416E](https://codeforces.com/gym/102416/problem/E) | There's a greedy approach. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0609/solution/cf102416e.md) |
