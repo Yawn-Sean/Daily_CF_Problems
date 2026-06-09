@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM102396E](https://codeforces.com/gym/102396/problem/E) | Larger values are harder to construct. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0609/solution/cf102396e.md) |
-| *1600 | [GYM102416E](https://codeforces.com/gym/102416/problem/E) | There's a greedy approach. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0609/solution/cf102416e.md) |
+| *1500 | [GYM104755F](https://codeforces.com/gym/104755/problem/F) | Put lights as many as you can. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0610/solution/cf104755f.md) |
+| *2300 | [GYM105383C](https://codeforces.com/gym/105383/problem/C) | What's the condition? Reduce the problem to a simpler form. And if you don't care about the complexity, what can you do? How to speed it up? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0610/solution/cf105383c.md) |
