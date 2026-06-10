@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM104755F](https://codeforces.com/gym/104755/problem/F) | Put lights as many as you can. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0610/solution/cf104755f.md) |
-| *2300 | [GYM105383C](https://codeforces.com/gym/105383/problem/C) | What's the condition? Reduce the problem to a simpler form. And if you don't care about the complexity, what can you do? How to speed it up? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0610/solution/cf105383c.md) |
+| *1800 | [GYM105757B](https://codeforces.com/gym/105757/problem/B) | It's about pairing up the numbers. If you pair up $n$ ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0611/solution/cf105757b.md) |
+| *1800 | [GYM105757N](https://codeforces.com/gym/105757/problem/N) | $k>2$ ? $k=2$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0611/solution/cf105757n.md) |
