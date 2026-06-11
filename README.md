@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM105757B](https://codeforces.com/gym/105757/problem/B) | It's about pairing up the numbers. If you pair up $n$ ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0611/solution/cf105757b.md) |
-| *1800 | [GYM105757N](https://codeforces.com/gym/105757/problem/N) | $k>2$ ? $k=2$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0611/solution/cf105757n.md) |
+| *1400 | [GYM103102E](https://codeforces.com/gym/103102/problem/E) | Use prefix sums to calculate the answer for a segment. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0612/solution/cf103102e.md) |
+| *2200 | [GYM105383L](https://codeforces.com/gym/105383/problem/L) | Decompose the route. Find the best route from $u$ to $v$ using $k$ roads, and use the basic results to get the final results. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0612/solution/cf105383l.md) |
