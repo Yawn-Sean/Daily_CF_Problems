@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM103102B](https://codeforces.com/gym/103102/problem/B) | Find the feature. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0613/solution/cf103102b.md) |
-| *2100 | [GYM103102I](https://codeforces.com/gym/103102/problem/I) | $1,2$ and the numbers in between. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0613/solution/cf103102i.md) |
+| *1800 | [GYM105444K](https://codeforces.com/gym/105444/problem/K) | Find the target. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0615/solution/cf105444k.md) |
+| *1900 | [GYM105442D](https://codeforces.com/gym/105442/problem/D) | Peel the points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0615/solution/cf105442d.md) |
