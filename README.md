@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM105442K](https://codeforces.com/gym/105442/problem/K) | The minimum cut. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0616/solution/cf105442k.md) |
-| *2300 | [GYM105706B](https://codeforces.com/gym/105706/problem/B) | DP, but what should you maintain? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0616/solution/cf105706b.md) |
+| *1400 | [GYM101962C](https://codeforces.com/gym/101962/problem/C) | Contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0617/solution/cf101962c.md) |
+| *1800 | [GYM105706A](https://codeforces.com/gym/105706/problem/A) | The next number. The next few numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0617/solution/cf105706a.md) |
