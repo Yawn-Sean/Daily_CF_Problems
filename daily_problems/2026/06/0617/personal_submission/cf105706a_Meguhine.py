@@ -1,6 +1,5 @@
 import sys
 from array import array
-from bisect import bisect_left
 
 input = lambda: sys.stdin.readline().rstrip()
 M = 18
@@ -9,10 +8,14 @@ M = 18
 def solve() -> str:
     n, Q = map(int, input().split())
     a = list(map(int, input().split()))
-    pos = [[] for _ in range(n + 1)]
+    pos = [array('i', []) for _ in range(n + 1)]
     for i, x in enumerate(a):
         pos[x].append(i)
-    pos_1, len_1 = pos[1], len(pos[1])
+    nxt1 = array('i', [-1] * n)
+    if a[-1] == 1:
+        nxt1[-1] = n - 1
+    for i in range(n - 2, -1, -1):
+        nxt1[i] = i if a[i] == 1 else nxt1[i + 1]
     to = [array('i', [-1] * n) for _ in range(M)]
     to0 = to[0]
     for x in range(1, n):
@@ -30,10 +33,10 @@ def solve() -> str:
                 to[p][i] = to[p - 1][j]
     outs = [1] * Q
     for idx in range(Q):
-        L, R = map(int, input().split())
-        i = bisect_left(pos_1, L - 1)
-        if i < len_1 and pos_1[i] < R:
-            i, res = pos_1[i], 2
+        i, R = map(int, input().split())
+        i = nxt1[i - 1]
+        if i != -1 and i < R:
+            res = 2
             for p in range(M - 1, -1, -1):
                 j = to[p][i]
                 if j != -1 and j < R:
