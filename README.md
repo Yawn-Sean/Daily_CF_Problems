@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM101962C](https://codeforces.com/gym/101962/problem/C) | Contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0617/solution/cf101962c.md) |
-| *1800 | [GYM105706A](https://codeforces.com/gym/105706/problem/A) | The next number. The next few numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0617/solution/cf105706a.md) |
+| *1500 | [GYM105079G](https://codeforces.com/gym/105079/problem/G) | Lazy tag. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0618/solution/cf105079g.md) |
+| *2000 | [GYM104974M](https://codeforces.com/gym/104974/problem/M) | Find a way to represent the number of components. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0618/solution/cf104974m.md) |
