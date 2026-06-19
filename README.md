@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM104974N](https://codeforces.com/gym/104974/problem/N) | Two conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0619/solution/cf104974n.md) |
-| *2000 | [GYM104668L](https://codeforces.com/gym/104668/problem/L) | Start from simple conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0619/solution/cf104668l.md) |
+| *1300 | [GYM104395C](https://codeforces.com/gym/104395/problem/C) | Only a few decompositions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0620/solution/cf104395c.md) |
+| *1600 | [GYM104395F](https://codeforces.com/gym/104395/problem/F) | Original cycles + new cycles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0620/solution/cf104395f.md) |
