@@ -22,7 +22,7 @@ if A == B:
 elif A > B:
     win(sg != 0 or cnt != 0)
 else:
-    take = sg ^ mx
+    take = sg ^ (mx % MOD)
     win((cnt == 0 and sg != 0) or (cnt == 1 and A >= take and (mx - take) < MOD))
 
 
