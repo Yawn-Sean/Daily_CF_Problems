@@ -24,4 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104395F](https://codeforces.com/gym/104395/problem/F) | Original cycles + new cycles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0620/solution/cf104395f.md) |
+| *1300 | [GYM106592C](https://codeforces.com/gym/106592/problem/C) | What condition should a pair satisfy to form a citation? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0622/solution/cf106592c.md) |
+| *2000 | [GYM106592E](https://codeforces.com/gym/106592/problem/E) | Just replace one edge of the MST. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0622/solution/cf106592e.md) |
