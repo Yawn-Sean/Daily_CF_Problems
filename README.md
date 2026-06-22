@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM106592C](https://codeforces.com/gym/106592/problem/C) | What condition should a pair satisfy to form a citation? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0622/solution/cf106592c.md) |
-| *2000 | [GYM106592E](https://codeforces.com/gym/106592/problem/E) | Just replace one edge of the MST. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0622/solution/cf106592e.md) |
+| *1200 | [GYM106575N](https://codeforces.com/gym/106575/problem/N) | Iterate over the possible $a_1$ or $b_1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0623/solution/cf106575n.md) |
+| *1700 | [GYM106575B](https://codeforces.com/gym/106575/problem/B) | Transform the $u\to v\to w$ into only a few edges. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0623/solution/cf106575b.md) |
