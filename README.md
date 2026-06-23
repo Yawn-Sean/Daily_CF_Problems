@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM106575N](https://codeforces.com/gym/106575/problem/N) | Iterate over the possible $a_1$ or $b_1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0623/solution/cf106575n.md) |
-| *1700 | [GYM106575B](https://codeforces.com/gym/106575/problem/B) | Transform the $u\to v\to w$ into only a few edges. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0623/solution/cf106575b.md) |
+| *1500 | [GYM106601K](https://codeforces.com/gym/106601/problem/K) | What positions do you need to update? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0624/solution/cf106601k.md) |
+| *1700 | [GYM106601L](https://codeforces.com/gym/106601/problem/L) | If the number doesn't have many digits in base $B$ ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0624/solution/cf106601l.md) |
