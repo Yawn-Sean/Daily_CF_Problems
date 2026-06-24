@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106601K](https://codeforces.com/gym/106601/problem/K) | What positions do you need to update? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0624/solution/cf106601k.md) |
-| *1700 | [GYM106601L](https://codeforces.com/gym/106601/problem/L) | If the number doesn't have many digits in base $B$ ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0624/solution/cf106601l.md) |
+| *1300 | [GYM106020H](https://codeforces.com/gym/106020/problem/H) | Find the condition that the subarray should satisfy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0625/solution/cf106020h.md) |
+| *2000 | [GYM106020G](https://codeforces.com/gym/106020/problem/G) | The selected numbers can't be too many. And there is a pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0625/solution/cf106020g.md) |
