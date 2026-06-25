@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM106020H](https://codeforces.com/gym/106020/problem/H) | Find the condition that the subarray should satisfy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0625/solution/cf106020h.md) |
-| *2000 | [GYM106020G](https://codeforces.com/gym/106020/problem/G) | The selected numbers can't be too many. And there is a pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0625/solution/cf106020g.md) |
+| *1500 | [GYM106020J](https://codeforces.com/gym/106020/problem/J) | Construct. Basic construction. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0626/solution/cf106020j.md) |
+| *2000 | [GYM106020C](https://codeforces.com/gym/106020/problem/C) | The optimal choice to remove the edge is ... And we don't need to check many. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0626/solution/cf106020c.md) |
