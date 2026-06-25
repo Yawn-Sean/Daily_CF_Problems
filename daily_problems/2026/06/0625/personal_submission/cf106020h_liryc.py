@@ -1,18 +1,59 @@
 '''
-20260625 T1
+https://codeforces.com/gym/106020/submission/380108525
+two pointers
 '''
-def solve(n: int, a: list[int]) -> int:
-    ans = 0
-    ia = [i for i in range(n) if a[i]]
-    
-    for i in range(1, len(ia)):
-        x = ia[i - 1]
-        y = ia[i]
-        if min(a[x], a[y]) == 1 and max(a[x], a[y]) <= 2:
-            lx = ia[i - 2] if i - 2 >= 0 else -1
-            ry = ia[i + 1] if i + 1 < len(ia) else n
-            
-            ans += (x - lx) * (ry - y)
-            if y - x == 1: ans -= 1
-    
+# 0* + 1 + 1
+def solve1(n: int, a: list[int]) -> int:
+    ans, l, r, c0, c1 = 0, 0, 0, 0, 0
+    for i, x in enumerate(a):
+        if x == 0:
+            c0 += 1
+        elif x == 1:
+            c1 += 1
+            while c1 > 2:
+                if a[r] == 0:
+                    c0 -= 1
+                else:
+                    c1 -= 1
+                r += 1
+                l = r
+        else:
+            l = r = i + 1
+            c0 = c1 = 0
+        if c0 and c1 == 2:
+            while a[r] == 0 and c0 > 1:
+                c0 -= 1
+                r += 1
+            ans += r - l + 1
     return ans
+
+# 0* + 1 + 2
+def solve2(n: int, a: list[int]) -> int:
+    ans, l, r, c0, c1, c2 = 0, 0, 0, 0, 0, 0
+    for i, x in enumerate(a):
+        if x == 0:
+            c0 += 1
+        elif x == 1:
+            c1 += 1
+        elif x == 2:
+            c2 += 1
+        else:
+            c0 = c1 = c2 = 0
+            l = r = i + 1
+        while c1 > 1 or c2 > 1:
+            if a[r] == 0:
+                c0 -= 1
+            elif a[r] == 1:
+                c1 -= 1
+            else:
+                c2 -= 1
+            r += 1
+            l = r
+        if c0 and c1 == c2 == 1:
+            while a[r] == 0 and c0 > 1:
+                c0 -= 1
+                r += 1
+            ans += r - l + 1
+    return ans
+
+# ans = solve1(*args) + solve2(*args)
