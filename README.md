@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106020J](https://codeforces.com/gym/106020/problem/J) | Construct. Basic construction. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0626/solution/cf106020j.md) |
-| *2000 | [GYM106020C](https://codeforces.com/gym/106020/problem/C) | The optimal choice to remove the edge is ... And we don't need to check many. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0626/solution/cf106020c.md) |
+| *1300 | [GYM106020M](https://codeforces.com/gym/106020/problem/M) | How many times does a subarray contribute to the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0627/solution/cf106020m.md) |
+| *2000 | [GYM106020K](https://codeforces.com/gym/106020/problem/K) | If $n$ is large, $k$ only affects a few numbers. And if you decide each digit one by one, which results do you need to calculate? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0627/solution/cf106020k.md) |
