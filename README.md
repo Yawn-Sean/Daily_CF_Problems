@@ -25,4 +25,4 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
 | *1600 | [GYM106020F](https://codeforces.com/gym/106020/problem/F) | Choose something that must be chosen. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0630/solution/cf106020f.md) |
-| *2000 | [GYM106020H](https://codeforces.com/gym/106020/problem/H) | What numbers do you need to calculate and how can you count them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0630/solution/cf106608h.md) |
+| *2000 | [GYM106608H](https://codeforces.com/gym/106608/problem/H) | What numbers do you need to calculate and how can you count them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0630/solution/cf106608h.md) |
