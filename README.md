@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106020E](https://codeforces.com/gym/106020/problem/E) | Each cycle. What choice can you make? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0629/solution/cf106020e.md) |
-| *2100 | [GYM106020A](https://codeforces.com/gym/106020/problem/A) | Decide each position. Some can be infered. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0629/solution/cf106020a.md) |
+| *1600 | [GYM106020F](https://codeforces.com/gym/106020/problem/F) | Choose something that must be chosen. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0630/solution/cf106020f.md) |
+| *2000 | [GYM106020H](https://codeforces.com/gym/106020/problem/H) | What numbers do you need to calculate and how can you count them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0630/solution/cf106608h.md) |
