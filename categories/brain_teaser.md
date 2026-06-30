@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1000 | [GYM106259I](https://codeforces.com/gym/106259/problem/I) | Some elements can not be deleted. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0511/solution/cf106259i.md) |
+| *1000 | [GYM106607B](https://codeforces.com/gym/106607/problem/B) | You don't need many operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0701/solution/cf106607b.md) |
 | *1100 | [GYM104574E](https://codeforces.com/gym/104574/problem/E) | Print the result of each shuffling. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0304/solution/cf104574e.md) |
 | *1100 | [GYM106511F](https://codeforces.com/gym/106511/problem/F) | Cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0502/solution/cf106511f.md) |
 | *1100 | [GYM106511D](https://codeforces.com/gym/106511/problem/D) | Find the number that does not exceed $n$ that has the most number of digit $i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0504/solution/cf106511d.md) |

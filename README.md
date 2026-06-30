@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106020F](https://codeforces.com/gym/106020/problem/F) | Choose something that must be chosen. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0630/solution/cf106020f.md) |
-| *2000 | [GYM106020H](https://codeforces.com/gym/106020/problem/H) | What numbers do you need to calculate and how can you count them? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0630/solution/cf106608h.md) |
+| *1000 | [GYM106607B](https://codeforces.com/gym/106607/problem/B) | You don't need many operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0701/solution/cf106607b.md) |
+| *1800 | [GYM106607A](https://codeforces.com/gym/106607/problem/A) | Adjust your answer from $i$ to $i+1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0701/solution/cf106607a.md) |
