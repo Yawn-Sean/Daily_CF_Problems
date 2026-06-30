@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1000 | [GYM106607B](https://codeforces.com/gym/106607/problem/B) | You don't need many operations. |
-| *1800 | [GYM106607A](https://codeforces.com/gym/106607/problem/A) | Adjust your answer from $i$ to $i+1$ . |
+| *1000 | [GYM106607B](https://codeforces.com/gym/106607/problem/B) | You don't need many operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0701/solution/cf106607b.md) |
+| *1800 | [GYM106607A](https://codeforces.com/gym/106607/problem/A) | Adjust your answer from $i$ to $i+1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0701/solution/cf106607a.md) |
