@@ -41,7 +41,7 @@ bool __init_factors = []() -> bool {
 bitset<N> notP;
 int mu[N], mn_p[N];
 vector<int> prime;
-auto __init_prime = []() -> bool { // init [1, N)
+bool __init_sieve = []() -> bool { // init [1, N)
     mu[1] = mn_p[1] = notP[1] = 1;
     for (int i = 2; i < N; i++) {
         if (!notP[i]) {
