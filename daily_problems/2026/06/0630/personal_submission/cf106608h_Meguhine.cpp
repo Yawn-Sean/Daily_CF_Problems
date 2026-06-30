@@ -85,10 +85,7 @@ void solve() {
             for (auto d : factors[y]) {
                 if (!mu[d]) continue;
                 const int z = d * g;
-                if (z < N)
-                    ans += mu[d] * cnt[d * g];
-                else
-                    break;
+                ans += mu[d] * cnt[d * g];
             }
             if (x == g) ans -= 1;
             cout << ans << '\n';
