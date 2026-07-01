@@ -18,7 +18,7 @@ def solve() -> str:
                 return "2"
         else:
             return "1"
-    assert False, "Unrechable"
+    assert False, "Unreachable"
 
 
 print('\n'.join(solve() for _ in range(int(input()))))
