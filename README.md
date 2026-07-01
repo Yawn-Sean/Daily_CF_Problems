@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1000 | [GYM106607B](https://codeforces.com/gym/106607/problem/B) | You don't need many operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0701/solution/cf106607b.md) |
-| *1800 | [GYM106607A](https://codeforces.com/gym/106607/problem/A) | Adjust your answer from $i$ to $i+1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0701/solution/cf106607a.md) |
+| *1300 | [GYM106607E](https://codeforces.com/gym/106607/problem/E) | The condition. Find the corresponding points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0702/solution/cf106607e.md) |
+| *2300 | [GYM106607K](https://codeforces.com/gym/106607/problem/K) | Count of intervals. Count them in different lengths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0702/solution/cf106607k.md) |
