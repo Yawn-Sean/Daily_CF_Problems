@@ -1,50 +1,24 @@
-# Submission link: https://codeforces.com/gym/106607/submission/380908975
+# Submission link: https://codeforces.com/gym/106607/submission/380887530
 def main():
-    M = 10 ** 6 + 5
-    isPrime = [1] * M
-    
-    primes = []
-    for i in range(2, M):
-        if isPrime[i]:
-            primes.append(i)
-            for j in range(i, M, i):
-                isPrime[j] = 0
-    
     t = II()
     outs = []
     
     for _ in range(t):
         n = II()
+        ans = n * (n - 1) // 2
         
-        if n == 1:
-            outs.append(1)
-            continue
+        c1 = 0
+        c2 = 0
         
-        pr = []
+        for _ in range(n):
+            x, y = MII()
+            if x < y:
+                ans -= c1
+                c1 += 1
+            elif x > y:
+                ans -= c2
+                c2 += 1
         
-        cur = n
-        for i in primes:
-            if i * i > cur: break
-            if cur % i == 0:
-            pr.append(i)
-            while cur % i == 0:
-                cur //= i
-        
-        if cur > 1: pr.append(cur)
-        
-        total = 0
-        if len(pr) == 1: total = (pr[0] - 1) * pr[0] // 2
-        else:
-            for i in range(1, pr[0]):
-                res = 1
-                for p in pr:
-                    res *= p - i
-                total += res
-        
-        ans = n
-        for p in pr:
-            ans //= p
-        
-        outs.append(ans * total % 998244353)
+        outs.append(ans)
     
     print('\n'.join(map(str, outs)))
