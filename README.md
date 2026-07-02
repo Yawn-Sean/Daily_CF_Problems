@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM106607E](https://codeforces.com/gym/106607/problem/E) | The condition. Find the corresponding points. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0702/solution/cf106607e.md) |
-| *2300 | [GYM106607K](https://codeforces.com/gym/106607/problem/K) | Count of intervals. Count them in different lengths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0702/solution/cf106607k.md) |
+| *1200 | [GYM106607G](https://codeforces.com/gym/106607/problem/G) | Start from some easy cases and construct other cases based on them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0703/solution/cf106607g.md) | 
+| *1700 | [GYM106607F](https://codeforces.com/gym/106607/problem/F) | Each digit. How many choices? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0703/solution/cf106607f.md) |
