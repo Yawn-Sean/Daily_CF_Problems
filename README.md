@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104879C](https://codeforces.com/gym/104879/problem/C) | The conditions of the $(i+a,j),(i,j+b)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0704/solution/cf104879c.md) |
-| *1800 | [GYM105164D](https://codeforces.com/gym/105164/problem/D) | Opt out the wrong things. How are the triples re-calculated? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0704/solution/cf105164d.md) |
+| *1200 | [GYM103821D](https://codeforces.com/gym/103821/problem/D) | What's the influence of swapping some elements? What's the target. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0706/solution/cf103821d.md) |
+| *1900 | [GYM104114G](https://codeforces.com/gym/104114/problem/G) | Once we decide the first radius, all the others are determined. And we can use some conditions to find the few possible options. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0706/solution/cf104114g.md) |
