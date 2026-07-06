@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM103821D](https://codeforces.com/gym/103821/problem/D) | What's the influence of swapping some elements? What's the target. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0706/solution/cf103821d.md) |
-| *1900 | [GYM104114G](https://codeforces.com/gym/104114/problem/G) | Once we decide the first radius, all the others are determined. And we can use some conditions to find the few possible options. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0706/solution/cf104114g.md) |
+| *1400 | [GYM103821M](https://codeforces.com/gym/103821/problem/M) | Contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0707/solution/cf103821m.md) |
+| *1500 | [GYM103821K](https://codeforces.com/gym/103821/problem/K) | Contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0707/solution/cf103821k.md) |
