@@ -11,6 +11,6 @@ for x in range(1, n):
     else:
         y_pivot = 0
     y_mx = yz // 2
-    ans += (yz + 1) * (y_mx - y_pivot + 1)
-    ans -= (y_pivot + y_mx) * (y_mx - y_pivot + 1)
+    ans -= (y_pivot + y_mx - yz - 1) * (y_mx - y_pivot + 1)
+    ans %= MOD
 print(ans)
