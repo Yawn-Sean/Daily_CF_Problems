@@ -11,28 +11,29 @@ int main() {
 	cin.tie(0);
 	cout.tie(0);
 
-	int M = 1e5 + 5;
-	vector<int> cnt(M, 0);
-
-	for (int i = 1; i < M; i ++) {
-		for (int j = i * 2; j < M; j += i) {
-			cnt[j] ++;
-		}
-	}
-
-	for (int i = 1; i < M; i ++) cnt[i] += cnt[i - 1];
-
-	int mod = 1e9 + 7, rev2 = (mod + 1) / 2;
-	vector<int> f(M, 1);
-	for (int i = 1; i < M; i ++) f[i] = 1ll * i * f[i - 1] % mod;
-
-	int t;
+	int t, mod = 1e9 + 7;
 	cin >> t;
 
 	while (t --) {
-		int n;
-		cin >> n;
-		cout << 1ll * cnt[n] * rev2 % mod * f[n] % mod << '\n';
+		int n, m;
+		cin >> n >> m;
+
+		vector<int> tmp1(m + 1), tmp2(m + 1);
+		while (n --) {
+			int l, r;
+			cin >> l >> r;
+			tmp1[l] = (tmp1[l] + m + 1 - r) % mod;
+			tmp2[r] = (tmp2[r] + l) % mod;
+		}
+
+		int ans = 0, total = 0;
+
+		for (int i = m; i >= 1; i --) {
+			ans = (ans + 1ll * total * tmp2[i]) % mod;
+			total = (total + tmp1[i]) % mod;
+		}
+
+		cout << ans << '\n';
 	}
 
 	return 0;
