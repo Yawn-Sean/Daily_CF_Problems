@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM103821M](https://codeforces.com/gym/103821/problem/M) | Contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0707/solution/cf103821m.md) |
-| *1500 | [GYM103821K](https://codeforces.com/gym/103821/problem/K) | Contributions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0707/solution/cf103821k.md) |
+| *1700 | [GYM103821J](https://codeforces.com/gym/103821/problem/J) | Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0708/solution/cf103821j.md) |
+| *1700 | [GYM103821A](https://codeforces.com/gym/103821/problem/A) | Implementation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0708/solution/cf103821a.md) |
