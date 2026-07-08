@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM103821J](https://codeforces.com/gym/103821/problem/J) | Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0708/solution/cf103821j.md) |
-| *1700 | [GYM103821A](https://codeforces.com/gym/103821/problem/A) | Implementation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0708/solution/cf103821a.md) |
+| *1500 | [GYM106054J](https://codeforces.com/gym/106054/problem/J) | You can almost move freely. But what's the edge case?  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0709/solution/cf106054j.md) |
+| *1900 | [GYM106054M](https://codeforces.com/gym/106054/problem/M) | Decompose the process into two steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0709/solution/cf106054m.md) |
