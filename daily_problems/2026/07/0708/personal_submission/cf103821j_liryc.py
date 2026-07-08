@@ -13,8 +13,8 @@ def solve(n: int, k: int, c: list[int]) -> int:
             m = fac.combi(cnt + j - 1, j - 1)
             fa = (fa * m) % MOD
         t = fac.combi(k, j) * fa % MOD
-        if (k - j) % 2 == 1:
-            ans = (ans - t + MOD) % MOD
+        if k - j & 1:
+            ans = (ans - t) % MOD
         else:
             ans = (ans + t) % MOD
     return ans
