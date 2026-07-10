@@ -39,14 +39,14 @@ int main() {
     a.insert(a.end(), p.begin() + 1, p.end());
     for (int i = 1; i <= n * 2; ++i) a[i] += i;
     dbg(a | views::drop(1));
-    int ans = n;
+    LL ans = n;
     vector<int> cnt(n * 3 + 5, 0);
     for (int i = 1; i <= n; ++i) {
         dbg(i, a[i], cnt[a[i]]);
         // ans += cnt[a[i]] << 1;
         ++cnt[a[i]];
     }
-    for (int i = n + 1; i < n * 2; ++i) {
+    for (int i = n + 1; i <= n * 2; ++i) {
         dbg(i, a[i], cnt[a[i]]);
         --cnt[a[i - n]];
         ans += cnt[a[i]] << 1;
