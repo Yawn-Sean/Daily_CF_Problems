@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106054J](https://codeforces.com/gym/106054/problem/J) | You can almost move freely. But what's the edge case?  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0709/solution/cf106054j.md) |
-| *1900 | [GYM106054M](https://codeforces.com/gym/106054/problem/M) | Decompose the process into two steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0709/solution/cf106054m.md) |
+| *1600 | [GYM102896C](https://codeforces.com/gym/102896/problem/C) | Find a way to use the solution of the subtree to do the current tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/tree/main/daily_problems/2026/07/0711/solution) |
+| *2000 | [GYM102896L](https://codeforces.com/gym/102896/problem/L) | The left side and the right side of the search process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0711/solution/cf102896l.md) |
