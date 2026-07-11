@@ -4,12 +4,6 @@ def II():
     return int(input())
 def LII():
     return list(map(int, input().split()))
-def MII():
-    return map(int, input().split())
-def LI():
-    return list(input().strip())
-def I():
-    return input().strip()
 n=II()
 g=[[] for _ in range(n+1)]
 a=LII()
