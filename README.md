@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM102896C](https://codeforces.com/gym/102896/problem/C) | Find a way to use the solution of the subtree to do the current tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/tree/main/daily_problems/2026/07/0711/solution) |
-| *2000 | [GYM102896L](https://codeforces.com/gym/102896/problem/L) | The left side and the right side of the search process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0711/solution/cf102896l.md) |
+| 1700 | [CF2206J](https://codeforces.com/contest/2206/problem/J) | Find the difference between two consecutive queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0713/solution/cf2206j.md) |
+| *1700 | [GYM103306B](https://codeforces.com/gym/103306/problem/B) | Find the contribution of each position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0713/solution/cf103306b.md) |
