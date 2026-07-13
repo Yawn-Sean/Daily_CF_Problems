@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1700 | [CF2206J](https://codeforces.com/contest/2206/problem/J) | Find the difference between two consecutive queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0713/solution/cf2206j.md) |
-| *1700 | [GYM103306B](https://codeforces.com/gym/103306/problem/B) | Find the contribution of each position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0713/solution/cf103306b.md) |
+| *1700 | [GYM106619B](https://codeforces.com/gym/106619/problem/B) | Iterate over $b$ , what do you need to calculate? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0714/solution/cf106619b.md) |
+| *2000 | [GYM103306H](https://codeforces.com/gym/103306/problem/H) | The changes on positions aren't quite many. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0714/solution/cf103306h.md) |
