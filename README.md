@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106619B](https://codeforces.com/gym/106619/problem/B) | Iterate over $b$ , what do you need to calculate? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0714/solution/cf106619b.md) |
-| *2000 | [GYM103306H](https://codeforces.com/gym/103306/problem/H) | The changes on positions aren't quite many. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0714/solution/cf103306h.md) |
+| *1700 | [GYM103306K](https://codeforces.com/gym/103306/problem/K) | Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0715/solution/cf103306k.md) |
+| *2300 | [GYM103306A](https://codeforces.com/gym/103306/problem/A) | DP. Transitions are tricky. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0715/solution/cf103306a.md) |
