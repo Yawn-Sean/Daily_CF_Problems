@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM103306K](https://codeforces.com/gym/103306/problem/K) | Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0715/solution/cf103306k.md) |
-| *2300 | [GYM103306A](https://codeforces.com/gym/103306/problem/A) | DP. Transitions are tricky. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0715/solution/cf103306a.md) |
+| *1500 | [GYM106619L](https://codeforces.com/gym/106619/problem/L) | How does the length of LIS change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0716/solution/cf106619l.md) |
+| *1600 | [GYM106619D](https://codeforces.com/gym/106619/problem/D) | Find xor first. Then determine one element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0716/solution/cf106619d.md) |
