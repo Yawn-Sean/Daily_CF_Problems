@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106627G](https://codeforces.com/gym/106627/problem/G) | You only need to consider a few edges. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0721/solution/cf106627g.md) |
-| *1600 | [GYM106627K](https://codeforces.com/gym/106627/problem/K) | Find a way to calculate the number of operations in each round. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0721/solution/cf106627k.md) |
+| *1600 | [GYM102767F](https://codeforces.com/gym/102767/problem/F) | For each $r$ , iterate over the modular result. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0722/solution/cf102767f.md) |
+| *1600 | [GYM102767G](https://codeforces.com/gym/102767/problem/G) | Leave out impossible numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0722/solution/cf102767g.md) |
