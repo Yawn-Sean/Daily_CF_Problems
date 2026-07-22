@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM102767F](https://codeforces.com/gym/102767/problem/F) | For each $r$ , iterate over the modular result. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0722/solution/cf102767f.md) |
-| *1600 | [GYM102767G](https://codeforces.com/gym/102767/problem/G) | Leave out impossible numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0722/solution/cf102767g.md) |
+| *1000 | [GYM103643B](https://codeforces.com/gym/103643/problem/B) | Don't overthink this. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0723/solution/cf103643b.md) |
+| *1600 | [GYM103677L](https://codeforces.com/gym/103677/problem/L) | The probability of each subset. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0723/solution/cf103677l.md) |

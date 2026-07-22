@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1000 | [GYM103643B](https://codeforces.com/gym/103643/problem/B) | Don't overthink this. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0723/solution/cf103643b.md) |
 | *1100 | [GYM104574E](https://codeforces.com/gym/104574/problem/E) | Print the result of each shuffling. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0304/solution/cf104574e.md) |
 | *1300 | [GYM106409D](https://codeforces.com/gym/106409/problem/D) | You don't need to check many things. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0310/solution/cf106409d.md) |
 | *1300 | [GYM106430B](https://codeforces.com/gym/106430/problem/B) | Consider the value range after each step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0318/solution/cf106430b.md) |
