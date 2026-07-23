@@ -1,0 +1,11 @@
+t = ix()
+for i in range(t):
+    a, b = il()
+    s = set()
+    s.add(a + b)
+    s.add(a - b)
+    s.add(b - a)
+    s.add(a * b)
+    s.add(a / b)
+    s.add(b / a)
+    print(len(s))
