@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1000 | [GYM103643B](https://codeforces.com/gym/103643/problem/B) | Don't overthink this. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0723/solution/cf103643b.md) |
-| *1600 | [GYM103677L](https://codeforces.com/gym/103677/problem/L) | The probability of each subset. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0723/solution/cf103677l.md) |
+| *1400 | [GYM104670A](https://codeforces.com/gym/104670/problem/A) | Transform the formula. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0724/solution/cf104670a.md) |
+| *1900 | [GYM103643M](https://codeforces.com/gym/103643/problem/M) | Adjustments to the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0724/solution/cf103643m.md) |
