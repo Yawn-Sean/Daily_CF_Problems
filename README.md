@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM104670A](https://codeforces.com/gym/104670/problem/A) | Transform the formula. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0724/solution/cf104670a.md) |
-| *1900 | [GYM103643M](https://codeforces.com/gym/103643/problem/M) | Adjustments to the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0724/solution/cf103643m.md) |
+| *1700 | [GYM104670G](https://codeforces.com/gym/104670/problem/G) | You don't need to be accurate, and the number of circles is relatively small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0725/solution/cf104670g.md) |
+| *1900 | [GYM104670D](https://codeforces.com/gym/104670/problem/D) | Possible positions after the $k$ -th operation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0725/solution/cf104670d.md) |
