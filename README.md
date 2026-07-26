@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM104670G](https://codeforces.com/gym/104670/problem/G) | You don't need to be accurate, and the number of circles is relatively small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0725/solution/cf104670g.md) |
-| *1900 | [GYM104670D](https://codeforces.com/gym/104670/problem/D) | Possible positions after the $k$ -th operation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0725/solution/cf104670d.md) |
+| *1500 | [GYM106628O](https://codeforces.com/gym/106628/problem/O) | Queries should have something to do with each other. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0727/solution/cf106628o.md) |
+| *1700 | [GYM106628D](https://codeforces.com/gym/106628/problem/D) | For a fixed $k$ -subset, what's the answer? So it is kind of easy to figure out. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0727/solution/cf106628d.md) |
