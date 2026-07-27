@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106628O](https://codeforces.com/gym/106628/problem/O) | Queries should have something to do with each other. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0727/solution/cf106628o.md) |
-| *1700 | [GYM106628D](https://codeforces.com/gym/106628/problem/D) | For a fixed $k$ -subset, what's the answer? So it is kind of easy to figure out. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0727/solution/cf106628d.md) |
+| *1600 | [GYM106628K](https://codeforces.com/gym/106628/problem/K) | Only a few points need to be considered. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0728/solution/cf106628k.md) |
+| *1700 | [GYM106628A](https://codeforces.com/gym/106628/problem/A) | How many positions will be deleted? What are the conditions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0728/solution/cf106628a.md) |
