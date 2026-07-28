@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106628K](https://codeforces.com/gym/106628/problem/K) | Only a few points need to be considered. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0728/solution/cf106628k.md) |
-| *1700 | [GYM106628A](https://codeforces.com/gym/106628/problem/A) | How many positions will be deleted? What are the conditions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0728/solution/cf106628a.md) |
+| *1700 | [GYM106628J](https://codeforces.com/gym/106628/problem/J) | Iterate over $C$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0729/solution/cf106628j.md) |
+| *2000 | [GYM106628L](https://codeforces.com/gym/106628/problem/L) | Find the polynomial of each $k+1$ -sized subset. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0729/solution/cf106628l.md) |
