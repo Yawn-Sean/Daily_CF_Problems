@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1900 | [GYM106628N](https://codeforces.com/gym/106628/problem/N) | For each $v$ , which nodes can send signals to it? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0730/solution/cf106628n.md) |
-| *1900 | [GYM106628F](https://codeforces.com/gym/106628/problem/F) | Top $k$ for each position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0730/solution/cf106628f.md) |
+| *1300 | [GYM106631D](https://codeforces.com/gym/106631/problem/D) | Strategy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0731/solution/cf106631d.md) |
+| *1700 | [GYM106631F](https://codeforces.com/gym/106631/problem/A) | Find the start. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/07/0731/solution/cf106631a.md) |
