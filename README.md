@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106631B](https://codeforces.com/gym/106631/problem/B) | Not a lot of cases. |
-| *1800 | [GYM106631F](https://codeforces.com/gym/106631/problem/I) | From the destination. |
+| *1600 | [GYM106631B](https://codeforces.com/gym/106631/problem/B) | Not a lot of cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0801/solution/cf106631b.md) |
+| *1800 | [GYM106631F](https://codeforces.com/gym/106631/problem/I) | From the destination. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0801/solution/cf106631i.md) |
