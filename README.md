@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106632H](https://codeforces.com/gym/106632/problem/H) | Consider $i$ in an increasing order. Adjust your answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0804/solution/cf106632h.md) |
-| *2100 | [GYM106632K](https://codeforces.com/gym/106632/problem/K) | The element to minus is the XOR of the former elements. And there is an observation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0804/solution/cf106632k.md) |
+| *1600 | [GYM106632E](https://codeforces.com/gym/106632/problem/E) | Anti-diagonal. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0805/solution/cf106632e.md) |
+| *1600 | [GYM106632L](https://codeforces.com/gym/106632/problem/L) | Implementation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0805/solution/cf106632l.md) |
