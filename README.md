@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106632E](https://codeforces.com/gym/106632/problem/E) | Anti-diagonal. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0805/solution/cf106632e.md) |
-| *1600 | [GYM106632L](https://codeforces.com/gym/106632/problem/L) | Implementation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0805/solution/cf106632l.md) |
+| *1600 | [GYM106158B](https://codeforces.com/gym/106158/problem/B) | Categorize the queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0806/solution/cf106158b.md) |
+| *1700 | [GYM106159G](https://codeforces.com/gym/106159/problem/G) | Iterate over $\min(x)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0806/solution/cf106159g.md) |
