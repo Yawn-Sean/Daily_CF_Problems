@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106158B](https://codeforces.com/gym/106158/problem/B) | Categorize the queries. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0806/solution/cf106158b.md) |
-| *1700 | [GYM106159G](https://codeforces.com/gym/106159/problem/G) | Iterate over $\min(x)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0806/solution/cf106159g.md) |
+| *1900 | [GYM105201F](https://codeforces.com/gym/105201/problem/F) | Manacher. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0807/solution/cf105201f.md) |
+| *1900 | [GYM105190J](https://codeforces.com/gym/105190/problem/J) | Consider possible values of $\mathrm{gcd}(a_{j},a_{j+1})$ if $j+1$ is fixed. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0807/solution/cf105190j.md) |
