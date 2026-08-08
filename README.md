@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM105190F](https://codeforces.com/gym/105190/problem/B) | Iterate over $r_1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0808/solution/cf105190b.md) |
-| *1900 | [GYM105190J](https://codeforces.com/gym/105190/problem/G) | Transitions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0808/solution/cf105190g.md) |
+| *1700 | [GYM105190B](https://codeforces.com/gym/105190/problem/B) | Iterate over $r_1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0808/solution/cf105190b.md) |
+| *1900 | [GYM105190G](https://codeforces.com/gym/105190/problem/G) | Transitions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0808/solution/cf105190g.md) |
