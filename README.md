@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM104887C](https://codeforces.com/gym/104887/problem/C) | Guarantee $k$ first, add some more. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0810/solution/cf104887c.md) |
-| *2100 | [GYM104882J](https://codeforces.com/gym/104882/problem/J) | Adjust from somewhere. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0810/solution/cf104882j.md) |
+| *1500 | [GYM106642M](https://codeforces.com/gym/106642/problem/M) | Transform the equation. Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0811/solution/cf106642m.md) |
+| *1600 | [GYM106642K](https://codeforces.com/gym/106642/problem/K) | The difference that a new $1$ makes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0811/solution/cf106642k.md) |
