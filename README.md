@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106642M](https://codeforces.com/gym/106642/problem/M) | Transform the equation. Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0811/solution/cf106642m.md) |
-| *1600 | [GYM106642K](https://codeforces.com/gym/106642/problem/K) | The difference that a new $1$ makes. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0811/solution/cf106642k.md) |
+| *1500 | [GYM106642C](https://codeforces.com/gym/106642/problem/C) | Two pointers. How can you update when moving pointers? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0812/solution/cf106642c.md) |
+| *2000 | [GYM106642J](https://codeforces.com/gym/106642/problem/J) | Iterate over $r$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0812/solution/cf106642j.md) |
