@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106642C](https://codeforces.com/gym/106642/problem/C) | Two pointers. How can you update when moving pointers? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0812/solution/cf106642c.md) |
-| *2000 | [GYM106642J](https://codeforces.com/gym/106642/problem/J) | Iterate over $r$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0812/solution/cf106642j.md) |
+| *1300 | [GYM106642E](https://codeforces.com/gym/106642/problem/E) | Conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0813/solution/cf106642e.md) |
+| *1800 | [GYM106642D](https://codeforces.com/gym/106642/problem/D) | Find a way to make $G(a+1)=b$ that minimizes $G(1)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0813/solution/cf106642d.md) |
