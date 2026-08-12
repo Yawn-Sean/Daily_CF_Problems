@@ -23,12 +23,17 @@ int main() {
 	if (*max_element(nums.begin(), nums.end()) != 2) cout << "NO\n";
 	else if (*min_element(nums.begin(), nums.end()) != 0) cout << "NO\n";
 	else {
-		for (int i = 0; i < n; i ++) {
-			if (nums[i] == nums[(i + 1) % n] && nums[i] != 1) {
-				return cout << "NO\n", 0;
+		vector<int> tmp;
+		for (auto &x: nums) if (x != 1) tmp.emplace_back(x);
+
+		bool flg = true;
+		for (int i = 1; i < tmp.size(); i ++) {
+			if (tmp[i - 1] == tmp[i]) {
+				flg = false;
 			}
 		}
-		cout << "YES\n";
+
+		cout << (flg && tmp.size() % 2 == 0 ? "YES\n" : "NO\n");
 	}
 
 	return 0;
