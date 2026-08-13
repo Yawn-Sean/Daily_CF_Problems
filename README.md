@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM106642E](https://codeforces.com/gym/106642/problem/E) | Conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0813/solution/cf106642e.md) |
-| *1800 | [GYM106642D](https://codeforces.com/gym/106642/problem/D) | Find a way to make $G(a+1)=b$ that minimizes $G(1)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0813/solution/cf106642d.md) |
+| *1700 | [GYM106642B](https://codeforces.com/gym/106642/problem/B) | How can you decide the cost of an array? And you can decide the elements one by one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0814/solution/cf106642b.md) |
+| *2100 | [GYM106642A](https://codeforces.com/gym/106642/problem/A) | Transitions. Merge the same ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0814/solution/cf106642a.md) |
