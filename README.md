@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106642B](https://codeforces.com/gym/106642/problem/B) | How can you decide the cost of an array? And you can decide the elements one by one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0814/solution/cf106642b.md) |
-| *2100 | [GYM106642A](https://codeforces.com/gym/106642/problem/A) | Transitions. Merge the same ones. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0814/solution/cf106642a.md) |
+| *1800 | [GYM106642L](https://codeforces.com/gym/106642/problem/L) | If there exists a $x,y,x,y$ subsequence, at least one of $x,y$ should be deleted. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0815/solution/cf106642l.md) |
+| *2000 | [GYM106642I](https://codeforces.com/gym/106642/problem/I) | It's about operating on subtrees. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0815/solution/cf106642i.md) |
