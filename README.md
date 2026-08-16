@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106642L](https://codeforces.com/gym/106642/problem/L) | If there exists a $x,y,x,y$ subsequence, at least one of $x,y$ should be deleted. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0815/solution/cf106642l.md) |
-| *2000 | [GYM106642I](https://codeforces.com/gym/106642/problem/I) | It's about operating on subtrees. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0815/solution/cf106642i.md) |
+| *1600 | [GYM106644D](https://codeforces.com/gym/106644/problem/D) | If $x$ can't be the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0817/solution/cf106644d.md) |
+| *1700 | [GYM106644C](https://codeforces.com/gym/106644/problem/C) | Find the connected components in two graphs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0817/solution/cf106644c.md) |
