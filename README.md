@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106644D](https://codeforces.com/gym/106644/problem/D) | If $x$ can't be the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0817/solution/cf106644d.md) |
-| *1700 | [GYM106644C](https://codeforces.com/gym/106644/problem/C) | Find the connected components in two graphs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0817/solution/cf106644c.md) |
+| *1300 | [GYM106644H](https://codeforces.com/gym/106644/problem/H) | Even $n$ -s and odd $n$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0818/solution/cf106644h.md) |
+| *1900 | [GYM105760H](https://codeforces.com/gym/105760/problem/H) | In piles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0818/solution/cf105760h.md) |
