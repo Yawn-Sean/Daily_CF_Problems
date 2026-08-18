@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM106644H](https://codeforces.com/gym/106644/problem/H) | Even $n$ -s and odd $n$ -s. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0818/solution/cf106644h.md) |
-| *1900 | [GYM105760H](https://codeforces.com/gym/105760/problem/H) | In piles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0818/solution/cf105760h.md) |
+| *1400 | [GYM105297D](https://codeforces.com/gym/105297/problem/D) | The best position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0819/solution/cf105297d.md) |
+| *2000 | [GYM104544A](https://codeforces.com/gym/104544/problem/A) | Into simple numbers. And some numbers don't need to be considered. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0819/solution/cf104544a.md) |
