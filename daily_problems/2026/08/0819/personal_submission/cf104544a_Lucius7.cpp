@@ -4,42 +4,67 @@
 
 using i64 = long long;
 using u64 = unsigned long long;
-using real = long double;
 
 void solve() {
-    real x, y, z;
-    std::cin >> x >> y >> z;
-    
-    real tx, ty, tz;
-    std::cin >> tx >> ty >> tz;
+    int n, x;
+    std::cin >> n >> x;
 
-    real r;
-    std::cin >> r;
+    std::vector<int> a(n);
+    for (int i = 0; i < n; i++) {
+        std::cin >> a[i];
+        a[i] = std::__gcd(a[i], x);
+    }
 
-    auto check = [&](real t) {
-        real mx = 0;
-        for (auto cx : {t, x - t}) {
-            for (auto cy : {t, y - t}) {
-                for (auto cz : {t, z - t}) {
-                    real dx = cx - tx, dy = cy - ty, dz = cz - tz;
-                    mx = std::max(mx, dx * dx + dy * dy + dz * dz);
-                }
+    std::vector<int> divs;
+    for (int i = 1; i * i <= x; i++) {
+        if (x % i == 0) {
+            if (i * i == x) {
+                divs.push_back(i);
+            } else {
+                divs.push_back(i);
+                divs.push_back(x / i);
             }
         }
-        return mx >= (r + t) * (r + t);
+    }
+    std::sort(divs.begin(), divs.end());
+    const int k = divs.size();
+
+    auto pos = [&](int x) {
+        return std::distance(divs.begin(), std::lower_bound(divs.begin(), divs.end(), x));
     };
 
-    constexpr real eps = 1E-10;
-    real lo = 0, hi = std::min({x, y, z}) / 2.0;
-    for (int _ = 0; _ < 1000; _++) {
-        real m = (lo + hi) / 2;
-        if (check(m)) {
-            lo = m;
-        } else {
-            hi = m;
+    std::vector<int> cnt(k);
+    for (int i = 0; i < n; i++) {
+        cnt[pos(a[i])]++;
+    }
+
+    std::vector nxt(k, std::vector<int>(k));
+    for (int i = 0; i < k; i++) {
+        for (int j = 0; j < k; j++) {
+            nxt[i][j] = pos(divs[i] * std::__gcd(divs[j], x / divs[i]));
         }
     }
-    std::cout << std::fixed << std::setprecision(15) << lo << "\n";
+
+    constexpr int inf = 1E8;
+    std::vector<int> dp(k, inf);
+    dp[0] = 0;
+    for (int i = 0; i < k; i++) {
+        if (cnt[i] == 0) {
+            continue;
+        }
+        int times = std::min(cnt[i], 40LL);
+        while (times--) {
+            auto ndp = dp;
+            for (int j = 0; j < k; j++) {
+                if (ndp[nxt[i][j]] > dp[j] + 1) {
+                    ndp[nxt[i][j]] = dp[j] + 1;
+                }
+            }
+            dp = std::move(ndp);
+        }
+    }
+    std::cout << (dp.back() == inf ? -1 : dp.back()) << "\n";
+
 }
 
 signed main() {
