@@ -265,3 +265,4 @@
 | 2400 | [CF332D](https://codeforces.com/problemset/problem/332/D) | Dig into the property of the graph. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0830/solution/cf332d.md) |
 | *2400 | [GYM106414H](https://codeforces.com/gym/106414/problem/H) | $n/2$ is strong enough to offer extra conditions for every node. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0511/solution/cf106414h.md) |
 | *2400 | [GYM104017B](https://codeforces.com/gym/104017/problem/B) | Find some characteristics. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0820/solution/cf104017b.md) |
+| *2400 | [GYM104017I](https://codeforces.com/gym/104017/problem/I) | Find some characteristics. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0821/solution/cf104017i.md) |
