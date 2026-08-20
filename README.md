@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM105297D](https://codeforces.com/gym/105297/problem/D) | The best position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0819/solution/cf105297d.md) |
-| *2000 | [GYM104544A](https://codeforces.com/gym/104544/problem/A) | Into simple numbers. And some numbers don't need to be considered. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0819/solution/cf104544a.md) |
+| *1500 | [GYM104017E](https://codeforces.com/gym/104017/problem/E) | Find some patterns. Until what you do match the case. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0820/solution/cf104017e.md) |
+| *2400 | [GYM104017B](https://codeforces.com/gym/104017/problem/B) | Find some characteristics. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0820/solution/cf104017b.md) |
