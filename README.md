@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM104017E](https://codeforces.com/gym/104017/problem/E) | Find some patterns. Until what you do match the case. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0820/solution/cf104017e.md) |
-| *2400 | [GYM104017B](https://codeforces.com/gym/104017/problem/B) | Find some characteristics. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0820/solution/cf104017b.md) |
+| *1500 | [GYM104017J](https://codeforces.com/gym/104017/problem/J) | What does the four corners belong to? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0821/solution/cf104017j.md) |
+| *2400 | [GYM104017I](https://codeforces.com/gym/104017/problem/I) | Find some characteristics. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0821/solution/cf104017i.md) |
