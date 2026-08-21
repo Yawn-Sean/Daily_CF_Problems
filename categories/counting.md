@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1000 | [GYM106495J](https://codeforces.com/gym/106495/problem/J) | Choose even numbers and odd numbers separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0425/solution/cf106495j.md) |
+| *1200 | [GYM102964E](https://codeforces.com/gym/102964/problem/E) | Contributions. Each is easy, but you need to count the number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0822/solution/cf102964e.md) |
 | *1300 | [GYM104287H](https://codeforces.com/gym/104287/problem/H) | Consider the contribution of each edge. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0105/solution/cf104287h.md) |
 | *1300 | [GYM106500B](https://codeforces.com/gym/106500/problem/B) | Consider the constraints for the set of the first numbers. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0427/solution/cf106500b.md) |
 | *1300 | [GYM106020M](https://codeforces.com/gym/106020/problem/M) | How many times does a subarray contribute to the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/06/0627/solution/cf106020m.md) |
