@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1400 | [GYM106666E](https://codeforces.com/gym/106666/problem/E) | Not a lot transitions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0824/solution/cf106666e.md) |
 | 1500 | [CF566F](https://codeforces.com/problemset/problem/566/F) | Find out what happens inside a clique, and try using DP to capture it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0322/solution/cf566f.md) |
 | 1500 | [CF1207C](https://codeforces.com/problemset/problem/1207/C) | When we consider the status for $i+1$ , we only need the status for $i$ to calculate the cost. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0906/solution/cf1207c.md) |
 | *1500 | [GYM105316A](https://codeforces.com/gym/105316/problem/A) | DP. Transitions are continuous. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1201/solution/cf105316a.md) |

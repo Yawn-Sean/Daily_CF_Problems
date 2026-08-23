@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM102964E](https://codeforces.com/gym/102964/problem/E) | Contributions. Each is easy, but you need to count the number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0822/solution/cf102964e.md) |
-| *2200 | [GYM104745P](https://codeforces.com/gym/104745/problem/P) | $k$ -th time you use a ski, how many steps could you make? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0822/solution/cf104745p.md) |
+| *1400 | [GYM106666E](https://codeforces.com/gym/106666/problem/E) | Not a lot transitions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0824/solution/cf106666e.md) |
+| *1700 | [GYM106667F](https://codeforces.com/gym/106667/problem/F) | The shortest path. What is the edge weight? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0824/solution/cf106667f.md) |
