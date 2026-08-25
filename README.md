@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM102760D](https://codeforces.com/gym/102760/problem/D) | Consider the process of finding the MST. How many edges could appear before finding the $k$ -th edge? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0825/solution/cf102760d.md) |
-| *1700 | [GYM102700F](https://codeforces.com/gym/102700/problem/F) | A lot of shortest paths. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0825/solution/cf102700f.md) |
+| *1300 | [GYM102760K](https://codeforces.com/gym/102760/problem/K) | The knits can overlap. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0826/solution/cf102760k.md) |
+| *1700 | [GYM102760E](https://codeforces.com/gym/102760/problem/E) | What are the final states? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0826/solution/cf102760e.md) |
