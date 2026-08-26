@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM102760K](https://codeforces.com/gym/102760/problem/K) | The knits can overlap. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0826/solution/cf102760k.md) |
-| *1700 | [GYM102760E](https://codeforces.com/gym/102760/problem/E) | What are the final states? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0826/solution/cf102760e.md) |
+| *1500 | [GYM106670K](https://codeforces.com/gym/106670/problem/K) | Cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0827/solution/cf106670k.md) |
+| *1800 | [GYM103828L](https://codeforces.com/gym/103828/problem/L) | You only need to consider the one-dimensional problem. And it seems... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0827/solution/cf103828l.md) |
