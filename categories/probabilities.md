@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1200 | [GYM102964E](https://codeforces.com/gym/102964/problem/E) | Contributions. Each is easy, but you need to count the number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0822/solution/cf102964e.md) |
+| *1200 | [GYM102129K](https://codeforces.com/gym/102129/problem/K) | Actually... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0828/solution/cf102129k.md) |
 | *1500 | [GYM106260A](https://codeforces.com/gym/106260/problem/A) | Consider the contribution of node $u$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1215/solution/cf106260a.md) |
 | *1500 | [GYM105813J](https://codeforces.com/gym/105813/problem/J) | Prove the conclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0120/solution/cf105813j.md) |
 | 1600 | [CF453A](https://codeforces.com/problemset/problem/453/A) | Expectation problem: either find out the distribution or find the contribution of each component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0307/solution/cf453a.md) |
@@ -49,6 +50,7 @@
 | 2100 | [CF268E](https://codeforces.com/problemset/problem/268/E) | Consider the order of $2$ consecutive songs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1018/solution/cf268e.md) |
 | 2100 | [CF1970D1](https://codeforces.com/problemset/problem/1970/D1) | $30n$ is just too many. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/08/0821/solution/cf1970d1.md) |
 | *2100 | [GYM104064L](https://codeforces.com/gym/104064/problem/L) | There is one key feature of the process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0117/solution/cf104064l.md) |
+| *2100 | [GYM102129H](https://codeforces.com/gym/102129/problem/H) | Write the DP function and you only need to find the fix point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0828/solution/cf102129h.md) |
 | *2200 | [GYM105562M](https://codeforces.com/gym/105562/problem/M) | We are calculating areas. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0917/solution/cf105562m.md) |
 | 2300 | [CF629E](https://codeforces.com/problemset/problem/629/E) | The cycle can be divided into two parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0104/solution/cf629e.md) |
 | 2400 | [CF802L](https://codeforces.com/problemset/problem/802/L) | Find the equations first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/07/0712/solution/cf802l.md) |
