@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM102129K](https://codeforces.com/gym/102129/problem/K) | Actually... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0828/solution/cf102129k.md) |
-| *2100 | [GYM102129H](https://codeforces.com/gym/102129/problem/H) | Write the DP function and you only need to find the fix point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0828/solution/cf102129h.md) |
+| *1500 | [GYM106671C](https://codeforces.com/gym/106671/problem/C) | You only need to maintain part of the array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0829/solution/cf106671c.md) |
+| *2300 | [GYM102129A](https://codeforces.com/gym/102129/problem/A) | From digit to digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0829/solution/cf102129a.md) |
