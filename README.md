@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106671C](https://codeforces.com/gym/106671/problem/C) | You only need to maintain part of the array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0829/solution/cf106671c.md) |
-| *2300 | [GYM102129A](https://codeforces.com/gym/102129/problem/A) | From digit to digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0829/solution/cf102129a.md) |
+| *1600 | [GYM106677D](https://codeforces.com/gym/106677/problem/D) | Find the pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0831/solution/cf106677d.md) |
+| *2300 | [GYM102129D](https://codeforces.com/gym/102129/problem/D) | Use $F_1,F_2,\dots,F_k$ to represent $F_{n-b_i}$ ,and then you only need to solve the equations. | [Editorial](https://codeforces.com/gym/102129/problem/D) |
