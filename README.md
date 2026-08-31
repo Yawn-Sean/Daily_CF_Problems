@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106671C](https://codeforces.com/gym/106671/problem/C) | You only need to maintain part of the array. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0829/solution/cf106671c.md) |
-| *2300 | [GYM102129A](https://codeforces.com/gym/102129/problem/A) | From digit to digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0829/solution/cf102129a.md) |
+| *1500 | [GYM106677E](https://codeforces.com/gym/106677/problem/E) | How many bottles do we need to buy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0901/solution/cf106677e.md) |
+| *2200 | [GYM106677F](https://codeforces.com/gym/106677/problem/F) | There are only a few points we need. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0901/solution/cf106677f.md) |
