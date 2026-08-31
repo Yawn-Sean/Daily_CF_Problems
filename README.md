@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106677D](https://codeforces.com/gym/106677/problem/D) | Find the pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0831/solution/cf106677d.md) |
-| *2300 | [GYM102129D](https://codeforces.com/gym/102129/problem/D) | Use $F_1,F_2,\dots,F_k$ to represent $F_{n-b_i}$ ,and then you only need to solve the equations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0831/solution/cf102129d.md) |
+| *1500 | [GYM106677E](https://codeforces.com/gym/106677/problem/E) | How many bottles do we need to buy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0901/solution/cf106677e.md) |
+| *2200 | [GYM106677F](https://codeforces.com/gym/106677/problem/F) | There are only a few points we need. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0901/solution/cf106677f.md) |
