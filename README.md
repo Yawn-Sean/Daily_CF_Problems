@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106677E](https://codeforces.com/gym/106677/problem/E) | How many bottles do we need to buy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0901/solution/cf106677e.md) |
-| *2200 | [GYM106677F](https://codeforces.com/gym/106677/problem/F) | There are only a few points we need. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0901/solution/cf106677f.md) |
+| *1700 | [GYM106097F](https://codeforces.com/gym/106097/problem/F) | Find one first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0902/solution/cf106097f.md) |
+| *1800 | [GYM105223G](https://codeforces.com/gym/105223/problem/G) | Each digit. The contribution needs some calculation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0902/solution/cf105223g.md) |
