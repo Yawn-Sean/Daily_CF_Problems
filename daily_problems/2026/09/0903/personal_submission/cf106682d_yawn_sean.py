@@ -1,3 +1,4 @@
+# Submission link: https://codeforces.com/gym/106682/submission/389157277
 def main():
     s = [int(c) for c in I()]
     s.reverse()
