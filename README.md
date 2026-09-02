@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106097F](https://codeforces.com/gym/106097/problem/F) | Find one first. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0902/solution/cf106097f.md) |
-| *1800 | [GYM105223G](https://codeforces.com/gym/105223/problem/G) | Each digit. The contribution needs some calculation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0902/solution/cf105223g.md) |
+| *1500 | [GYM106682C](https://codeforces.com/gym/106682/problem/C) | Games. What is the decision when some status happens? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0903/solution/cf106682c.md) |
+| *2100 | [GYM106682D](https://codeforces.com/gym/106682/problem/D) | Greedy. And you need to find a way to quickly do so. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0903/solution/cf106682d.md) |
