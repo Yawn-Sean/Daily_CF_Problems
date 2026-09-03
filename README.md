@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106682C](https://codeforces.com/gym/106682/problem/C) | Games. What is the decision when some status happens? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0903/solution/cf106682c.md) |
-| *2100 | [GYM106682D](https://codeforces.com/gym/106682/problem/D) | Greedy. And you need to find a way to quickly do so. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0903/solution/cf106682d.md) |
+| *1300 | [GYM106682N](https://codeforces.com/gym/106682/problem/N) | If we decide the positions of the length-$3$ palindromes, what is the number of possible distributions of letters. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0904/solution/cf106682n.md) |
+| *2200 | [GYM106682F](https://codeforces.com/gym/106682/problem/F) | If you decide which edges are in the shortest path, how should you distribute values to $w_i$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0904/solution/cf106682f.md) |
