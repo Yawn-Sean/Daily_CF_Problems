@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM106682N](https://codeforces.com/gym/106682/problem/N) | If we decide the positions of the length-$3$ palindromes, what is the number of possible distributions of letters. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0904/solution/cf106682n.md) |
-| *2200 | [GYM106682F](https://codeforces.com/gym/106682/problem/F) | If you decide which edges are in the shortest path, how should you distribute values to $w_i$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0904/solution/cf106682f.md) |
+| *1500 | [GYM106682L](https://codeforces.com/gym/106682/problem/L) | Implementation. Step by step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0905/solution/cf106682l.md) |
+| *2200 | [GYM106682E](https://codeforces.com/gym/106682/problem/E) | Bipartite. And the graph is just ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0905/solution/cf106682e.md) |
