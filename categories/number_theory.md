@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | *1000 | [GYM105628C](https://codeforces.com/gym/105628/problem/C) | The answer minus $k$ is just ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0219/solution/cf105628c.md) |
 | *1100 | [GYM104287F](https://codeforces.com/gym/104287/problem/F) | What should $d$ satisfy? And how should we optimize the final result? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0105/solution/cf104287f.md) |
+| *1200 | [GYM102254H](https://codeforces.com/gym/102254/problem/H) | Classic number theory. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0907/solution/cf102254h.md) |
 | *1400 | [GYM105790K](https://codeforces.com/gym/105790/problem/K) | Consider the numbers in the form of $x^y$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1222/solution/cf105790k.md) |
 | *1400 | [GYM106247B](https://codeforces.com/gym/106247/problem/2) | It's about finding some numbers the sum of whose inverse numbers equals $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0220/solution/cf106247b.md) |
 | 1500 | [CF566F](https://codeforces.com/problemset/problem/566/F) | Find out what happens inside a clique, and try using DP to capture it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0322/solution/cf566f.md) |

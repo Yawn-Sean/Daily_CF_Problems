@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106682L](https://codeforces.com/gym/106682/problem/L) | Implementation. Step by step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0905/solution/cf106682l.md) |
-| *2200 | [GYM106682E](https://codeforces.com/gym/106682/problem/E) | Bipartite. And the graph is just ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0905/solution/cf106682e.md) |
+| *1200 | [GYM102254H](https://codeforces.com/gym/102254/problem/H) | Classic number theory. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0907/solution/cf102254h.md) |
+| *1300 | [GYM102873F](https://codeforces.com/gym/102873/problem/F) | Game theory. Alice can guarantee... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0907/solution/cf102873f.md) |
