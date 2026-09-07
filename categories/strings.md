@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1300 | [GYM105501E](https://codeforces.com/gym/105501/problem/E) | A string problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0417/solution/cf105501e.md) |
+| *1500 | [GYM106598M](https://codeforces.com/gym/106598/problem/M) | You don't need to check many things. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0908/solution/cf106598m.md) |
 | *1600 | [GYM101466E](https://codeforces.com/gym/101466/problem/E) | The longer the prefix we choose ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0913/solution/cf101466e.md) |
 | *1600 | [GYM106631B](https://codeforces.com/gym/106631/problem/B) | Not a lot of cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0801/solution/cf106631b.md) |
 | *1600 | [GYM106644D](https://codeforces.com/gym/106644/problem/D) | If $x$ can't be the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0817/solution/cf106644d.md) |

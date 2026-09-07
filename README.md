@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM102254H](https://codeforces.com/gym/102254/problem/H) | Classic number theory. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0907/solution/cf102254h.md) |
-| *1300 | [GYM102873F](https://codeforces.com/gym/102873/problem/F) | Game theory. Alice can guarantee... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0907/solution/cf102873f.md) |
+| *1500 | [GYM106598M](https://codeforces.com/gym/106598/problem/M) | You don't need to check many things. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0908/solution/cf106598m.md) |
+| *2100 | [GYM102201A](https://codeforces.com/gym/102201/problem/A) | Bridge the gap. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0908/solution/cf102201a.md) |
