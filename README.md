@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106598M](https://codeforces.com/gym/106598/problem/M) | You don't need to check many things. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0908/solution/cf106598m.md) |
-| *2100 | [GYM102201A](https://codeforces.com/gym/102201/problem/A) | Bridge the gap. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0908/solution/cf102201a.md) |
+| *1600 | [GYM106687C](https://codeforces.com/gym/106687/problem/C) | The $m$ is kind of obvious. So two dimensions are fixed, and we just need the third dimension to be visited completely. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0909/solution/cf106687c.md) |
+| *1900 | [GYM106687E](https://codeforces.com/gym/106687/problem/E) | How can you compare distances of different paths?  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0909/solution/cf106687e.md) |
