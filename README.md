@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106687C](https://codeforces.com/gym/106687/problem/C) | The $m$ is kind of obvious. So two dimensions are fixed, and we just need the third dimension to be visited completely. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0909/solution/cf106687c.md) |
-| *1900 | [GYM106687E](https://codeforces.com/gym/106687/problem/E) | How can you compare distances of different paths?  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0909/solution/cf106687e.md) |
+| *1400 | [GYM105055B](https://codeforces.com/gym/105055/problem/B) | Find how the modular result change if you try different operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0910/solution/cf105055b.md) |
+| *1800 | [GYM102894F](https://codeforces.com/gym/102894/problem/F) | Classic greedy problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0910/solution/cf102894f.md) |
