@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM105055B](https://codeforces.com/gym/105055/problem/B) | Find how the modular result change if you try different operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0910/solution/cf105055b.md) |
-| *1800 | [GYM102894F](https://codeforces.com/gym/102894/problem/F) | Classic greedy problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0910/solution/cf102894f.md) |
+| *1600 | [GYM105492I](https://codeforces.com/gym/105492/problem/I) | Classic DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0911/solution/cf105492i.md) |
+| *1800 | [GYM106103D](https://codeforces.com/gym/106103/problem/D) | From the end to the start. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0911/solution/cf106103d.md) |
