@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM105492I](https://codeforces.com/gym/105492/problem/I) | Classic DP. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0911/solution/cf105492i.md) |
-| *1800 | [GYM106103D](https://codeforces.com/gym/106103/problem/D) | From the end to the start. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0911/solution/cf106103d.md) |
+| *1000 | [GYM103426B](https://codeforces.com/gym/103426/problem/B) | Find the numbers that need to be placed in and place them in. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0912/solution/cf103426b.md) |
+| *1800 | [GYM103464C](https://codeforces.com/gym/103464/problem/C) | There's a palindrome algorithm. Actually it can be used. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0912/solution/cf103464c.md) |
