@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1000 | [GYM103426B](https://codeforces.com/gym/103426/problem/B) | Find the numbers that need to be placed in and place them in. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0912/solution/cf103426b.md) |
-| *1800 | [GYM103464C](https://codeforces.com/gym/103464/problem/C) | There's a palindrome algorithm. Actually it can be used. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0912/solution/cf103464c.md) |
+| *1100 | [GYM106197D](https://codeforces.com/gym/106197/problem/D) | Determine whether each number should be chosen from small to large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0914/solution/cf106197d.md) |
+| *1700 | [GYM106208F](https://codeforces.com/gym/106208/problem/F) | We just need to consider each overlapped gap. And iterate over the meeting point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0914/solution/cf106280f.md) |
