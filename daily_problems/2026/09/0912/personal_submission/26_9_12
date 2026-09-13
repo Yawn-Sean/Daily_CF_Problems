@@ -1,0 +1,91 @@
+
+#include<bits/stdc++.h>
+
+
+
+using namespace std;      // acceptable in interviews, not in production
+
+//using namespace std::numbers; //pi,e
+//using namespace std::ranges;
+using namespace std;
+#define ll long long
+#define ull unsigned long long
+#define u128 unsigned __int128
+#define int long long
+#define minheap priority_queue<int, vector<int>, greater<>>
+#define maxheap priority_queue<int>
+#define debugvec(a) cerr<<#a<<" "<<a.size()<<":\t"; for(int i=0;i<a.size();++i) cerr<<a[i]<<' '; cerr<<endl;
+#define showvec(a) for(int i=0;i<a.size();++i) cout<<a[i]<<' '; cout<<endl;
+#define show(a) cout<<a<<'\n';
+#define debug(a) cerr <<#a<<":\t"<<a<<endl;
+const int INF = 1e18 + 5;
+const int MOD = 1e9 + 7;
+typedef pair<int, int> pii;
+const int N = 110 + 5;
+#define PI acos(-1)
+
+
+
+void slove() {
+    int n;
+    cin >> n;
+    vector<set<int>> h(n, set<int>());
+    for(int i = 0; i < n-1; i++){
+        for(int j = 0; j < n;j++){
+            int x;
+            cin >> x;
+            h[j].insert(x);
+        }
+    }
+
+    vector<int> a(n);
+    for(int i = 0; i < n; i++){
+        if(h[i].size() == n-1){
+           int t = 1;
+            for(auto it = h[i].begin(); it != h[i].end(); it++,t++){
+                if(*it != t){
+                    a[i] = t;
+                    break;
+                }
+            }
+            if(a[i] == 0) a[i] = n;
+        }
+    }
+
+    set<int> dis;
+    int t = 0;
+    vector<int> hhh(n+1);
+    for(int i = 0; i <n; i++){
+        if(a[i]){
+            dis.insert(a[i]);
+            t++;
+            hhh[a[i]]++;
+        }
+    }
+    cout << dis.size() << " ";
+
+    int ans = 1;
+    for(int i = 0; i <= n; i++){
+        if(hhh[i]){
+            ans = (ans * hhh[i]) % MOD;
+        }
+    }
+    for(int i = 1; i <= n - dis.size(); i++){
+        ans = (ans*i) % MOD;
+    }
+    cout << ans << endl;
+    
+
+}
+
+signed main() {
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    std::cout.tie(nullptr);
+    int T = 1;
+    // cin >> T;
+    while (T--) {
+        slove();
+    }
+    return 0;
+}
