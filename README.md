@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1100 | [GYM106197D](https://codeforces.com/gym/106197/problem/D) | Determine whether each number should be chosen from small to large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0914/solution/cf106197d.md) |
-| *1700 | [GYM106208F](https://codeforces.com/gym/106208/problem/F) | We just need to consider each overlapped gap. And iterate over the meeting point. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0914/solution/cf106280f.md) |
+| *1000 | [GYM106197I](https://codeforces.com/gym/106197/problem/I) | You need at least $n$ operations. And luckily, that is achievable. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0915/solution/cf106197i.md) |
+| *1900 | [GYM106197H](https://codeforces.com/gym/106197/problem/H) | Find the smallest set that is not achievable from vertex $1$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0915/solution/cf106197h.md) |
