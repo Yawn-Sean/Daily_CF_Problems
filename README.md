@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1000 | [GYM106706N](https://codeforces.com/gym/106706/problem/N) | There is an almost simple solution.  | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0916/solution/cf106706n.md) |
-| *1600 | [GYM106706D](https://codeforces.com/gym/106706/problem/D) | Find the type of the first person. And the others are easy to determine. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0916/solution/cf106706d.md) |
+| *1400 | [GYM106706M](https://codeforces.com/gym/106706/problem/M) | Iterate over $MEX$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0917/solution/cf106706m.md) |
+| 2600 | [CF485E](https://codeforces.com/contest/485/problem/E) | Make the operations "repeatable". | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0917/solution/cf485e.md) |

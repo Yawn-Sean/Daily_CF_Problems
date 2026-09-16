@@ -267,3 +267,4 @@
 | 2400 | [CF639D](https://codeforces.com/problemset/problem/639/D) | Iterate over ... The cost is composed of two parts. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/06/0607/solution/cf639d.md) |
 | *2400 | [GYM106164D](https://codeforces.com/gym/106164/problem/D) | SG function first. And what do you need to calculate? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/05/0514/solution/cf106164d.md) |
 | *2400 | [GYM104017I](https://codeforces.com/gym/104017/problem/I) | Find some characteristics. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0821/solution/cf104017i.md) |
+| 2600 | [CF485E](https://codeforces.com/contest/485/problem/E) | Make the operations "repeatable". | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0917/solution/cf485e.md) |
