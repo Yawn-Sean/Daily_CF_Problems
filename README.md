@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106706M](https://codeforces.com/gym/106706/problem/M) | Iterate over $MEX$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0917/solution/cf106706m.md) |
-| 2600 | [CF485E](https://codeforces.com/contest/485/problem/E) | Make the operations "repeatable". | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0917/solution/cf485e.md) |
+| *1400 | [GYM106712F](https://codeforces.com/gym/106712/problem/F) | It seems that the digits in the middle part of the final number are the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0918/solution/cf106712f.md) |
+| *1800 | [GYM106710E](https://codeforces.com/gym/106710/problem/E) | Layer by layer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0918/solution/cf106710e.md) |
