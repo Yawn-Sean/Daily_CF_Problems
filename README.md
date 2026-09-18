@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106712F](https://codeforces.com/gym/106712/problem/F) | It seems that the digits in the middle part of the final number are the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0918/solution/cf106712f.md) |
-| *1800 | [GYM106710E](https://codeforces.com/gym/106710/problem/E) | Layer by layer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0918/solution/cf106710e.md) |
+| *1700 | [GYM104518F](https://codeforces.com/gym/104518/problem/F) | There is a $2$ constant. That means you can find some low-weight edges and walk on them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0919/solution/cf104518f.md) |
+| *2200 | [GYM104487L](https://codeforces.com/gym/104487/problem/L) | Iterate over $2$ -point pairs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0919/solution/cf104487l.md) |
