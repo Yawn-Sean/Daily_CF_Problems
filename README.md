@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM104518F](https://codeforces.com/gym/104518/problem/F) | There is a $2$ constant. That means you can find some low-weight edges and walk on them. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0919/solution/cf104518f.md) |
-| *2200 | [GYM104487L](https://codeforces.com/gym/104487/problem/L) | Iterate over $2$ -point pairs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0919/solution/cf104487l.md) |
+| *1500 | [GYM101798G](https://codeforces.com/gym/101798/problem/G) | The weights of each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0921/solution/cf101798g.md) |
+| *1800 | [GYM105109D](https://codeforces.com/gym/105109/problem/D) | Use $f(1),f(2),\dots,f(n)$ to describe $f(k)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0921/solution/cf105109d.md) |
