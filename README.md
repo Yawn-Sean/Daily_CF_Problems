@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM101798G](https://codeforces.com/gym/101798/problem/G) | The weights of each element. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0921/solution/cf101798g.md) |
-| *1800 | [GYM105109D](https://codeforces.com/gym/105109/problem/D) | Use $f(1),f(2),\dots,f(n)$ to describe $f(k)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0921/solution/cf105109d.md) |
+| *1700 | [GYM101055C](https://codeforces.com/gym/101055/problem/C) | Binary search and inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0922/solution/cf101055c.md) |
+| *2100 | [GYM101798H](https://codeforces.com/gym/101798/problem/H) | Start from somewhere special. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0922/solution/cf101798h.md) |
