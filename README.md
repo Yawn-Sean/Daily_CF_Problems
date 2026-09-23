@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM101059B](https://codeforces.com/gym/101059/problem/B) | If we know the final result of the array, what should we do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0923/solution/cf101059b.md) |
-| *2000 | [GYM101059D](https://codeforces.com/gym/101059/problem/D) | If we know the frequencies of each number in the subarray, the problem is easy to solve. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0923/solution/cf101059d.md) |
+| *1400 | [GYM106235A](https://codeforces.com/gym/106235/problem/A) | Under what condition is the outcome fixed? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0924/solution/cf106235a.md) |
+| *2000 | [GYM106235B](https://codeforces.com/gym/106235/problem/B) | Reduce the minimum number of permutations each time. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0924/solution/cf106235b.md) |
