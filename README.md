@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106235A](https://codeforces.com/gym/106235/problem/A) | Under what condition is the outcome fixed? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0924/solution/cf106235a.md) |
-| *2000 | [GYM106235B](https://codeforces.com/gym/106235/problem/B) | Reduce the minimum number of permutations each time. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0924/solution/cf106235b.md) |
+| *1600 | [GYM101061F](https://codeforces.com/gym/101061/problem/F) | What's the status of DP? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0925/solution/cf101061f.md) |
+| *1800 | [GYM106718C](https://codeforces.com/gym/106718/problem/C) | What's the status of DP? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0925/solution/cf106718c.md) |
