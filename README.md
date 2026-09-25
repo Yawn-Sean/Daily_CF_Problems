@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM101061F](https://codeforces.com/gym/101061/problem/F) | What's the status of DP? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0925/solution/cf101061f.md) |
-| *1800 | [GYM106718C](https://codeforces.com/gym/106718/problem/C) | What's the status of DP? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0925/solution/cf106718c.md) |
+| *1600 | [GYM106722D](https://codeforces.com/gym/106722/problem/D) | Find the size of the cycle. And then you can decide which vertices are in it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0926/solution/cf106722d.md) |
+| *1800 | [GYM106721I](https://codeforces.com/gym/106721/problem/I) | If the radius is $r$ , what is the area. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0926/solution/cf106721i.md) |
