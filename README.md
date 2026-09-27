@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM101064F](https://codeforces.com/gym/101064/problem/F) | Implementation. Consider the process in rounds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0928/solution/cf101064f.md) |
+| *1100 | [GYM101064F](https://codeforces.com/gym/101064/problem/F) | Implementation. Consider the process in rounds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0928/solution/cf101064f.md) |
 | *2200 | [GYM101064L](https://codeforces.com/gym/101064/problem/L) | In sub-problems. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0928/solution/cf101064l.md) |
