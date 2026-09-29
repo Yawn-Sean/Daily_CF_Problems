@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1100 | [GYM101064F](https://codeforces.com/gym/101064/problem/F) | Implementation. Consider the process in rounds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0928/solution/cf101064f.md) |
-| *2200 | [GYM101064L](https://codeforces.com/gym/101064/problem/L) | In sub-problems. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0928/solution/cf101064l.md) |
+| *1000 | [GYM100947C](https://codeforces.com/gym/100947/problem/C) | Implementation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0929/solution/cf100947c.md) |
+| *2000 | [GYM101192A](https://codeforces.com/gym/101192/problem/A) | Inclusion-exclusion on GCD. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0929/solution/cf101192a.md) |
