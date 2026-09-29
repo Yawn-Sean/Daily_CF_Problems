@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1000 | [GYM100947C](https://codeforces.com/gym/100947/problem/C) | Implementation. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0929/solution/cf100947c.md) |
-| *2000 | [GYM101192A](https://codeforces.com/gym/101192/problem/A) | Inclusion-exclusion on GCD. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0929/solution/cf101192a.md) |
+| *1700 | [GYM106728F](https://codeforces.com/gym/106728/problem/F) | From island $1$ . Find the latest time to start from $i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0930/solution/cf106728f.md) |
+| *2100 | [GYM106728G](https://codeforces.com/gym/106728/problem/G) | Hall's theorem. And find the lexicographically minimum order of feasible $s$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0930/solution/cf106728g.md) |
