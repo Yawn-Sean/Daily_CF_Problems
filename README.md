@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106728F](https://codeforces.com/gym/106728/problem/F) | From island $1$ . Find the latest time to start from $i$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0930/solution/cf106728f.md) |
-| *2100 | [GYM106728G](https://codeforces.com/gym/106728/problem/G) | Hall's theorem. And find the lexicographically minimum order of feasible $s$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0930/solution/cf106728g.md) |
+| *1600 | [GYM106728E](https://codeforces.com/gym/106728/problem/E) | Conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1001/solution/cf106728e.md) |
+| *2200 | [GYM106728C](https://codeforces.com/gym/106728/problem/C) | Pass the information layer by layer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1001/solution/cf106728c.md) |
