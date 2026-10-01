@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106728E](https://codeforces.com/gym/106728/problem/E) | Conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1001/solution/cf106728e.md) |
-| *2200 | [GYM106728C](https://codeforces.com/gym/106728/problem/C) | Pass the information layer by layer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1001/solution/cf106728c.md) |
+| *1700 | [GYM106732C](https://codeforces.com/gym/106732/problem/C) | Consider how swapping two adjacent operations affect the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1002/solution/cf106732c.md) |
+| *1700 | [GYM106732D](https://codeforces.com/gym/106732/problem/D) | DP. An interval for an update. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1002/solution/cf106732d.md) |
