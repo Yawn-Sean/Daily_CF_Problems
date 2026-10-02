@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106732C](https://codeforces.com/gym/106732/problem/C) | Consider how swapping two adjacent operations affect the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1002/solution/cf106732c.md) |
-| *1700 | [GYM106732D](https://codeforces.com/gym/106732/problem/D) | DP. An interval for an update. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1002/solution/cf106732d.md) |
+| *1800 | [GYM106733F](https://codeforces.com/gym/106733/problem/F) | Binary search on marginal effect. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1003/solution/cf106733f.md) |
+| *2100 | [GYM106732F2](https://codeforces.com/gym/106732/problem/F2) | DP. What should be the order of subtrees to visit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1003/solution/cf106732f2.md) |
