@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106733F](https://codeforces.com/gym/106733/problem/F) | Binary search on marginal effect. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1003/solution/cf106733f.md) |
-| *2100 | [GYM106732F2](https://codeforces.com/gym/106732/problem/F2) | DP. What should be the order of subtrees to visit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1003/solution/cf106732f2.md) |
+| *1600 | [GYM101047M](https://codeforces.com/gym/101047/problem/M) | Find the conditions. And the construction is almost obvious. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1005/solution/cf101047m.md) |
+| *1800 | [GYM101047D](https://codeforces.com/gym/101047/problem/D) | Calculate the shortest path first. Then you only find a boundary beyond which you should use the airplane. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1005/solution/cf101047d.md) |
