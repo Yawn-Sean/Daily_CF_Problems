@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM101047M](https://codeforces.com/gym/101047/problem/M) | Find the conditions. And the construction is almost obvious. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1005/solution/cf101047m.md) |
-| *1800 | [GYM101047D](https://codeforces.com/gym/101047/problem/D) | Calculate the shortest path first. Then you only find a boundary beyond which you should use the airplane. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1005/solution/cf101047d.md) |
+| *1800 | [GYM101047F](https://codeforces.com/gym/101047/problem/F) | If we fix the Rajasis to hit, what order should we choose? So pre-sort these. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1006/solution/cf101047f.md) |
+| *2000 | [GYM103627C](https://codeforces.com/gym/103627/problem/C) | We only need to find one answer. And if you start with one valid solution, you can find a simpler one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1006/solution/cf103627c.md) |
