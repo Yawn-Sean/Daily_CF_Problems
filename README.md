@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM101047F](https://codeforces.com/gym/101047/problem/F) | If we fix the Rajasis to hit, what order should we choose? So pre-sort these. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1006/solution/cf101047f.md) |
-| *2000 | [GYM103627C](https://codeforces.com/gym/103627/problem/C) | We only need to find one answer. And if you start with one valid solution, you can find a simpler one. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1006/solution/cf103627c.md) |
+| *1000 | [GYM106744G](https://codeforces.com/gym/106744/problem/G) | Greedy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1007/solution/cf106744g.md) |
+| *2100 | [GYM103627A](https://codeforces.com/gym/103627/problem/A) | Simplify $\max(u_x+v_x,u_y+v_y)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1007/solution/cf103627a.md) |
