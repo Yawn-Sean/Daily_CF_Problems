@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1000 | [GYM106744G](https://codeforces.com/gym/106744/problem/G) | Greedy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1007/solution/cf106744g.md) |
-| *2100 | [GYM103627A](https://codeforces.com/gym/103627/problem/A) | Simplify $\max(u_x+v_x,u_y+v_y)$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1007/solution/cf103627a.md) |
+| *1600 | [GYM102319E](https://codeforces.com/gym/102319/problem/E) | The number of the composite divisors is too complicated. Simplify it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1008/solution/cf102319e.md) |
+| *2000 | [GYM102331B](https://codeforces.com/gym/102331/problem/B) | If the highest bit of $x$ is $2^i$ , Then in $[k\times 2^{i+1}, (k+1)\times 2^{i+1})$ , at most two elements can be chosen. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1008/solution/cf102331b.md) |
