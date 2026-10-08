@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM102319E](https://codeforces.com/gym/102319/problem/E) | The number of the composite divisors is too complicated. Simplify it. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1008/solution/cf102319e.md) |
-| *2000 | [GYM102331B](https://codeforces.com/gym/102331/problem/B) | If the highest bit of $x$ is $2^i$ , Then in $[k\times 2^{i+1}, (k+1)\times 2^{i+1})$ , at most two elements can be chosen. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1008/solution/cf102331b.md) |
+| *1600 | [GYM102307C](https://codeforces.com/gym/102307/problem/C) | DP. But we don't need the full version. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1009/solution/cf102307c.md) |
+| *1800 | [GYM102319A](https://codeforces.com/gym/102319/problem/A) | Pre-process the DP. If you add a coin of value $v$ , how should the answer change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1009/solution/cf102319a.md) |
