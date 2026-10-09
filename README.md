@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM102307C](https://codeforces.com/gym/102307/problem/C) | DP. But we don't need the full version. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1009/solution/cf102307c.md) |
-| *1800 | [GYM102319A](https://codeforces.com/gym/102319/problem/A) | Pre-process the DP. If you add a coin of value $v$ , how should the answer change? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1009/solution/cf102319a.md) |
+| *1000 | [GYM102307K](https://codeforces.com/gym/102307/problem/K) | Find the pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1010/solution/cf102307k.md) |
+| *1900 | [GYM101879C](https://codeforces.com/gym/101879/problem/C) | Use the forest to connect the odd-degree vertices. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1010/solution/cf101879c.md) |

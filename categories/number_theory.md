@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1000 | [GYM105628C](https://codeforces.com/gym/105628/problem/C) | The answer minus $k$ is just ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0219/solution/cf105628c.md) |
+| *1000 | [GYM102307K](https://codeforces.com/gym/102307/problem/K) | Find the pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1010/solution/cf102307k.md) |
 | *1100 | [GYM104287F](https://codeforces.com/gym/104287/problem/F) | What should $d$ satisfy? And how should we optimize the final result? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0105/solution/cf104287f.md) |
 | *1100 | [GYM106197D](https://codeforces.com/gym/106197/problem/D) | Determine whether each number should be chosen from small to large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0914/solution/cf106197d.md) |
 | *1200 | [GYM102254H](https://codeforces.com/gym/102254/problem/H) | Classic number theory. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0907/solution/cf102254h.md) |
