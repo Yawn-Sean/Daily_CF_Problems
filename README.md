@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1000 | [GYM102307K](https://codeforces.com/gym/102307/problem/K) | Find the pattern. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1010/solution/cf102307k.md) |
-| *1900 | [GYM101879C](https://codeforces.com/gym/101879/problem/C) | Use the forest to connect the odd-degree vertices. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1010/solution/cf101879c.md) |
+| *1400 | [GYM102365C](https://codeforces.com/gym/102365/problem/C) | Going deeper and deeper. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1012/solution/cf102365c.md) |
+| *2300 | [GYM102365D](https://codeforces.com/gym/102365/problem/D) | Interval DP. But a way to simplify. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1012/solution/cf102365d.md) |

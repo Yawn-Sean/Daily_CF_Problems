@@ -1,5 +1,6 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
+| *1400 | [GYM102365C](https://codeforces.com/gym/102365/problem/C) | Going deeper and deeper. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1012/solution/cf102365c.md) |
 | *1500 | [GYM106260A](https://codeforces.com/gym/106260/problem/A) | Consider the contribution of node $u$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1215/solution/cf106260a.md) |
 | *1500 | [CF2195E](https://codeforces.com/problemset/problem/2195/E) | Consider the process in steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/02/0217/solution/cf2195e.md) |
 | 1600 | [CF1056D](https://codeforces.com/problemset/problem/1056/D) | Smaller subtrees mean easier constraints. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/05/0518/solution/cf1056d.md) |
