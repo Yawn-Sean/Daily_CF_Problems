@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM102365C](https://codeforces.com/gym/102365/problem/C) | Going deeper and deeper. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1012/solution/cf102365c.md) |
-| *2300 | [GYM102365D](https://codeforces.com/gym/102365/problem/D) | Interval DP. But a way to simplify. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1012/solution/cf102365d.md) |
+| *1400 | [GYM106760D](https://codeforces.com/gym/106760/problem/D) | Some necessary edges. And they are just enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1013/solution/cf106760d.md) |
+| *1900 | [GYM106760E](https://codeforces.com/gym/106760/problem/E) | DP. But iterate from small to large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1013/solution/cf106760e.md) |
