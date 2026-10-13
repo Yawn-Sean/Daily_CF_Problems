@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106760D](https://codeforces.com/gym/106760/problem/D) | Some necessary edges. And they are just enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1013/solution/cf106760d.md) |
-| *1900 | [GYM106760E](https://codeforces.com/gym/106760/problem/E) | DP. But iterate from small to large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1013/solution/cf106760e.md) |
+| *1500 | [GYM103414B](https://codeforces.com/gym/103414/problem/B) | Implementation. Two alternative approaches. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1014/solution/cf103414b.md) |
+| *1700 | [GYM101915G](https://codeforces.com/gym/101915/problem/G) | After sorting the edges, it is about ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1014/solution/cf101915g.md) |
