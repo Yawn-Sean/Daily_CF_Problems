@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM103414B](https://codeforces.com/gym/103414/problem/B) | Implementation. Two alternative approaches. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1014/solution/cf103414b.md) |
-| *1700 | [GYM101915G](https://codeforces.com/gym/101915/problem/G) | After sorting the edges, it is about ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1014/solution/cf101915g.md) |
+| *1600 | [GYM104012E](https://codeforces.com/gym/104012/problem/E) | It's about choosing two edges. And it can be done separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1015/solution/cf104012e.md) |
+| *2100 | [GYM104012G](https://codeforces.com/gym/104012/problem/G) | There are not that many pairs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1015/solution/cf104012g.md) |
