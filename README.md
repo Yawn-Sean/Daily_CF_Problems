@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM104012E](https://codeforces.com/gym/104012/problem/E) | It's about choosing two edges. And it can be done separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1015/solution/cf104012e.md) |
-| *2100 | [GYM104012G](https://codeforces.com/gym/104012/problem/G) | There are not that many pairs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1015/solution/cf104012g.md) |
+| *1700 | [GYM102829I](https://codeforces.com/gym/102829/problem/I) | Iterate over the final position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1016/solution/cf102829i.md) |
+| *1800 | [GYM102829G](https://codeforces.com/gym/102829/problem/G) | Do the DP altogether. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1016/solution/cf102829g.md) |
