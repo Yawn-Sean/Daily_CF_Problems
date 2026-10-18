@@ -24,5 +24,3 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106764H](https://codeforces.com/gym/106764/problem/H) | Binary search. Choose the efficient operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1017/solution/cf106764h.md) |
-| *2000 | [GYM102829K](https://codeforces.com/gym/102829/problem/K) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1017/solution/cf102829k.md) |
