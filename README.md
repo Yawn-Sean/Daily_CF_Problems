@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM104333A](https://codeforces.com/gym/104333/problem/A) | Contributions of each digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1019/solution/cf104333a.md) |
-| *1900 | [GYM104333B](https://codeforces.com/gym/104333/problem/B) | Contributions of each digit. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1019/solution/cf104333b.md) |
+| *1700 | [GYM104381L](https://codeforces.com/gym/104381/problem/L) | Shortest path. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1020/solution/cf104381l.md) |
+| *1700 | [GYM104603E](hhttps://codeforces.com/gym/104603/problem/E) | Iterate over ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1020/solution/cf104603e.md) |
