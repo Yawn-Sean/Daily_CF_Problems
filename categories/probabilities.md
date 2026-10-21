@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | *1200 | [GYM102964E](https://codeforces.com/gym/102964/problem/E) | Contributions. Each is easy, but you need to count the number. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0822/solution/cf102964e.md) |
 | *1200 | [GYM102129K](https://codeforces.com/gym/102129/problem/K) | Actually... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/08/0828/solution/cf102129k.md) |
+| *1200 | [GYM105122A](https://codeforces.com/gym/105122/problem/A) | Steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1022/solution/cf105122a.md) |
 | *1500 | [GYM106260A](https://codeforces.com/gym/106260/problem/A) | Consider the contribution of node $u$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/12/1215/solution/cf106260a.md) |
 | *1500 | [GYM105813J](https://codeforces.com/gym/105813/problem/J) | Prove the conclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0120/solution/cf105813j.md) |
 | 1600 | [CF453A](https://codeforces.com/problemset/problem/453/A) | Expectation problem: either find out the distribution or find the contribution of each component. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0307/solution/cf453a.md) |
