@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM105673B](https://codeforces.com/gym/105673/problem/B) | Brute force, but why? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1023/solution/cf105673b.md) |
-| *1600 | [GYM105477B](https://codeforces.com/gym/105477/problem/B) | Easy counting, but you need to pre-process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1023/solution/cf105477b.md) |
+| *1600 | [GYM106646H](https://codeforces.com/gym/106646/problem/H) | Classic. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1024/solution/cf106646h.md) |
+| *2000 | [GYM106646D](https://codeforces.com/gym/106646/problem/D) | How much space can you save with each connection? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1024/solution/cf106646d.md) |
