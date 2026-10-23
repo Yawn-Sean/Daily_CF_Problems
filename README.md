@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM105122A](https://codeforces.com/gym/105122/problem/A) | Steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1022/solution/cf105122a.md) |
-| *2200 | [GYM105122J](https://codeforces.com/gym/105112/problem/J) | Directions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1022/solution/cf105112j.md) |
+| *1200 | [GYM105673B](https://codeforces.com/gym/105673/problem/B) | Brute force, but why? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1023/solution/cf105673b.md) |
+| *1600 | [GYM105477B](https://codeforces.com/gym/105477/problem/B) | Easy counting, but you need to pre-process. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1023/solution/cf105477b.md) |
