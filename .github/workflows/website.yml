@@ -1,0 +1,54 @@
+name: "Build website"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *' # deploy every day at 10:00 UTC+8
+
+jobs:
+  build-website:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Copy out old record
+        run: |
+          if [ `git ls-remote --heads origin refs/heads/gh-pages | wc -l ` -ne 0 ]
+          then
+            git fetch origin gh-pages:gh-pages
+            git checkout gh-pages
+            if [[ -f records.js ]]
+            then
+              cp records.js /tmp/records.js.old
+            fi
+          fi
+
+      - name: Create gh-pages branch
+        run: |
+          git checkout main
+          git branch -D gh-pages || true
+          git checkout --orphan gh-pages
+
+      - name: Calculate new records and copy out websites
+        run: |
+          cp -r .github/workflows/website /tmp/website
+          python .github/workflows/records.py /tmp/records.js.old /tmp/website/records.js `pwd`
+      
+      - name: Clean everything and copy back websites
+        run: |
+          rm -rf *
+          cp -r /tmp/website/* .
+
+      - name: Push to github
+        run: |
+          git add -A
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git commit -m "Build website"
+          git push -f origin gh-pages
