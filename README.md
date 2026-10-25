@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106646H](https://codeforces.com/gym/106646/problem/H) | Classic. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1024/solution/cf106646h.md) |
-| *2000 | [GYM106646D](https://codeforces.com/gym/106646/problem/D) | How much space can you save with each connection? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1024/solution/cf106646d.md) |
+| *1600 | [GYM106782D](https://codeforces.com/gym/106782/problem/D) | Use $x-1$ to construct $x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1026/solution/cf106782d.md) |
+| *2200 | [GYM106782L](https://codeforces.com/gym/106782/problem/L) | Guess the positions to query. Why are they just enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1026/solution/cf106782l.md) |
