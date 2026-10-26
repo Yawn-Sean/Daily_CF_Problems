@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106782D](https://codeforces.com/gym/106782/problem/D) | Use $x-1$ to construct $x$ . | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1026/solution/cf106782d.md) |
-| *2200 | [GYM106782L](https://codeforces.com/gym/106782/problem/L) | Guess the positions to query. Why are they just enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1026/solution/cf106782l.md) |
+| *1600 | [GYM106785F](https://codeforces.com/gym/106785/problem/F) | The middle step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1027/solution/cf106785f.md) |
+| *1900 | [GYM106785I](https://codeforces.com/gym/106785/problem/I) | Corresponding moves. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1027/solution/cf106785i.md) |
