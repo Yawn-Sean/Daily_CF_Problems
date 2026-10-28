@@ -2,6 +2,7 @@
 | -------- | -------- | -------- | -------- |
 | *1000 | [GYM106744G](https://codeforces.com/gym/106744/problem/G) | Greedy. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1007/solution/cf106744g.md) |
 | *1100 | [GYM102465E](https://codeforces.com/gym/102465/problem/E) | Find each lower bound and upper bound. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0307/solution/cf102465e.md) |
+| *1100 | [GYM106782J](https://codeforces.com/gym/106782/problem/J) | In groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1029/solution/cf106782j.md) |
 | *1200 | [GYM104408B](https://codeforces.com/gym/104408/problem/B) | What circle should you choose? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/01/0131/solution/cf104408b.md) |
 | *1200 | [GYM105858C](https://codeforces.com/gym/105858/problem/C) | What can the operations do? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/03/0319/solution/cf105858c.md) |
 | *1200 | [GYM106507B](https://codeforces.com/gym/106507/problem/B) | Some positions are deemed to be divided. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0430/solution/cf106507b.md) |

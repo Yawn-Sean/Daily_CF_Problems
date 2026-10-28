@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1200 | [GYM106785G](https://codeforces.com/gym/106785/problem/G) | What forms the corner of the final rectangle? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1028/solution/cf106785g.md) |
-| *1900 | [GYM106785E](https://codeforces.com/gym/106785/problem/E) | Use a representative path to replace the full category. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1028/solution/cf106785e.md) |
+| *1100 | [GYM106782J](https://codeforces.com/gym/106782/problem/J) | In groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1029/solution/cf106782j.md) |
+| *2000 | [GYM106782G](https://codeforces.com/gym/106782/problem/G) | Some stations should never be used. And then the go-to ones form a segment. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1029/solution/cf106782g.md) |
