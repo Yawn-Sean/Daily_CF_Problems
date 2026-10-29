@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1100 | [GYM106782J](https://codeforces.com/gym/106782/problem/J) | In groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1029/solution/cf106782j.md) |
-| *2000 | [GYM106782G](https://codeforces.com/gym/106782/problem/G) | Some stations should never be used. And then the go-to ones form a segment. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1029/solution/cf106782g.md) |
+| *1500 | [GYM106795D](https://codeforces.com/gym/106795/problem/D) | You can always ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1030/solution/cf106795d.md) |
+| *1900 | [GYM106782G](https://codeforces.com/gym/106795/problem/H) | Find a straightforward solution. And it can be easily optimized. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1030/solution/cf106795h.md) |
