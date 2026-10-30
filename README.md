@@ -25,4 +25,4 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
 | *1500 | [GYM106795D](https://codeforces.com/gym/106795/problem/D) | You can always ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1030/solution/cf106795d.md) |
-| *1900 | [GYM106782G](https://codeforces.com/gym/106795/problem/H) | Find a straightforward solution. And it can be easily optimized. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1030/solution/cf106795h.md) |
+| *1900 | [GYM106795H](https://codeforces.com/gym/106795/problem/H) | Find a straightforward solution. And it can be easily optimized. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1030/solution/cf106795h.md) |
