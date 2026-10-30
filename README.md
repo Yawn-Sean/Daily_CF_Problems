@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106795D](https://codeforces.com/gym/106795/problem/D) | You can always ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1030/solution/cf106795d.md) |
-| *1900 | [GYM106795H](https://codeforces.com/gym/106795/problem/H) | Find a straightforward solution. And it can be easily optimized. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1030/solution/cf106795h.md) |
+| *1300 | [GYM106795E](https://codeforces.com/gym/106795/problem/E) | What should $M$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1031/solution/cf106795e.md) |
+| *2100 | [GYM106795I](https://codeforces.com/gym/106795/problem/I) | We only need to consider primes. And some primes are just too big. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1031/solution/cf106795i.md) |
