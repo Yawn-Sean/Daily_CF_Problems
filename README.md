@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1300 | [GYM106795E](https://codeforces.com/gym/106795/problem/E) | What should $M$ satisfy? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1031/solution/cf106795e.md) |
-| *2100 | [GYM106795I](https://codeforces.com/gym/106795/problem/I) | We only need to consider primes. And some primes are just too big. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1031/solution/cf106795i.md) |
+| *1800 | [GYM106788B](https://codeforces.com/gym/106788/problem/B) | Prefixes. How can you check whether two permutations are the same in an efficient way? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1102/solution/cf106788b.md) |
+| *1800 | [GYM106788K](https://codeforces.com/gym/106788/problem/K) | Iterate over possible directions. Overlapping is easy to avoid. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1102/solution/cf106788k.md) |
