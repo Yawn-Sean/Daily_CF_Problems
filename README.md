@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106788B](https://codeforces.com/gym/106788/problem/B) | Prefixes. How can you check whether two permutations are the same in an efficient way? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1102/solution/cf106788b.md) |
-| *1800 | [GYM106788K](https://codeforces.com/gym/106788/problem/K) | Iterate over possible directions. Overlapping is easy to avoid. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1102/solution/cf106788k.md) |
+| *1800 | [GYM106603F](https://codeforces.com/gym/106603/problem/F) | Not a lot of items. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1103/solution/cf106603f.md) |
+| *1900 | [GYM106788L](https://codeforces.com/gym/106788/problem/L) | Status. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1103/solution/cf106788l.md) |
