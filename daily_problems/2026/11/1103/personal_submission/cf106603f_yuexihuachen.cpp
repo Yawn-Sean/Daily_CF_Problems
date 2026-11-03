@@ -1,0 +1,69 @@
+
+    #include<bits/stdc++.h>
+    //using namespace std;      // acceptable in interviews, not in production
+
+    //using namespace std::numbers; //pi,e
+    //using namespace std::ranges;
+    // using namespace std;
+
+    #define ll long long
+    #define ull unsigned long long
+    #define u128 unsigned __int128
+    #define int long long
+    #define minheap priority_queue<int, vector<int>, greater<>>
+    #define maxheap priority_queue<int>
+    #define debugvec(a) cerr<<#a<<" "<<a.size()<<":\t"; for(int i=0;i<a.size();++i) cerr<<a[i]<<' '; cerr<<endl;
+    #define showvec(a) for(int i=0;i<a.size();++i) cout<<a[i]<<' '; cout<<endl;
+    #define show(a) cout<<a<<'\n';
+    #define debug(a) cerr <<#a<<":\t"<<a<<endl;
+    const int INF = 1e18 + 5;
+    const int MOD = 1e9 + 7; 
+    typedef std::pair<int, int> pii;
+    const int N = 110 + 5;
+    #define PI acos(-1)
+    //using i128 = __int128_t;
+
+
+    void slove() {
+        int n;
+        std::cin >> n;
+        std::vector<int> best(n+1);
+        std::vector<pii> a;
+        for (int i = 0; i < n; ++i) {
+            int x,y;
+            std::cin >> x >> y;
+            best[x] =std::max(y,best[x]);
+        }
+       
+        int mx = 0;
+        for(int i = 1; i  <= n;i++){
+            if(best[i] > mx) {
+                a.emplace_back(i,best[i]);
+                mx = best[i];
+            }
+        }
+
+       
+        std::vector<int> dp(n+1,0);
+        for(int i = 0; i < a.size(); i++){
+            for(int j = a[i].first; j <= n; j++){
+                dp[j] = std::max(dp[j], dp[j-a[i].first] + a[i].second);
+            }
+        }
+        for(int i = 1; i <= n; i++){
+            std::cout << dp[i] << ' ';
+        }
+        std::cout << '\n';
+    }
+
+    signed main() {
+        std::ios::sync_with_stdio(false);
+        std::cin.tie(nullptr);
+        std::cout.tie(nullptr);
+        int T = 1;
+        // std::cin >> T;
+        while (T--) {
+            slove();
+        }
+        return 0;
+    }  
