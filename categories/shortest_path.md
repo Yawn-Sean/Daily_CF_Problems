@@ -1,6 +1,7 @@
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
 | *1400 | [GYM106760D](https://codeforces.com/gym/106760/problem/D) | Some necessary edges. And they are just enough. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1013/solution/cf106760d.md) |
+| *1400 | [GYM106603H](https://codeforces.com/gym/106603/problem/H) | Shortest-path tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1104/solution/cf106603h.md) |
 | *1500 | [GYM105950O](https://codeforces.com/gym/105950/problem/O) | What is the minimum length of a ladder you need to get to $i$ ? This is enough to replace the first part. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/04/0402/solution/cf105950o.md) |
 | 1600 | [CF954D](https://codeforces.com/problemset/problem/954/D) | How does the length of shortest path change when you add an edge? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/07/0720/solution/cf954d.md) |
 | 1600 | [CF689B](https://codeforces.com/problemset/problem/689/B) | Just another simple shortest-path problem. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/05/0510/solution/cf689b.md) |
@@ -52,4 +53,5 @@
 | *2200 | [GYM106682F](https://codeforces.com/gym/106682/problem/F) | If you decide which edges are in the shortest path, how should you distribute values to $w_i$ ? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/09/0904/solution/cf106682f.md) |
 | 2300 | [CF141D](https://codeforces.com/problemset/problem/141/D) | There are only a few positions where one take off or arrive. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/09/0906/solution/cf141d.md) |
 | *2300 | [GYM102365D](https://codeforces.com/gym/102365/problem/D) | Interval DP. But a way to simplify. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/10/1012/solution/cf102365d.md) |
+| *2300 | [GYM106788J](https://codeforces.com/gym/106788/problem/J) | Find a way to eliminate the effect of the ignorance of the cheapest legs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1104/solution/cf106788j.md) |
 | *2400 | [CF1936C](https://codeforces.com/problemset/problem/1936/C) | First, think of a DP approach. Why can't it pass the time limit? How to use a "intermediary" to help? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/03/0302/solution/cf1936c.md) |
