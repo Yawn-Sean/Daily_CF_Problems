@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106603H](https://codeforces.com/gym/106603/problem/H) | Shortest-path tree. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1104/solution/cf106603h.md) |
-| *2300 | [GYM106788J](https://codeforces.com/gym/106788/problem/J) | Find a way to eliminate the effect of the ignorance of the cheapest legs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1104/solution/cf106788j.md) |
+| *1600 | [GYM106806D](https://codeforces.com/gym/106806/problem/D) | A cycle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1105/solution/cf106806d.md) |
+| *1900 | [GYM106797E](https://codeforces.com/gym/106797/problem/E) | Find a good angle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1105/solution/cf106797e.md) |
