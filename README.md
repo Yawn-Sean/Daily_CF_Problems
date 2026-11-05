@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106806D](https://codeforces.com/gym/106806/problem/D) | A cycle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1105/solution/cf106806d.md) |
-| *1900 | [GYM106797E](https://codeforces.com/gym/106797/problem/E) | Find a good angle. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1105/solution/cf106797e.md) |
+| *1600 | [GYM106806E](https://codeforces.com/gym/106806/problem/E) | The answer can only be ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1106/solution/cf106806e.md) |
+| *2100 | [GYM106797D](https://codeforces.com/gym/106797/problem/D) | Some are the same in the first few digits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1106/solution/cf106797d.md) |
