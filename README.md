@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106806E](https://codeforces.com/gym/106806/problem/E) | The answer can only be ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1106/solution/cf106806e.md) |
-| *2100 | [GYM106797D](https://codeforces.com/gym/106797/problem/D) | Some are the same in the first few digits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1106/solution/cf106797d.md) |
+| *1500 | [GYM106806E](https://codeforces.com/gym/106806/problem/E) | The answer can only be ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1107/solution/cf106806a.md) |
+| *2100 | [GYM106797D](https://codeforces.com/gym/106797/problem/D) | Some are the same in the first few digits. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1107/solution/cf106797b.md) |
