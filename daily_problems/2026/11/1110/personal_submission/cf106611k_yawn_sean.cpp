@@ -33,7 +33,7 @@ int main() {
 	int ma_left = 0;
 
 	for (int i = l; i < 3 * n; i ++) {
-		if (nums[i] <= n) {
+		if (nums[i] <= r - 2 * n + 1) {
 			ma_left = max(ma_left, i);
 		}
 	}
@@ -41,14 +41,14 @@ int main() {
 	if (ma_left - l < 2 * n) {
 		cout << 2 << '\n';
 		cout << l + 1 << ' ' << ma_left + 1 << '\n';
-		cout << n + 1 << ' ' << 3 * n << '\n';
+		cout << r - 2 * n + 2 << ' ' << r + 1 << '\n';
 		return 0;
 	}
 
 	int mi_right = 3 * n;
 
 	for (int i = 0; i <= r; i ++) {
-		if (nums[i] > 2 * n) {
+		if (nums[i] >= l + 2 * n + 1) {
 			mi_right = min(mi_right, i);
 		}
 	}
@@ -56,7 +56,7 @@ int main() {
 	if (r - mi_right < 2 * n) {
 		cout << 2 << '\n';
 		cout << mi_right + 1 << ' ' << r + 1 << '\n';
-		cout << 1 << ' ' << 2 * n << '\n';
+		cout << l + 1 << ' ' << l + 2 * n << '\n';
 		return 0;
 	}
 

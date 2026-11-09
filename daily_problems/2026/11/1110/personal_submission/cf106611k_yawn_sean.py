@@ -1,4 +1,4 @@
-# Submission link: https://codeforces.com/gym/106611/submission/397937614
+# Submission link: https://codeforces.com/gym/106611/submission/397947004
 def main():
     n = II()
     nums = LII()
@@ -23,25 +23,25 @@ def main():
     ma_left = 0
     
     for i in range(l, 3 * n):
-        if nums[i] <= n:
+        if nums[i] <= r - 2 * n + 1:
             ma_left = fmax(ma_left, i)
     
     if ma_left - l < 2 * n:
         print(2)
         print(l + 1, ma_left + 1)
-        print(n + 1, 3 * n)
+        print(r - 2 * n + 2, r + 1)
         exit()
     
     mi_right = 3 * n
     
     for i in range(r + 1):
-        if nums[i] > 2 * n:
+        if nums[i] >= l + 2 * n + 1:
             mi_right = fmin(mi_right, i)
     
     if r - mi_right < 2 * n:
         print(2)
         print(mi_right + 1, r + 1)
-        print(1, 2 * n)
+        print(l + 1, l + 2 * n)
         exit()
     
     print(3)
