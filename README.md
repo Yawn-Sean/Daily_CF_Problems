@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1500 | [GYM106611H](https://codeforces.com/gym/106611/problem/H) | The angles. The overlap. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1109/solution/cf106611h.md) |
-| *1900 | [GYM106608M](https://codeforces.com/gym/106608/problem/M) | For each value, find its positions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1109/solution/cf106608m.md) |
+| *1700 | [GYM106611L](https://codeforces.com/gym/106611/problem/L) | Infer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1110/solution/cf106611l.md) |
+| *1800 | [GYM106611K](https://codeforces.com/gym/106611/problem/K) | Maximum number of operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1110/solution/cf106611lk.md) |
