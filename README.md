@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106611L](https://codeforces.com/gym/106611/problem/L) | Infer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1110/solution/cf106611l.md) |
-| *1800 | [GYM106611K](https://codeforces.com/gym/106611/problem/K) | Maximum number of operations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1110/solution/cf106611lk.md) |
+| *1600 | [GYM106802F](https://codeforces.com/gym/106802/problem/F) | You can't make a lot of wrong guesses. If there's only one left ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1111/solution/cf106802f.md) |
+| *2300 | [GYM106758F](https://codeforces.com/gym/106758/problem/F) | Bases. If you take away one or two of the bases ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1111/solution/cf106758f.md) |
