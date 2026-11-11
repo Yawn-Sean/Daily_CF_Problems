@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106802F](https://codeforces.com/gym/106802/problem/F) | You can't make a lot of wrong guesses. If there's only one left ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1111/solution/cf106802f.md) |
-| *2300 | [GYM106758F](https://codeforces.com/gym/106758/problem/F) | Bases. If you take away one or two of the bases ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1111/solution/cf106758f.md) |
+| *1700 | [GYM106356H](https://codeforces.com/gym/106356/problem/H) | DP. Transitions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1112/solution/cf106356h.md) |
+| *1700 | [GYM106356C](https://codeforces.com/gym/106356/problem/C) | Step by step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1112/solution/cf106356c.md) |
