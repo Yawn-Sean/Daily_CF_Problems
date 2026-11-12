@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106356H](https://codeforces.com/gym/106356/problem/H) | DP. Transitions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1112/solution/cf106356h.md) |
-| *1700 | [GYM106356C](https://codeforces.com/gym/106356/problem/C) | Step by step. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1112/solution/cf106356c.md) |
+| *1800 | [GYM106821H](https://codeforces.com/gym/106821/problem/H) | Patterns. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1113/solution/cf106821h.md) |
+| *2100 | [GYM106123I](https://codeforces.com/gym/106123/problem/I) | Groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1113/solution/cf106123i.md) |
