@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106821H](https://codeforces.com/gym/106821/problem/H) | Patterns. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1113/solution/cf106821h.md) |
-| *2100 | [GYM106123I](https://codeforces.com/gym/106123/problem/I) | Groups. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1113/solution/cf106123i.md) |
+| *1800 | [GYM106353C](https://codeforces.com/gym/106353/problem/C) | You just need to decide which edges should be chosen. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1114/solution/cf106353c.md) |
+| *2200 | [GYM106353B](https://codeforces.com/gym/106353/problem/B) | Iterate over possible combinations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1114/solution/cf106353b.md) |
