@@ -1,4 +1,4 @@
 | Difficulty | Problems | Hints |
 | -------- | -------- | -------- |
-| *1800 | [GYM106353C](https://codeforces.com/gym/106353/problem/C) | You just need to decide which edges should be chosen. |
-| *2200 | [GYM106353B](https://codeforces.com/gym/106353/problem/B) | Iterate over possible combinations. |
+| *1800 | [GYM106826B](https://codeforces.com/gym/106826/problem/B) | DP. It can be done with brute force. |
+| *1800 | [GYM106826H](https://codeforces.com/gym/106826/problem/H) | Find a way to do binary search. |
