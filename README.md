@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106826B](https://codeforces.com/gym/106826/problem/B) | DP. It can be done with brute force. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1116/solution/cf106826b.md) |
-| *1800 | [GYM106826H](https://codeforces.com/gym/106826/problem/H) | Find a way to do binary search. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1116/solution/cf106826h.md) |
+| *1800 | [GYM106825D](https://codeforces.com/gym/106825/problem/D) | Binary search. You should save the soup to turn into dumplings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1117/solution/cf106825d.md) |
+| *2000 | [GYM106825E](https://codeforces.com/gym/106825/problem/E) | Merging intervals. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1117/solution/cf106825e.md) |
