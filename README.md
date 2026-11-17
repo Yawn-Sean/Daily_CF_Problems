@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM106825D](https://codeforces.com/gym/106825/problem/D) | Binary search. You should save the soup to turn into dumplings. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1117/solution/cf106825d.md) |
-| *2000 | [GYM106825E](https://codeforces.com/gym/106825/problem/E) | Merging intervals. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1117/solution/cf106825e.md) |
+| *1700 | [GYM106796I](https://codeforces.com/gym/106796/problem/I) | Some combinations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1118/solution/cf106796i.md) |
+| *2000 | [GYM106825M](https://codeforces.com/gym/106825/problem/M) | Find the shortest path from the original string to the final string. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1118/solution/cf106825m.md) |
