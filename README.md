@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106796I](https://codeforces.com/gym/106796/problem/I) | Some combinations. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1118/solution/cf106796i.md) |
-| *2000 | [GYM106825M](https://codeforces.com/gym/106825/problem/M) | Find the shortest path from the original string to the final string. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1118/solution/cf106825m.md) |
+| *1700 | [GYM106368B](https://codeforces.com/gym/106368/problem/B) | Two steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1119/solution/cf106368b.md) |
+| *1700 | [GYM106368C](https://codeforces.com/gym/106368/problem/C) | Find the positions to save. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1119/solution/cf106368c.md) |
