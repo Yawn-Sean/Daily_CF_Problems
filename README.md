@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106368B](https://codeforces.com/gym/106368/problem/B) | Two steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1119/solution/cf106368b.md) |
-| *1700 | [GYM106368C](https://codeforces.com/gym/106368/problem/C) | Find the positions to save. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1119/solution/cf106368c.md) |
+| *1700 | [GYM106368A](https://codeforces.com/gym/106368/problem/A) | Modular operations can't be that many. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1120/solution/cf106368a.md) |
+| *2400 | [GYM106368D](https://codeforces.com/gym/106368/problem/D) | Balance between ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1120/solution/cf106368d.md) |
