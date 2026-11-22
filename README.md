@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM106069E](https://codeforces.com/gym/106069/problem/E) | The answer can't be large. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1121/solution/cf106069e.md) |
-| *2400 | [GYM106249C](https://codeforces.com/gym/106249/problem/C) | Consider each position. In a trie. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1121/solution/cf106249c.md) |
+| *1400 | [GYM104146K](https://codeforces.com/gym/104146/problem/K) | Rounds and rounds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1123/solution/cf104146k.md) |
+| *1700 | [GYM106840L](https://codeforces.com/gym/106840/problem/L) | Triangles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1123/solution/cf106840l.md) |
