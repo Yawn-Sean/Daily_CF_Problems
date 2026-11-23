@@ -1,6 +1,5 @@
 # Submission link: https://codeforces.com/gym/104146/submission/399593591
 def main(): 
-    n = 15
     nums = [2 * 3 ** i for i in range(15)]
     
     print(15)
