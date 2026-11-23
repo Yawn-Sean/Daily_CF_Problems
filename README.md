@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1400 | [GYM104146K](https://codeforces.com/gym/104146/problem/K) | Rounds and rounds. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1123/solution/cf104146k.md) |
-| *1700 | [GYM106840L](https://codeforces.com/gym/106840/problem/L) | Triangles. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1123/solution/cf106840l.md) |
+| *1800 | [GYM104146E](https://codeforces.com/gym/104146/problem/E) | You don't need a $=$ to find out the weight. | [Edutorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1124/solution/cf104146e.md) |
+| *2100 | [GYM104146M](https://codeforces.com/gym/104146/problem/M) | Simple cases. To complex cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1124/solution/cf104146m.md) |
