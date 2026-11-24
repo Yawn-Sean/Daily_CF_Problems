@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1800 | [GYM104146E](https://codeforces.com/gym/104146/problem/E) | You don't need a $=$ to find out the weight. | [Edutorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1124/solution/cf104146e.md) |
-| *2100 | [GYM104146M](https://codeforces.com/gym/104146/problem/M) | Simple cases. To complex cases. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1124/solution/cf104146m.md) |
+| *1600 | [GYM106841H](https://codeforces.com/gym/106841/problem/H) | It's a counter. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1125/solution/cf106841h.md) |
+| *1800 | [GYM104146F](https://codeforces.com/gym/104146/problem/F) | Once you choose an even digit... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1125/solution/cf104146f.md) |
