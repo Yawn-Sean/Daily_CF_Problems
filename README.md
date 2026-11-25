@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1700 | [GYM106368A](https://codeforces.com/gym/106368/problem/A) | Modular operations can't be that many. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1120/solution/cf106368a.md) |
-| *2400 | [GYM106368D](https://codeforces.com/gym/106368/problem/D) | Balance between ... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1120/solution/cf106368d.md) |
+| *1600 | [GYM106841H](https://codeforces.com/gym/106841/problem/H) | It's a counter. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1125/solution/cf106841h.md) |
+| *1800 | [GYM104146F](https://codeforces.com/gym/104146/problem/F) | Once you choose an even digit... | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1125/solution/cf104146f.md) |
