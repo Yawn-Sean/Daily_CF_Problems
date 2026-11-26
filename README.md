@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| *1600 | [GYM106841G](https://codeforces.com/gym/106841/problem/G) | Without loss of precision. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1126/solution/cf106841g.md) |
-| *1900 | [GYM106841I](https://codeforces.com/gym/106841/problem/I) | Inclusion-exclusion. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1126/solution/cf106841i.md) |
+| *1500 | [GYM105818C](https://codeforces.com/gym/105818/problem/C) | Choices of even steps and odd steps. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1127/solution/cf105818c.md) |
+| *1700 | [GYM105846D](https://codeforces.com/gym/105846/problem/D) | The maximum sum? And what's the condition of the construction? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2026/11/1127/solution/cf105846d.md) |
